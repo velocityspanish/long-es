@@ -56,6 +56,9 @@ def upload_to_youtube():
 
         title = meta["title"]
         description = meta["description"]
+        if len(description) > 4900:
+            description = description[:4900] + "\n\n#LearnSpanish #Spanish #LanguageLearning"
+            print(f"[youtube] Description truncated to {len(description)} chars")
         tags = meta["tags"]
 
         print(f"[youtube] Title: {title[:80]}...")
