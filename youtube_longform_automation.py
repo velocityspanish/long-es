@@ -37,7 +37,7 @@ VIDEO_WIDTH = 1920
 VIDEO_HEIGHT = 1080
 FPS = 30
 TARGET_DURATION_MINUTES = 5  # Target 5-minute videos (60 phrases)
-TARGET_PHRASES = 60  # Number of phrases to generate
+TARGET_PHRASES = 120
 
 # English category names (for American/European learners)
 CATEGORIES_ENGLISH = [
@@ -1189,7 +1189,7 @@ def generate_longform_video(category_english: str = None, target_phrases: int = 
 
     # Step 6: Generate title and description
     print(f"\n[6/6] Generating YouTube title, description, and metadata...")
-    generate_title_description(
+    title_meta = generate_title_description(
         category_english,
         CATEGORIES_SPANISH[category_english],
         phrases,
@@ -1197,38 +1197,12 @@ def generate_longform_video(category_english: str = None, target_phrases: int = 
         str(video_dir)
     )
 
-    # Save metadata
-    metadata = {
-        "category_english": category_english,
-        "category_spanish": CATEGORIES_SPANISH[category_english],
-        "timestamp": timestamp,
-        "target_phrases": phrases_count,
-        "actual_duration_seconds": total_duration,
-        "actual_duration_minutes": total_duration / 60,
-        "phrases_count": len(phrases),
-        "phrases": phrases,
-        "video": str(output_video),
-        "audio": str(final_audio),
-        "thumbnail": str(thumbnail_path),
-        "resolution": f"{VIDEO_WIDTH}x{VIDEO_HEIGHT}",
-        "fps": FPS
-    }
-
-    with open(video_dir / "video_metadata.json", "w", encoding="utf-8") as f:
-        json.dump(metadata, f, indent=2, ensure_ascii=False)
-
-    # Save latest video info for upload script
+    # Save latest video info for upload script (BEFORE metadata overwrite)
     import json as _json
     from pathlib import Path as _Path
-    meta_file = video_dir / "video_metadata.json"
-    if meta_file.exists():
-        with open(meta_file, "r", encoding="utf-8") as f:
-            vid_meta = _json.load(f)
-    else:
-        vid_meta = {}
     meta_out = {
-        "title": vid_meta.get("selected_title", f"Learn Spanish: {category_english}"),
-        "description": vid_meta.get("description", ""),
+        "title": title_meta.get("selected_title", f"Learn Spanish: {category_english}"),
+        "description": title_meta.get("description", ""),
         "tags": ["Learn Spanish", "Spanish Phrases", "Spanish", category_english, "Velocity Spanish"],
         "category_english": category_english,
         "category_spanish": CATEGORIES_SPANISH[category_english],
@@ -1260,7 +1234,7 @@ def generate_longform_video(category_english: str = None, target_phrases: int = 
     print(f"  📺 Format: 16:9 (1920x1080)")
     print(f"{'='*80}\n")
 
-    return metadata
+    return meta_out
 
 
 def generate_multiple_longform(count: int = 1, target_phrases: int = None):
