@@ -1,0 +1,725 @@
+{
+  "phrases": [
+    {
+      "english": "You light up my day, friend.",
+      "spanish": "Iluminas mi día, amigo/a.",
+      "category": "Friendship",
+      "generated_at": "2026-07-13T19:48:01.337164"
+    },
+    {
+      "english": "I'm lucky to have you.",
+      "spanish": "Qué suerte tenerte.",
+      "category": "Friendship",
+      "generated_at": "2026-07-13T19:48:01.337175"
+    },
+    {
+      "english": "You make me smile, always.",
+      "spanish": "Me haces sonreír, siempre.",
+      "category": "Friendship",
+      "generated_at": "2026-07-13T19:48:01.337177"
+    },
+    {
+      "english": "Let's make more memories.",
+      "spanish": "Hagamos más recuerdos.",
+      "category": "Friendship",
+      "generated_at": "2026-07-13T19:48:01.337178"
+    },
+    {
+      "english": "You're the best, seriously.",
+      "spanish": "Eres lo máximo, en serio.",
+      "category": "Friendship",
+      "generated_at": "2026-07-13T19:48:01.337180"
+    },
+    {
+      "english": "Glad we're in this together.",
+      "spanish": "Qué bueno que estamos juntos.",
+      "category": "Friendship",
+      "generated_at": "2026-07-13T19:48:01.337181"
+    },
+    {
+      "english": "You get me, you really do.",
+      "spanish": "Me entiendes, de verdad.",
+      "category": "Friendship",
+      "generated_at": "2026-07-13T19:48:01.337183"
+    },
+    {
+      "english": "My favorite person, you are.",
+      "spanish": "Mi persona favorita, eres tú.",
+      "category": "Friendship",
+      "generated_at": "2026-07-13T19:48:01.337185"
+    },
+    {
+      "english": "Thanks for being you.",
+      "spanish": "Gracias por ser tú.",
+      "category": "Friendship",
+      "generated_at": "2026-07-13T19:48:01.337187"
+    },
+    {
+      "english": "You're my sunshine, you know?",
+      "spanish": "Eres mi sol, ¿sabes?",
+      "category": "Friendship",
+      "generated_at": "2026-07-13T19:48:01.337189"
+    },
+    {
+      "english": "Can't imagine life without you.",
+      "spanish": "No imagino la vida sin ti.",
+      "category": "Friendship",
+      "generated_at": "2026-07-13T19:48:01.337190"
+    },
+    {
+      "english": "You're a gem, truly.",
+      "spanish": "Eres una joya, de verdad.",
+      "category": "Friendship",
+      "generated_at": "2026-07-13T19:48:01.337192"
+    },
+    {
+      "english": "Let's have some fun soon.",
+      "spanish": "Divirtámonos pronto.",
+      "category": "Friendship",
+      "generated_at": "2026-07-13T19:48:01.337193"
+    },
+    {
+      "english": "You make everything better.",
+      "spanish": "Haces todo mejor.",
+      "category": "Friendship",
+      "generated_at": "2026-07-13T19:48:01.337198"
+    },
+    {
+      "english": "So happy we met.",
+      "spanish": "Muy feliz de conocerte.",
+      "category": "Friendship",
+      "generated_at": "2026-07-13T19:48:01.337199"
+    },
+    {
+      "english": "You're a keeper, for sure.",
+      "spanish": "Eres un tesoro, seguro.",
+      "category": "Friendship",
+      "generated_at": "2026-07-13T19:48:01.337201"
+    },
+    {
+      "english": "My partner in crime, ha!",
+      "spanish": "Mi cómplice, ¡ja!",
+      "category": "Friendship",
+      "generated_at": "2026-07-13T19:48:01.337202"
+    },
+    {
+      "english": "Always got my back, thanks.",
+      "spanish": "Siempre me apoyas, gracias.",
+      "category": "Friendship",
+      "generated_at": "2026-07-13T19:48:01.337204"
+    },
+    {
+      "english": "You're a breath of fresh air.",
+      "spanish": "Eres un soplo de aire fresco.",
+      "category": "Friendship",
+      "generated_at": "2026-07-13T19:48:01.337205"
+    },
+    {
+      "english": "Could talk to you forever.",
+      "spanish": "Podría hablar contigo siempre.",
+      "category": "Friendship",
+      "generated_at": "2026-07-13T19:48:01.337206"
+    },
+    {
+      "english": "You're simply the best.",
+      "spanish": "Eres simplemente la mejor.",
+      "category": "Friendship",
+      "generated_at": "2026-07-13T19:48:01.337207"
+    },
+    {
+      "english": "I appreciate you, a lot.",
+      "spanish": "Te aprecio mucho.",
+      "category": "Friendship",
+      "generated_at": "2026-07-13T19:48:01.337208"
+    },
+    {
+      "english": "My favorite hangout buddy.",
+      "spanish": "Mi compañero/a de aventuras.",
+      "category": "Friendship",
+      "generated_at": "2026-07-13T19:48:01.337210"
+    },
+    {
+      "english": "You always make me laugh.",
+      "spanish": "Siempre me haces reír.",
+      "category": "Friendship",
+      "generated_at": "2026-07-13T19:48:01.337211"
+    },
+    {
+      "english": "So glad you're in my life.",
+      "spanish": "Qué alegría tenerte en mi vida.",
+      "category": "Friendship",
+      "generated_at": "2026-07-13T19:48:01.337212"
+    },
+    {
+      "english": "You're a true inspiration.",
+      "spanish": "Eres una verdadera inspiración.",
+      "category": "Friendship",
+      "generated_at": "2026-07-13T19:48:01.337213"
+    },
+    {
+      "english": "Let's conquer the world.",
+      "spanish": "Conquistemos el mundo.",
+      "category": "Friendship",
+      "generated_at": "2026-07-13T19:48:01.337215"
+    },
+    {
+      "english": "You're my favorite person, no doubt.",
+      "spanish": "Eres mi persona favorita, sin duda.",
+      "category": "Friendship",
+      "generated_at": "2026-07-13T19:48:01.337216"
+    },
+    {
+      "english": "We make a great team.",
+      "spanish": "Hacemos un gran equipo.",
+      "category": "Friendship",
+      "generated_at": "2026-07-13T19:48:01.337217"
+    },
+    {
+      "english": "You're one of a kind.",
+      "spanish": "Eres único/a.",
+      "category": "Friendship",
+      "generated_at": "2026-07-13T19:48:01.337219"
+    },
+    {
+      "english": "Thanks for the good times.",
+      "spanish": "Gracias por los buenos momentos.",
+      "category": "Friendship",
+      "generated_at": "2026-07-13T19:48:01.337220"
+    },
+    {
+      "english": "You brighten my world.",
+      "spanish": "Iluminas mi mundo.",
+      "category": "Friendship",
+      "generated_at": "2026-07-13T19:48:01.337221"
+    },
+    {
+      "english": "You're a true treasure, friend.",
+      "spanish": "Eres un tesoro, amigo/a.",
+      "category": "Friendship",
+      "generated_at": "2026-07-13T19:48:01.337222"
+    },
+    {
+      "english": "Life's better with you.",
+      "spanish": "La vida es mejor contigo.",
+      "category": "Friendship",
+      "generated_at": "2026-07-13T19:48:01.337223"
+    },
+    {
+      "english": "You're my rock, always.",
+      "spanish": "Eres mi roca, siempre.",
+      "category": "Friendship",
+      "generated_at": "2026-07-13T19:48:01.337224"
+    },
+    {
+      "english": "We have so much fun.",
+      "spanish": "Nos divertimos mucho.",
+      "category": "Friendship",
+      "generated_at": "2026-07-13T19:48:01.337225"
+    },
+    {
+      "english": "You're the best kind of crazy.",
+      "spanish": "Eres el mejor tipo de loco/a.",
+      "category": "Friendship",
+      "generated_at": "2026-07-13T19:48:01.337226"
+    },
+    {
+      "english": "Wouldn't trade you, ever.",
+      "spanish": "No te cambiaría, nunca.",
+      "category": "Friendship",
+      "generated_at": "2026-07-13T19:48:01.337227"
+    },
+    {
+      "english": "You're my favorite human.",
+      "spanish": "Eres mi humano/a favorito/a.",
+      "category": "Friendship",
+      "generated_at": "2026-07-13T19:48:01.337228"
+    },
+    {
+      "english": "Let's make some noise!",
+      "spanish": "¡Hagamos ruido!",
+      "category": "Friendship",
+      "generated_at": "2026-07-13T19:48:01.337229"
+    },
+    {
+      "english": "You light up my day, friend.",
+      "spanish": "Iluminas mi día, amigo/a.",
+      "category": "Friendship",
+      "generated_at": "2026-07-13T19:48:01.337231"
+    },
+    {
+      "english": "I'm lucky to have you.",
+      "spanish": "Qué suerte tenerte.",
+      "category": "Friendship",
+      "generated_at": "2026-07-13T19:48:01.337232"
+    },
+    {
+      "english": "You make me smile, always.",
+      "spanish": "Me haces sonreír, siempre.",
+      "category": "Friendship",
+      "generated_at": "2026-07-13T19:48:01.337234"
+    },
+    {
+      "english": "Let's make more memories.",
+      "spanish": "Hagamos más recuerdos.",
+      "category": "Friendship",
+      "generated_at": "2026-07-13T19:48:01.337235"
+    },
+    {
+      "english": "You're the best, seriously.",
+      "spanish": "Eres lo máximo, en serio.",
+      "category": "Friendship",
+      "generated_at": "2026-07-13T19:48:01.337236"
+    },
+    {
+      "english": "Glad we're in this together.",
+      "spanish": "Qué bueno que estamos juntos.",
+      "category": "Friendship",
+      "generated_at": "2026-07-13T19:48:01.337238"
+    },
+    {
+      "english": "You get me, you really do.",
+      "spanish": "Me entiendes, de verdad.",
+      "category": "Friendship",
+      "generated_at": "2026-07-13T19:48:01.337241"
+    },
+    {
+      "english": "My favorite person, you are.",
+      "spanish": "Mi persona favorita, eres tú.",
+      "category": "Friendship",
+      "generated_at": "2026-07-13T19:48:01.337242"
+    },
+    {
+      "english": "Thanks for being you.",
+      "spanish": "Gracias por ser tú.",
+      "category": "Friendship",
+      "generated_at": "2026-07-13T19:48:01.337243"
+    },
+    {
+      "english": "You're my sunshine, you know?",
+      "spanish": "Eres mi sol, ¿sabes?",
+      "category": "Friendship",
+      "generated_at": "2026-07-13T19:48:01.337245"
+    },
+    {
+      "english": "Can't imagine life without you.",
+      "spanish": "No imagino la vida sin ti.",
+      "category": "Friendship",
+      "generated_at": "2026-07-13T19:48:01.337246"
+    },
+    {
+      "english": "You're a gem, truly.",
+      "spanish": "Eres una joya, de verdad.",
+      "category": "Friendship",
+      "generated_at": "2026-07-13T19:48:01.337247"
+    },
+    {
+      "english": "Let's have some fun soon.",
+      "spanish": "Divirtámonos pronto.",
+      "category": "Friendship",
+      "generated_at": "2026-07-13T19:48:01.337248"
+    },
+    {
+      "english": "You make everything better.",
+      "spanish": "Haces todo mejor.",
+      "category": "Friendship",
+      "generated_at": "2026-07-13T19:48:01.337249"
+    },
+    {
+      "english": "So happy we met.",
+      "spanish": "Muy feliz de conocerte.",
+      "category": "Friendship",
+      "generated_at": "2026-07-13T19:48:01.337250"
+    },
+    {
+      "english": "You're a keeper, for sure.",
+      "spanish": "Eres un tesoro, seguro.",
+      "category": "Friendship",
+      "generated_at": "2026-07-13T19:48:01.337252"
+    },
+    {
+      "english": "My partner in crime, ha!",
+      "spanish": "Mi cómplice, ¡ja!",
+      "category": "Friendship",
+      "generated_at": "2026-07-13T19:48:01.337253"
+    },
+    {
+      "english": "Always got my back, thanks.",
+      "spanish": "Siempre me apoyas, gracias.",
+      "category": "Friendship",
+      "generated_at": "2026-07-13T19:48:01.337254"
+    },
+    {
+      "english": "You're a breath of fresh air.",
+      "spanish": "Eres un soplo de aire fresco.",
+      "category": "Friendship",
+      "generated_at": "2026-07-13T19:48:01.337255"
+    },
+    {
+      "english": "Could talk to you forever.",
+      "spanish": "Podría hablar contigo siempre.",
+      "category": "Friendship",
+      "generated_at": "2026-07-13T19:48:01.337256"
+    },
+    {
+      "english": "You're simply the best.",
+      "spanish": "Eres simplemente la mejor.",
+      "category": "Friendship",
+      "generated_at": "2026-07-13T19:48:01.337257"
+    },
+    {
+      "english": "I appreciate you, a lot.",
+      "spanish": "Te aprecio mucho.",
+      "category": "Friendship",
+      "generated_at": "2026-07-13T19:48:01.337258"
+    },
+    {
+      "english": "My favorite hangout buddy.",
+      "spanish": "Mi compañero/a de aventuras.",
+      "category": "Friendship",
+      "generated_at": "2026-07-13T19:48:01.337260"
+    },
+    {
+      "english": "You always make me laugh.",
+      "spanish": "Siempre me haces reír.",
+      "category": "Friendship",
+      "generated_at": "2026-07-13T19:48:01.337261"
+    },
+    {
+      "english": "So glad you're in my life.",
+      "spanish": "Qué alegría tenerte en mi vida.",
+      "category": "Friendship",
+      "generated_at": "2026-07-13T19:48:01.337262"
+    },
+    {
+      "english": "You're a true inspiration.",
+      "spanish": "Eres una verdadera inspiración.",
+      "category": "Friendship",
+      "generated_at": "2026-07-13T19:48:01.337264"
+    },
+    {
+      "english": "Let's conquer the world.",
+      "spanish": "Conquistemos el mundo.",
+      "category": "Friendship",
+      "generated_at": "2026-07-13T19:48:01.337265"
+    },
+    {
+      "english": "You're my favorite person, no doubt.",
+      "spanish": "Eres mi persona favorita, sin duda.",
+      "category": "Friendship",
+      "generated_at": "2026-07-13T19:48:01.337266"
+    },
+    {
+      "english": "We make a great team.",
+      "spanish": "Hacemos un gran equipo.",
+      "category": "Friendship",
+      "generated_at": "2026-07-13T19:48:01.337267"
+    },
+    {
+      "english": "You're one of a kind.",
+      "spanish": "Eres único/a.",
+      "category": "Friendship",
+      "generated_at": "2026-07-13T19:48:01.337268"
+    },
+    {
+      "english": "Thanks for the good times.",
+      "spanish": "Gracias por los buenos momentos.",
+      "category": "Friendship",
+      "generated_at": "2026-07-13T19:48:01.337270"
+    },
+    {
+      "english": "You brighten my world.",
+      "spanish": "Iluminas mi mundo.",
+      "category": "Friendship",
+      "generated_at": "2026-07-13T19:48:01.337271"
+    },
+    {
+      "english": "You're a true treasure, friend.",
+      "spanish": "Eres un tesoro, amigo/a.",
+      "category": "Friendship",
+      "generated_at": "2026-07-13T19:48:01.337272"
+    },
+    {
+      "english": "Life's better with you.",
+      "spanish": "La vida es mejor contigo.",
+      "category": "Friendship",
+      "generated_at": "2026-07-13T19:48:01.337273"
+    },
+    {
+      "english": "You're my rock, always.",
+      "spanish": "Eres mi roca, siempre.",
+      "category": "Friendship",
+      "generated_at": "2026-07-13T19:48:01.337274"
+    },
+    {
+      "english": "We have so much fun.",
+      "spanish": "Nos divertimos mucho.",
+      "category": "Friendship",
+      "generated_at": "2026-07-13T19:48:01.337275"
+    },
+    {
+      "english": "You're the best kind of crazy.",
+      "spanish": "Eres el mejor tipo de loco/a.",
+      "category": "Friendship",
+      "generated_at": "2026-07-13T19:48:01.337276"
+    },
+    {
+      "english": "Wouldn't trade you, ever.",
+      "spanish": "No te cambiaría, nunca.",
+      "category": "Friendship",
+      "generated_at": "2026-07-13T19:48:01.337278"
+    },
+    {
+      "english": "You're my favorite human.",
+      "spanish": "Eres mi humano/a favorito/a.",
+      "category": "Friendship",
+      "generated_at": "2026-07-13T19:48:01.337282"
+    },
+    {
+      "english": "Let's make some noise!",
+      "spanish": "¡Hagamos ruido!",
+      "category": "Friendship",
+      "generated_at": "2026-07-13T19:48:01.337284"
+    },
+    {
+      "english": "You light up my day, friend.",
+      "spanish": "Iluminas mi día, amigo/a.",
+      "category": "Friendship",
+      "generated_at": "2026-07-13T19:48:01.337285"
+    },
+    {
+      "english": "I'm lucky to have you.",
+      "spanish": "Qué suerte tenerte.",
+      "category": "Friendship",
+      "generated_at": "2026-07-13T19:48:01.337286"
+    },
+    {
+      "english": "You make me smile, always.",
+      "spanish": "Me haces sonreír, siempre.",
+      "category": "Friendship",
+      "generated_at": "2026-07-13T19:48:01.337287"
+    },
+    {
+      "english": "Let's make more memories.",
+      "spanish": "Hagamos más recuerdos.",
+      "category": "Friendship",
+      "generated_at": "2026-07-13T19:48:01.337288"
+    },
+    {
+      "english": "You're the best, seriously.",
+      "spanish": "Eres lo máximo, en serio.",
+      "category": "Friendship",
+      "generated_at": "2026-07-13T19:48:01.337289"
+    },
+    {
+      "english": "Glad we're in this together.",
+      "spanish": "Qué bueno que estamos juntos.",
+      "category": "Friendship",
+      "generated_at": "2026-07-13T19:48:01.337290"
+    },
+    {
+      "english": "You get me, you really do.",
+      "spanish": "Me entiendes, de verdad.",
+      "category": "Friendship",
+      "generated_at": "2026-07-13T19:48:01.337291"
+    },
+    {
+      "english": "My favorite person, you are.",
+      "spanish": "Mi persona favorita, eres tú.",
+      "category": "Friendship",
+      "generated_at": "2026-07-13T19:48:01.337292"
+    },
+    {
+      "english": "Thanks for being you.",
+      "spanish": "Gracias por ser tú.",
+      "category": "Friendship",
+      "generated_at": "2026-07-13T19:48:01.337293"
+    },
+    {
+      "english": "You're my sunshine, you know?",
+      "spanish": "Eres mi sol, ¿sabes?",
+      "category": "Friendship",
+      "generated_at": "2026-07-13T19:48:01.337294"
+    },
+    {
+      "english": "Can't imagine life without you.",
+      "spanish": "No imagino la vida sin ti.",
+      "category": "Friendship",
+      "generated_at": "2026-07-13T19:48:01.337295"
+    },
+    {
+      "english": "You're a gem, truly.",
+      "spanish": "Eres una joya, de verdad.",
+      "category": "Friendship",
+      "generated_at": "2026-07-13T19:48:01.337296"
+    },
+    {
+      "english": "Let's have some fun soon.",
+      "spanish": "Divirtámonos pronto.",
+      "category": "Friendship",
+      "generated_at": "2026-07-13T19:48:01.337297"
+    },
+    {
+      "english": "You make everything better.",
+      "spanish": "Haces todo mejor.",
+      "category": "Friendship",
+      "generated_at": "2026-07-13T19:48:01.337298"
+    },
+    {
+      "english": "So happy we met.",
+      "spanish": "Muy feliz de conocerte.",
+      "category": "Friendship",
+      "generated_at": "2026-07-13T19:48:01.337299"
+    },
+    {
+      "english": "You're a keeper, for sure.",
+      "spanish": "Eres un tesoro, seguro.",
+      "category": "Friendship",
+      "generated_at": "2026-07-13T19:48:01.337300"
+    },
+    {
+      "english": "My partner in crime, ha!",
+      "spanish": "Mi cómplice, ¡ja!",
+      "category": "Friendship",
+      "generated_at": "2026-07-13T19:48:01.337301"
+    },
+    {
+      "english": "Always got my back, thanks.",
+      "spanish": "Siempre me apoyas, gracias.",
+      "category": "Friendship",
+      "generated_at": "2026-07-13T19:48:01.337302"
+    },
+    {
+      "english": "You're a breath of fresh air.",
+      "spanish": "Eres un soplo de aire fresco.",
+      "category": "Friendship",
+      "generated_at": "2026-07-13T19:48:01.337304"
+    },
+    {
+      "english": "Could talk to you forever.",
+      "spanish": "Podría hablar contigo siempre.",
+      "category": "Friendship",
+      "generated_at": "2026-07-13T19:48:01.337305"
+    },
+    {
+      "english": "You're simply the best.",
+      "spanish": "Eres simplemente la mejor.",
+      "category": "Friendship",
+      "generated_at": "2026-07-13T19:48:01.337306"
+    },
+    {
+      "english": "I appreciate you, a lot.",
+      "spanish": "Te aprecio mucho.",
+      "category": "Friendship",
+      "generated_at": "2026-07-13T19:48:01.337307"
+    },
+    {
+      "english": "My favorite hangout buddy.",
+      "spanish": "Mi compañero/a de aventuras.",
+      "category": "Friendship",
+      "generated_at": "2026-07-13T19:48:01.337308"
+    },
+    {
+      "english": "You always make me laugh.",
+      "spanish": "Siempre me haces reír.",
+      "category": "Friendship",
+      "generated_at": "2026-07-13T19:48:01.337309"
+    },
+    {
+      "english": "So glad you're in my life.",
+      "spanish": "Qué alegría tenerte en mi vida.",
+      "category": "Friendship",
+      "generated_at": "2026-07-13T19:48:01.337310"
+    },
+    {
+      "english": "You're a true inspiration.",
+      "spanish": "Eres una verdadera inspiración.",
+      "category": "Friendship",
+      "generated_at": "2026-07-13T19:48:01.337311"
+    },
+    {
+      "english": "Let's conquer the world.",
+      "spanish": "Conquistemos el mundo.",
+      "category": "Friendship",
+      "generated_at": "2026-07-13T19:48:01.337312"
+    },
+    {
+      "english": "You're my favorite person, no doubt.",
+      "spanish": "Eres mi persona favorita, sin duda.",
+      "category": "Friendship",
+      "generated_at": "2026-07-13T19:48:01.337313"
+    },
+    {
+      "english": "We make a great team.",
+      "spanish": "Hacemos un gran equipo.",
+      "category": "Friendship",
+      "generated_at": "2026-07-13T19:48:01.337314"
+    },
+    {
+      "english": "You're one of a kind.",
+      "spanish": "Eres único/a.",
+      "category": "Friendship",
+      "generated_at": "2026-07-13T19:48:01.337315"
+    },
+    {
+      "english": "Thanks for the good times.",
+      "spanish": "Gracias por los buenos momentos.",
+      "category": "Friendship",
+      "generated_at": "2026-07-13T19:48:01.337318"
+    },
+    {
+      "english": "You brighten my world.",
+      "spanish": "Iluminas mi mundo.",
+      "category": "Friendship",
+      "generated_at": "2026-07-13T19:48:01.337319"
+    },
+    {
+      "english": "You're a true treasure, friend.",
+      "spanish": "Eres un tesoro, amigo/a.",
+      "category": "Friendship",
+      "generated_at": "2026-07-13T19:48:01.337320"
+    },
+    {
+      "english": "Life's better with you.",
+      "spanish": "La vida es mejor contigo.",
+      "category": "Friendship",
+      "generated_at": "2026-07-13T19:48:01.337321"
+    },
+    {
+      "english": "You're my rock, always.",
+      "spanish": "Eres mi roca, siempre.",
+      "category": "Friendship",
+      "generated_at": "2026-07-13T19:48:01.337322"
+    },
+    {
+      "english": "We have so much fun.",
+      "spanish": "Nos divertimos mucho.",
+      "category": "Friendship",
+      "generated_at": "2026-07-13T19:48:01.337323"
+    },
+    {
+      "english": "You're the best kind of crazy.",
+      "spanish": "Eres el mejor tipo de loco/a.",
+      "category": "Friendship",
+      "generated_at": "2026-07-13T19:48:01.337324"
+    },
+    {
+      "english": "Wouldn't trade you, ever.",
+      "spanish": "No te cambiaría, nunca.",
+      "category": "Friendship",
+      "generated_at": "2026-07-13T19:48:01.337325"
+    },
+    {
+      "english": "You're my favorite human.",
+      "spanish": "Eres mi humano/a favorito/a.",
+      "category": "Friendship",
+      "generated_at": "2026-07-13T19:48:01.337326"
+    },
+    {
+      "english": "Let's make some noise!",
+      "spanish": "¡Hagamos ruido!",
+      "category": "Friendship",
+      "generated_at": "2026-07-13T19:48:01.337327"
+    }
+  ],
+  "last_updated": "2026-07-13T19:48:01.337329"
+}
