@@ -719,7 +719,727 @@
       "spanish": "¡Hagamos ruido!",
       "category": "Friendship",
       "generated_at": "2026-07-13T19:48:01.337327"
+    },
+    {
+      "english": "Breathe deep, feel peace.",
+      "spanish": "Respira profundo, siente paz.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-14T03:51:38.790021"
+    },
+    {
+      "english": "Slow down, enjoy now.",
+      "spanish": "Baja el ritmo, disfruta hoy.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-14T03:51:38.790031"
+    },
+    {
+      "english": "One step, one moment.",
+      "spanish": "Un paso, un momento.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-14T03:51:38.790033"
+    },
+    {
+      "english": "Listen well, hear truth.",
+      "spanish": "Escucha bien, oye verdad.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-14T03:51:38.790034"
+    },
+    {
+      "english": "See beauty, everywhere.",
+      "spanish": "Ve la belleza, en todo.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-14T03:51:38.790035"
+    },
+    {
+      "english": "Feel the sun, warm hug.",
+      "spanish": "Siente el sol, abrazo cálido.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-14T03:51:38.790036"
+    },
+    {
+      "english": "Ground yourself, strong roots.",
+      "spanish": "Aférrate, raíces fuertes.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-14T03:51:38.790037"
+    },
+    {
+      "english": "Quiet mind, clear thoughts.",
+      "spanish": "Mente quieta, ideas claras.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-14T03:51:38.790070"
+    },
+    {
+      "english": "Just be, here, now.",
+      "spanish": "Solo estar, aquí, ahora.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-14T03:51:38.790072"
+    },
+    {
+      "english": "Let go, worries fly.",
+      "spanish": "Suelta todo, las penas vuelan.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-14T03:51:38.790074"
+    },
+    {
+      "english": "Notice small things, joy blooms.",
+      "spanish": "Nota lo pequeño, la alegría crece.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-14T03:51:38.790075"
+    },
+    {
+      "english": "Open heart, receive love.",
+      "spanish": "Corazón abierto, recibe amor.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-14T03:51:38.790076"
+    },
+    {
+      "english": "Walk slow, see more.",
+      "spanish": "Camina lento, mira más.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-14T03:51:38.790078"
+    },
+    {
+      "english": "Taste deeply, savor life.",
+      "spanish": "Prueba profundo, saborea vida.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-14T03:51:38.790079"
+    },
+    {
+      "english": "Feel your feet, on ground.",
+      "spanish": "Siente tus pies, en tierra.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-14T03:51:38.790080"
+    },
+    {
+      "english": "One breath, release tension.",
+      "spanish": "Una respiración, suelta tensión.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-14T03:51:38.790082"
+    },
+    {
+      "english": "Look up, see sky.",
+      "spanish": "Mira arriba, ve cielo.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-14T03:51:38.790083"
+    },
+    {
+      "english": "Gentle touch, kind self.",
+      "spanish": "Tacto suave, sé amable.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-14T03:51:38.790084"
+    },
+    {
+      "english": "Stillness, inner calm.",
+      "spanish": "Quietud, calma interior.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-14T03:51:38.790085"
+    },
+    {
+      "english": "Embrace the moment, fully.",
+      "spanish": "Abraza el instante, completo.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-14T03:51:38.790086"
+    },
+    {
+      "english": "Be present, for yourself.",
+      "spanish": "Sé presente, para ti.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-14T03:51:38.790087"
+    },
+    {
+      "english": "Flow like water, adapt.",
+      "spanish": "Fluye como agua, adáptate.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-14T03:51:38.790088"
+    },
+    {
+      "english": "Sit quiet, observe.",
+      "spanish": "Siéntate quieto, observa.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-14T03:51:38.790090"
+    },
+    {
+      "english": "Feel your body, alive.",
+      "spanish": "Siente tu cuerpo, vivo.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-14T03:51:38.790091"
+    },
+    {
+      "english": "Smile gently, feel good.",
+      "spanish": "Sonríe suave, siéntete bien.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-14T03:51:38.790092"
+    },
+    {
+      "english": "Listen to birds, singing.",
+      "spanish": "Oye los pájaros, cantando.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-14T03:51:38.790093"
+    },
+    {
+      "english": "Focus inward, find peace.",
+      "spanish": "Enfócate adentro, halla paz.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-14T03:51:38.790094"
+    },
+    {
+      "english": "Let thoughts drift, like clouds.",
+      "spanish": "Deja las ideas ir, como nubes.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-14T03:51:38.790107"
+    },
+    {
+      "english": "Kind words, to yourself.",
+      "spanish": "Palabras amables, para ti.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-14T03:51:38.790108"
+    },
+    {
+      "english": "Stretch slowly, feel movement.",
+      "spanish": "Estírate lento, siente mover.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-14T03:51:38.790109"
+    },
+    {
+      "english": "Open your eyes, wide.",
+      "spanish": "Abre tus ojos, bien.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-14T03:51:38.790110"
+    },
+    {
+      "english": "Sip slowly, enjoy drink.",
+      "spanish": "Bebe despacio, disfruta bebida.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-14T03:51:38.790111"
+    },
+    {
+      "english": "Notice your breath, always.",
+      "spanish": "Nota tu aliento, siempre.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-14T03:51:38.790112"
+    },
+    {
+      "english": "Find stillness, in chaos.",
+      "spanish": "Halla calma, en el caos.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-14T03:51:38.790113"
+    },
+    {
+      "english": "Be gentle, with yourself.",
+      "spanish": "Sé gentil, contigo mismo.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-14T03:51:38.790114"
+    },
+    {
+      "english": "Feel the breeze, on skin.",
+      "spanish": "Siente la brisa, en piel.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-14T03:51:38.790115"
+    },
+    {
+      "english": "Let go, of control.",
+      "spanish": "Suelta el control, ahora.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-14T03:51:38.790116"
+    },
+    {
+      "english": "Accept yourself, completely.",
+      "spanish": "Acéptate, por completo.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-14T03:51:38.790117"
+    },
+    {
+      "english": "Just observe, without judgment.",
+      "spanish": "Solo observa, sin juzgar.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-14T03:51:38.790118"
+    },
+    {
+      "english": "Feel the rhythm, of life.",
+      "spanish": "Siente el ritmo, de vida.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-14T03:51:38.790119"
+    },
+    {
+      "english": "Breathe deep, feel peace.",
+      "spanish": "Respira profundo, siente paz.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-14T03:51:38.790121"
+    },
+    {
+      "english": "Slow down, enjoy now.",
+      "spanish": "Baja el ritmo, disfruta hoy.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-14T03:51:38.790122"
+    },
+    {
+      "english": "One step, one moment.",
+      "spanish": "Un paso, un momento.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-14T03:51:38.790123"
+    },
+    {
+      "english": "Listen well, hear truth.",
+      "spanish": "Escucha bien, oye verdad.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-14T03:51:38.790124"
+    },
+    {
+      "english": "See beauty, everywhere.",
+      "spanish": "Ve la belleza, en todo.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-14T03:51:38.790125"
+    },
+    {
+      "english": "Feel the sun, warm hug.",
+      "spanish": "Siente el sol, abrazo cálido.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-14T03:51:38.790126"
+    },
+    {
+      "english": "Ground yourself, strong roots.",
+      "spanish": "Aférrate, raíces fuertes.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-14T03:51:38.790128"
+    },
+    {
+      "english": "Quiet mind, clear thoughts.",
+      "spanish": "Mente quieta, ideas claras.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-14T03:51:38.790129"
+    },
+    {
+      "english": "Just be, here, now.",
+      "spanish": "Solo estar, aquí, ahora.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-14T03:51:38.790130"
+    },
+    {
+      "english": "Let go, worries fly.",
+      "spanish": "Suelta todo, las penas vuelan.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-14T03:51:38.790131"
+    },
+    {
+      "english": "Notice small things, joy blooms.",
+      "spanish": "Nota lo pequeño, la alegría crece.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-14T03:51:38.790132"
+    },
+    {
+      "english": "Open heart, receive love.",
+      "spanish": "Corazón abierto, recibe amor.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-14T03:51:38.790133"
+    },
+    {
+      "english": "Walk slow, see more.",
+      "spanish": "Camina lento, mira más.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-14T03:51:38.790134"
+    },
+    {
+      "english": "Taste deeply, savor life.",
+      "spanish": "Prueba profundo, saborea vida.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-14T03:51:38.790135"
+    },
+    {
+      "english": "Feel your feet, on ground.",
+      "spanish": "Siente tus pies, en tierra.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-14T03:51:38.790136"
+    },
+    {
+      "english": "One breath, release tension.",
+      "spanish": "Una respiración, suelta tensión.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-14T03:51:38.790139"
+    },
+    {
+      "english": "Look up, see sky.",
+      "spanish": "Mira arriba, ve cielo.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-14T03:51:38.790141"
+    },
+    {
+      "english": "Gentle touch, kind self.",
+      "spanish": "Tacto suave, sé amable.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-14T03:51:38.790142"
+    },
+    {
+      "english": "Stillness, inner calm.",
+      "spanish": "Quietud, calma interior.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-14T03:51:38.790143"
+    },
+    {
+      "english": "Embrace the moment, fully.",
+      "spanish": "Abraza el instante, completo.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-14T03:51:38.790144"
+    },
+    {
+      "english": "Be present, for yourself.",
+      "spanish": "Sé presente, para ti.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-14T03:51:38.790145"
+    },
+    {
+      "english": "Flow like water, adapt.",
+      "spanish": "Fluye como agua, adáptate.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-14T03:51:38.790146"
+    },
+    {
+      "english": "Sit quiet, observe.",
+      "spanish": "Siéntate quieto, observa.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-14T03:51:38.790147"
+    },
+    {
+      "english": "Feel your body, alive.",
+      "spanish": "Siente tu cuerpo, vivo.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-14T03:51:38.790148"
+    },
+    {
+      "english": "Smile gently, feel good.",
+      "spanish": "Sonríe suave, siéntete bien.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-14T03:51:38.790149"
+    },
+    {
+      "english": "Listen to birds, singing.",
+      "spanish": "Oye los pájaros, cantando.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-14T03:51:38.790150"
+    },
+    {
+      "english": "Focus inward, find peace.",
+      "spanish": "Enfócate adentro, halla paz.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-14T03:51:38.790152"
+    },
+    {
+      "english": "Let thoughts drift, like clouds.",
+      "spanish": "Deja las ideas ir, como nubes.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-14T03:51:38.790153"
+    },
+    {
+      "english": "Kind words, to yourself.",
+      "spanish": "Palabras amables, para ti.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-14T03:51:38.790154"
+    },
+    {
+      "english": "Stretch slowly, feel movement.",
+      "spanish": "Estírate lento, siente mover.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-14T03:51:38.790155"
+    },
+    {
+      "english": "Open your eyes, wide.",
+      "spanish": "Abre tus ojos, bien.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-14T03:51:38.790156"
+    },
+    {
+      "english": "Sip slowly, enjoy drink.",
+      "spanish": "Bebe despacio, disfruta bebida.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-14T03:51:38.790157"
+    },
+    {
+      "english": "Notice your breath, always.",
+      "spanish": "Nota tu aliento, siempre.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-14T03:51:38.790158"
+    },
+    {
+      "english": "Find stillness, in chaos.",
+      "spanish": "Halla calma, en el caos.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-14T03:51:38.790159"
+    },
+    {
+      "english": "Be gentle, with yourself.",
+      "spanish": "Sé gentil, contigo mismo.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-14T03:51:38.790160"
+    },
+    {
+      "english": "Feel the breeze, on skin.",
+      "spanish": "Siente la brisa, en piel.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-14T03:51:38.790161"
+    },
+    {
+      "english": "Let go, of control.",
+      "spanish": "Suelta el control, ahora.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-14T03:51:38.790162"
+    },
+    {
+      "english": "Accept yourself, completely.",
+      "spanish": "Acéptate, por completo.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-14T03:51:38.790163"
+    },
+    {
+      "english": "Just observe, without judgment.",
+      "spanish": "Solo observa, sin juzgar.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-14T03:51:38.790164"
+    },
+    {
+      "english": "Feel the rhythm, of life.",
+      "spanish": "Siente el ritmo, de vida.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-14T03:51:38.790165"
+    },
+    {
+      "english": "Breathe deep, feel peace.",
+      "spanish": "Respira profundo, siente paz.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-14T03:51:38.790166"
+    },
+    {
+      "english": "Slow down, enjoy now.",
+      "spanish": "Baja el ritmo, disfruta hoy.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-14T03:51:38.790167"
+    },
+    {
+      "english": "One step, one moment.",
+      "spanish": "Un paso, un momento.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-14T03:51:38.790168"
+    },
+    {
+      "english": "Listen well, hear truth.",
+      "spanish": "Escucha bien, oye verdad.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-14T03:51:38.790169"
+    },
+    {
+      "english": "See beauty, everywhere.",
+      "spanish": "Ve la belleza, en todo.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-14T03:51:38.790170"
+    },
+    {
+      "english": "Feel the sun, warm hug.",
+      "spanish": "Siente el sol, abrazo cálido.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-14T03:51:38.790172"
+    },
+    {
+      "english": "Ground yourself, strong roots.",
+      "spanish": "Aférrate, raíces fuertes.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-14T03:51:38.790172"
+    },
+    {
+      "english": "Quiet mind, clear thoughts.",
+      "spanish": "Mente quieta, ideas claras.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-14T03:51:38.790173"
+    },
+    {
+      "english": "Just be, here, now.",
+      "spanish": "Solo estar, aquí, ahora.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-14T03:51:38.790174"
+    },
+    {
+      "english": "Let go, worries fly.",
+      "spanish": "Suelta todo, las penas vuelan.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-14T03:51:38.790175"
+    },
+    {
+      "english": "Notice small things, joy blooms.",
+      "spanish": "Nota lo pequeño, la alegría crece.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-14T03:51:38.790176"
+    },
+    {
+      "english": "Open heart, receive love.",
+      "spanish": "Corazón abierto, recibe amor.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-14T03:51:38.790179"
+    },
+    {
+      "english": "Walk slow, see more.",
+      "spanish": "Camina lento, mira más.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-14T03:51:38.790180"
+    },
+    {
+      "english": "Taste deeply, savor life.",
+      "spanish": "Prueba profundo, saborea vida.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-14T03:51:38.790181"
+    },
+    {
+      "english": "Feel your feet, on ground.",
+      "spanish": "Siente tus pies, en tierra.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-14T03:51:38.790182"
+    },
+    {
+      "english": "One breath, release tension.",
+      "spanish": "Una respiración, suelta tensión.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-14T03:51:38.790183"
+    },
+    {
+      "english": "Look up, see sky.",
+      "spanish": "Mira arriba, ve cielo.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-14T03:51:38.790184"
+    },
+    {
+      "english": "Gentle touch, kind self.",
+      "spanish": "Tacto suave, sé amable.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-14T03:51:38.790185"
+    },
+    {
+      "english": "Stillness, inner calm.",
+      "spanish": "Quietud, calma interior.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-14T03:51:38.790186"
+    },
+    {
+      "english": "Embrace the moment, fully.",
+      "spanish": "Abraza el instante, completo.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-14T03:51:38.790187"
+    },
+    {
+      "english": "Be present, for yourself.",
+      "spanish": "Sé presente, para ti.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-14T03:51:38.790188"
+    },
+    {
+      "english": "Flow like water, adapt.",
+      "spanish": "Fluye como agua, adáptate.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-14T03:51:38.790189"
+    },
+    {
+      "english": "Sit quiet, observe.",
+      "spanish": "Siéntate quieto, observa.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-14T03:51:38.790190"
+    },
+    {
+      "english": "Feel your body, alive.",
+      "spanish": "Siente tu cuerpo, vivo.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-14T03:51:38.790191"
+    },
+    {
+      "english": "Smile gently, feel good.",
+      "spanish": "Sonríe suave, siéntete bien.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-14T03:51:38.790192"
+    },
+    {
+      "english": "Listen to birds, singing.",
+      "spanish": "Oye los pájaros, cantando.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-14T03:51:38.790195"
+    },
+    {
+      "english": "Focus inward, find peace.",
+      "spanish": "Enfócate adentro, halla paz.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-14T03:51:38.790196"
+    },
+    {
+      "english": "Let thoughts drift, like clouds.",
+      "spanish": "Deja las ideas ir, como nubes.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-14T03:51:38.790197"
+    },
+    {
+      "english": "Kind words, to yourself.",
+      "spanish": "Palabras amables, para ti.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-14T03:51:38.790198"
+    },
+    {
+      "english": "Stretch slowly, feel movement.",
+      "spanish": "Estírate lento, siente mover.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-14T03:51:38.790199"
+    },
+    {
+      "english": "Open your eyes, wide.",
+      "spanish": "Abre tus ojos, bien.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-14T03:51:38.790200"
+    },
+    {
+      "english": "Sip slowly, enjoy drink.",
+      "spanish": "Bebe despacio, disfruta bebida.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-14T03:51:38.790201"
+    },
+    {
+      "english": "Notice your breath, always.",
+      "spanish": "Nota tu aliento, siempre.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-14T03:51:38.790202"
+    },
+    {
+      "english": "Find stillness, in chaos.",
+      "spanish": "Halla calma, en el caos.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-14T03:51:38.790203"
+    },
+    {
+      "english": "Be gentle, with yourself.",
+      "spanish": "Sé gentil, contigo mismo.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-14T03:51:38.790204"
+    },
+    {
+      "english": "Feel the breeze, on skin.",
+      "spanish": "Siente la brisa, en piel.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-14T03:51:38.790205"
+    },
+    {
+      "english": "Let go, of control.",
+      "spanish": "Suelta el control, ahora.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-14T03:51:38.790206"
+    },
+    {
+      "english": "Accept yourself, completely.",
+      "spanish": "Acéptate, por completo.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-14T03:51:38.790207"
+    },
+    {
+      "english": "Just observe, without judgment.",
+      "spanish": "Solo observa, sin juzgar.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-14T03:51:38.790208"
+    },
+    {
+      "english": "Feel the rhythm, of life.",
+      "spanish": "Siente el ritmo, de vida.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-14T03:51:38.790209"
     }
   ],
-  "last_updated": "2026-07-13T19:48:01.337329"
+  "last_updated": "2026-07-14T03:51:38.790211"
 }
