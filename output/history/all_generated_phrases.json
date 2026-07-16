@@ -2159,7 +2159,727 @@
       "spanish": "Sueña en español, pronto podrás.",
       "category": "Wisdom",
       "generated_at": "2026-07-15T03:53:07.766063"
+    },
+    {
+      "english": "Order coffee, sip slowly.",
+      "spanish": "Pide café, bebe despacio.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-16T03:58:48.236570"
+    },
+    {
+      "english": "Try a local pastry, delight yourself.",
+      "spanish": "Prueba un dulce local, disfrútalo.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-16T03:58:48.236580"
+    },
+    {
+      "english": "Ask for the bill, casually.",
+      "spanish": "Pide la cuenta, con calma.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-16T03:58:48.236582"
+    },
+    {
+      "english": "Smile at strangers, connect easily.",
+      "spanish": "Sonríe a extraños, conecta fácil.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-16T03:58:48.236583"
+    },
+    {
+      "english": "Visit a small market, explore textures.",
+      "spanish": "Visita un mercado pequeño, explora texturas.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-16T03:58:48.236584"
+    },
+    {
+      "english": "Learn basic numbers, count everything.",
+      "spanish": "Aprende números básicos, cuenta todo.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-16T03:58:48.236585"
+    },
+    {
+      "english": "Say 'excuse me', pass through crowds.",
+      "spanish": "Di 'permiso', pasa entre gente.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-16T03:58:48.236586"
+    },
+    {
+      "english": "Point to what you want, be understood.",
+      "spanish": "Señala lo que quieres, hazte entender.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-16T03:58:48.236589"
+    },
+    {
+      "english": "Observe daily routines, absorb life.",
+      "spanish": "Observa rutinas diarias, absorbe vida.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-16T03:58:48.236590"
+    },
+    {
+      "english": "Listen to local music, feel the vibe.",
+      "spanish": "Escucha música local, siente el ritmo.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-16T03:58:48.236591"
+    },
+    {
+      "english": "Use a map, wander wisely.",
+      "spanish": "Usa un mapa, pasea con juicio.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-16T03:58:48.236592"
+    },
+    {
+      "english": "Ask for a recommendation, try something new.",
+      "spanish": "Pide una recomendación, prueba algo nuevo.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-16T03:58:48.236593"
+    },
+    {
+      "english": "Learn 'hello' and 'goodbye', be friendly.",
+      "spanish": "Aprende 'hola' y 'adiós', sé amable.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-16T03:58:48.236594"
+    },
+    {
+      "english": "Try street food, delicious and quick.",
+      "spanish": "Prueba comida callejera, rica y rápida.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-16T03:58:48.236595"
+    },
+    {
+      "english": "Look up, admire architecture.",
+      "spanish": "Mira hacia arriba, admira la arquitectura.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-16T03:58:48.236595"
+    },
+    {
+      "english": "Carry a small notebook, jot down words.",
+      "spanish": "Lleva un cuaderno pequeño, anota palabras.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-16T03:58:48.236596"
+    },
+    {
+      "english": "Ask for the time, check your watch.",
+      "spanish": "Pregunta la hora, mira tu reloj.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-16T03:58:48.236597"
+    },
+    {
+      "english": "Say 'please', always with courtesy.",
+      "spanish": "Di 'por favor', siempre con cortesía.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-16T03:58:48.236598"
+    },
+    {
+      "english": "Learn 'yes' and 'no', essential responses.",
+      "spanish": "Aprende 'sí' y 'no', respuestas esenciales.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-16T03:58:48.236598"
+    },
+    {
+      "english": "Enjoy local customs, embrace traditions.",
+      "spanish": "Disfruta costumbres locales, abraza tradiciones.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-16T03:58:48.236599"
+    },
+    {
+      "english": "Take a deep breath, soak it in.",
+      "spanish": "Respira profundo, empápate.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-16T03:58:48.236600"
+    },
+    {
+      "english": "Ask for a clean table, dine well.",
+      "spanish": "Pide una mesa limpia, come bien.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-16T03:58:48.236602"
+    },
+    {
+      "english": "Learn 'thank you', express appreciation.",
+      "spanish": "Aprende 'gracias', expresa gratitud.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-16T03:58:48.236604"
+    },
+    {
+      "english": "Try public transport, see the city.",
+      "spanish": "Usa transporte público, ve la ciudad.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-16T03:58:48.236604"
+    },
+    {
+      "english": "Ask about the weather, prepare yourself.",
+      "spanish": "Pregunta por el clima, prepárate.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-16T03:58:48.236607"
+    },
+    {
+      "english": "Learn common signs, navigate easily.",
+      "spanish": "Aprende señales comunes, navega fácil.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-16T03:58:48.236608"
+    },
+    {
+      "english": "Say 'hello', greet everyone.",
+      "spanish": "Di 'hola', saluda a todos.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-16T03:58:48.236609"
+    },
+    {
+      "english": "Enjoy a local drink, quench your thirst.",
+      "spanish": "Disfruta una bebida local, refréscate.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-16T03:58:48.236609"
+    },
+    {
+      "english": "Ask for directions, find your way.",
+      "spanish": "Pide indicaciones, encuentra tu camino.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-16T03:58:48.236610"
+    },
+    {
+      "english": "Learn 'goodbye', leave politely.",
+      "spanish": "Aprende 'adiós', despídete con educación.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-16T03:58:48.236611"
+    },
+    {
+      "english": "Try a local cheese, taste the region.",
+      "spanish": "Prueba un queso local, saborea la región.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-16T03:58:48.236612"
+    },
+    {
+      "english": "Say 'pardon me', for a mistake.",
+      "spanish": "Di 'perdón', por un error.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-16T03:58:48.236612"
+    },
+    {
+      "english": "Learn 'I don't understand', signal difficulty.",
+      "spanish": "Aprende 'no entiendo', indica problema.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-16T03:58:48.236613"
+    },
+    {
+      "english": "Visit a plaza, people watch.",
+      "spanish": "Visita una plaza, mira a la gente.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-16T03:58:48.236614"
+    },
+    {
+      "english": "Ask for a napkin, keep tidy.",
+      "spanish": "Pide una servilleta, mantente limpio.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-16T03:58:48.236614"
+    },
+    {
+      "english": "Learn 'how much', inquire prices.",
+      "spanish": "Aprende 'cuánto cuesta', pregunta precios.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-16T03:58:48.236615"
+    },
+    {
+      "english": "Say 'cheers', toast your friends.",
+      "spanish": "Di 'salud', brinda con amigos.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-16T03:58:48.236616"
+    },
+    {
+      "english": "Try a new fruit, discover flavors.",
+      "spanish": "Prueba una fruta nueva, descubre sabores.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-16T03:58:48.236617"
+    },
+    {
+      "english": "Ask for the bathroom, essential stop.",
+      "spanish": "Pregunta por el baño, parada esencial.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-16T03:58:48.236618"
+    },
+    {
+      "english": "Learn 'I want', state your needs.",
+      "spanish": "Aprende 'quiero', di lo que necesitas.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-16T03:58:48.236618"
+    },
+    {
+      "english": "Say 'delicious', compliment the food.",
+      "spanish": "Di 'delicioso', elogia la comida.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-16T03:58:48.236619"
+    },
+    {
+      "english": "Order coffee, sip slowly.",
+      "spanish": "Pide café, bebe despacio.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-16T03:58:48.236621"
+    },
+    {
+      "english": "Try a local pastry, delight yourself.",
+      "spanish": "Prueba un dulce local, disfrútalo.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-16T03:58:48.236622"
+    },
+    {
+      "english": "Ask for the bill, casually.",
+      "spanish": "Pide la cuenta, con calma.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-16T03:58:48.236623"
+    },
+    {
+      "english": "Smile at strangers, connect easily.",
+      "spanish": "Sonríe a extraños, conecta fácil.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-16T03:58:48.236624"
+    },
+    {
+      "english": "Visit a small market, explore textures.",
+      "spanish": "Visita un mercado pequeño, explora texturas.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-16T03:58:48.236624"
+    },
+    {
+      "english": "Learn basic numbers, count everything.",
+      "spanish": "Aprende números básicos, cuenta todo.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-16T03:58:48.236627"
+    },
+    {
+      "english": "Say 'excuse me', pass through crowds.",
+      "spanish": "Di 'permiso', pasa entre gente.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-16T03:58:48.236628"
+    },
+    {
+      "english": "Point to what you want, be understood.",
+      "spanish": "Señala lo que quieres, hazte entender.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-16T03:58:48.236628"
+    },
+    {
+      "english": "Observe daily routines, absorb life.",
+      "spanish": "Observa rutinas diarias, absorbe vida.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-16T03:58:48.236629"
+    },
+    {
+      "english": "Listen to local music, feel the vibe.",
+      "spanish": "Escucha música local, siente el ritmo.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-16T03:58:48.236630"
+    },
+    {
+      "english": "Use a map, wander wisely.",
+      "spanish": "Usa un mapa, pasea con juicio.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-16T03:58:48.236631"
+    },
+    {
+      "english": "Ask for a recommendation, try something new.",
+      "spanish": "Pide una recomendación, prueba algo nuevo.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-16T03:58:48.236632"
+    },
+    {
+      "english": "Learn 'hello' and 'goodbye', be friendly.",
+      "spanish": "Aprende 'hola' y 'adiós', sé amable.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-16T03:58:48.236633"
+    },
+    {
+      "english": "Try street food, delicious and quick.",
+      "spanish": "Prueba comida callejera, rica y rápida.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-16T03:58:48.236634"
+    },
+    {
+      "english": "Look up, admire architecture.",
+      "spanish": "Mira hacia arriba, admira la arquitectura.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-16T03:58:48.236634"
+    },
+    {
+      "english": "Carry a small notebook, jot down words.",
+      "spanish": "Lleva un cuaderno pequeño, anota palabras.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-16T03:58:48.236635"
+    },
+    {
+      "english": "Ask for the time, check your watch.",
+      "spanish": "Pregunta la hora, mira tu reloj.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-16T03:58:48.236636"
+    },
+    {
+      "english": "Say 'please', always with courtesy.",
+      "spanish": "Di 'por favor', siempre con cortesía.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-16T03:58:48.236637"
+    },
+    {
+      "english": "Learn 'yes' and 'no', essential responses.",
+      "spanish": "Aprende 'sí' y 'no', respuestas esenciales.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-16T03:58:48.236638"
+    },
+    {
+      "english": "Enjoy local customs, embrace traditions.",
+      "spanish": "Disfruta costumbres locales, abraza tradiciones.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-16T03:58:48.236638"
+    },
+    {
+      "english": "Take a deep breath, soak it in.",
+      "spanish": "Respira profundo, empápate.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-16T03:58:48.236639"
+    },
+    {
+      "english": "Ask for a clean table, dine well.",
+      "spanish": "Pide una mesa limpia, come bien.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-16T03:58:48.236640"
+    },
+    {
+      "english": "Learn 'thank you', express appreciation.",
+      "spanish": "Aprende 'gracias', expresa gratitud.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-16T03:58:48.236641"
+    },
+    {
+      "english": "Try public transport, see the city.",
+      "spanish": "Usa transporte público, ve la ciudad.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-16T03:58:48.236642"
+    },
+    {
+      "english": "Ask about the weather, prepare yourself.",
+      "spanish": "Pregunta por el clima, prepárate.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-16T03:58:48.236643"
+    },
+    {
+      "english": "Learn common signs, navigate easily.",
+      "spanish": "Aprende señales comunes, navega fácil.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-16T03:58:48.236644"
+    },
+    {
+      "english": "Say 'hello', greet everyone.",
+      "spanish": "Di 'hola', saluda a todos.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-16T03:58:48.236645"
+    },
+    {
+      "english": "Enjoy a local drink, quench your thirst.",
+      "spanish": "Disfruta una bebida local, refréscate.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-16T03:58:48.236645"
+    },
+    {
+      "english": "Ask for directions, find your way.",
+      "spanish": "Pide indicaciones, encuentra tu camino.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-16T03:58:48.236646"
+    },
+    {
+      "english": "Learn 'goodbye', leave politely.",
+      "spanish": "Aprende 'adiós', despídete con educación.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-16T03:58:48.236647"
+    },
+    {
+      "english": "Try a local cheese, taste the region.",
+      "spanish": "Prueba un queso local, saborea la región.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-16T03:58:48.236648"
+    },
+    {
+      "english": "Say 'pardon me', for a mistake.",
+      "spanish": "Di 'perdón', por un error.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-16T03:58:48.236649"
+    },
+    {
+      "english": "Learn 'I don't understand', signal difficulty.",
+      "spanish": "Aprende 'no entiendo', indica problema.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-16T03:58:48.236651"
+    },
+    {
+      "english": "Visit a plaza, people watch.",
+      "spanish": "Visita una plaza, mira a la gente.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-16T03:58:48.236652"
+    },
+    {
+      "english": "Ask for a napkin, keep tidy.",
+      "spanish": "Pide una servilleta, mantente limpio.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-16T03:58:48.236653"
+    },
+    {
+      "english": "Learn 'how much', inquire prices.",
+      "spanish": "Aprende 'cuánto cuesta', pregunta precios.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-16T03:58:48.236653"
+    },
+    {
+      "english": "Say 'cheers', toast your friends.",
+      "spanish": "Di 'salud', brinda con amigos.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-16T03:58:48.236654"
+    },
+    {
+      "english": "Try a new fruit, discover flavors.",
+      "spanish": "Prueba una fruta nueva, descubre sabores.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-16T03:58:48.236656"
+    },
+    {
+      "english": "Ask for the bathroom, essential stop.",
+      "spanish": "Pregunta por el baño, parada esencial.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-16T03:58:48.236657"
+    },
+    {
+      "english": "Learn 'I want', state your needs.",
+      "spanish": "Aprende 'quiero', di lo que necesitas.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-16T03:58:48.236658"
+    },
+    {
+      "english": "Say 'delicious', compliment the food.",
+      "spanish": "Di 'delicioso', elogia la comida.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-16T03:58:48.236659"
+    },
+    {
+      "english": "Order coffee, sip slowly.",
+      "spanish": "Pide café, bebe despacio.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-16T03:58:48.236660"
+    },
+    {
+      "english": "Try a local pastry, delight yourself.",
+      "spanish": "Prueba un dulce local, disfrútalo.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-16T03:58:48.236660"
+    },
+    {
+      "english": "Ask for the bill, casually.",
+      "spanish": "Pide la cuenta, con calma.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-16T03:58:48.236661"
+    },
+    {
+      "english": "Smile at strangers, connect easily.",
+      "spanish": "Sonríe a extraños, conecta fácil.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-16T03:58:48.236662"
+    },
+    {
+      "english": "Visit a small market, explore textures.",
+      "spanish": "Visita un mercado pequeño, explora texturas.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-16T03:58:48.236663"
+    },
+    {
+      "english": "Learn basic numbers, count everything.",
+      "spanish": "Aprende números básicos, cuenta todo.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-16T03:58:48.236663"
+    },
+    {
+      "english": "Say 'excuse me', pass through crowds.",
+      "spanish": "Di 'permiso', pasa entre gente.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-16T03:58:48.236666"
+    },
+    {
+      "english": "Point to what you want, be understood.",
+      "spanish": "Señala lo que quieres, hazte entender.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-16T03:58:48.236666"
+    },
+    {
+      "english": "Observe daily routines, absorb life.",
+      "spanish": "Observa rutinas diarias, absorbe vida.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-16T03:58:48.236667"
+    },
+    {
+      "english": "Listen to local music, feel the vibe.",
+      "spanish": "Escucha música local, siente el ritmo.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-16T03:58:48.236668"
+    },
+    {
+      "english": "Use a map, wander wisely.",
+      "spanish": "Usa un mapa, pasea con juicio.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-16T03:58:48.236669"
+    },
+    {
+      "english": "Ask for a recommendation, try something new.",
+      "spanish": "Pide una recomendación, prueba algo nuevo.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-16T03:58:48.236669"
+    },
+    {
+      "english": "Learn 'hello' and 'goodbye', be friendly.",
+      "spanish": "Aprende 'hola' y 'adiós', sé amable.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-16T03:58:48.236670"
+    },
+    {
+      "english": "Try street food, delicious and quick.",
+      "spanish": "Prueba comida callejera, rica y rápida.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-16T03:58:48.236671"
+    },
+    {
+      "english": "Look up, admire architecture.",
+      "spanish": "Mira hacia arriba, admira la arquitectura.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-16T03:58:48.236671"
+    },
+    {
+      "english": "Carry a small notebook, jot down words.",
+      "spanish": "Lleva un cuaderno pequeño, anota palabras.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-16T03:58:48.236673"
+    },
+    {
+      "english": "Ask for the time, check your watch.",
+      "spanish": "Pregunta la hora, mira tu reloj.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-16T03:58:48.236674"
+    },
+    {
+      "english": "Say 'please', always with courtesy.",
+      "spanish": "Di 'por favor', siempre con cortesía.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-16T03:58:48.236675"
+    },
+    {
+      "english": "Learn 'yes' and 'no', essential responses.",
+      "spanish": "Aprende 'sí' y 'no', respuestas esenciales.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-16T03:58:48.236675"
+    },
+    {
+      "english": "Enjoy local customs, embrace traditions.",
+      "spanish": "Disfruta costumbres locales, abraza tradiciones.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-16T03:58:48.236676"
+    },
+    {
+      "english": "Take a deep breath, soak it in.",
+      "spanish": "Respira profundo, empápate.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-16T03:58:48.236677"
+    },
+    {
+      "english": "Ask for a clean table, dine well.",
+      "spanish": "Pide una mesa limpia, come bien.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-16T03:58:48.236677"
+    },
+    {
+      "english": "Learn 'thank you', express appreciation.",
+      "spanish": "Aprende 'gracias', expresa gratitud.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-16T03:58:48.236678"
+    },
+    {
+      "english": "Try public transport, see the city.",
+      "spanish": "Usa transporte público, ve la ciudad.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-16T03:58:48.236679"
+    },
+    {
+      "english": "Ask about the weather, prepare yourself.",
+      "spanish": "Pregunta por el clima, prepárate.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-16T03:58:48.236680"
+    },
+    {
+      "english": "Learn common signs, navigate easily.",
+      "spanish": "Aprende señales comunes, navega fácil.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-16T03:58:48.236680"
+    },
+    {
+      "english": "Say 'hello', greet everyone.",
+      "spanish": "Di 'hola', saluda a todos.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-16T03:58:48.236681"
+    },
+    {
+      "english": "Enjoy a local drink, quench your thirst.",
+      "spanish": "Disfruta una bebida local, refréscate.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-16T03:58:48.236683"
+    },
+    {
+      "english": "Ask for directions, find your way.",
+      "spanish": "Pide indicaciones, encuentra tu camino.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-16T03:58:48.236684"
+    },
+    {
+      "english": "Learn 'goodbye', leave politely.",
+      "spanish": "Aprende 'adiós', despídete con educación.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-16T03:58:48.236685"
+    },
+    {
+      "english": "Try a local cheese, taste the region.",
+      "spanish": "Prueba un queso local, saborea la región.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-16T03:58:48.236686"
+    },
+    {
+      "english": "Say 'pardon me', for a mistake.",
+      "spanish": "Di 'perdón', por un error.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-16T03:58:48.236686"
+    },
+    {
+      "english": "Learn 'I don't understand', signal difficulty.",
+      "spanish": "Aprende 'no entiendo', indica problema.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-16T03:58:48.236687"
+    },
+    {
+      "english": "Visit a plaza, people watch.",
+      "spanish": "Visita una plaza, mira a la gente.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-16T03:58:48.236688"
+    },
+    {
+      "english": "Ask for a napkin, keep tidy.",
+      "spanish": "Pide una servilleta, mantente limpio.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-16T03:58:48.236688"
+    },
+    {
+      "english": "Learn 'how much', inquire prices.",
+      "spanish": "Aprende 'cuánto cuesta', pregunta precios.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-16T03:58:48.236689"
+    },
+    {
+      "english": "Say 'cheers', toast your friends.",
+      "spanish": "Di 'salud', brinda con amigos.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-16T03:58:48.236690"
+    },
+    {
+      "english": "Try a new fruit, discover flavors.",
+      "spanish": "Prueba una fruta nueva, descubre sabores.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-16T03:58:48.236691"
     }
   ],
-  "last_updated": "2026-07-15T03:53:07.766065"
+  "last_updated": "2026-07-16T03:58:48.236692"
 }
