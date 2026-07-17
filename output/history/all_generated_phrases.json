@@ -2879,7 +2879,727 @@
       "spanish": "Prueba una fruta nueva, descubre sabores.",
       "category": "Gratitude",
       "generated_at": "2026-07-16T03:58:48.236691"
+    },
+    {
+      "english": "Dare to smile, brighter than the sun.",
+      "spanish": "Atrévete a sonreír, más brillante que el sol.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T03:55:13.922852"
+    },
+    {
+      "english": "Be brave, chase your dreams.",
+      "spanish": "Sé valiente, persigue tus sueños.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T03:55:13.922864"
+    },
+    {
+      "english": "Take a chance, love is calling.",
+      "spanish": "Arriésgate, el amor te llama.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T03:55:13.922865"
+    },
+    {
+      "english": "Don't be shy, say hello.",
+      "spanish": "No seas tímido, di hola.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T03:55:13.922866"
+    },
+    {
+      "english": "Have courage, ask for more.",
+      "spanish": "Ten coraje, pide más.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T03:55:13.922867"
+    },
+    {
+      "english": "Be bold, speak your mind.",
+      "spanish": "Sé audaz, di lo que piensas.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T03:55:13.922868"
+    },
+    {
+      "english": "Go for it, what's to lose?",
+      "spanish": "Ve por ello, ¿qué hay que perder?",
+      "category": "Courage",
+      "generated_at": "2026-07-17T03:55:13.922869"
+    },
+    {
+      "english": "Show your heart, it's beautiful.",
+      "spanish": "Muestra tu corazón, es hermoso.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T03:55:13.922871"
+    },
+    {
+      "english": "Let your spirit soar, fly high.",
+      "spanish": "Deja tu espíritu volar, vuela alto.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T03:55:13.922873"
+    },
+    {
+      "english": "Embrace the challenge, grow stronger.",
+      "spanish": "Abraza el reto, hazte más fuerte.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T03:55:13.922874"
+    },
+    {
+      "english": "Be daring, life is an adventure.",
+      "spanish": "Sé atrevido, la vida es una aventura.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T03:55:13.922875"
+    },
+    {
+      "english": "Step forward, find your path.",
+      "spanish": "Da un paso adelante, encuentra tu camino.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T03:55:13.922876"
+    },
+    {
+      "english": "Risk a glance, meet my eyes.",
+      "spanish": "Arriesga una mirada, cruza mis ojos.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T03:55:13.922877"
+    },
+    {
+      "english": "Be courageous, take my hand.",
+      "spanish": "Sé valiente, toma mi mano.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T03:55:13.922878"
+    },
+    {
+      "english": "Don't hesitate, just ask.",
+      "spanish": "No dudes, solo pregunta.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T03:55:13.922878"
+    },
+    {
+      "english": "Have the nerve, tell me secrets.",
+      "spanish": "Ten el valor, cuéntame secretos.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T03:55:13.922879"
+    },
+    {
+      "english": "Be strong, love conquers all.",
+      "spanish": "Sé fuerte, el amor todo lo vence.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T03:55:13.922880"
+    },
+    {
+      "english": "Gutsy move, I like that.",
+      "spanish": "Movimiento audaz, me gusta eso.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T03:55:13.922881"
+    },
+    {
+      "english": "Stand tall, show your power.",
+      "spanish": "Párate derecho, muestra tu poder.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T03:55:13.922882"
+    },
+    {
+      "english": "Face it head-on, with a wink.",
+      "spanish": "Enfréntalo de frente, con un guiño.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T03:55:13.922883"
+    },
+    {
+      "english": "Brave spirit, burning bright.",
+      "spanish": "Espíritu audaz, ardiendo brillante.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T03:55:13.922884"
+    },
+    {
+      "english": " Dare to dream, bigger than life.",
+      "spanish": "Atrévete a soñar, más grande que la vida.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T03:55:13.922885"
+    },
+    {
+      "english": "Take a leap, trust your heart.",
+      "spanish": "Da un salto, confía en tu corazón.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T03:55:13.922885"
+    },
+    {
+      "english": "Be fearless, explore the unknown.",
+      "spanish": "Sé intrépido, explora lo desconocido.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T03:55:13.922886"
+    },
+    {
+      "english": "Show some grit, win my favor.",
+      "spanish": "Muestra algo de temple, gana mi favor.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T03:55:13.922887"
+    },
+    {
+      "english": "Have courage, ask me out.",
+      "spanish": "Ten coraje, invítame a salir.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T03:55:13.922888"
+    },
+    {
+      "english": "Be daring, take my hand now.",
+      "spanish": "Sé audaz, toma mi mano ahora.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T03:55:13.922888"
+    },
+    {
+      "english": "Don't be afraid, just try.",
+      "spanish": "No tengas miedo, solo intenta.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T03:55:13.922889"
+    },
+    {
+      "english": "Be bold, steal a kiss.",
+      "spanish": "Sé atrevido, roba un beso.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T03:55:13.922890"
+    },
+    {
+      "english": "Rise to the occasion, be amazing.",
+      "spanish": "Eleva a la ocasión, sé asombroso.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T03:55:13.922891"
+    },
+    {
+      "english": "Show your strength, I'm impressed.",
+      "spanish": "Muestra tu fuerza, estoy impresionado.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T03:55:13.922891"
+    },
+    {
+      "english": "Have conviction, believe in us.",
+      "spanish": "Ten convicción, cree en nosotros.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T03:55:13.922892"
+    },
+    {
+      "english": "Be valiant, conquer my heart.",
+      "spanish": "Sé valiente, conquista mi corazón.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T03:55:13.922893"
+    },
+    {
+      "english": "Dare to dance, with me tonight.",
+      "spanish": "Atrévete a bailar, conmigo esta noche.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T03:55:13.922894"
+    },
+    {
+      "english": "Step up, make a move.",
+      "spanish": "Da un paso, haz un movimiento.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T03:55:13.922894"
+    },
+    {
+      "english": "Have the courage, to say yes.",
+      "spanish": "Ten el coraje, de decir sí.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T03:55:13.922895"
+    },
+    {
+      "english": "Be brave, chase that feeling.",
+      "spanish": "Sé valiente, persigue ese sentimiento.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T03:55:13.922896"
+    },
+    {
+      "english": "Take a chance, on love.",
+      "spanish": "Arriésgate, por el amor.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T03:55:13.922896"
+    },
+    {
+      "english": "Bold action, wins the day.",
+      "spanish": "Acción audaz, gana el día.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T03:55:13.922897"
+    },
+    {
+      "english": "Dare to be different, it's lovely.",
+      "spanish": "Atrévete a ser diferente, es encantador.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T03:55:13.922898"
+    },
+    {
+      "english": "Dare to smile, brighter than the sun.",
+      "spanish": "Atrévete a sonreír, más brillante que el sol.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T03:55:13.922899"
+    },
+    {
+      "english": "Be brave, chase your dreams.",
+      "spanish": "Sé valiente, persigue tus sueños.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T03:55:13.922900"
+    },
+    {
+      "english": "Take a chance, love is calling.",
+      "spanish": "Arriésgate, el amor te llama.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T03:55:13.922901"
+    },
+    {
+      "english": "Don't be shy, say hello.",
+      "spanish": "No seas tímido, di hola.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T03:55:13.922902"
+    },
+    {
+      "english": "Have courage, ask for more.",
+      "spanish": "Ten coraje, pide más.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T03:55:13.922903"
+    },
+    {
+      "english": "Be bold, speak your mind.",
+      "spanish": "Sé audaz, di lo que piensas.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T03:55:13.922904"
+    },
+    {
+      "english": "Go for it, what's to lose?",
+      "spanish": "Ve por ello, ¿qué hay que perder?",
+      "category": "Courage",
+      "generated_at": "2026-07-17T03:55:13.922905"
+    },
+    {
+      "english": "Show your heart, it's beautiful.",
+      "spanish": "Muestra tu corazón, es hermoso.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T03:55:13.922906"
+    },
+    {
+      "english": "Let your spirit soar, fly high.",
+      "spanish": "Deja tu espíritu volar, vuela alto.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T03:55:13.922906"
+    },
+    {
+      "english": "Embrace the challenge, grow stronger.",
+      "spanish": "Abraza el reto, hazte más fuerte.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T03:55:13.922907"
+    },
+    {
+      "english": "Be daring, life is an adventure.",
+      "spanish": "Sé atrevido, la vida es una aventura.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T03:55:13.922908"
+    },
+    {
+      "english": "Step forward, find your path.",
+      "spanish": "Da un paso adelante, encuentra tu camino.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T03:55:13.922909"
+    },
+    {
+      "english": "Risk a glance, meet my eyes.",
+      "spanish": "Arriesga una mirada, cruza mis ojos.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T03:55:13.922910"
+    },
+    {
+      "english": "Be courageous, take my hand.",
+      "spanish": "Sé valiente, toma mi mano.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T03:55:13.922911"
+    },
+    {
+      "english": "Don't hesitate, just ask.",
+      "spanish": "No dudes, solo pregunta.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T03:55:13.922912"
+    },
+    {
+      "english": "Have the nerve, tell me secrets.",
+      "spanish": "Ten el valor, cuéntame secretos.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T03:55:13.922913"
+    },
+    {
+      "english": "Be strong, love conquers all.",
+      "spanish": "Sé fuerte, el amor todo lo vence.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T03:55:13.922914"
+    },
+    {
+      "english": "Gutsy move, I like that.",
+      "spanish": "Movimiento audaz, me gusta eso.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T03:55:13.922915"
+    },
+    {
+      "english": "Stand tall, show your power.",
+      "spanish": "Párate derecho, muestra tu poder.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T03:55:13.922915"
+    },
+    {
+      "english": "Face it head-on, with a wink.",
+      "spanish": "Enfréntalo de frente, con un guiño.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T03:55:13.922916"
+    },
+    {
+      "english": "Brave spirit, burning bright.",
+      "spanish": "Espíritu audaz, ardiendo brillante.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T03:55:13.922917"
+    },
+    {
+      "english": " Dare to dream, bigger than life.",
+      "spanish": "Atrévete a soñar, más grande que la vida.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T03:55:13.922918"
+    },
+    {
+      "english": "Take a leap, trust your heart.",
+      "spanish": "Da un salto, confía en tu corazón.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T03:55:13.922919"
+    },
+    {
+      "english": "Be fearless, explore the unknown.",
+      "spanish": "Sé intrépido, explora lo desconocido.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T03:55:13.922920"
+    },
+    {
+      "english": "Show some grit, win my favor.",
+      "spanish": "Muestra algo de temple, gana mi favor.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T03:55:13.922920"
+    },
+    {
+      "english": "Have courage, ask me out.",
+      "spanish": "Ten coraje, invítame a salir.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T03:55:13.922921"
+    },
+    {
+      "english": "Be daring, take my hand now.",
+      "spanish": "Sé audaz, toma mi mano ahora.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T03:55:13.922922"
+    },
+    {
+      "english": "Don't be afraid, just try.",
+      "spanish": "No tengas miedo, solo intenta.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T03:55:13.922923"
+    },
+    {
+      "english": "Be bold, steal a kiss.",
+      "spanish": "Sé atrevido, roba un beso.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T03:55:13.922924"
+    },
+    {
+      "english": "Rise to the occasion, be amazing.",
+      "spanish": "Eleva a la ocasión, sé asombroso.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T03:55:13.922925"
+    },
+    {
+      "english": "Show your strength, I'm impressed.",
+      "spanish": "Muestra tu fuerza, estoy impresionado.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T03:55:13.922925"
+    },
+    {
+      "english": "Have conviction, believe in us.",
+      "spanish": "Ten convicción, cree en nosotros.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T03:55:13.922926"
+    },
+    {
+      "english": "Be valiant, conquer my heart.",
+      "spanish": "Sé valiente, conquista mi corazón.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T03:55:13.922927"
+    },
+    {
+      "english": "Dare to dance, with me tonight.",
+      "spanish": "Atrévete a bailar, conmigo esta noche.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T03:55:13.922928"
+    },
+    {
+      "english": "Step up, make a move.",
+      "spanish": "Da un paso, haz un movimiento.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T03:55:13.922929"
+    },
+    {
+      "english": "Have the courage, to say yes.",
+      "spanish": "Ten el coraje, de decir sí.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T03:55:13.922930"
+    },
+    {
+      "english": "Be brave, chase that feeling.",
+      "spanish": "Sé valiente, persigue ese sentimiento.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T03:55:13.922930"
+    },
+    {
+      "english": "Take a chance, on love.",
+      "spanish": "Arriésgate, por el amor.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T03:55:13.922931"
+    },
+    {
+      "english": "Bold action, wins the day.",
+      "spanish": "Acción audaz, gana el día.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T03:55:13.922932"
+    },
+    {
+      "english": "Dare to be different, it's lovely.",
+      "spanish": "Atrévete a ser diferente, es encantador.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T03:55:13.922933"
+    },
+    {
+      "english": "Dare to smile, brighter than the sun.",
+      "spanish": "Atrévete a sonreír, más brillante que el sol.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T03:55:13.922934"
+    },
+    {
+      "english": "Be brave, chase your dreams.",
+      "spanish": "Sé valiente, persigue tus sueños.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T03:55:13.922934"
+    },
+    {
+      "english": "Take a chance, love is calling.",
+      "spanish": "Arriésgate, el amor te llama.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T03:55:13.922935"
+    },
+    {
+      "english": "Don't be shy, say hello.",
+      "spanish": "No seas tímido, di hola.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T03:55:13.922936"
+    },
+    {
+      "english": "Have courage, ask for more.",
+      "spanish": "Ten coraje, pide más.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T03:55:13.922937"
+    },
+    {
+      "english": "Be bold, speak your mind.",
+      "spanish": "Sé audaz, di lo que piensas.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T03:55:13.922938"
+    },
+    {
+      "english": "Go for it, what's to lose?",
+      "spanish": "Ve por ello, ¿qué hay que perder?",
+      "category": "Courage",
+      "generated_at": "2026-07-17T03:55:13.922938"
+    },
+    {
+      "english": "Show your heart, it's beautiful.",
+      "spanish": "Muestra tu corazón, es hermoso.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T03:55:13.922939"
+    },
+    {
+      "english": "Let your spirit soar, fly high.",
+      "spanish": "Deja tu espíritu volar, vuela alto.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T03:55:13.922940"
+    },
+    {
+      "english": "Embrace the challenge, grow stronger.",
+      "spanish": "Abraza el reto, hazte más fuerte.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T03:55:13.922941"
+    },
+    {
+      "english": "Be daring, life is an adventure.",
+      "spanish": "Sé atrevido, la vida es una aventura.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T03:55:13.922941"
+    },
+    {
+      "english": "Step forward, find your path.",
+      "spanish": "Da un paso adelante, encuentra tu camino.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T03:55:13.922942"
+    },
+    {
+      "english": "Risk a glance, meet my eyes.",
+      "spanish": "Arriesga una mirada, cruza mis ojos.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T03:55:13.922943"
+    },
+    {
+      "english": "Be courageous, take my hand.",
+      "spanish": "Sé valiente, toma mi mano.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T03:55:13.922944"
+    },
+    {
+      "english": "Don't hesitate, just ask.",
+      "spanish": "No dudes, solo pregunta.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T03:55:13.922944"
+    },
+    {
+      "english": "Have the nerve, tell me secrets.",
+      "spanish": "Ten el valor, cuéntame secretos.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T03:55:13.922945"
+    },
+    {
+      "english": "Be strong, love conquers all.",
+      "spanish": "Sé fuerte, el amor todo lo vence.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T03:55:13.922946"
+    },
+    {
+      "english": "Gutsy move, I like that.",
+      "spanish": "Movimiento audaz, me gusta eso.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T03:55:13.922947"
+    },
+    {
+      "english": "Stand tall, show your power.",
+      "spanish": "Párate derecho, muestra tu poder.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T03:55:13.922947"
+    },
+    {
+      "english": "Face it head-on, with a wink.",
+      "spanish": "Enfréntalo de frente, con un guiño.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T03:55:13.922948"
+    },
+    {
+      "english": "Brave spirit, burning bright.",
+      "spanish": "Espíritu audaz, ardiendo brillante.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T03:55:13.922949"
+    },
+    {
+      "english": " Dare to dream, bigger than life.",
+      "spanish": "Atrévete a soñar, más grande que la vida.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T03:55:13.922950"
+    },
+    {
+      "english": "Take a leap, trust your heart.",
+      "spanish": "Da un salto, confía en tu corazón.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T03:55:13.922950"
+    },
+    {
+      "english": "Be fearless, explore the unknown.",
+      "spanish": "Sé intrépido, explora lo desconocido.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T03:55:13.922951"
+    },
+    {
+      "english": "Show some grit, win my favor.",
+      "spanish": "Muestra algo de temple, gana mi favor.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T03:55:13.922952"
+    },
+    {
+      "english": "Have courage, ask me out.",
+      "spanish": "Ten coraje, invítame a salir.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T03:55:13.922953"
+    },
+    {
+      "english": "Be daring, take my hand now.",
+      "spanish": "Sé audaz, toma mi mano ahora.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T03:55:13.922953"
+    },
+    {
+      "english": "Don't be afraid, just try.",
+      "spanish": "No tengas miedo, solo intenta.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T03:55:13.922954"
+    },
+    {
+      "english": "Be bold, steal a kiss.",
+      "spanish": "Sé atrevido, roba un beso.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T03:55:13.922955"
+    },
+    {
+      "english": "Rise to the occasion, be amazing.",
+      "spanish": "Eleva a la ocasión, sé asombroso.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T03:55:13.922955"
+    },
+    {
+      "english": "Show your strength, I'm impressed.",
+      "spanish": "Muestra tu fuerza, estoy impresionado.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T03:55:13.922956"
+    },
+    {
+      "english": "Have conviction, believe in us.",
+      "spanish": "Ten convicción, cree en nosotros.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T03:55:13.922957"
+    },
+    {
+      "english": "Be valiant, conquer my heart.",
+      "spanish": "Sé valiente, conquista mi corazón.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T03:55:13.922958"
+    },
+    {
+      "english": "Dare to dance, with me tonight.",
+      "spanish": "Atrévete a bailar, conmigo esta noche.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T03:55:13.922960"
+    },
+    {
+      "english": "Step up, make a move.",
+      "spanish": "Da un paso, haz un movimiento.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T03:55:13.922960"
+    },
+    {
+      "english": "Have the courage, to say yes.",
+      "spanish": "Ten el coraje, de decir sí.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T03:55:13.922963"
+    },
+    {
+      "english": "Be brave, chase that feeling.",
+      "spanish": "Sé valiente, persigue ese sentimiento.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T03:55:13.922964"
+    },
+    {
+      "english": "Take a chance, on love.",
+      "spanish": "Arriésgate, por el amor.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T03:55:13.922965"
+    },
+    {
+      "english": "Bold action, wins the day.",
+      "spanish": "Acción audaz, gana el día.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T03:55:13.922966"
+    },
+    {
+      "english": "Dare to be different, it's lovely.",
+      "spanish": "Atrévete a ser diferente, es encantador.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T03:55:13.922967"
     }
   ],
-  "last_updated": "2026-07-16T03:58:48.236692"
+  "last_updated": "2026-07-17T03:55:13.922968"
 }
