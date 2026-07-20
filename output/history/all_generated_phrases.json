@@ -5039,7 +5039,727 @@
       "spanish": "Llegarás allí, al final.",
       "category": "Perseverance",
       "generated_at": "2026-07-19T04:17:05.081104"
+    },
+    {
+      "english": "Shine bright, like the sun.",
+      "spanish": "Brilla fuerte, como el sol.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-20T04:30:34.736421"
+    },
+    {
+      "english": "Every moment, a new gift.",
+      "spanish": "Cada momento, un regalo nuevo.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-20T04:30:34.736430"
+    },
+    {
+      "english": "Grow where planted, bloom.",
+      "spanish": "Crece donde te plantan, florece.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-20T04:30:34.736432"
+    },
+    {
+      "english": "Listen to your heart, always.",
+      "spanish": "Escucha a tu corazón, siempre.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-20T04:30:34.736433"
+    },
+    {
+      "english": "Good thoughts, bring good things.",
+      "spanish": "Buenos pensamientos, traen cosas buenas.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-20T04:30:34.736434"
+    },
+    {
+      "english": "Find joy, in small things.",
+      "spanish": "Encuentra alegría, en cosas pequeñas.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-20T04:30:34.736435"
+    },
+    {
+      "english": "Be kind, spread compassion.",
+      "spanish": "Sé amable, esparce compasión.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-20T04:30:34.736437"
+    },
+    {
+      "english": "Your spirit, is powerful.",
+      "spanish": "Tu espíritu, es poderoso.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-20T04:30:34.736439"
+    },
+    {
+      "english": "Live simply, love deeply.",
+      "spanish": "Vive sencillo, ama profundo.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-20T04:30:34.736441"
+    },
+    {
+      "english": "Each day, a fresh start.",
+      "spanish": "Cada día, un nuevo comienzo.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-20T04:30:34.736442"
+    },
+    {
+      "english": "Let peace, guide you.",
+      "spanish": "Deja que la paz, te guíe.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-20T04:30:34.736443"
+    },
+    {
+      "english": "Wisdom comes, with time.",
+      "spanish": "La sabiduría llega, con tiempo.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-20T04:30:34.736445"
+    },
+    {
+      "english": "Open your mind, to new.",
+      "spanish": "Abre tu mente, a lo nuevo.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-20T04:30:34.736446"
+    },
+    {
+      "english": "Embrace change, with joy.",
+      "spanish": "Abraza el cambio, con alegría.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-20T04:30:34.736447"
+    },
+    {
+      "english": "Your smile, is a gift.",
+      "spanish": "Tu sonrisa, es un regalo.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-20T04:30:34.736448"
+    },
+    {
+      "english": "Be present, truly.",
+      "spanish": "Sé presente, de verdad.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-20T04:30:34.736449"
+    },
+    {
+      "english": "Kindness costs nothing, means much.",
+      "spanish": "La bondad no cuesta, vale mucho.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-20T04:30:34.736450"
+    },
+    {
+      "english": "Find your passion, ignite it.",
+      "spanish": "Encuentra tu pasión, enciéndela.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-20T04:30:34.736451"
+    },
+    {
+      "english": "Gratitude, opens doors.",
+      "spanish": "La gratitud, abre puertas.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-20T04:30:34.736452"
+    },
+    {
+      "english": "Celebrate small wins.",
+      "spanish": "Celebra las pequeñas victorias.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-20T04:30:34.736453"
+    },
+    {
+      "english": "Love yourself, first.",
+      "spanish": "Ámate a ti, primero.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-20T04:30:34.736454"
+    },
+    {
+      "english": "Create your own sunshine.",
+      "spanish": "Crea tu propio sol.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-20T04:30:34.736456"
+    },
+    {
+      "english": "Truth sets you free.",
+      "spanish": "La verdad te libera.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-20T04:30:34.736457"
+    },
+    {
+      "english": "Be a light, in darkness.",
+      "spanish": "Sé una luz, en la oscuridad.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-20T04:30:34.736458"
+    },
+    {
+      "english": "Patience, brings reward.",
+      "spanish": "La paciencia, trae recompensa.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-20T04:30:34.736459"
+    },
+    {
+      "english": "Listen to the silence.",
+      "spanish": "Escucha el silencio.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-20T04:30:34.736460"
+    },
+    {
+      "english": "Your purpose, is unfolding.",
+      "spanish": "Tu propósito, se despliega.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-20T04:30:34.736462"
+    },
+    {
+      "english": "Spread good vibes, always.",
+      "spanish": "Esparce buenas vibras, siempre.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-20T04:30:34.736463"
+    },
+    {
+      "english": "Dare to dream, big.",
+      "spanish": "Atrévete a soñar, en grande.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-20T04:30:34.736464"
+    },
+    {
+      "english": "Forgive, to heal.",
+      "spanish": "Perdona, para sanar.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-20T04:30:34.736465"
+    },
+    {
+      "english": "Inner peace, matters most.",
+      "spanish": "La paz interior, importa más.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-20T04:30:34.736466"
+    },
+    {
+      "english": "Believe in goodness, everywhere.",
+      "spanish": "Cree en la bondad, en todo lugar.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-20T04:30:34.736467"
+    },
+    {
+      "english": "Your truth, will shine.",
+      "spanish": "Tu verdad, brillará.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-20T04:30:34.736468"
+    },
+    {
+      "english": "Embrace the present, moment.",
+      "spanish": "Abraza el momento, presente.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-20T04:30:34.736469"
+    },
+    {
+      "english": "Be grateful, for life.",
+      "spanish": "Sé agradecido, por la vida.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-20T04:30:34.736470"
+    },
+    {
+      "english": "Spread love, like a virus.",
+      "spanish": "Esparce amor, como un virus.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-20T04:30:34.736471"
+    },
+    {
+      "english": "Shine bright, like the sun.",
+      "spanish": "Brilla fuerte, como el sol.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-20T04:30:34.736472"
+    },
+    {
+      "english": "Every moment, a new gift.",
+      "spanish": "Cada momento, un regalo nuevo.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-20T04:30:34.736473"
+    },
+    {
+      "english": "Grow where planted, bloom.",
+      "spanish": "Crece donde te plantan, florece.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-20T04:30:34.736474"
+    },
+    {
+      "english": "Listen to your heart, always.",
+      "spanish": "Escucha a tu corazón, siempre.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-20T04:30:34.736475"
+    },
+    {
+      "english": "Good thoughts, bring good things.",
+      "spanish": "Buenos pensamientos, traen cosas buenas.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-20T04:30:34.736477"
+    },
+    {
+      "english": "Find joy, in small things.",
+      "spanish": "Encuentra alegría, en cosas pequeñas.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-20T04:30:34.736478"
+    },
+    {
+      "english": "Be kind, spread compassion.",
+      "spanish": "Sé amable, esparce compasión.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-20T04:30:34.736479"
+    },
+    {
+      "english": "Your spirit, is powerful.",
+      "spanish": "Tu espíritu, es poderoso.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-20T04:30:34.736480"
+    },
+    {
+      "english": "Live simply, love deeply.",
+      "spanish": "Vive sencillo, ama profundo.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-20T04:30:34.736481"
+    },
+    {
+      "english": "Each day, a fresh start.",
+      "spanish": "Cada día, un nuevo comienzo.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-20T04:30:34.736486"
+    },
+    {
+      "english": "Let peace, guide you.",
+      "spanish": "Deja que la paz, te guíe.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-20T04:30:34.736488"
+    },
+    {
+      "english": "Wisdom comes, with time.",
+      "spanish": "La sabiduría llega, con tiempo.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-20T04:30:34.736489"
+    },
+    {
+      "english": "Open your mind, to new.",
+      "spanish": "Abre tu mente, a lo nuevo.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-20T04:30:34.736490"
+    },
+    {
+      "english": "Embrace change, with joy.",
+      "spanish": "Abraza el cambio, con alegría.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-20T04:30:34.736491"
+    },
+    {
+      "english": "Your smile, is a gift.",
+      "spanish": "Tu sonrisa, es un regalo.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-20T04:30:34.736492"
+    },
+    {
+      "english": "Be present, truly.",
+      "spanish": "Sé presente, de verdad.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-20T04:30:34.736493"
+    },
+    {
+      "english": "Kindness costs nothing, means much.",
+      "spanish": "La bondad no cuesta, vale mucho.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-20T04:30:34.736494"
+    },
+    {
+      "english": "Find your passion, ignite it.",
+      "spanish": "Encuentra tu pasión, enciéndela.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-20T04:30:34.736495"
+    },
+    {
+      "english": "Gratitude, opens doors.",
+      "spanish": "La gratitud, abre puertas.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-20T04:30:34.736496"
+    },
+    {
+      "english": "Celebrate small wins.",
+      "spanish": "Celebra las pequeñas victorias.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-20T04:30:34.736497"
+    },
+    {
+      "english": "Love yourself, first.",
+      "spanish": "Ámate a ti, primero.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-20T04:30:34.736498"
+    },
+    {
+      "english": "Create your own sunshine.",
+      "spanish": "Crea tu propio sol.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-20T04:30:34.736499"
+    },
+    {
+      "english": "Truth sets you free.",
+      "spanish": "La verdad te libera.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-20T04:30:34.736500"
+    },
+    {
+      "english": "Be a light, in darkness.",
+      "spanish": "Sé una luz, en la oscuridad.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-20T04:30:34.736502"
+    },
+    {
+      "english": "Patience, brings reward.",
+      "spanish": "La paciencia, trae recompensa.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-20T04:30:34.736503"
+    },
+    {
+      "english": "Listen to the silence.",
+      "spanish": "Escucha el silencio.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-20T04:30:34.736504"
+    },
+    {
+      "english": "Your purpose, is unfolding.",
+      "spanish": "Tu propósito, se despliega.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-20T04:30:34.736505"
+    },
+    {
+      "english": "Spread good vibes, always.",
+      "spanish": "Esparce buenas vibras, siempre.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-20T04:30:34.736506"
+    },
+    {
+      "english": "Dare to dream, big.",
+      "spanish": "Atrévete a soñar, en grande.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-20T04:30:34.736507"
+    },
+    {
+      "english": "Forgive, to heal.",
+      "spanish": "Perdona, para sanar.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-20T04:30:34.736508"
+    },
+    {
+      "english": "Inner peace, matters most.",
+      "spanish": "La paz interior, importa más.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-20T04:30:34.736509"
+    },
+    {
+      "english": "Believe in goodness, everywhere.",
+      "spanish": "Cree en la bondad, en todo lugar.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-20T04:30:34.736510"
+    },
+    {
+      "english": "Your truth, will shine.",
+      "spanish": "Tu verdad, brillará.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-20T04:30:34.736511"
+    },
+    {
+      "english": "Embrace the present, moment.",
+      "spanish": "Abraza el momento, presente.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-20T04:30:34.736512"
+    },
+    {
+      "english": "Be grateful, for life.",
+      "spanish": "Sé agradecido, por la vida.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-20T04:30:34.736513"
+    },
+    {
+      "english": "Spread love, like a virus.",
+      "spanish": "Esparce amor, como un virus.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-20T04:30:34.736514"
+    },
+    {
+      "english": "Shine bright, like the sun.",
+      "spanish": "Brilla fuerte, como el sol.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-20T04:30:34.736515"
+    },
+    {
+      "english": "Every moment, a new gift.",
+      "spanish": "Cada momento, un regalo nuevo.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-20T04:30:34.736516"
+    },
+    {
+      "english": "Grow where planted, bloom.",
+      "spanish": "Crece donde te plantan, florece.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-20T04:30:34.736517"
+    },
+    {
+      "english": "Listen to your heart, always.",
+      "spanish": "Escucha a tu corazón, siempre.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-20T04:30:34.736518"
+    },
+    {
+      "english": "Good thoughts, bring good things.",
+      "spanish": "Buenos pensamientos, traen cosas buenas.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-20T04:30:34.736519"
+    },
+    {
+      "english": "Find joy, in small things.",
+      "spanish": "Encuentra alegría, en cosas pequeñas.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-20T04:30:34.736520"
+    },
+    {
+      "english": "Be kind, spread compassion.",
+      "spanish": "Sé amable, esparce compasión.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-20T04:30:34.736521"
+    },
+    {
+      "english": "Your spirit, is powerful.",
+      "spanish": "Tu espíritu, es poderoso.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-20T04:30:34.736522"
+    },
+    {
+      "english": "Live simply, love deeply.",
+      "spanish": "Vive sencillo, ama profundo.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-20T04:30:34.736523"
+    },
+    {
+      "english": "Each day, a fresh start.",
+      "spanish": "Cada día, un nuevo comienzo.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-20T04:30:34.736524"
+    },
+    {
+      "english": "Let peace, guide you.",
+      "spanish": "Deja que la paz, te guíe.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-20T04:30:34.736525"
+    },
+    {
+      "english": "Wisdom comes, with time.",
+      "spanish": "La sabiduría llega, con tiempo.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-20T04:30:34.736527"
+    },
+    {
+      "english": "Open your mind, to new.",
+      "spanish": "Abre tu mente, a lo nuevo.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-20T04:30:34.736528"
+    },
+    {
+      "english": "Embrace change, with joy.",
+      "spanish": "Abraza el cambio, con alegría.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-20T04:30:34.736529"
+    },
+    {
+      "english": "Your smile, is a gift.",
+      "spanish": "Tu sonrisa, es un regalo.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-20T04:30:34.736530"
+    },
+    {
+      "english": "Be present, truly.",
+      "spanish": "Sé presente, de verdad.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-20T04:30:34.736531"
+    },
+    {
+      "english": "Kindness costs nothing, means much.",
+      "spanish": "La bondad no cuesta, vale mucho.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-20T04:30:34.736532"
+    },
+    {
+      "english": "Find your passion, ignite it.",
+      "spanish": "Encuentra tu pasión, enciéndela.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-20T04:30:34.736533"
+    },
+    {
+      "english": "Gratitude, opens doors.",
+      "spanish": "La gratitud, abre puertas.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-20T04:30:34.736534"
+    },
+    {
+      "english": "Celebrate small wins.",
+      "spanish": "Celebra las pequeñas victorias.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-20T04:30:34.736535"
+    },
+    {
+      "english": "Love yourself, first.",
+      "spanish": "Ámate a ti, primero.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-20T04:30:34.736536"
+    },
+    {
+      "english": "Create your own sunshine.",
+      "spanish": "Crea tu propio sol.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-20T04:30:34.736537"
+    },
+    {
+      "english": "Truth sets you free.",
+      "spanish": "La verdad te libera.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-20T04:30:34.736538"
+    },
+    {
+      "english": "Be a light, in darkness.",
+      "spanish": "Sé una luz, en la oscuridad.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-20T04:30:34.736541"
+    },
+    {
+      "english": "Patience, brings reward.",
+      "spanish": "La paciencia, trae recompensa.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-20T04:30:34.736542"
+    },
+    {
+      "english": "Listen to the silence.",
+      "spanish": "Escucha el silencio.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-20T04:30:34.736543"
+    },
+    {
+      "english": "Your purpose, is unfolding.",
+      "spanish": "Tu propósito, se despliega.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-20T04:30:34.736544"
+    },
+    {
+      "english": "Spread good vibes, always.",
+      "spanish": "Esparce buenas vibras, siempre.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-20T04:30:34.736545"
+    },
+    {
+      "english": "Dare to dream, big.",
+      "spanish": "Atrévete a soñar, en grande.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-20T04:30:34.736546"
+    },
+    {
+      "english": "Forgive, to heal.",
+      "spanish": "Perdona, para sanar.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-20T04:30:34.736547"
+    },
+    {
+      "english": "Inner peace, matters most.",
+      "spanish": "La paz interior, importa más.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-20T04:30:34.736548"
+    },
+    {
+      "english": "Believe in goodness, everywhere.",
+      "spanish": "Cree en la bondad, en todo lugar.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-20T04:30:34.736549"
+    },
+    {
+      "english": "Your truth, will shine.",
+      "spanish": "Tu verdad, brillará.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-20T04:30:34.736550"
+    },
+    {
+      "english": "Embrace the present, moment.",
+      "spanish": "Abraza el momento, presente.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-20T04:30:34.736551"
+    },
+    {
+      "english": "Be grateful, for life.",
+      "spanish": "Sé agradecido, por la vida.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-20T04:30:34.736552"
+    },
+    {
+      "english": "Spread love, like a virus.",
+      "spanish": "Esparce amor, como un virus.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-20T04:30:34.736553"
+    },
+    {
+      "english": "Shine bright, like the sun.",
+      "spanish": "Brilla fuerte, como el sol.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-20T04:30:34.736554"
+    },
+    {
+      "english": "Every moment, a new gift.",
+      "spanish": "Cada momento, un regalo nuevo.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-20T04:30:34.736555"
+    },
+    {
+      "english": "Grow where planted, bloom.",
+      "spanish": "Crece donde te plantan, florece.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-20T04:30:34.736556"
+    },
+    {
+      "english": "Listen to your heart, always.",
+      "spanish": "Escucha a tu corazón, siempre.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-20T04:30:34.736557"
+    },
+    {
+      "english": "Good thoughts, bring good things.",
+      "spanish": "Buenos pensamientos, traen cosas buenas.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-20T04:30:34.736558"
+    },
+    {
+      "english": "Find joy, in small things.",
+      "spanish": "Encuentra alegría, en cosas pequeñas.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-20T04:30:34.736559"
+    },
+    {
+      "english": "Be kind, spread compassion.",
+      "spanish": "Sé amable, esparce compasión.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-20T04:30:34.736560"
+    },
+    {
+      "english": "Your spirit, is powerful.",
+      "spanish": "Tu espíritu, es poderoso.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-20T04:30:34.736561"
+    },
+    {
+      "english": "Live simply, love deeply.",
+      "spanish": "Vive sencillo, ama profundo.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-20T04:30:34.736562"
+    },
+    {
+      "english": "Each day, a fresh start.",
+      "spanish": "Cada día, un nuevo comienzo.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-20T04:30:34.736563"
+    },
+    {
+      "english": "Let peace, guide you.",
+      "spanish": "Deja que la paz, te guíe.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-20T04:30:34.736564"
+    },
+    {
+      "english": "Wisdom comes, with time.",
+      "spanish": "La sabiduría llega, con tiempo.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-20T04:30:34.736565"
     }
   ],
-  "last_updated": "2026-07-19T04:17:05.081106"
+  "last_updated": "2026-07-20T04:30:34.736566"
 }
