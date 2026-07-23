@@ -6479,7 +6479,727 @@
       "spanish": "Sigue empujando, hacia adelante.",
       "category": "Motivation",
       "generated_at": "2026-07-21T04:09:59.308372"
+    },
+    {
+      "english": "To learn, is to grow.",
+      "spanish": "Aprender, es crecer.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T01:58:04.159637"
+    },
+    {
+      "english": "For connection, we speak.",
+      "spanish": "Para conectar, hablamos.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T01:58:04.159648"
+    },
+    {
+      "english": "To build, needs patience.",
+      "spanish": "Construir, requiere paciencia.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T01:58:04.159650"
+    },
+    {
+      "english": "We work, to achieve.",
+      "spanish": "Trabajamos, para lograr.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T01:58:04.159651"
+    },
+    {
+      "english": "To understand, listen well.",
+      "spanish": "Entender, escucha bien.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T01:58:04.159652"
+    },
+    {
+      "english": "For knowledge, we study.",
+      "spanish": "Por saber, estudiamos.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T01:58:04.159653"
+    },
+    {
+      "english": "To share, ideas bloom.",
+      "spanish": "Compartir, ideas florecen.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T01:58:04.159654"
+    },
+    {
+      "english": "We swim, to explore.",
+      "spanish": "Navegamos, para explorar.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T01:58:04.159657"
+    },
+    {
+      "english": "To create, we imagine.",
+      "spanish": "Crear, imaginamos.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T01:58:04.159658"
+    },
+    {
+      "english": "For joy, we sing.",
+      "spanish": "Por alegría, cantamos.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T01:58:04.159660"
+    },
+    {
+      "english": "To help, is our way.",
+      "spanish": "Ayudar, es nuestro camino.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T01:58:04.159661"
+    },
+    {
+      "english": "We walk, to discover.",
+      "spanish": "Caminamos, para descubrir.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T01:58:04.159662"
+    },
+    {
+      "english": "To inspire, we create.",
+      "spanish": "Inspirar, creamos.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T01:58:04.159663"
+    },
+    {
+      "english": "For beauty, we paint.",
+      "spanish": "Por belleza, pintamos.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T01:58:04.159665"
+    },
+    {
+      "english": "To heal, we care.",
+      "spanish": "Sanar, cuidamos.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T01:58:04.159666"
+    },
+    {
+      "english": "We fly, to reach.",
+      "spanish": "Volamos, para alcanzar.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T01:58:04.159667"
+    },
+    {
+      "english": "To teach, we guide.",
+      "spanish": "Enseñar, guiamos.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T01:58:04.159682"
+    },
+    {
+      "english": "For peace, we seek.",
+      "spanish": "Por paz, buscamos.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T01:58:04.159684"
+    },
+    {
+      "english": "We eat, to live.",
+      "spanish": "Comemos, para vivir.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T01:58:04.159685"
+    },
+    {
+      "english": "To save, we conserve.",
+      "spanish": "Salvar, conservamos.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T01:58:04.159686"
+    },
+    {
+      "english": "We run, to feel free.",
+      "spanish": "Corremos, para sentirnos libres.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T01:58:04.159687"
+    },
+    {
+      "english": "To find, we explore.",
+      "spanish": "Encontrar, exploramos.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T01:58:04.159690"
+    },
+    {
+      "english": "For love, we give.",
+      "spanish": "Por amor, damos.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T01:58:04.159691"
+    },
+    {
+      "english": "We dig, to find truth.",
+      "spanish": "Cavamos, para hallar verdad.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T01:58:04.159692"
+    },
+    {
+      "english": "To remember, we write.",
+      "spanish": "Recordar, escribimos.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T01:58:04.159693"
+    },
+    {
+      "english": "For art, we sculpt.",
+      "spanish": "Por arte, esculpimos.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T01:58:04.159694"
+    },
+    {
+      "english": "We listen, to understand.",
+      "spanish": "Escuchamos, para entender.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T01:58:04.159695"
+    },
+    {
+      "english": "To invent, we combine.",
+      "spanish": "Inventar, combinamos.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T01:58:04.159696"
+    },
+    {
+      "english": "For courage, we stand.",
+      "spanish": "Por coraje, aguantamos.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T01:58:04.159697"
+    },
+    {
+      "english": "We play, to connect.",
+      "spanish": "Jugamos, para conectar.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T01:58:04.159698"
+    },
+    {
+      "english": "To express, we speak.",
+      "spanish": "Expresar, hablamos.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T01:58:04.159699"
+    },
+    {
+      "english": "For change, we act.",
+      "spanish": "Para cambiar, actuamos.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T01:58:04.159700"
+    },
+    {
+      "english": "We dream, to aspire.",
+      "spanish": "Soñamos, para aspirar.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T01:58:04.159701"
+    },
+    {
+      "english": "To connect, we touch.",
+      "spanish": "Conectar, tocamos.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T01:58:04.159703"
+    },
+    {
+      "english": "We grow, for strength.",
+      "spanish": "Crecemos, por fuerza.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T01:58:04.159704"
+    },
+    {
+      "english": "To embrace, we open.",
+      "spanish": "Abrazar, abrimos.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T01:58:04.159705"
+    },
+    {
+      "english": "For light, we shine.",
+      "spanish": "Por luz, brillamos.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T01:58:04.159706"
+    },
+    {
+      "english": "We build, for future.",
+      "spanish": "Construimos, para futuro.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T01:58:04.159707"
+    },
+    {
+      "english": "To explore, we travel.",
+      "spanish": "Explorar, viajamos.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T01:58:04.159708"
+    },
+    {
+      "english": "For wisdom, we reflect.",
+      "spanish": "Por sabiduría, reflexionamos.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T01:58:04.159709"
+    },
+    {
+      "english": "To learn, is to grow.",
+      "spanish": "Aprender, es crecer.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T01:58:04.159710"
+    },
+    {
+      "english": "For connection, we speak.",
+      "spanish": "Para conectar, hablamos.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T01:58:04.159711"
+    },
+    {
+      "english": "To build, needs patience.",
+      "spanish": "Construir, requiere paciencia.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T01:58:04.159712"
+    },
+    {
+      "english": "We work, to achieve.",
+      "spanish": "Trabajamos, para lograr.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T01:58:04.159713"
+    },
+    {
+      "english": "To understand, listen well.",
+      "spanish": "Entender, escucha bien.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T01:58:04.159714"
+    },
+    {
+      "english": "For knowledge, we study.",
+      "spanish": "Por saber, estudiamos.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T01:58:04.159716"
+    },
+    {
+      "english": "To share, ideas bloom.",
+      "spanish": "Compartir, ideas florecen.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T01:58:04.159717"
+    },
+    {
+      "english": "We swim, to explore.",
+      "spanish": "Navegamos, para explorar.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T01:58:04.159727"
+    },
+    {
+      "english": "To create, we imagine.",
+      "spanish": "Crear, imaginamos.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T01:58:04.159728"
+    },
+    {
+      "english": "For joy, we sing.",
+      "spanish": "Por alegría, cantamos.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T01:58:04.159729"
+    },
+    {
+      "english": "To help, is our way.",
+      "spanish": "Ayudar, es nuestro camino.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T01:58:04.159730"
+    },
+    {
+      "english": "We walk, to discover.",
+      "spanish": "Caminamos, para descubrir.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T01:58:04.159731"
+    },
+    {
+      "english": "To inspire, we create.",
+      "spanish": "Inspirar, creamos.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T01:58:04.159732"
+    },
+    {
+      "english": "For beauty, we paint.",
+      "spanish": "Por belleza, pintamos.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T01:58:04.159733"
+    },
+    {
+      "english": "To heal, we care.",
+      "spanish": "Sanar, cuidamos.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T01:58:04.159735"
+    },
+    {
+      "english": "We fly, to reach.",
+      "spanish": "Volamos, para alcanzar.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T01:58:04.159736"
+    },
+    {
+      "english": "To teach, we guide.",
+      "spanish": "Enseñar, guiamos.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T01:58:04.159737"
+    },
+    {
+      "english": "For peace, we seek.",
+      "spanish": "Por paz, buscamos.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T01:58:04.159738"
+    },
+    {
+      "english": "We eat, to live.",
+      "spanish": "Comemos, para vivir.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T01:58:04.159739"
+    },
+    {
+      "english": "To save, we conserve.",
+      "spanish": "Salvar, conservamos.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T01:58:04.159740"
+    },
+    {
+      "english": "We run, to feel free.",
+      "spanish": "Corremos, para sentirnos libres.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T01:58:04.159741"
+    },
+    {
+      "english": "To find, we explore.",
+      "spanish": "Encontrar, exploramos.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T01:58:04.159742"
+    },
+    {
+      "english": "For love, we give.",
+      "spanish": "Por amor, damos.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T01:58:04.159743"
+    },
+    {
+      "english": "We dig, to find truth.",
+      "spanish": "Cavamos, para hallar verdad.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T01:58:04.159744"
+    },
+    {
+      "english": "To remember, we write.",
+      "spanish": "Recordar, escribimos.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T01:58:04.159745"
+    },
+    {
+      "english": "For art, we sculpt.",
+      "spanish": "Por arte, esculpimos.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T01:58:04.159746"
+    },
+    {
+      "english": "We listen, to understand.",
+      "spanish": "Escuchamos, para entender.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T01:58:04.159747"
+    },
+    {
+      "english": "To invent, we combine.",
+      "spanish": "Inventar, combinamos.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T01:58:04.159748"
+    },
+    {
+      "english": "For courage, we stand.",
+      "spanish": "Por coraje, aguantamos.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T01:58:04.159749"
+    },
+    {
+      "english": "We play, to connect.",
+      "spanish": "Jugamos, para conectar.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T01:58:04.159750"
+    },
+    {
+      "english": "To express, we speak.",
+      "spanish": "Expresar, hablamos.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T01:58:04.159752"
+    },
+    {
+      "english": "For change, we act.",
+      "spanish": "Para cambiar, actuamos.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T01:58:04.159753"
+    },
+    {
+      "english": "We dream, to aspire.",
+      "spanish": "Soñamos, para aspirar.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T01:58:04.159754"
+    },
+    {
+      "english": "To connect, we touch.",
+      "spanish": "Conectar, tocamos.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T01:58:04.159755"
+    },
+    {
+      "english": "We grow, for strength.",
+      "spanish": "Crecemos, por fuerza.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T01:58:04.159756"
+    },
+    {
+      "english": "To embrace, we open.",
+      "spanish": "Abrazar, abrimos.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T01:58:04.159757"
+    },
+    {
+      "english": "For light, we shine.",
+      "spanish": "Por luz, brillamos.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T01:58:04.159758"
+    },
+    {
+      "english": "We build, for future.",
+      "spanish": "Construimos, para futuro.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T01:58:04.159759"
+    },
+    {
+      "english": "To explore, we travel.",
+      "spanish": "Explorar, viajamos.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T01:58:04.159762"
+    },
+    {
+      "english": "For wisdom, we reflect.",
+      "spanish": "Por sabiduría, reflexionamos.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T01:58:04.159763"
+    },
+    {
+      "english": "To learn, is to grow.",
+      "spanish": "Aprender, es crecer.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T01:58:04.159764"
+    },
+    {
+      "english": "For connection, we speak.",
+      "spanish": "Para conectar, hablamos.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T01:58:04.159765"
+    },
+    {
+      "english": "To build, needs patience.",
+      "spanish": "Construir, requiere paciencia.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T01:58:04.159766"
+    },
+    {
+      "english": "We work, to achieve.",
+      "spanish": "Trabajamos, para lograr.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T01:58:04.159767"
+    },
+    {
+      "english": "To understand, listen well.",
+      "spanish": "Entender, escucha bien.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T01:58:04.159768"
+    },
+    {
+      "english": "For knowledge, we study.",
+      "spanish": "Por saber, estudiamos.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T01:58:04.159769"
+    },
+    {
+      "english": "To share, ideas bloom.",
+      "spanish": "Compartir, ideas florecen.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T01:58:04.159770"
+    },
+    {
+      "english": "We swim, to explore.",
+      "spanish": "Navegamos, para explorar.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T01:58:04.159771"
+    },
+    {
+      "english": "To create, we imagine.",
+      "spanish": "Crear, imaginamos.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T01:58:04.159772"
+    },
+    {
+      "english": "For joy, we sing.",
+      "spanish": "Por alegría, cantamos.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T01:58:04.159773"
+    },
+    {
+      "english": "To help, is our way.",
+      "spanish": "Ayudar, es nuestro camino.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T01:58:04.159774"
+    },
+    {
+      "english": "We walk, to discover.",
+      "spanish": "Caminamos, para descubrir.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T01:58:04.159775"
+    },
+    {
+      "english": "To inspire, we create.",
+      "spanish": "Inspirar, creamos.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T01:58:04.159776"
+    },
+    {
+      "english": "For beauty, we paint.",
+      "spanish": "Por belleza, pintamos.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T01:58:04.159777"
+    },
+    {
+      "english": "To heal, we care.",
+      "spanish": "Sanar, cuidamos.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T01:58:04.159778"
+    },
+    {
+      "english": "We fly, to reach.",
+      "spanish": "Volamos, para alcanzar.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T01:58:04.159779"
+    },
+    {
+      "english": "To teach, we guide.",
+      "spanish": "Enseñar, guiamos.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T01:58:04.159780"
+    },
+    {
+      "english": "For peace, we seek.",
+      "spanish": "Por paz, buscamos.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T01:58:04.159781"
+    },
+    {
+      "english": "We eat, to live.",
+      "spanish": "Comemos, para vivir.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T01:58:04.159782"
+    },
+    {
+      "english": "To save, we conserve.",
+      "spanish": "Salvar, conservamos.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T01:58:04.159783"
+    },
+    {
+      "english": "We run, to feel free.",
+      "spanish": "Corremos, para sentirnos libres.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T01:58:04.159784"
+    },
+    {
+      "english": "To find, we explore.",
+      "spanish": "Encontrar, exploramos.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T01:58:04.159785"
+    },
+    {
+      "english": "For love, we give.",
+      "spanish": "Por amor, damos.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T01:58:04.159786"
+    },
+    {
+      "english": "We dig, to find truth.",
+      "spanish": "Cavamos, para hallar verdad.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T01:58:04.159788"
+    },
+    {
+      "english": "To remember, we write.",
+      "spanish": "Recordar, escribimos.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T01:58:04.159789"
+    },
+    {
+      "english": "For art, we sculpt.",
+      "spanish": "Por arte, esculpimos.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T01:58:04.159790"
+    },
+    {
+      "english": "We listen, to understand.",
+      "spanish": "Escuchamos, para entender.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T01:58:04.159791"
+    },
+    {
+      "english": "To invent, we combine.",
+      "spanish": "Inventar, combinamos.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T01:58:04.159792"
+    },
+    {
+      "english": "For courage, we stand.",
+      "spanish": "Por coraje, aguantamos.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T01:58:04.159793"
+    },
+    {
+      "english": "We play, to connect.",
+      "spanish": "Jugamos, para conectar.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T01:58:04.159794"
+    },
+    {
+      "english": "To express, we speak.",
+      "spanish": "Expresar, hablamos.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T01:58:04.159796"
+    },
+    {
+      "english": "For change, we act.",
+      "spanish": "Para cambiar, actuamos.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T01:58:04.159797"
+    },
+    {
+      "english": "We dream, to aspire.",
+      "spanish": "Soñamos, para aspirar.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T01:58:04.159798"
+    },
+    {
+      "english": "To connect, we touch.",
+      "spanish": "Conectar, tocamos.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T01:58:04.159799"
+    },
+    {
+      "english": "We grow, for strength.",
+      "spanish": "Crecemos, por fuerza.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T01:58:04.159800"
+    },
+    {
+      "english": "To embrace, we open.",
+      "spanish": "Abrazar, abrimos.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T01:58:04.159801"
+    },
+    {
+      "english": "For light, we shine.",
+      "spanish": "Por luz, brillamos.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T01:58:04.159802"
+    },
+    {
+      "english": "We build, for future.",
+      "spanish": "Construimos, para futuro.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T01:58:04.159803"
+    },
+    {
+      "english": "To explore, we travel.",
+      "spanish": "Explorar, viajamos.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T01:58:04.159804"
+    },
+    {
+      "english": "For wisdom, we reflect.",
+      "spanish": "Por sabiduría, reflexionamos.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T01:58:04.159805"
     }
   ],
-  "last_updated": "2026-07-21T04:09:59.308374"
+  "last_updated": "2026-07-23T01:58:04.159807"
 }
