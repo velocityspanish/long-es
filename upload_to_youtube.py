@@ -23,9 +23,9 @@ def get_authenticated_service():
         client_id=YT_CLIENT_ID, client_secret=YT_CLIENT_SECRET
     )
     creds.refresh(Request())
-    import httplib2
-    http = httplib2.Http(timeout=600)
-    return build("youtube", "v3", credentials=creds, http=http)
+    service = build("youtube", "v3", credentials=creds)
+    service._http.timeout = 600
+    return service
 
 
 def compress_thumbnail(img_path, max_size=2097152):
