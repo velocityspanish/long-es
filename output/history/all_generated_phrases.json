@@ -7919,7 +7919,727 @@
       "spanish": "En las buenas y en las malas, amigos.",
       "category": "Friendship",
       "generated_at": "2026-07-23T04:09:54.199469"
+    },
+    {
+      "english": "Embrace the unknown, learn boldly.",
+      "spanish": "Abraza, lo desconocido. Aprende, con audacia.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:01:02.177281"
+    },
+    {
+      "english": "Every sunrise, a fresh start.",
+      "spanish": "Cada amanecer, un nuevo comienzo.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:01:02.177291"
+    },
+    {
+      "english": "Plant seeds now, harvest later.",
+      "spanish": "Siembra ahora, cosecha después.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:01:02.177292"
+    },
+    {
+      "english": "Mistakes are lessons, not failures.",
+      "spanish": "Los errores, son lecciones. No fracasos.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:01:02.177294"
+    },
+    {
+      "english": "Little by little, forward motion.",
+      "spanish": "Poco a poco, avanza.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:01:02.177295"
+    },
+    {
+      "english": "Seek understanding, widen your world.",
+      "spanish": "Busca entender, expande tu mundo.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:01:02.177296"
+    },
+    {
+      "english": "Challenge yourself, grow stronger.",
+      "spanish": "Retarte, te hace más fuerte.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:01:02.177298"
+    },
+    {
+      "english": "Create your path, with intention.",
+      "spanish": "Crea tu camino, con intención.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:01:02.177305"
+    },
+    {
+      "english": "Listen more, speak less, learn greatly.",
+      "spanish": "Escucha más, habla menos, aprende mucho.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:01:02.177307"
+    },
+    {
+      "english": "Patience, unlocks new doors.",
+      "spanish": "La paciencia, abre puertas nuevas.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:01:02.177308"
+    },
+    {
+      "english": "Every day, a new perspective.",
+      "spanish": "Cada día, una perspectiva nueva.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:01:02.177310"
+    },
+    {
+      "english": "Adapt, and you will conquer.",
+      "spanish": "Adáptate, y vencerás.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:01:02.177311"
+    },
+    {
+      "english": "Curiosity, fuels innovation.",
+      "spanish": "La curiosidad, impulsa ideas.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:01:02.177313"
+    },
+    {
+      "english": "Explore different, find your way.",
+      "spanish": "Explora lo diferente, encuentra tu camino.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:01:02.177314"
+    },
+    {
+      "english": "Small steps, lead to big changes.",
+      "spanish": "Pequeños pasos, grandes cambios.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:01:02.177315"
+    },
+    {
+      "english": "Be open, to new ideas.",
+      "spanish": "Sé abierto, a nuevas ideas.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:01:02.177316"
+    },
+    {
+      "english": "Growth, happens outside comfort.",
+      "spanish": "El crecimiento, fuera de tu zona.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:01:02.177318"
+    },
+    {
+      "english": "Learn from others, evolve you.",
+      "spanish": "Aprende de otros, evoluciona tú.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:01:02.177319"
+    },
+    {
+      "english": "Persistence, is the key.",
+      "spanish": "La persistencia, es la clave.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:01:02.177320"
+    },
+    {
+      "english": "Reframe challenges, find solutions.",
+      "spanish": "Reformula retos, halla soluciones.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:01:02.177321"
+    },
+    {
+      "english": "Ask questions, seek knowledge.",
+      "spanish": "Pregunta más, busca saber.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:01:02.177323"
+    },
+    {
+      "english": "Your efforts, compound over time.",
+      "spanish": "Tus esfuerzos, suman con tiempo.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:01:02.177324"
+    },
+    {
+      "english": "Focus forward, not backward.",
+      "spanish": "Mira adelante, no atrás.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:01:02.177325"
+    },
+    {
+      "english": "Learn a little, every day.",
+      "spanish": "Aprende un poco, cada día.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:01:02.177326"
+    },
+    {
+      "english": "Expand your mind, broaden horizons.",
+      "spanish": "Expande tu mente, amplía horizontes.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:01:02.177327"
+    },
+    {
+      "english": "Every fall, helps you rise.",
+      "spanish": "Cada caída, te enseña a elevarte.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:01:02.177328"
+    },
+    {
+      "english": "Seek wisdom, not just answers.",
+      "spanish": "Busca sabiduría, no solo respuestas.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:01:02.177329"
+    },
+    {
+      "english": "Grow through discipline, find freedom.",
+      "spanish": "Crece con disciplina, halla libertad.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:01:02.177330"
+    },
+    {
+      "english": "Embrace discomfort, find expansion.",
+      "spanish": "Abraza la incomodidad, encuentra expansión.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:01:02.177331"
+    },
+    {
+      "english": "Learn from feedback, improve daily.",
+      "spanish": "Aprende del feedback, mejora diario.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:01:02.177333"
+    },
+    {
+      "english": "Strive for progress, not perfection.",
+      "spanish": "Busca progreso, no perfección.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:01:02.177334"
+    },
+    {
+      "english": "Adapt your mindset, transform life.",
+      "spanish": "Adapta tu mente, transforma tu vida.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:01:02.177335"
+    },
+    {
+      "english": "Seek challenges, embrace growth.",
+      "spanish": "Busca retos, abraza el crecimiento.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:01:02.177336"
+    },
+    {
+      "english": "Every experience, a new lesson.",
+      "spanish": "Cada experiencia, una lección nueva.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:01:02.177337"
+    },
+    {
+      "english": "Be willing to learn, always.",
+      "spanish": "Sé dispuesto a aprender, siempre.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:01:02.177338"
+    },
+    {
+      "english": "Small wins, build momentum.",
+      "spanish": "Pequeñas victorias, crean impulso.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:01:02.177339"
+    },
+    {
+      "english": "Transform your thoughts, transform reality.",
+      "spanish": "Transforma tus pensamientos, transforma la realidad.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:01:02.177340"
+    },
+    {
+      "english": "Embrace the unknown, learn boldly.",
+      "spanish": "Abraza, lo desconocido. Aprende, con audacia.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:01:02.177342"
+    },
+    {
+      "english": "Every sunrise, a fresh start.",
+      "spanish": "Cada amanecer, un nuevo comienzo.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:01:02.177345"
+    },
+    {
+      "english": "Plant seeds now, harvest later.",
+      "spanish": "Siembra ahora, cosecha después.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:01:02.177347"
+    },
+    {
+      "english": "Mistakes are lessons, not failures.",
+      "spanish": "Los errores, son lecciones. No fracasos.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:01:02.177348"
+    },
+    {
+      "english": "Little by little, forward motion.",
+      "spanish": "Poco a poco, avanza.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:01:02.177349"
+    },
+    {
+      "english": "Seek understanding, widen your world.",
+      "spanish": "Busca entender, expande tu mundo.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:01:02.177350"
+    },
+    {
+      "english": "Challenge yourself, grow stronger.",
+      "spanish": "Retarte, te hace más fuerte.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:01:02.177351"
+    },
+    {
+      "english": "Create your path, with intention.",
+      "spanish": "Crea tu camino, con intención.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:01:02.177352"
+    },
+    {
+      "english": "Listen more, speak less, learn greatly.",
+      "spanish": "Escucha más, habla menos, aprende mucho.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:01:02.177353"
+    },
+    {
+      "english": "Patience, unlocks new doors.",
+      "spanish": "La paciencia, abre puertas nuevas.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:01:02.177355"
+    },
+    {
+      "english": "Every day, a new perspective.",
+      "spanish": "Cada día, una perspectiva nueva.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:01:02.177356"
+    },
+    {
+      "english": "Adapt, and you will conquer.",
+      "spanish": "Adáptate, y vencerás.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:01:02.177357"
+    },
+    {
+      "english": "Curiosity, fuels innovation.",
+      "spanish": "La curiosidad, impulsa ideas.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:01:02.177358"
+    },
+    {
+      "english": "Explore different, find your way.",
+      "spanish": "Explora lo diferente, encuentra tu camino.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:01:02.177359"
+    },
+    {
+      "english": "Small steps, lead to big changes.",
+      "spanish": "Pequeños pasos, grandes cambios.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:01:02.177360"
+    },
+    {
+      "english": "Be open, to new ideas.",
+      "spanish": "Sé abierto, a nuevas ideas.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:01:02.177362"
+    },
+    {
+      "english": "Growth, happens outside comfort.",
+      "spanish": "El crecimiento, fuera de tu zona.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:01:02.177363"
+    },
+    {
+      "english": "Learn from others, evolve you.",
+      "spanish": "Aprende de otros, evoluciona tú.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:01:02.177364"
+    },
+    {
+      "english": "Persistence, is the key.",
+      "spanish": "La persistencia, es la clave.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:01:02.177365"
+    },
+    {
+      "english": "Reframe challenges, find solutions.",
+      "spanish": "Reformula retos, halla soluciones.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:01:02.177366"
+    },
+    {
+      "english": "Ask questions, seek knowledge.",
+      "spanish": "Pregunta más, busca saber.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:01:02.177367"
+    },
+    {
+      "english": "Your efforts, compound over time.",
+      "spanish": "Tus esfuerzos, suman con tiempo.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:01:02.177368"
+    },
+    {
+      "english": "Focus forward, not backward.",
+      "spanish": "Mira adelante, no atrás.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:01:02.177370"
+    },
+    {
+      "english": "Learn a little, every day.",
+      "spanish": "Aprende un poco, cada día.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:01:02.177371"
+    },
+    {
+      "english": "Expand your mind, broaden horizons.",
+      "spanish": "Expande tu mente, amplía horizontes.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:01:02.177372"
+    },
+    {
+      "english": "Every fall, helps you rise.",
+      "spanish": "Cada caída, te enseña a elevarte.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:01:02.177373"
+    },
+    {
+      "english": "Seek wisdom, not just answers.",
+      "spanish": "Busca sabiduría, no solo respuestas.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:01:02.177374"
+    },
+    {
+      "english": "Grow through discipline, find freedom.",
+      "spanish": "Crece con disciplina, halla libertad.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:01:02.177375"
+    },
+    {
+      "english": "Embrace discomfort, find expansion.",
+      "spanish": "Abraza la incomodidad, encuentra expansión.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:01:02.177376"
+    },
+    {
+      "english": "Learn from feedback, improve daily.",
+      "spanish": "Aprende del feedback, mejora diario.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:01:02.177377"
+    },
+    {
+      "english": "Strive for progress, not perfection.",
+      "spanish": "Busca progreso, no perfección.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:01:02.177378"
+    },
+    {
+      "english": "Adapt your mindset, transform life.",
+      "spanish": "Adapta tu mente, transforma tu vida.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:01:02.177380"
+    },
+    {
+      "english": "Seek challenges, embrace growth.",
+      "spanish": "Busca retos, abraza el crecimiento.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:01:02.177381"
+    },
+    {
+      "english": "Every experience, a new lesson.",
+      "spanish": "Cada experiencia, una lección nueva.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:01:02.177383"
+    },
+    {
+      "english": "Be willing to learn, always.",
+      "spanish": "Sé dispuesto a aprender, siempre.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:01:02.177385"
+    },
+    {
+      "english": "Small wins, build momentum.",
+      "spanish": "Pequeñas victorias, crean impulso.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:01:02.177386"
+    },
+    {
+      "english": "Transform your thoughts, transform reality.",
+      "spanish": "Transforma tus pensamientos, transforma la realidad.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:01:02.177387"
+    },
+    {
+      "english": "Embrace the unknown, learn boldly.",
+      "spanish": "Abraza, lo desconocido. Aprende, con audacia.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:01:02.177388"
+    },
+    {
+      "english": "Every sunrise, a fresh start.",
+      "spanish": "Cada amanecer, un nuevo comienzo.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:01:02.177389"
+    },
+    {
+      "english": "Plant seeds now, harvest later.",
+      "spanish": "Siembra ahora, cosecha después.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:01:02.177390"
+    },
+    {
+      "english": "Mistakes are lessons, not failures.",
+      "spanish": "Los errores, son lecciones. No fracasos.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:01:02.177392"
+    },
+    {
+      "english": "Little by little, forward motion.",
+      "spanish": "Poco a poco, avanza.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:01:02.177393"
+    },
+    {
+      "english": "Seek understanding, widen your world.",
+      "spanish": "Busca entender, expande tu mundo.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:01:02.177394"
+    },
+    {
+      "english": "Challenge yourself, grow stronger.",
+      "spanish": "Retarte, te hace más fuerte.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:01:02.177395"
+    },
+    {
+      "english": "Create your path, with intention.",
+      "spanish": "Crea tu camino, con intención.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:01:02.177396"
+    },
+    {
+      "english": "Listen more, speak less, learn greatly.",
+      "spanish": "Escucha más, habla menos, aprende mucho.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:01:02.177397"
+    },
+    {
+      "english": "Patience, unlocks new doors.",
+      "spanish": "La paciencia, abre puertas nuevas.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:01:02.177398"
+    },
+    {
+      "english": "Every day, a new perspective.",
+      "spanish": "Cada día, una perspectiva nueva.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:01:02.177399"
+    },
+    {
+      "english": "Adapt, and you will conquer.",
+      "spanish": "Adáptate, y vencerás.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:01:02.177402"
+    },
+    {
+      "english": "Curiosity, fuels innovation.",
+      "spanish": "La curiosidad, impulsa ideas.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:01:02.177404"
+    },
+    {
+      "english": "Explore different, find your way.",
+      "spanish": "Explora lo diferente, encuentra tu camino.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:01:02.177405"
+    },
+    {
+      "english": "Small steps, lead to big changes.",
+      "spanish": "Pequeños pasos, grandes cambios.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:01:02.177406"
+    },
+    {
+      "english": "Be open, to new ideas.",
+      "spanish": "Sé abierto, a nuevas ideas.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:01:02.177407"
+    },
+    {
+      "english": "Growth, happens outside comfort.",
+      "spanish": "El crecimiento, fuera de tu zona.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:01:02.177408"
+    },
+    {
+      "english": "Learn from others, evolve you.",
+      "spanish": "Aprende de otros, evoluciona tú.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:01:02.177417"
+    },
+    {
+      "english": "Persistence, is the key.",
+      "spanish": "La persistencia, es la clave.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:01:02.177418"
+    },
+    {
+      "english": "Reframe challenges, find solutions.",
+      "spanish": "Reformula retos, halla soluciones.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:01:02.177419"
+    },
+    {
+      "english": "Ask questions, seek knowledge.",
+      "spanish": "Pregunta más, busca saber.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:01:02.177420"
+    },
+    {
+      "english": "Your efforts, compound over time.",
+      "spanish": "Tus esfuerzos, suman con tiempo.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:01:02.177421"
+    },
+    {
+      "english": "Focus forward, not backward.",
+      "spanish": "Mira adelante, no atrás.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:01:02.177422"
+    },
+    {
+      "english": "Learn a little, every day.",
+      "spanish": "Aprende un poco, cada día.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:01:02.177424"
+    },
+    {
+      "english": "Expand your mind, broaden horizons.",
+      "spanish": "Expande tu mente, amplía horizontes.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:01:02.177425"
+    },
+    {
+      "english": "Every fall, helps you rise.",
+      "spanish": "Cada caída, te enseña a elevarte.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:01:02.177426"
+    },
+    {
+      "english": "Seek wisdom, not just answers.",
+      "spanish": "Busca sabiduría, no solo respuestas.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:01:02.177427"
+    },
+    {
+      "english": "Grow through discipline, find freedom.",
+      "spanish": "Crece con disciplina, halla libertad.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:01:02.177428"
+    },
+    {
+      "english": "Embrace discomfort, find expansion.",
+      "spanish": "Abraza la incomodidad, encuentra expansión.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:01:02.177431"
+    },
+    {
+      "english": "Learn from feedback, improve daily.",
+      "spanish": "Aprende del feedback, mejora diario.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:01:02.177432"
+    },
+    {
+      "english": "Strive for progress, not perfection.",
+      "spanish": "Busca progreso, no perfección.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:01:02.177433"
+    },
+    {
+      "english": "Adapt your mindset, transform life.",
+      "spanish": "Adapta tu mente, transforma tu vida.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:01:02.177434"
+    },
+    {
+      "english": "Seek challenges, embrace growth.",
+      "spanish": "Busca retos, abraza el crecimiento.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:01:02.177435"
+    },
+    {
+      "english": "Every experience, a new lesson.",
+      "spanish": "Cada experiencia, una lección nueva.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:01:02.177436"
+    },
+    {
+      "english": "Be willing to learn, always.",
+      "spanish": "Sé dispuesto a aprender, siempre.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:01:02.177437"
+    },
+    {
+      "english": "Small wins, build momentum.",
+      "spanish": "Pequeñas victorias, crean impulso.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:01:02.177438"
+    },
+    {
+      "english": "Transform your thoughts, transform reality.",
+      "spanish": "Transforma tus pensamientos, transforma la realidad.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:01:02.177439"
+    },
+    {
+      "english": "Embrace the unknown, learn boldly.",
+      "spanish": "Abraza, lo desconocido. Aprende, con audacia.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:01:02.177441"
+    },
+    {
+      "english": "Every sunrise, a fresh start.",
+      "spanish": "Cada amanecer, un nuevo comienzo.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:01:02.177442"
+    },
+    {
+      "english": "Plant seeds now, harvest later.",
+      "spanish": "Siembra ahora, cosecha después.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:01:02.177443"
+    },
+    {
+      "english": "Mistakes are lessons, not failures.",
+      "spanish": "Los errores, son lecciones. No fracasos.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:01:02.177444"
+    },
+    {
+      "english": "Little by little, forward motion.",
+      "spanish": "Poco a poco, avanza.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:01:02.177445"
+    },
+    {
+      "english": "Seek understanding, widen your world.",
+      "spanish": "Busca entender, expande tu mundo.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:01:02.177446"
+    },
+    {
+      "english": "Challenge yourself, grow stronger.",
+      "spanish": "Retarte, te hace más fuerte.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:01:02.177447"
+    },
+    {
+      "english": "Create your path, with intention.",
+      "spanish": "Crea tu camino, con intención.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:01:02.177448"
+    },
+    {
+      "english": "Listen more, speak less, learn greatly.",
+      "spanish": "Escucha más, habla menos, aprende mucho.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:01:02.177449"
     }
   ],
-  "last_updated": "2026-07-23T04:09:54.199471"
+  "last_updated": "2026-07-24T04:01:02.177451"
 }
