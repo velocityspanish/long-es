@@ -1,28 +1,36 @@
 import os, io, base64, random, requests
 from pathlib import Path
 from dotenv import load_dotenv
+import sys
+sys.path.insert(0, str(Path(__file__).parent.parent.parent / "thumbnails"))
+from thumbnail_manager import get_thumbnail
+from PIL import Image, ImageDraw, ImageFont
 
 load_dotenv()
 
 POLLINATIONS_API_KEY = os.getenv("POLLINATIONS_API_KEY")
 
 SCENIC_STYLES = [
-    "stunning Spanish woman in flamenco dress, Barcelona, Sagrada Familia",
-    "elegant Spanish woman, Madrid street, Plaza Mayor, vibrant city",
-    "beautiful Spanish woman in traditional dress, Andalusia, white villages",
-    "Spanish woman at Alhambra palace, golden hour, Moorish architecture",
-    "gorgeous Spanish woman in modern style, sunset over Mediterranean, dramatic sky",
-    "beautiful Spanish woman, Seville, Alcázar gardens, warm light",
-    "Spanish woman dancing flamenco by Spanish coastline, passionate, zen",
-    "elegant Spanish woman in Barcelona, Park Güell, celebration",
+    "stunning Indian woman in traditional saree, Taj Mahal, sunrise",
+    "elegant Indian woman in lehenga choli, Jaipur, Hawa Mahal",
+    "beautiful Indian woman in salwar kameez, Varanasi, Ganges river",
+    "Indian woman at Kerala backwaters, houseboat, golden hour",
+    "gorgeous Indian woman in modern fusion wear, Mumbai skyline sunset",
+    "beautiful Indian woman, Udaipur, Lake Palace, warm golden light",
+    "Indian woman in traditional attire, Himachal Pradesh, mountain view",
+    "elegant Indian woman, Goa beach, palm trees, zen atmosphere",
 ]
 
 
-def generate_scenic_image(category_english: str, category_spanish: str, output_path: str):
-    if False and POLLINATIONS_API_KEY:  # disabled
+def generate_scenic_image(category_english: str, category_hindi: str, output_path: str):
+    # Try pre-made thumbnail first
+    premade = get_thumbnail("Spanish", category_english)
+    if premade:
+        return premade
+    
+        if False and POLLINATIONS_API_KEY:  # disabled
         for attempt in range(3):
             style = random.choice(SCENIC_STYLES)
-            # Only use English name in prompt - Japanese would cause encoding issues
             prompt = (
                 f"Professional YouTube thumbnail for Spanish language learning video. "
                 f"{style}. "
@@ -41,7 +49,6 @@ def generate_scenic_image(category_english: str, category_spanish: str, output_p
                 if resp.status_code == 200 and resp.json().get("data"):
                     raw = base64.b64decode(resp.json()["data"][0]["b64_json"])
                     if raw:
-                        from PIL import Image
                         img = Image.open(io.BytesIO(raw)).convert("RGB")
                         img = img.resize((1920, 1080), Image.LANCZOS)
                         thumb_bytes = io.BytesIO()
@@ -60,7 +67,6 @@ def generate_scenic_image(category_english: str, category_spanish: str, output_p
             except Exception as e:
                 print(f"[thumbnail] Attempt {attempt+1} failed ({str(e)[:60]}), retrying..." if attempt < 2 else f"[thumbnail] Fallback after {attempt+1} attempts")
 
-    from PIL import Image, ImageDraw, ImageFont
     img = Image.new('RGB', (1920, 1080), (45, 35, 65))
     draw = ImageDraw.Draw(img)
 
@@ -74,10 +80,11 @@ def generate_scenic_image(category_english: str, category_spanish: str, output_p
             b = int(95 + (65 - 95) * ((ratio - 0.5) * 2))
         draw.rectangle([(0, y), (1920, y + 1)], fill=(r, g, b))
 
-    en_fonts = ["C:/Windows/Fonts/segoeuib.ttf", "C:/Windows/Fonts/arialbd.ttf",
+    en_fonts = [str(Path(__file__).parent / "fonts" / "DejaVuSans-Bold.ttf"),
+                "C:/Windows/Fonts/segoeuib.ttf", "C:/Windows/Fonts/arialbd.ttf",
                 "/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf"]
-    ja_fonts = ["C:/Windows/Fonts/msgothic.ttc", "/usr/share/fonts/opentype/noto/NotoSansCJK-Bold.ttc",
-                "/usr/share/fonts/noto-cjk/NotoSansCJK-Bold.ttc"]
+    lang_fonts = [str(Path(__file__).parent / "fonts" / "NotoSansDevanagari-Bold.ttf"),
+                  "C:/Windows/Fonts/arialbd.ttf"]
 
     def load_font(paths, size):
         for p in paths:
@@ -87,13 +94,13 @@ def generate_scenic_image(category_english: str, category_spanish: str, output_p
         return ImageFont.load_default()
 
     f_big = load_font(en_fonts, 130)
-    f_cat = load_font(ja_fonts, 90)
+    f_cat = load_font(lang_fonts, 90)
     f_sub = load_font(en_fonts, 55)
     f_brand = load_font(en_fonts, 45)
 
     draw.text((960, 180), "120 SPANISH PHRASES", fill=(255, 210, 0), font=f_big, anchor="mm")
 
-    cat_text = category_english
+    cat_text = category_english.upper()
     bb = draw.textbbox((0, 0), cat_text, font=f_cat)
     cw = bb[2] - bb[0]
     cx = (1920 - cw) // 2
