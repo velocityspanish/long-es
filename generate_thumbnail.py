@@ -19,7 +19,7 @@ SCENIC_STYLES = [
 
 
 def generate_scenic_image(category_english: str, category_spanish: str, output_path: str):
-    if POLLINATIONS_API_KEY:
+    if False and POLLINATIONS_API_KEY:  # disabled
         for attempt in range(3):
             style = random.choice(SCENIC_STYLES)
             # Only use English name in prompt - Japanese would cause encoding issues
