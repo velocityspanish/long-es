@@ -11519,7 +11519,727 @@
       "spanish": "Abraza el viaje.",
       "category": "Positive Life",
       "generated_at": "2026-07-31T09:49:16.382176"
+    },
+    {
+      "english": "Learn a new word, daily.",
+      "spanish": "Aprende una palabra, al día.",
+      "category": "Motivation",
+      "generated_at": "2026-08-01T04:15:44.703792"
+    },
+    {
+      "english": "Practice makes progress.",
+      "spanish": "La práctica hace progreso.",
+      "category": "Motivation",
+      "generated_at": "2026-08-01T04:15:44.703804"
+    },
+    {
+      "english": "Speak slowly, clearly.",
+      "spanish": "Habla despacio, claro.",
+      "category": "Motivation",
+      "generated_at": "2026-08-01T04:15:44.703806"
+    },
+    {
+      "english": "Mistakes are learning.",
+      "spanish": "Los errores son aprendizaje.",
+      "category": "Motivation",
+      "generated_at": "2026-08-01T04:15:44.703807"
+    },
+    {
+      "english": "Your effort, shines.",
+      "spanish": "Tu esfuerzo, brilla.",
+      "category": "Motivation",
+      "generated_at": "2026-08-01T04:15:44.703809"
+    },
+    {
+      "english": "Every day, a chance.",
+      "spanish": "Cada día, una oportunidad.",
+      "category": "Motivation",
+      "generated_at": "2026-08-01T04:15:44.703810"
+    },
+    {
+      "english": "Don't give up, keep going.",
+      "spanish": "No te rindas, sigue adelante.",
+      "category": "Motivation",
+      "generated_at": "2026-08-01T04:15:44.703811"
+    },
+    {
+      "english": "You can do it, believe.",
+      "spanish": "Puedes hacerlo, cree.",
+      "category": "Motivation",
+      "generated_at": "2026-08-01T04:15:44.703814"
+    },
+    {
+      "english": "Language opens doors.",
+      "spanish": "El idioma abre puertas.",
+      "category": "Motivation",
+      "generated_at": "2026-08-01T04:15:44.703816"
+    },
+    {
+      "english": "Explore, and discover.",
+      "spanish": "Explora, y descubre.",
+      "category": "Motivation",
+      "generated_at": "2026-08-01T04:15:44.703817"
+    },
+    {
+      "english": "New words, new world.",
+      "spanish": "Palabras nuevas, mundo nuevo.",
+      "category": "Motivation",
+      "generated_at": "2026-08-01T04:15:44.703818"
+    },
+    {
+      "english": "Keep learning, stay curious.",
+      "spanish": "Sigue aprendiendo, mantente curioso.",
+      "category": "Motivation",
+      "generated_at": "2026-08-01T04:15:44.703819"
+    },
+    {
+      "english": "Your voice matters, speak.",
+      "spanish": "Tu voz importa, habla.",
+      "category": "Motivation",
+      "generated_at": "2026-08-01T04:15:44.703820"
+    },
+    {
+      "english": "Discover culture, through words.",
+      "spanish": "Descubre cultura, por palabras.",
+      "category": "Motivation",
+      "generated_at": "2026-08-01T04:15:44.703821"
+    },
+    {
+      "english": "Build your fluency.",
+      "spanish": "Construye tu fluidez.",
+      "category": "Motivation",
+      "generated_at": "2026-08-01T04:15:44.703823"
+    },
+    {
+      "english": "Ask questions, to grow.",
+      "spanish": "Pregunta, para crecer.",
+      "category": "Motivation",
+      "generated_at": "2026-08-01T04:15:44.703824"
+    },
+    {
+      "english": "Connect with others, speak.",
+      "spanish": "Conecta con otros, habla.",
+      "category": "Motivation",
+      "generated_at": "2026-08-01T04:15:44.703825"
+    },
+    {
+      "english": "Immerse yourself, learn.",
+      "spanish": "Sumérgete, aprende.",
+      "category": "Motivation",
+      "generated_at": "2026-08-01T04:15:44.703826"
+    },
+    {
+      "english": "The journey, is rewarding.",
+      "spanish": "El viaje, es gratificante.",
+      "category": "Motivation",
+      "generated_at": "2026-08-01T04:15:44.703827"
+    },
+    {
+      "english": "Unlock your potential.",
+      "spanish": "Desbloquea tu potencial.",
+      "category": "Motivation",
+      "generated_at": "2026-08-01T04:15:44.703828"
+    },
+    {
+      "english": "Express yourself, fully.",
+      "spanish": "Exprésate, completamente.",
+      "category": "Motivation",
+      "generated_at": "2026-08-01T04:15:44.703828"
+    },
+    {
+      "english": "Find your rhythm, speak.",
+      "spanish": "Encuentra tu ritmo, habla.",
+      "category": "Motivation",
+      "generated_at": "2026-08-01T04:15:44.703830"
+    },
+    {
+      "english": "Your progress, inspires.",
+      "spanish": "Tu progreso, inspira.",
+      "category": "Motivation",
+      "generated_at": "2026-08-01T04:15:44.703830"
+    },
+    {
+      "english": "Dive in, be bold.",
+      "spanish": "Sumérgete, sé audaz.",
+      "category": "Motivation",
+      "generated_at": "2026-08-01T04:15:44.703831"
+    },
+    {
+      "english": "Master one phrase, then two.",
+      "spanish": "Domina una frase, luego dos.",
+      "category": "Motivation",
+      "generated_at": "2026-08-01T04:15:44.703832"
+    },
+    {
+      "english": "Speak with confidence.",
+      "spanish": "Habla con confianza.",
+      "category": "Motivation",
+      "generated_at": "2026-08-01T04:15:44.703833"
+    },
+    {
+      "english": "This is your moment.",
+      "spanish": "Este es tu momento.",
+      "category": "Motivation",
+      "generated_at": "2026-08-01T04:15:44.703834"
+    },
+    {
+      "english": "Keep the momentum.",
+      "spanish": "Mantén el impulso.",
+      "category": "Motivation",
+      "generated_at": "2026-08-01T04:15:44.703835"
+    },
+    {
+      "english": "Learn with passion.",
+      "spanish": "Aprende con pasión.",
+      "category": "Motivation",
+      "generated_at": "2026-08-01T04:15:44.703836"
+    },
+    {
+      "english": "Speak your truth, in Spanish.",
+      "spanish": "Habla tu verdad, en español.",
+      "category": "Motivation",
+      "generated_at": "2026-08-01T04:15:44.703837"
+    },
+    {
+      "english": "Learn a new word, daily.",
+      "spanish": "Aprende una palabra, al día.",
+      "category": "Motivation",
+      "generated_at": "2026-08-01T04:15:44.703838"
+    },
+    {
+      "english": "Practice makes progress.",
+      "spanish": "La práctica hace progreso.",
+      "category": "Motivation",
+      "generated_at": "2026-08-01T04:15:44.703839"
+    },
+    {
+      "english": "Speak slowly, clearly.",
+      "spanish": "Habla despacio, claro.",
+      "category": "Motivation",
+      "generated_at": "2026-08-01T04:15:44.703841"
+    },
+    {
+      "english": "Mistakes are learning.",
+      "spanish": "Los errores son aprendizaje.",
+      "category": "Motivation",
+      "generated_at": "2026-08-01T04:15:44.703842"
+    },
+    {
+      "english": "Your effort, shines.",
+      "spanish": "Tu esfuerzo, brilla.",
+      "category": "Motivation",
+      "generated_at": "2026-08-01T04:15:44.703843"
+    },
+    {
+      "english": "Every day, a chance.",
+      "spanish": "Cada día, una oportunidad.",
+      "category": "Motivation",
+      "generated_at": "2026-08-01T04:15:44.703844"
+    },
+    {
+      "english": "Don't give up, keep going.",
+      "spanish": "No te rindas, sigue adelante.",
+      "category": "Motivation",
+      "generated_at": "2026-08-01T04:15:44.703845"
+    },
+    {
+      "english": "You can do it, believe.",
+      "spanish": "Puedes hacerlo, cree.",
+      "category": "Motivation",
+      "generated_at": "2026-08-01T04:15:44.703846"
+    },
+    {
+      "english": "Language opens doors.",
+      "spanish": "El idioma abre puertas.",
+      "category": "Motivation",
+      "generated_at": "2026-08-01T04:15:44.703847"
+    },
+    {
+      "english": "Explore, and discover.",
+      "spanish": "Explora, y descubre.",
+      "category": "Motivation",
+      "generated_at": "2026-08-01T04:15:44.703848"
+    },
+    {
+      "english": "New words, new world.",
+      "spanish": "Palabras nuevas, mundo nuevo.",
+      "category": "Motivation",
+      "generated_at": "2026-08-01T04:15:44.703849"
+    },
+    {
+      "english": "Keep learning, stay curious.",
+      "spanish": "Sigue aprendiendo, mantente curioso.",
+      "category": "Motivation",
+      "generated_at": "2026-08-01T04:15:44.703850"
+    },
+    {
+      "english": "Your voice matters, speak.",
+      "spanish": "Tu voz importa, habla.",
+      "category": "Motivation",
+      "generated_at": "2026-08-01T04:15:44.703851"
+    },
+    {
+      "english": "Discover culture, through words.",
+      "spanish": "Descubre cultura, por palabras.",
+      "category": "Motivation",
+      "generated_at": "2026-08-01T04:15:44.703852"
+    },
+    {
+      "english": "Build your fluency.",
+      "spanish": "Construye tu fluidez.",
+      "category": "Motivation",
+      "generated_at": "2026-08-01T04:15:44.703853"
+    },
+    {
+      "english": "Ask questions, to grow.",
+      "spanish": "Pregunta, para crecer.",
+      "category": "Motivation",
+      "generated_at": "2026-08-01T04:15:44.703854"
+    },
+    {
+      "english": "Connect with others, speak.",
+      "spanish": "Conecta con otros, habla.",
+      "category": "Motivation",
+      "generated_at": "2026-08-01T04:15:44.703855"
+    },
+    {
+      "english": "Immerse yourself, learn.",
+      "spanish": "Sumérgete, aprende.",
+      "category": "Motivation",
+      "generated_at": "2026-08-01T04:15:44.703856"
+    },
+    {
+      "english": "The journey, is rewarding.",
+      "spanish": "El viaje, es gratificante.",
+      "category": "Motivation",
+      "generated_at": "2026-08-01T04:15:44.703857"
+    },
+    {
+      "english": "Unlock your potential.",
+      "spanish": "Desbloquea tu potencial.",
+      "category": "Motivation",
+      "generated_at": "2026-08-01T04:15:44.703858"
+    },
+    {
+      "english": "Express yourself, fully.",
+      "spanish": "Exprésate, completamente.",
+      "category": "Motivation",
+      "generated_at": "2026-08-01T04:15:44.703858"
+    },
+    {
+      "english": "Find your rhythm, speak.",
+      "spanish": "Encuentra tu ritmo, habla.",
+      "category": "Motivation",
+      "generated_at": "2026-08-01T04:15:44.703859"
+    },
+    {
+      "english": "Your progress, inspires.",
+      "spanish": "Tu progreso, inspira.",
+      "category": "Motivation",
+      "generated_at": "2026-08-01T04:15:44.703860"
+    },
+    {
+      "english": "Dive in, be bold.",
+      "spanish": "Sumérgete, sé audaz.",
+      "category": "Motivation",
+      "generated_at": "2026-08-01T04:15:44.703861"
+    },
+    {
+      "english": "Master one phrase, then two.",
+      "spanish": "Domina una frase, luego dos.",
+      "category": "Motivation",
+      "generated_at": "2026-08-01T04:15:44.703862"
+    },
+    {
+      "english": "Speak with confidence.",
+      "spanish": "Habla con confianza.",
+      "category": "Motivation",
+      "generated_at": "2026-08-01T04:15:44.703863"
+    },
+    {
+      "english": "This is your moment.",
+      "spanish": "Este es tu momento.",
+      "category": "Motivation",
+      "generated_at": "2026-08-01T04:15:44.703864"
+    },
+    {
+      "english": "Keep the momentum.",
+      "spanish": "Mantén el impulso.",
+      "category": "Motivation",
+      "generated_at": "2026-08-01T04:15:44.703865"
+    },
+    {
+      "english": "Learn with passion.",
+      "spanish": "Aprende con pasión.",
+      "category": "Motivation",
+      "generated_at": "2026-08-01T04:15:44.703866"
+    },
+    {
+      "english": "Speak your truth, in Spanish.",
+      "spanish": "Habla tu verdad, en español.",
+      "category": "Motivation",
+      "generated_at": "2026-08-01T04:15:44.703867"
+    },
+    {
+      "english": "Learn a new word, daily.",
+      "spanish": "Aprende una palabra, al día.",
+      "category": "Motivation",
+      "generated_at": "2026-08-01T04:15:44.703868"
+    },
+    {
+      "english": "Practice makes progress.",
+      "spanish": "La práctica hace progreso.",
+      "category": "Motivation",
+      "generated_at": "2026-08-01T04:15:44.703869"
+    },
+    {
+      "english": "Speak slowly, clearly.",
+      "spanish": "Habla despacio, claro.",
+      "category": "Motivation",
+      "generated_at": "2026-08-01T04:15:44.703870"
+    },
+    {
+      "english": "Mistakes are learning.",
+      "spanish": "Los errores son aprendizaje.",
+      "category": "Motivation",
+      "generated_at": "2026-08-01T04:15:44.703871"
+    },
+    {
+      "english": "Your effort, shines.",
+      "spanish": "Tu esfuerzo, brilla.",
+      "category": "Motivation",
+      "generated_at": "2026-08-01T04:15:44.703873"
+    },
+    {
+      "english": "Every day, a chance.",
+      "spanish": "Cada día, una oportunidad.",
+      "category": "Motivation",
+      "generated_at": "2026-08-01T04:15:44.703874"
+    },
+    {
+      "english": "Don't give up, keep going.",
+      "spanish": "No te rindas, sigue adelante.",
+      "category": "Motivation",
+      "generated_at": "2026-08-01T04:15:44.703875"
+    },
+    {
+      "english": "You can do it, believe.",
+      "spanish": "Puedes hacerlo, cree.",
+      "category": "Motivation",
+      "generated_at": "2026-08-01T04:15:44.703876"
+    },
+    {
+      "english": "Language opens doors.",
+      "spanish": "El idioma abre puertas.",
+      "category": "Motivation",
+      "generated_at": "2026-08-01T04:15:44.703877"
+    },
+    {
+      "english": "Explore, and discover.",
+      "spanish": "Explora, y descubre.",
+      "category": "Motivation",
+      "generated_at": "2026-08-01T04:15:44.703878"
+    },
+    {
+      "english": "New words, new world.",
+      "spanish": "Palabras nuevas, mundo nuevo.",
+      "category": "Motivation",
+      "generated_at": "2026-08-01T04:15:44.703883"
+    },
+    {
+      "english": "Keep learning, stay curious.",
+      "spanish": "Sigue aprendiendo, mantente curioso.",
+      "category": "Motivation",
+      "generated_at": "2026-08-01T04:15:44.703884"
+    },
+    {
+      "english": "Your voice matters, speak.",
+      "spanish": "Tu voz importa, habla.",
+      "category": "Motivation",
+      "generated_at": "2026-08-01T04:15:44.703885"
+    },
+    {
+      "english": "Discover culture, through words.",
+      "spanish": "Descubre cultura, por palabras.",
+      "category": "Motivation",
+      "generated_at": "2026-08-01T04:15:44.703886"
+    },
+    {
+      "english": "Build your fluency.",
+      "spanish": "Construye tu fluidez.",
+      "category": "Motivation",
+      "generated_at": "2026-08-01T04:15:44.703887"
+    },
+    {
+      "english": "Ask questions, to grow.",
+      "spanish": "Pregunta, para crecer.",
+      "category": "Motivation",
+      "generated_at": "2026-08-01T04:15:44.703888"
+    },
+    {
+      "english": "Connect with others, speak.",
+      "spanish": "Conecta con otros, habla.",
+      "category": "Motivation",
+      "generated_at": "2026-08-01T04:15:44.703889"
+    },
+    {
+      "english": "Immerse yourself, learn.",
+      "spanish": "Sumérgete, aprende.",
+      "category": "Motivation",
+      "generated_at": "2026-08-01T04:15:44.703890"
+    },
+    {
+      "english": "The journey, is rewarding.",
+      "spanish": "El viaje, es gratificante.",
+      "category": "Motivation",
+      "generated_at": "2026-08-01T04:15:44.703891"
+    },
+    {
+      "english": "Unlock your potential.",
+      "spanish": "Desbloquea tu potencial.",
+      "category": "Motivation",
+      "generated_at": "2026-08-01T04:15:44.703892"
+    },
+    {
+      "english": "Express yourself, fully.",
+      "spanish": "Exprésate, completamente.",
+      "category": "Motivation",
+      "generated_at": "2026-08-01T04:15:44.703893"
+    },
+    {
+      "english": "Find your rhythm, speak.",
+      "spanish": "Encuentra tu ritmo, habla.",
+      "category": "Motivation",
+      "generated_at": "2026-08-01T04:15:44.703894"
+    },
+    {
+      "english": "Your progress, inspires.",
+      "spanish": "Tu progreso, inspira.",
+      "category": "Motivation",
+      "generated_at": "2026-08-01T04:15:44.703895"
+    },
+    {
+      "english": "Dive in, be bold.",
+      "spanish": "Sumérgete, sé audaz.",
+      "category": "Motivation",
+      "generated_at": "2026-08-01T04:15:44.703896"
+    },
+    {
+      "english": "Master one phrase, then two.",
+      "spanish": "Domina una frase, luego dos.",
+      "category": "Motivation",
+      "generated_at": "2026-08-01T04:15:44.703897"
+    },
+    {
+      "english": "Speak with confidence.",
+      "spanish": "Habla con confianza.",
+      "category": "Motivation",
+      "generated_at": "2026-08-01T04:15:44.703898"
+    },
+    {
+      "english": "This is your moment.",
+      "spanish": "Este es tu momento.",
+      "category": "Motivation",
+      "generated_at": "2026-08-01T04:15:44.703899"
+    },
+    {
+      "english": "Keep the momentum.",
+      "spanish": "Mantén el impulso.",
+      "category": "Motivation",
+      "generated_at": "2026-08-01T04:15:44.703900"
+    },
+    {
+      "english": "Learn with passion.",
+      "spanish": "Aprende con pasión.",
+      "category": "Motivation",
+      "generated_at": "2026-08-01T04:15:44.703901"
+    },
+    {
+      "english": "Speak your truth, in Spanish.",
+      "spanish": "Habla tu verdad, en español.",
+      "category": "Motivation",
+      "generated_at": "2026-08-01T04:15:44.703902"
+    },
+    {
+      "english": "Learn a new word, daily.",
+      "spanish": "Aprende una palabra, al día.",
+      "category": "Motivation",
+      "generated_at": "2026-08-01T04:15:44.703903"
+    },
+    {
+      "english": "Practice makes progress.",
+      "spanish": "La práctica hace progreso.",
+      "category": "Motivation",
+      "generated_at": "2026-08-01T04:15:44.703904"
+    },
+    {
+      "english": "Speak slowly, clearly.",
+      "spanish": "Habla despacio, claro.",
+      "category": "Motivation",
+      "generated_at": "2026-08-01T04:15:44.703905"
+    },
+    {
+      "english": "Mistakes are learning.",
+      "spanish": "Los errores son aprendizaje.",
+      "category": "Motivation",
+      "generated_at": "2026-08-01T04:15:44.703906"
+    },
+    {
+      "english": "Your effort, shines.",
+      "spanish": "Tu esfuerzo, brilla.",
+      "category": "Motivation",
+      "generated_at": "2026-08-01T04:15:44.703907"
+    },
+    {
+      "english": "Every day, a chance.",
+      "spanish": "Cada día, una oportunidad.",
+      "category": "Motivation",
+      "generated_at": "2026-08-01T04:15:44.703908"
+    },
+    {
+      "english": "Don't give up, keep going.",
+      "spanish": "No te rindas, sigue adelante.",
+      "category": "Motivation",
+      "generated_at": "2026-08-01T04:15:44.703909"
+    },
+    {
+      "english": "You can do it, believe.",
+      "spanish": "Puedes hacerlo, cree.",
+      "category": "Motivation",
+      "generated_at": "2026-08-01T04:15:44.703910"
+    },
+    {
+      "english": "Language opens doors.",
+      "spanish": "El idioma abre puertas.",
+      "category": "Motivation",
+      "generated_at": "2026-08-01T04:15:44.703911"
+    },
+    {
+      "english": "Explore, and discover.",
+      "spanish": "Explora, y descubre.",
+      "category": "Motivation",
+      "generated_at": "2026-08-01T04:15:44.703912"
+    },
+    {
+      "english": "New words, new world.",
+      "spanish": "Palabras nuevas, mundo nuevo.",
+      "category": "Motivation",
+      "generated_at": "2026-08-01T04:15:44.703913"
+    },
+    {
+      "english": "Keep learning, stay curious.",
+      "spanish": "Sigue aprendiendo, mantente curioso.",
+      "category": "Motivation",
+      "generated_at": "2026-08-01T04:15:44.703914"
+    },
+    {
+      "english": "Your voice matters, speak.",
+      "spanish": "Tu voz importa, habla.",
+      "category": "Motivation",
+      "generated_at": "2026-08-01T04:15:44.703917"
+    },
+    {
+      "english": "Discover culture, through words.",
+      "spanish": "Descubre cultura, por palabras.",
+      "category": "Motivation",
+      "generated_at": "2026-08-01T04:15:44.703919"
+    },
+    {
+      "english": "Build your fluency.",
+      "spanish": "Construye tu fluidez.",
+      "category": "Motivation",
+      "generated_at": "2026-08-01T04:15:44.703920"
+    },
+    {
+      "english": "Ask questions, to grow.",
+      "spanish": "Pregunta, para crecer.",
+      "category": "Motivation",
+      "generated_at": "2026-08-01T04:15:44.703921"
+    },
+    {
+      "english": "Connect with others, speak.",
+      "spanish": "Conecta con otros, habla.",
+      "category": "Motivation",
+      "generated_at": "2026-08-01T04:15:44.703922"
+    },
+    {
+      "english": "Immerse yourself, learn.",
+      "spanish": "Sumérgete, aprende.",
+      "category": "Motivation",
+      "generated_at": "2026-08-01T04:15:44.703923"
+    },
+    {
+      "english": "The journey, is rewarding.",
+      "spanish": "El viaje, es gratificante.",
+      "category": "Motivation",
+      "generated_at": "2026-08-01T04:15:44.703923"
+    },
+    {
+      "english": "Unlock your potential.",
+      "spanish": "Desbloquea tu potencial.",
+      "category": "Motivation",
+      "generated_at": "2026-08-01T04:15:44.703924"
+    },
+    {
+      "english": "Express yourself, fully.",
+      "spanish": "Exprésate, completamente.",
+      "category": "Motivation",
+      "generated_at": "2026-08-01T04:15:44.703925"
+    },
+    {
+      "english": "Find your rhythm, speak.",
+      "spanish": "Encuentra tu ritmo, habla.",
+      "category": "Motivation",
+      "generated_at": "2026-08-01T04:15:44.703926"
+    },
+    {
+      "english": "Your progress, inspires.",
+      "spanish": "Tu progreso, inspira.",
+      "category": "Motivation",
+      "generated_at": "2026-08-01T04:15:44.703927"
+    },
+    {
+      "english": "Dive in, be bold.",
+      "spanish": "Sumérgete, sé audaz.",
+      "category": "Motivation",
+      "generated_at": "2026-08-01T04:15:44.703928"
+    },
+    {
+      "english": "Master one phrase, then two.",
+      "spanish": "Domina una frase, luego dos.",
+      "category": "Motivation",
+      "generated_at": "2026-08-01T04:15:44.703929"
+    },
+    {
+      "english": "Speak with confidence.",
+      "spanish": "Habla con confianza.",
+      "category": "Motivation",
+      "generated_at": "2026-08-01T04:15:44.703930"
+    },
+    {
+      "english": "This is your moment.",
+      "spanish": "Este es tu momento.",
+      "category": "Motivation",
+      "generated_at": "2026-08-01T04:15:44.703931"
+    },
+    {
+      "english": "Keep the momentum.",
+      "spanish": "Mantén el impulso.",
+      "category": "Motivation",
+      "generated_at": "2026-08-01T04:15:44.703932"
+    },
+    {
+      "english": "Learn with passion.",
+      "spanish": "Aprende con pasión.",
+      "category": "Motivation",
+      "generated_at": "2026-08-01T04:15:44.703933"
+    },
+    {
+      "english": "Speak your truth, in Spanish.",
+      "spanish": "Habla tu verdad, en español.",
+      "category": "Motivation",
+      "generated_at": "2026-08-01T04:15:44.703934"
     }
   ],
-  "last_updated": "2026-07-31T09:49:16.382179"
+  "last_updated": "2026-08-01T04:15:44.703938"
 }
