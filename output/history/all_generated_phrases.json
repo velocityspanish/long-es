@@ -12239,7 +12239,727 @@
       "spanish": "Habla tu verdad, en español.",
       "category": "Motivation",
       "generated_at": "2026-08-01T04:15:44.703934"
+    },
+    {
+      "english": "Good friends, help a lot.",
+      "spanish": "Buenos amigos, ayudan mucho.",
+      "category": "Friendship",
+      "generated_at": "2026-08-02T04:18:54.866821"
+    },
+    {
+      "english": "A true friend, is rare.",
+      "spanish": "Un amigo verdadero, es raro.",
+      "category": "Friendship",
+      "generated_at": "2026-08-02T04:18:54.866834"
+    },
+    {
+      "english": "Let's be good friends.",
+      "spanish": "Seamos buenos amigos.",
+      "category": "Friendship",
+      "generated_at": "2026-08-02T04:18:54.866836"
+    },
+    {
+      "english": "Always together, always friends.",
+      "spanish": "Siempre juntos, siempre amigos.",
+      "category": "Friendship",
+      "generated_at": "2026-08-02T04:18:54.866838"
+    },
+    {
+      "english": "You're my best friend.",
+      "spanish": "Eres mi mejor amigo.",
+      "category": "Friendship",
+      "generated_at": "2026-08-02T04:18:54.866839"
+    },
+    {
+      "english": "Thank you, for your friendship.",
+      "spanish": "Gracias, por tu amistad.",
+      "category": "Friendship",
+      "generated_at": "2026-08-02T04:18:54.866840"
+    },
+    {
+      "english": "We are like family.",
+      "spanish": "Somos como familia.",
+      "category": "Friendship",
+      "generated_at": "2026-08-02T04:18:54.866841"
+    },
+    {
+      "english": "Friends for life, you know?",
+      "spanish": "Amigos para siempre, ¿sabes?",
+      "category": "Friendship",
+      "generated_at": "2026-08-02T04:18:54.866844"
+    },
+    {
+      "english": "This is a special bond.",
+      "spanish": "Este es un vínculo especial.",
+      "category": "Friendship",
+      "generated_at": "2026-08-02T04:18:54.866846"
+    },
+    {
+      "english": "Glad to have you.",
+      "spanish": "Me alegro de tenerte.",
+      "category": "Friendship",
+      "generated_at": "2026-08-02T04:18:54.866847"
+    },
+    {
+      "english": "We understand each other.",
+      "spanish": "Nos entendemos bien.",
+      "category": "Friendship",
+      "generated_at": "2026-08-02T04:18:54.866848"
+    },
+    {
+      "english": "My circle is small.",
+      "spanish": "Mi círculo es pequeño.",
+      "category": "Friendship",
+      "generated_at": "2026-08-02T04:18:54.866849"
+    },
+    {
+      "english": "You're part of it.",
+      "spanish": "Tú eres parte de él.",
+      "category": "Friendship",
+      "generated_at": "2026-08-02T04:18:54.866850"
+    },
+    {
+      "english": "Loyalty, is important.",
+      "spanish": "La lealtad, es importante.",
+      "category": "Friendship",
+      "generated_at": "2026-08-02T04:18:54.866851"
+    },
+    {
+      "english": "Always on my side.",
+      "spanish": "Siempre a mi lado.",
+      "category": "Friendship",
+      "generated_at": "2026-08-02T04:18:54.866852"
+    },
+    {
+      "english": "We share many things.",
+      "spanish": "Compartimos muchas cosas.",
+      "category": "Friendship",
+      "generated_at": "2026-08-02T04:18:54.866853"
+    },
+    {
+      "english": "Let's create memories.",
+      "spanish": "Hagamos recuerdos.",
+      "category": "Friendship",
+      "generated_at": "2026-08-02T04:18:54.866854"
+    },
+    {
+      "english": "Our adventures, start now.",
+      "spanish": "Nuestras aventuras, empiezan ahora.",
+      "category": "Friendship",
+      "generated_at": "2026-08-02T04:18:54.866856"
+    },
+    {
+      "english": "Side by side, always.",
+      "spanish": "Codo a codo, siempre.",
+      "category": "Friendship",
+      "generated_at": "2026-08-02T04:18:54.866857"
+    },
+    {
+      "english": "You understand me, without words.",
+      "spanish": "Me entiendes, sin hablar.",
+      "category": "Friendship",
+      "generated_at": "2026-08-02T04:18:54.866858"
+    },
+    {
+      "english": "This is true friendship.",
+      "spanish": "Esto es amistad real.",
+      "category": "Friendship",
+      "generated_at": "2026-08-02T04:18:54.866859"
+    },
+    {
+      "english": "My partner in crime.",
+      "spanish": "Mi cómplice en todo.",
+      "category": "Friendship",
+      "generated_at": "2026-08-02T04:18:54.866860"
+    },
+    {
+      "english": "We go way back.",
+      "spanish": "Nos conocemos de hace tiempo.",
+      "category": "Friendship",
+      "generated_at": "2026-08-02T04:18:54.866861"
+    },
+    {
+      "english": "A bond like no other.",
+      "spanish": "Un lazo como ningún otro.",
+      "category": "Friendship",
+      "generated_at": "2026-08-02T04:18:54.866862"
+    },
+    {
+      "english": "You're more than a friend.",
+      "spanish": "Eres más que amigo.",
+      "category": "Friendship",
+      "generated_at": "2026-08-02T04:18:54.866863"
+    },
+    {
+      "english": "Let's stick together.",
+      "spanish": "Sigamos unidos.",
+      "category": "Friendship",
+      "generated_at": "2026-08-02T04:18:54.866864"
+    },
+    {
+      "english": "Our conversations, are the best.",
+      "spanish": "Nuestras charlas, son geniales.",
+      "category": "Friendship",
+      "generated_at": "2026-08-02T04:18:54.866865"
+    },
+    {
+      "english": "You always support me.",
+      "spanish": "Siempre me apoyas.",
+      "category": "Friendship",
+      "generated_at": "2026-08-02T04:18:54.866866"
+    },
+    {
+      "english": "A treasure, indeed.",
+      "spanish": "Un tesoro, sin duda.",
+      "category": "Friendship",
+      "generated_at": "2026-08-02T04:18:54.866867"
+    },
+    {
+      "english": "We celebrate together.",
+      "spanish": "Celebramos juntos.",
+      "category": "Friendship",
+      "generated_at": "2026-08-02T04:18:54.866868"
+    },
+    {
+      "english": "My confidant, always.",
+      "spanish": "Mi confidente, siempre.",
+      "category": "Friendship",
+      "generated_at": "2026-08-02T04:18:54.866869"
+    },
+    {
+      "english": "Through thick and thin.",
+      "spanish": "En las buenas y malas.",
+      "category": "Friendship",
+      "generated_at": "2026-08-02T04:18:54.866870"
+    },
+    {
+      "english": "My chosen family.",
+      "spanish": "Mi familia elegida.",
+      "category": "Friendship",
+      "generated_at": "2026-08-02T04:18:54.866870"
+    },
+    {
+      "english": "Forever friends, we are.",
+      "spanish": "Amigos para siempre, somos.",
+      "category": "Friendship",
+      "generated_at": "2026-08-02T04:18:54.866871"
+    },
+    {
+      "english": "You're irreplaceable.",
+      "spanish": "No tienes reemplazo.",
+      "category": "Friendship",
+      "generated_at": "2026-08-02T04:18:54.866872"
+    },
+    {
+      "english": "This connection, is strong.",
+      "spanish": "Esta conexión, es fuerte.",
+      "category": "Friendship",
+      "generated_at": "2026-08-02T04:18:54.866873"
+    },
+    {
+      "english": "Good friends, help a lot.",
+      "spanish": "Buenos amigos, ayudan mucho.",
+      "category": "Friendship",
+      "generated_at": "2026-08-02T04:18:54.866874"
+    },
+    {
+      "english": "A true friend, is rare.",
+      "spanish": "Un amigo verdadero, es raro.",
+      "category": "Friendship",
+      "generated_at": "2026-08-02T04:18:54.866875"
+    },
+    {
+      "english": "Let's be good friends.",
+      "spanish": "Seamos buenos amigos.",
+      "category": "Friendship",
+      "generated_at": "2026-08-02T04:18:54.866877"
+    },
+    {
+      "english": "Always together, always friends.",
+      "spanish": "Siempre juntos, siempre amigos.",
+      "category": "Friendship",
+      "generated_at": "2026-08-02T04:18:54.866878"
+    },
+    {
+      "english": "You're my best friend.",
+      "spanish": "Eres mi mejor amigo.",
+      "category": "Friendship",
+      "generated_at": "2026-08-02T04:18:54.866879"
+    },
+    {
+      "english": "Thank you, for your friendship.",
+      "spanish": "Gracias, por tu amistad.",
+      "category": "Friendship",
+      "generated_at": "2026-08-02T04:18:54.866880"
+    },
+    {
+      "english": "We are like family.",
+      "spanish": "Somos como familia.",
+      "category": "Friendship",
+      "generated_at": "2026-08-02T04:18:54.866881"
+    },
+    {
+      "english": "Friends for life, you know?",
+      "spanish": "Amigos para siempre, ¿sabes?",
+      "category": "Friendship",
+      "generated_at": "2026-08-02T04:18:54.866882"
+    },
+    {
+      "english": "This is a special bond.",
+      "spanish": "Este es un vínculo especial.",
+      "category": "Friendship",
+      "generated_at": "2026-08-02T04:18:54.866883"
+    },
+    {
+      "english": "Glad to have you.",
+      "spanish": "Me alegro de tenerte.",
+      "category": "Friendship",
+      "generated_at": "2026-08-02T04:18:54.866884"
+    },
+    {
+      "english": "We understand each other.",
+      "spanish": "Nos entendemos bien.",
+      "category": "Friendship",
+      "generated_at": "2026-08-02T04:18:54.866885"
+    },
+    {
+      "english": "My circle is small.",
+      "spanish": "Mi círculo es pequeño.",
+      "category": "Friendship",
+      "generated_at": "2026-08-02T04:18:54.866886"
+    },
+    {
+      "english": "You're part of it.",
+      "spanish": "Tú eres parte de él.",
+      "category": "Friendship",
+      "generated_at": "2026-08-02T04:18:54.866887"
+    },
+    {
+      "english": "Loyalty, is important.",
+      "spanish": "La lealtad, es importante.",
+      "category": "Friendship",
+      "generated_at": "2026-08-02T04:18:54.866888"
+    },
+    {
+      "english": "Always on my side.",
+      "spanish": "Siempre a mi lado.",
+      "category": "Friendship",
+      "generated_at": "2026-08-02T04:18:54.866889"
+    },
+    {
+      "english": "We share many things.",
+      "spanish": "Compartimos muchas cosas.",
+      "category": "Friendship",
+      "generated_at": "2026-08-02T04:18:54.866890"
+    },
+    {
+      "english": "Let's create memories.",
+      "spanish": "Hagamos recuerdos.",
+      "category": "Friendship",
+      "generated_at": "2026-08-02T04:18:54.866891"
+    },
+    {
+      "english": "Our adventures, start now.",
+      "spanish": "Nuestras aventuras, empiezan ahora.",
+      "category": "Friendship",
+      "generated_at": "2026-08-02T04:18:54.866892"
+    },
+    {
+      "english": "Side by side, always.",
+      "spanish": "Codo a codo, siempre.",
+      "category": "Friendship",
+      "generated_at": "2026-08-02T04:18:54.866893"
+    },
+    {
+      "english": "You understand me, without words.",
+      "spanish": "Me entiendes, sin hablar.",
+      "category": "Friendship",
+      "generated_at": "2026-08-02T04:18:54.866894"
+    },
+    {
+      "english": "This is true friendship.",
+      "spanish": "Esto es amistad real.",
+      "category": "Friendship",
+      "generated_at": "2026-08-02T04:18:54.866895"
+    },
+    {
+      "english": "My partner in crime.",
+      "spanish": "Mi cómplice en todo.",
+      "category": "Friendship",
+      "generated_at": "2026-08-02T04:18:54.866896"
+    },
+    {
+      "english": "We go way back.",
+      "spanish": "Nos conocemos de hace tiempo.",
+      "category": "Friendship",
+      "generated_at": "2026-08-02T04:18:54.866897"
+    },
+    {
+      "english": "A bond like no other.",
+      "spanish": "Un lazo como ningún otro.",
+      "category": "Friendship",
+      "generated_at": "2026-08-02T04:18:54.866898"
+    },
+    {
+      "english": "You're more than a friend.",
+      "spanish": "Eres más que amigo.",
+      "category": "Friendship",
+      "generated_at": "2026-08-02T04:18:54.866899"
+    },
+    {
+      "english": "Let's stick together.",
+      "spanish": "Sigamos unidos.",
+      "category": "Friendship",
+      "generated_at": "2026-08-02T04:18:54.866900"
+    },
+    {
+      "english": "Our conversations, are the best.",
+      "spanish": "Nuestras charlas, son geniales.",
+      "category": "Friendship",
+      "generated_at": "2026-08-02T04:18:54.866901"
+    },
+    {
+      "english": "You always support me.",
+      "spanish": "Siempre me apoyas.",
+      "category": "Friendship",
+      "generated_at": "2026-08-02T04:18:54.866902"
+    },
+    {
+      "english": "A treasure, indeed.",
+      "spanish": "Un tesoro, sin duda.",
+      "category": "Friendship",
+      "generated_at": "2026-08-02T04:18:54.866903"
+    },
+    {
+      "english": "We celebrate together.",
+      "spanish": "Celebramos juntos.",
+      "category": "Friendship",
+      "generated_at": "2026-08-02T04:18:54.866904"
+    },
+    {
+      "english": "My confidant, always.",
+      "spanish": "Mi confidente, siempre.",
+      "category": "Friendship",
+      "generated_at": "2026-08-02T04:18:54.866905"
+    },
+    {
+      "english": "Through thick and thin.",
+      "spanish": "En las buenas y malas.",
+      "category": "Friendship",
+      "generated_at": "2026-08-02T04:18:54.866906"
+    },
+    {
+      "english": "My chosen family.",
+      "spanish": "Mi familia elegida.",
+      "category": "Friendship",
+      "generated_at": "2026-08-02T04:18:54.866907"
+    },
+    {
+      "english": "Forever friends, we are.",
+      "spanish": "Amigos para siempre, somos.",
+      "category": "Friendship",
+      "generated_at": "2026-08-02T04:18:54.866908"
+    },
+    {
+      "english": "You're irreplaceable.",
+      "spanish": "No tienes reemplazo.",
+      "category": "Friendship",
+      "generated_at": "2026-08-02T04:18:54.866909"
+    },
+    {
+      "english": "This connection, is strong.",
+      "spanish": "Esta conexión, es fuerte.",
+      "category": "Friendship",
+      "generated_at": "2026-08-02T04:18:54.866910"
+    },
+    {
+      "english": "Good friends, help a lot.",
+      "spanish": "Buenos amigos, ayudan mucho.",
+      "category": "Friendship",
+      "generated_at": "2026-08-02T04:18:54.866911"
+    },
+    {
+      "english": "A true friend, is rare.",
+      "spanish": "Un amigo verdadero, es raro.",
+      "category": "Friendship",
+      "generated_at": "2026-08-02T04:18:54.866912"
+    },
+    {
+      "english": "Let's be good friends.",
+      "spanish": "Seamos buenos amigos.",
+      "category": "Friendship",
+      "generated_at": "2026-08-02T04:18:54.866913"
+    },
+    {
+      "english": "Always together, always friends.",
+      "spanish": "Siempre juntos, siempre amigos.",
+      "category": "Friendship",
+      "generated_at": "2026-08-02T04:18:54.866914"
+    },
+    {
+      "english": "You're my best friend.",
+      "spanish": "Eres mi mejor amigo.",
+      "category": "Friendship",
+      "generated_at": "2026-08-02T04:18:54.866915"
+    },
+    {
+      "english": "Thank you, for your friendship.",
+      "spanish": "Gracias, por tu amistad.",
+      "category": "Friendship",
+      "generated_at": "2026-08-02T04:18:54.866916"
+    },
+    {
+      "english": "We are like family.",
+      "spanish": "Somos como familia.",
+      "category": "Friendship",
+      "generated_at": "2026-08-02T04:18:54.866917"
+    },
+    {
+      "english": "Friends for life, you know?",
+      "spanish": "Amigos para siempre, ¿sabes?",
+      "category": "Friendship",
+      "generated_at": "2026-08-02T04:18:54.866918"
+    },
+    {
+      "english": "This is a special bond.",
+      "spanish": "Este es un vínculo especial.",
+      "category": "Friendship",
+      "generated_at": "2026-08-02T04:18:54.866919"
+    },
+    {
+      "english": "Glad to have you.",
+      "spanish": "Me alegro de tenerte.",
+      "category": "Friendship",
+      "generated_at": "2026-08-02T04:18:54.866920"
+    },
+    {
+      "english": "We understand each other.",
+      "spanish": "Nos entendemos bien.",
+      "category": "Friendship",
+      "generated_at": "2026-08-02T04:18:54.866921"
+    },
+    {
+      "english": "My circle is small.",
+      "spanish": "Mi círculo es pequeño.",
+      "category": "Friendship",
+      "generated_at": "2026-08-02T04:18:54.866923"
+    },
+    {
+      "english": "You're part of it.",
+      "spanish": "Tú eres parte de él.",
+      "category": "Friendship",
+      "generated_at": "2026-08-02T04:18:54.866924"
+    },
+    {
+      "english": "Loyalty, is important.",
+      "spanish": "La lealtad, es importante.",
+      "category": "Friendship",
+      "generated_at": "2026-08-02T04:18:54.866925"
+    },
+    {
+      "english": "Always on my side.",
+      "spanish": "Siempre a mi lado.",
+      "category": "Friendship",
+      "generated_at": "2026-08-02T04:18:54.866926"
+    },
+    {
+      "english": "We share many things.",
+      "spanish": "Compartimos muchas cosas.",
+      "category": "Friendship",
+      "generated_at": "2026-08-02T04:18:54.866926"
+    },
+    {
+      "english": "Let's create memories.",
+      "spanish": "Hagamos recuerdos.",
+      "category": "Friendship",
+      "generated_at": "2026-08-02T04:18:54.866928"
+    },
+    {
+      "english": "Our adventures, start now.",
+      "spanish": "Nuestras aventuras, empiezan ahora.",
+      "category": "Friendship",
+      "generated_at": "2026-08-02T04:18:54.866929"
+    },
+    {
+      "english": "Side by side, always.",
+      "spanish": "Codo a codo, siempre.",
+      "category": "Friendship",
+      "generated_at": "2026-08-02T04:18:54.866930"
+    },
+    {
+      "english": "You understand me, without words.",
+      "spanish": "Me entiendes, sin hablar.",
+      "category": "Friendship",
+      "generated_at": "2026-08-02T04:18:54.866931"
+    },
+    {
+      "english": "This is true friendship.",
+      "spanish": "Esto es amistad real.",
+      "category": "Friendship",
+      "generated_at": "2026-08-02T04:18:54.866932"
+    },
+    {
+      "english": "My partner in crime.",
+      "spanish": "Mi cómplice en todo.",
+      "category": "Friendship",
+      "generated_at": "2026-08-02T04:18:54.866933"
+    },
+    {
+      "english": "We go way back.",
+      "spanish": "Nos conocemos de hace tiempo.",
+      "category": "Friendship",
+      "generated_at": "2026-08-02T04:18:54.866933"
+    },
+    {
+      "english": "A bond like no other.",
+      "spanish": "Un lazo como ningún otro.",
+      "category": "Friendship",
+      "generated_at": "2026-08-02T04:18:54.866934"
+    },
+    {
+      "english": "You're more than a friend.",
+      "spanish": "Eres más que amigo.",
+      "category": "Friendship",
+      "generated_at": "2026-08-02T04:18:54.866935"
+    },
+    {
+      "english": "Let's stick together.",
+      "spanish": "Sigamos unidos.",
+      "category": "Friendship",
+      "generated_at": "2026-08-02T04:18:54.866936"
+    },
+    {
+      "english": "Our conversations, are the best.",
+      "spanish": "Nuestras charlas, son geniales.",
+      "category": "Friendship",
+      "generated_at": "2026-08-02T04:18:54.866937"
+    },
+    {
+      "english": "You always support me.",
+      "spanish": "Siempre me apoyas.",
+      "category": "Friendship",
+      "generated_at": "2026-08-02T04:18:54.866942"
+    },
+    {
+      "english": "A treasure, indeed.",
+      "spanish": "Un tesoro, sin duda.",
+      "category": "Friendship",
+      "generated_at": "2026-08-02T04:18:54.866943"
+    },
+    {
+      "english": "We celebrate together.",
+      "spanish": "Celebramos juntos.",
+      "category": "Friendship",
+      "generated_at": "2026-08-02T04:18:54.866944"
+    },
+    {
+      "english": "My confidant, always.",
+      "spanish": "Mi confidente, siempre.",
+      "category": "Friendship",
+      "generated_at": "2026-08-02T04:18:54.866945"
+    },
+    {
+      "english": "Through thick and thin.",
+      "spanish": "En las buenas y malas.",
+      "category": "Friendship",
+      "generated_at": "2026-08-02T04:18:54.866946"
+    },
+    {
+      "english": "My chosen family.",
+      "spanish": "Mi familia elegida.",
+      "category": "Friendship",
+      "generated_at": "2026-08-02T04:18:54.866947"
+    },
+    {
+      "english": "Forever friends, we are.",
+      "spanish": "Amigos para siempre, somos.",
+      "category": "Friendship",
+      "generated_at": "2026-08-02T04:18:54.866948"
+    },
+    {
+      "english": "You're irreplaceable.",
+      "spanish": "No tienes reemplazo.",
+      "category": "Friendship",
+      "generated_at": "2026-08-02T04:18:54.866949"
+    },
+    {
+      "english": "This connection, is strong.",
+      "spanish": "Esta conexión, es fuerte.",
+      "category": "Friendship",
+      "generated_at": "2026-08-02T04:18:54.866950"
+    },
+    {
+      "english": "Good friends, help a lot.",
+      "spanish": "Buenos amigos, ayudan mucho.",
+      "category": "Friendship",
+      "generated_at": "2026-08-02T04:18:54.866951"
+    },
+    {
+      "english": "A true friend, is rare.",
+      "spanish": "Un amigo verdadero, es raro.",
+      "category": "Friendship",
+      "generated_at": "2026-08-02T04:18:54.866952"
+    },
+    {
+      "english": "Let's be good friends.",
+      "spanish": "Seamos buenos amigos.",
+      "category": "Friendship",
+      "generated_at": "2026-08-02T04:18:54.866953"
+    },
+    {
+      "english": "Always together, always friends.",
+      "spanish": "Siempre juntos, siempre amigos.",
+      "category": "Friendship",
+      "generated_at": "2026-08-02T04:18:54.866954"
+    },
+    {
+      "english": "You're my best friend.",
+      "spanish": "Eres mi mejor amigo.",
+      "category": "Friendship",
+      "generated_at": "2026-08-02T04:18:54.866955"
+    },
+    {
+      "english": "Thank you, for your friendship.",
+      "spanish": "Gracias, por tu amistad.",
+      "category": "Friendship",
+      "generated_at": "2026-08-02T04:18:54.866956"
+    },
+    {
+      "english": "We are like family.",
+      "spanish": "Somos como familia.",
+      "category": "Friendship",
+      "generated_at": "2026-08-02T04:18:54.866957"
+    },
+    {
+      "english": "Friends for life, you know?",
+      "spanish": "Amigos para siempre, ¿sabes?",
+      "category": "Friendship",
+      "generated_at": "2026-08-02T04:18:54.866958"
+    },
+    {
+      "english": "This is a special bond.",
+      "spanish": "Este es un vínculo especial.",
+      "category": "Friendship",
+      "generated_at": "2026-08-02T04:18:54.866959"
+    },
+    {
+      "english": "Glad to have you.",
+      "spanish": "Me alegro de tenerte.",
+      "category": "Friendship",
+      "generated_at": "2026-08-02T04:18:54.866960"
+    },
+    {
+      "english": "We understand each other.",
+      "spanish": "Nos entendemos bien.",
+      "category": "Friendship",
+      "generated_at": "2026-08-02T04:18:54.866961"
+    },
+    {
+      "english": "My circle is small.",
+      "spanish": "Mi círculo es pequeño.",
+      "category": "Friendship",
+      "generated_at": "2026-08-02T04:18:54.866962"
     }
   ],
-  "last_updated": "2026-08-01T04:15:44.703938"
+  "last_updated": "2026-08-02T04:18:54.866964"
 }
