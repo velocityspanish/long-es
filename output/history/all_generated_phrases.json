@@ -16559,7 +16559,727 @@
       "spanish": "Entender español, está a tu alcance.",
       "category": "Confidence",
       "generated_at": "2026-08-07T03:44:09.397739"
+    },
+    {
+      "english": "My heart beats, for you.",
+      "spanish": "Mi corazón, late por ti.",
+      "category": "Love",
+      "generated_at": "2026-08-08T02:49:52.709987"
+    },
+    {
+      "english": "You are, my everything.",
+      "spanish": "Eres, mi todo.",
+      "category": "Love",
+      "generated_at": "2026-08-08T02:49:52.710001"
+    },
+    {
+      "english": "I think of you, always.",
+      "spanish": "Pienso en ti, siempre.",
+      "category": "Love",
+      "generated_at": "2026-08-08T02:49:52.710004"
+    },
+    {
+      "english": "You make me, so happy.",
+      "spanish": "Me haces, muy feliz.",
+      "category": "Love",
+      "generated_at": "2026-08-08T02:49:52.710006"
+    },
+    {
+      "english": "I miss you, terribly.",
+      "spanish": "Te extraño, mucho.",
+      "category": "Love",
+      "generated_at": "2026-08-08T02:49:52.710007"
+    },
+    {
+      "english": "My love, for you, grows.",
+      "spanish": "Mi amor, por ti, crece.",
+      "category": "Love",
+      "generated_at": "2026-08-08T02:49:52.710008"
+    },
+    {
+      "english": "You are, my dream.",
+      "spanish": "Eres, mi sueño.",
+      "category": "Love",
+      "generated_at": "2026-08-08T02:49:52.710009"
+    },
+    {
+      "english": "I adore you, deeply.",
+      "spanish": "Te adoro, profundamente.",
+      "category": "Love",
+      "generated_at": "2026-08-08T02:49:52.710013"
+    },
+    {
+      "english": "You are, my sunshine.",
+      "spanish": "Eres, mi sol.",
+      "category": "Love",
+      "generated_at": "2026-08-08T02:49:52.710015"
+    },
+    {
+      "english": "My soulmate, is you.",
+      "spanish": "Mi alma gemela, eres tú.",
+      "category": "Love",
+      "generated_at": "2026-08-08T02:49:52.710016"
+    },
+    {
+      "english": "I love your smile, a lot.",
+      "spanish": "Amo tu sonrisa, mucho.",
+      "category": "Love",
+      "generated_at": "2026-08-08T02:49:52.710017"
+    },
+    {
+      "english": "You are, so beautiful.",
+      "spanish": "Eres, tan hermosa.",
+      "category": "Love",
+      "generated_at": "2026-08-08T02:49:52.710018"
+    },
+    {
+      "english": "I want to be, with you.",
+      "spanish": "Quiero estar, contigo.",
+      "category": "Love",
+      "generated_at": "2026-08-08T02:49:52.710019"
+    },
+    {
+      "english": "You are, my true love.",
+      "spanish": "Eres, mi amor verdadero.",
+      "category": "Love",
+      "generated_at": "2026-08-08T02:49:52.710020"
+    },
+    {
+      "english": "My life, is better, with you.",
+      "spanish": "Mi vida, es mejor, contigo.",
+      "category": "Love",
+      "generated_at": "2026-08-08T02:49:52.710022"
+    },
+    {
+      "english": "You are, my inspiration.",
+      "spanish": "Eres, mi inspiración.",
+      "category": "Love",
+      "generated_at": "2026-08-08T02:49:52.710022"
+    },
+    {
+      "english": "I can't live, without you.",
+      "spanish": "No puedo vivir, sin ti.",
+      "category": "Love",
+      "generated_at": "2026-08-08T02:49:52.710023"
+    },
+    {
+      "english": "You are, my one and only.",
+      "spanish": "Eres, mi único y mi todo.",
+      "category": "Love",
+      "generated_at": "2026-08-08T02:49:52.710024"
+    },
+    {
+      "english": "My heart, belongs to you.",
+      "spanish": "Mi corazón, te pertenece.",
+      "category": "Love",
+      "generated_at": "2026-08-08T02:49:52.710025"
+    },
+    {
+      "english": "You are, my greatest joy.",
+      "spanish": "Eres, mi mayor alegría.",
+      "category": "Love",
+      "generated_at": "2026-08-08T02:49:52.710026"
+    },
+    {
+      "english": "I need you, very much.",
+      "spanish": "Te necesito, mucho.",
+      "category": "Love",
+      "generated_at": "2026-08-08T02:49:52.710027"
+    },
+    {
+      "english": "You are, my perfect match.",
+      "spanish": "Eres, mi pareja perfecta.",
+      "category": "Love",
+      "generated_at": "2026-08-08T02:49:52.710028"
+    },
+    {
+      "english": "My love, for you, is eternal.",
+      "spanish": "Mi amor, por ti, es eterno.",
+      "category": "Love",
+      "generated_at": "2026-08-08T02:49:52.710029"
+    },
+    {
+      "english": "You complete, me.",
+      "spanish": "Tú me completas.",
+      "category": "Love",
+      "generated_at": "2026-08-08T02:49:52.710030"
+    },
+    {
+      "english": "I cherish, our moments.",
+      "spanish": "Atesoro, nuestros momentos.",
+      "category": "Love",
+      "generated_at": "2026-08-08T02:49:52.710031"
+    },
+    {
+      "english": "You are, my sweet love.",
+      "spanish": "Eres, mi dulce amor.",
+      "category": "Love",
+      "generated_at": "2026-08-08T02:49:52.710032"
+    },
+    {
+      "english": "My feelings, for you, are strong.",
+      "spanish": "Mis sentimientos, por ti, son fuertes.",
+      "category": "Love",
+      "generated_at": "2026-08-08T02:49:52.710033"
+    },
+    {
+      "english": "You are, my true north.",
+      "spanish": "Eres, mi norte verdadero.",
+      "category": "Love",
+      "generated_at": "2026-08-08T02:49:52.710033"
+    },
+    {
+      "english": "You are, my one desire.",
+      "spanish": "Eres, mi único deseo.",
+      "category": "Love",
+      "generated_at": "2026-08-08T02:49:52.710034"
+    },
+    {
+      "english": "You make me, feel alive.",
+      "spanish": "Me haces, sentir vivo.",
+      "category": "Love",
+      "generated_at": "2026-08-08T02:49:52.710035"
+    },
+    {
+      "english": "My love, for you, is pure.",
+      "spanish": "Mi amor, por ti, es puro.",
+      "category": "Love",
+      "generated_at": "2026-08-08T02:49:52.710036"
+    },
+    {
+      "english": "You are, my greatest treasure.",
+      "spanish": "Eres, mi mayor tesoro.",
+      "category": "Love",
+      "generated_at": "2026-08-08T02:49:52.710036"
+    },
+    {
+      "english": "I dream, of you.",
+      "spanish": "Sueño, contigo.",
+      "category": "Love",
+      "generated_at": "2026-08-08T02:49:52.710037"
+    },
+    {
+      "english": "You are, my sweet dream.",
+      "spanish": "Eres, mi dulce sueño.",
+      "category": "Love",
+      "generated_at": "2026-08-08T02:49:52.710038"
+    },
+    {
+      "english": "My heart, calls, for you.",
+      "spanish": "Mi corazón, te llama.",
+      "category": "Love",
+      "generated_at": "2026-08-08T02:49:52.710039"
+    },
+    {
+      "english": "You are, my true happiness.",
+      "spanish": "Eres, mi verdadera felicidad.",
+      "category": "Love",
+      "generated_at": "2026-08-08T02:49:52.710040"
+    },
+    {
+      "english": "You are, my only one.",
+      "spanish": "Eres, mi única.",
+      "category": "Love",
+      "generated_at": "2026-08-08T02:49:52.710041"
+    },
+    {
+      "english": "I live, for your love.",
+      "spanish": "Vivo, por tu amor.",
+      "category": "Love",
+      "generated_at": "2026-08-08T02:49:52.710042"
+    },
+    {
+      "english": "You are, my whole world.",
+      "spanish": "Eres, mi mundo entero.",
+      "category": "Love",
+      "generated_at": "2026-08-08T02:49:52.710042"
+    },
+    {
+      "english": "My heart beats, for you.",
+      "spanish": "Mi corazón, late por ti.",
+      "category": "Love",
+      "generated_at": "2026-08-08T02:49:52.710044"
+    },
+    {
+      "english": "You are, my everything.",
+      "spanish": "Eres, mi todo.",
+      "category": "Love",
+      "generated_at": "2026-08-08T02:49:52.710045"
+    },
+    {
+      "english": "I think of you, always.",
+      "spanish": "Pienso en ti, siempre.",
+      "category": "Love",
+      "generated_at": "2026-08-08T02:49:52.710046"
+    },
+    {
+      "english": "You make me, so happy.",
+      "spanish": "Me haces, muy feliz.",
+      "category": "Love",
+      "generated_at": "2026-08-08T02:49:52.710047"
+    },
+    {
+      "english": "I miss you, terribly.",
+      "spanish": "Te extraño, mucho.",
+      "category": "Love",
+      "generated_at": "2026-08-08T02:49:52.710048"
+    },
+    {
+      "english": "My love, for you, grows.",
+      "spanish": "Mi amor, por ti, crece.",
+      "category": "Love",
+      "generated_at": "2026-08-08T02:49:52.710049"
+    },
+    {
+      "english": "You are, my dream.",
+      "spanish": "Eres, mi sueño.",
+      "category": "Love",
+      "generated_at": "2026-08-08T02:49:52.710050"
+    },
+    {
+      "english": "I adore you, deeply.",
+      "spanish": "Te adoro, profundamente.",
+      "category": "Love",
+      "generated_at": "2026-08-08T02:49:52.710051"
+    },
+    {
+      "english": "You are, my sunshine.",
+      "spanish": "Eres, mi sol.",
+      "category": "Love",
+      "generated_at": "2026-08-08T02:49:52.710052"
+    },
+    {
+      "english": "My soulmate, is you.",
+      "spanish": "Mi alma gemela, eres tú.",
+      "category": "Love",
+      "generated_at": "2026-08-08T02:49:52.710052"
+    },
+    {
+      "english": "I love your smile, a lot.",
+      "spanish": "Amo tu sonrisa, mucho.",
+      "category": "Love",
+      "generated_at": "2026-08-08T02:49:52.710053"
+    },
+    {
+      "english": "You are, so beautiful.",
+      "spanish": "Eres, tan hermosa.",
+      "category": "Love",
+      "generated_at": "2026-08-08T02:49:52.710054"
+    },
+    {
+      "english": "I want to be, with you.",
+      "spanish": "Quiero estar, contigo.",
+      "category": "Love",
+      "generated_at": "2026-08-08T02:49:52.710055"
+    },
+    {
+      "english": "You are, my true love.",
+      "spanish": "Eres, mi amor verdadero.",
+      "category": "Love",
+      "generated_at": "2026-08-08T02:49:52.710056"
+    },
+    {
+      "english": "My life, is better, with you.",
+      "spanish": "Mi vida, es mejor, contigo.",
+      "category": "Love",
+      "generated_at": "2026-08-08T02:49:52.710057"
+    },
+    {
+      "english": "You are, my inspiration.",
+      "spanish": "Eres, mi inspiración.",
+      "category": "Love",
+      "generated_at": "2026-08-08T02:49:52.710058"
+    },
+    {
+      "english": "I can't live, without you.",
+      "spanish": "No puedo vivir, sin ti.",
+      "category": "Love",
+      "generated_at": "2026-08-08T02:49:52.710058"
+    },
+    {
+      "english": "You are, my one and only.",
+      "spanish": "Eres, mi único y mi todo.",
+      "category": "Love",
+      "generated_at": "2026-08-08T02:49:52.710059"
+    },
+    {
+      "english": "My heart, belongs to you.",
+      "spanish": "Mi corazón, te pertenece.",
+      "category": "Love",
+      "generated_at": "2026-08-08T02:49:52.710060"
+    },
+    {
+      "english": "You are, my greatest joy.",
+      "spanish": "Eres, mi mayor alegría.",
+      "category": "Love",
+      "generated_at": "2026-08-08T02:49:52.710061"
+    },
+    {
+      "english": "I need you, very much.",
+      "spanish": "Te necesito, mucho.",
+      "category": "Love",
+      "generated_at": "2026-08-08T02:49:52.710062"
+    },
+    {
+      "english": "You are, my perfect match.",
+      "spanish": "Eres, mi pareja perfecta.",
+      "category": "Love",
+      "generated_at": "2026-08-08T02:49:52.710063"
+    },
+    {
+      "english": "My love, for you, is eternal.",
+      "spanish": "Mi amor, por ti, es eterno.",
+      "category": "Love",
+      "generated_at": "2026-08-08T02:49:52.710063"
+    },
+    {
+      "english": "You complete, me.",
+      "spanish": "Tú me completas.",
+      "category": "Love",
+      "generated_at": "2026-08-08T02:49:52.710064"
+    },
+    {
+      "english": "I cherish, our moments.",
+      "spanish": "Atesoro, nuestros momentos.",
+      "category": "Love",
+      "generated_at": "2026-08-08T02:49:52.710065"
+    },
+    {
+      "english": "You are, my sweet love.",
+      "spanish": "Eres, mi dulce amor.",
+      "category": "Love",
+      "generated_at": "2026-08-08T02:49:52.710066"
+    },
+    {
+      "english": "My feelings, for you, are strong.",
+      "spanish": "Mis sentimientos, por ti, son fuertes.",
+      "category": "Love",
+      "generated_at": "2026-08-08T02:49:52.710067"
+    },
+    {
+      "english": "You are, my true north.",
+      "spanish": "Eres, mi norte verdadero.",
+      "category": "Love",
+      "generated_at": "2026-08-08T02:49:52.710068"
+    },
+    {
+      "english": "You are, my one desire.",
+      "spanish": "Eres, mi único deseo.",
+      "category": "Love",
+      "generated_at": "2026-08-08T02:49:52.710069"
+    },
+    {
+      "english": "You make me, feel alive.",
+      "spanish": "Me haces, sentir vivo.",
+      "category": "Love",
+      "generated_at": "2026-08-08T02:49:52.710069"
+    },
+    {
+      "english": "My love, for you, is pure.",
+      "spanish": "Mi amor, por ti, es puro.",
+      "category": "Love",
+      "generated_at": "2026-08-08T02:49:52.710070"
+    },
+    {
+      "english": "You are, my greatest treasure.",
+      "spanish": "Eres, mi mayor tesoro.",
+      "category": "Love",
+      "generated_at": "2026-08-08T02:49:52.710071"
+    },
+    {
+      "english": "I dream, of you.",
+      "spanish": "Sueño, contigo.",
+      "category": "Love",
+      "generated_at": "2026-08-08T02:49:52.710072"
+    },
+    {
+      "english": "You are, my sweet dream.",
+      "spanish": "Eres, mi dulce sueño.",
+      "category": "Love",
+      "generated_at": "2026-08-08T02:49:52.710073"
+    },
+    {
+      "english": "My heart, calls, for you.",
+      "spanish": "Mi corazón, te llama.",
+      "category": "Love",
+      "generated_at": "2026-08-08T02:49:52.710073"
+    },
+    {
+      "english": "You are, my true happiness.",
+      "spanish": "Eres, mi verdadera felicidad.",
+      "category": "Love",
+      "generated_at": "2026-08-08T02:49:52.710074"
+    },
+    {
+      "english": "You are, my only one.",
+      "spanish": "Eres, mi única.",
+      "category": "Love",
+      "generated_at": "2026-08-08T02:49:52.710075"
+    },
+    {
+      "english": "I live, for your love.",
+      "spanish": "Vivo, por tu amor.",
+      "category": "Love",
+      "generated_at": "2026-08-08T02:49:52.710076"
+    },
+    {
+      "english": "You are, my whole world.",
+      "spanish": "Eres, mi mundo entero.",
+      "category": "Love",
+      "generated_at": "2026-08-08T02:49:52.710077"
+    },
+    {
+      "english": "My heart beats, for you.",
+      "spanish": "Mi corazón, late por ti.",
+      "category": "Love",
+      "generated_at": "2026-08-08T02:49:52.710078"
+    },
+    {
+      "english": "You are, my everything.",
+      "spanish": "Eres, mi todo.",
+      "category": "Love",
+      "generated_at": "2026-08-08T02:49:52.710079"
+    },
+    {
+      "english": "I think of you, always.",
+      "spanish": "Pienso en ti, siempre.",
+      "category": "Love",
+      "generated_at": "2026-08-08T02:49:52.710080"
+    },
+    {
+      "english": "You make me, so happy.",
+      "spanish": "Me haces, muy feliz.",
+      "category": "Love",
+      "generated_at": "2026-08-08T02:49:52.710081"
+    },
+    {
+      "english": "I miss you, terribly.",
+      "spanish": "Te extraño, mucho.",
+      "category": "Love",
+      "generated_at": "2026-08-08T02:49:52.710082"
+    },
+    {
+      "english": "My love, for you, grows.",
+      "spanish": "Mi amor, por ti, crece.",
+      "category": "Love",
+      "generated_at": "2026-08-08T02:49:52.710082"
+    },
+    {
+      "english": "You are, my dream.",
+      "spanish": "Eres, mi sueño.",
+      "category": "Love",
+      "generated_at": "2026-08-08T02:49:52.710083"
+    },
+    {
+      "english": "I adore you, deeply.",
+      "spanish": "Te adoro, profundamente.",
+      "category": "Love",
+      "generated_at": "2026-08-08T02:49:52.710084"
+    },
+    {
+      "english": "You are, my sunshine.",
+      "spanish": "Eres, mi sol.",
+      "category": "Love",
+      "generated_at": "2026-08-08T02:49:52.710085"
+    },
+    {
+      "english": "My soulmate, is you.",
+      "spanish": "Mi alma gemela, eres tú.",
+      "category": "Love",
+      "generated_at": "2026-08-08T02:49:52.710086"
+    },
+    {
+      "english": "I love your smile, a lot.",
+      "spanish": "Amo tu sonrisa, mucho.",
+      "category": "Love",
+      "generated_at": "2026-08-08T02:49:52.710087"
+    },
+    {
+      "english": "You are, so beautiful.",
+      "spanish": "Eres, tan hermosa.",
+      "category": "Love",
+      "generated_at": "2026-08-08T02:49:52.710088"
+    },
+    {
+      "english": "I want to be, with you.",
+      "spanish": "Quiero estar, contigo.",
+      "category": "Love",
+      "generated_at": "2026-08-08T02:49:52.710089"
+    },
+    {
+      "english": "You are, my true love.",
+      "spanish": "Eres, mi amor verdadero.",
+      "category": "Love",
+      "generated_at": "2026-08-08T02:49:52.710090"
+    },
+    {
+      "english": "My life, is better, with you.",
+      "spanish": "Mi vida, es mejor, contigo.",
+      "category": "Love",
+      "generated_at": "2026-08-08T02:49:52.710091"
+    },
+    {
+      "english": "You are, my inspiration.",
+      "spanish": "Eres, mi inspiración.",
+      "category": "Love",
+      "generated_at": "2026-08-08T02:49:52.710092"
+    },
+    {
+      "english": "I can't live, without you.",
+      "spanish": "No puedo vivir, sin ti.",
+      "category": "Love",
+      "generated_at": "2026-08-08T02:49:52.710092"
+    },
+    {
+      "english": "You are, my one and only.",
+      "spanish": "Eres, mi único y mi todo.",
+      "category": "Love",
+      "generated_at": "2026-08-08T02:49:52.710093"
+    },
+    {
+      "english": "My heart, belongs to you.",
+      "spanish": "Mi corazón, te pertenece.",
+      "category": "Love",
+      "generated_at": "2026-08-08T02:49:52.710094"
+    },
+    {
+      "english": "You are, my greatest joy.",
+      "spanish": "Eres, mi mayor alegría.",
+      "category": "Love",
+      "generated_at": "2026-08-08T02:49:52.710095"
+    },
+    {
+      "english": "I need you, very much.",
+      "spanish": "Te necesito, mucho.",
+      "category": "Love",
+      "generated_at": "2026-08-08T02:49:52.710096"
+    },
+    {
+      "english": "You are, my perfect match.",
+      "spanish": "Eres, mi pareja perfecta.",
+      "category": "Love",
+      "generated_at": "2026-08-08T02:49:52.710096"
+    },
+    {
+      "english": "My love, for you, is eternal.",
+      "spanish": "Mi amor, por ti, es eterno.",
+      "category": "Love",
+      "generated_at": "2026-08-08T02:49:52.710097"
+    },
+    {
+      "english": "You complete, me.",
+      "spanish": "Tú me completas.",
+      "category": "Love",
+      "generated_at": "2026-08-08T02:49:52.710098"
+    },
+    {
+      "english": "I cherish, our moments.",
+      "spanish": "Atesoro, nuestros momentos.",
+      "category": "Love",
+      "generated_at": "2026-08-08T02:49:52.710099"
+    },
+    {
+      "english": "You are, my sweet love.",
+      "spanish": "Eres, mi dulce amor.",
+      "category": "Love",
+      "generated_at": "2026-08-08T02:49:52.710100"
+    },
+    {
+      "english": "My feelings, for you, are strong.",
+      "spanish": "Mis sentimientos, por ti, son fuertes.",
+      "category": "Love",
+      "generated_at": "2026-08-08T02:49:52.710101"
+    },
+    {
+      "english": "You are, my true north.",
+      "spanish": "Eres, mi norte verdadero.",
+      "category": "Love",
+      "generated_at": "2026-08-08T02:49:52.710102"
+    },
+    {
+      "english": "You are, my one desire.",
+      "spanish": "Eres, mi único deseo.",
+      "category": "Love",
+      "generated_at": "2026-08-08T02:49:52.710102"
+    },
+    {
+      "english": "You make me, feel alive.",
+      "spanish": "Me haces, sentir vivo.",
+      "category": "Love",
+      "generated_at": "2026-08-08T02:49:52.710103"
+    },
+    {
+      "english": "My love, for you, is pure.",
+      "spanish": "Mi amor, por ti, es puro.",
+      "category": "Love",
+      "generated_at": "2026-08-08T02:49:52.710104"
+    },
+    {
+      "english": "You are, my greatest treasure.",
+      "spanish": "Eres, mi mayor tesoro.",
+      "category": "Love",
+      "generated_at": "2026-08-08T02:49:52.710105"
+    },
+    {
+      "english": "I dream, of you.",
+      "spanish": "Sueño, contigo.",
+      "category": "Love",
+      "generated_at": "2026-08-08T02:49:52.710106"
+    },
+    {
+      "english": "You are, my sweet dream.",
+      "spanish": "Eres, mi dulce sueño.",
+      "category": "Love",
+      "generated_at": "2026-08-08T02:49:52.710107"
+    },
+    {
+      "english": "My heart, calls, for you.",
+      "spanish": "Mi corazón, te llama.",
+      "category": "Love",
+      "generated_at": "2026-08-08T02:49:52.710107"
+    },
+    {
+      "english": "You are, my true happiness.",
+      "spanish": "Eres, mi verdadera felicidad.",
+      "category": "Love",
+      "generated_at": "2026-08-08T02:49:52.710108"
+    },
+    {
+      "english": "You are, my only one.",
+      "spanish": "Eres, mi única.",
+      "category": "Love",
+      "generated_at": "2026-08-08T02:49:52.710109"
+    },
+    {
+      "english": "I live, for your love.",
+      "spanish": "Vivo, por tu amor.",
+      "category": "Love",
+      "generated_at": "2026-08-08T02:49:52.710110"
+    },
+    {
+      "english": "You are, my whole world.",
+      "spanish": "Eres, mi mundo entero.",
+      "category": "Love",
+      "generated_at": "2026-08-08T02:49:52.710111"
+    },
+    {
+      "english": "My heart beats, for you.",
+      "spanish": "Mi corazón, late por ti.",
+      "category": "Love",
+      "generated_at": "2026-08-08T02:49:52.710112"
+    },
+    {
+      "english": "You are, my everything.",
+      "spanish": "Eres, mi todo.",
+      "category": "Love",
+      "generated_at": "2026-08-08T02:49:52.710113"
+    },
+    {
+      "english": "I think of you, always.",
+      "spanish": "Pienso en ti, siempre.",
+      "category": "Love",
+      "generated_at": "2026-08-08T02:49:52.710114"
     }
   ],
-  "last_updated": "2026-08-07T03:44:09.397740"
+  "last_updated": "2026-08-08T02:49:52.710115"
 }
