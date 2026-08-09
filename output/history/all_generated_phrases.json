@@ -17279,7 +17279,727 @@
       "spanish": "Pienso en ti, siempre.",
       "category": "Love",
       "generated_at": "2026-08-08T02:49:52.710114"
+    },
+    {
+      "english": "Eat tacos, speak Spanish.",
+      "spanish": "Come tacos, habla español.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-09T02:57:19.566820"
+    },
+    {
+      "english": "Learn words, get smarter.",
+      "spanish": "Aprende palabras, sé más listo.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-09T02:57:19.566830"
+    },
+    {
+      "english": "No fear, try again.",
+      "spanish": "Sin miedo, intenta otra vez.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-09T02:57:19.566832"
+    },
+    {
+      "english": "Mistakes happen, keep going.",
+      "spanish": "Los errores pasan, sigue adelante.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-09T02:57:19.566833"
+    },
+    {
+      "english": "Listen much, talk more.",
+      "spanish": "Escucha mucho, habla más.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-09T02:57:19.566835"
+    },
+    {
+      "english": "Laugh often, learn Spanish.",
+      "spanish": "Ríe mucho, aprende español.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-09T02:57:19.566836"
+    },
+    {
+      "english": "Don't stop, won't stop.",
+      "spanish": "No pares, no te detengas.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-09T02:57:19.566837"
+    },
+    {
+      "english": "Practice daily, win daily.",
+      "spanish": "Practica diario, gana diario.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-09T02:57:19.566840"
+    },
+    {
+      "english": "Be brave, speak loud.",
+      "spanish": "Sé valiente, habla fuerte.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-09T02:57:19.566842"
+    },
+    {
+      "english": "Curiosity wins, learn more.",
+      "spanish": "La curiosidad gana, aprende más.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-09T02:57:19.566843"
+    },
+    {
+      "english": "Future you, will thank you.",
+      "spanish": "Tu yo futuro, te dará las gracias.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-09T02:57:19.566844"
+    },
+    {
+      "english": "Unlock doors, learn words.",
+      "spanish": "Abre puertas, aprende palabras.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-09T02:57:19.566846"
+    },
+    {
+      "english": "Embrace the struggle, it's worth it.",
+      "spanish": "Abraza la lucha, vale la pena.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-09T02:57:19.566847"
+    },
+    {
+      "english": "Your brain, loves new things.",
+      "spanish": "Tu cerebro, ama cosas nuevas.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-09T02:57:19.566848"
+    },
+    {
+      "english": "Fluent is a journey, not a race.",
+      "spanish": "Ser fluido es un viaje, no una carrera.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-09T02:57:19.566849"
+    },
+    {
+      "english": "Speak to everyone, understand more.",
+      "spanish": "Habla con todos, entiende más.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-09T02:57:19.566851"
+    },
+    {
+      "english": "One word, one victory.",
+      "spanish": "Una palabra, una victoria.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-09T02:57:19.566852"
+    },
+    {
+      "english": "Celebrate small wins, they add up.",
+      "spanish": "Celebra pequeñas victorias, suman.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-09T02:57:19.566853"
+    },
+    {
+      "english": "Your voice matters, speak it.",
+      "spanish": "Tu voz importa, dilo.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-09T02:57:19.566855"
+    },
+    {
+      "english": "Spanish is fun, no excuses.",
+      "spanish": "El español es divertido, sin excusas.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-09T02:57:19.566856"
+    },
+    {
+      "english": "Keep the rhythm, keep the flow.",
+      "spanish": "Mantén el ritmo, mantén el flujo.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-09T02:57:19.566857"
+    },
+    {
+      "english": "Imperfect is perfect, sometimes.",
+      "spanish": "Lo imperfecto es perfecto, a veces.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-09T02:57:19.566858"
+    },
+    {
+      "english": "Listen to music, learn phrases.",
+      "spanish": "Escucha música, aprende frases.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-09T02:57:19.566859"
+    },
+    {
+      "english": "Your journey, your pace.",
+      "spanish": "Tu viaje, tu ritmo.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-09T02:57:19.566860"
+    },
+    {
+      "english": "Be a language adventurer.",
+      "spanish": "Sé un aventurero del idioma.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-09T02:57:19.566861"
+    },
+    {
+      "english": "Mistakes are stepping stones.",
+      "spanish": "Los errores son peldaños.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-09T02:57:19.566862"
+    },
+    {
+      "english": "Grow your vocabulary, grow your world.",
+      "spanish": "Aumenta tu vocabulario, aumenta tu mundo.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-09T02:57:19.566863"
+    },
+    {
+      "english": "Talk, even if you stumble.",
+      "spanish": "Habla, aunque tropieces.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-09T02:57:19.566864"
+    },
+    {
+      "english": "Spanish is a superpower.",
+      "spanish": "El español es un superpoder.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-09T02:57:19.566865"
+    },
+    {
+      "english": "Embrace the accent, own it.",
+      "spanish": "Adopta el acento, hazlo tuyo.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-09T02:57:19.566866"
+    },
+    {
+      "english": "Read books, find stories.",
+      "spanish": "Lee libros, encuentra historias.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-09T02:57:19.566867"
+    },
+    {
+      "english": "Be consistent, see results.",
+      "spanish": "Sé constante, ve resultados.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-09T02:57:19.566868"
+    },
+    {
+      "english": "Your effort, pays off.",
+      "spanish": "Tu esfuerzo, vale la pena.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-09T02:57:19.566869"
+    },
+    {
+      "english": "Open your mind, open your mouth.",
+      "spanish": "Abre tu mente, abre tu boca.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-09T02:57:19.566870"
+    },
+    {
+      "english": "Spanish is a doorway, step through.",
+      "spanish": "El español es una puerta, cruza.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-09T02:57:19.566872"
+    },
+    {
+      "english": "Connect with people, speak Spanish.",
+      "spanish": "Conecta con gente, habla español.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-09T02:57:19.566873"
+    },
+    {
+      "english": "Believe in yourself, you can do it.",
+      "spanish": "Cree en ti, puedes hacerlo.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-09T02:57:19.566874"
+    },
+    {
+      "english": "Eat tacos, speak Spanish.",
+      "spanish": "Come tacos, habla español.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-09T02:57:19.566875"
+    },
+    {
+      "english": "Learn words, get smarter.",
+      "spanish": "Aprende palabras, sé más listo.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-09T02:57:19.566876"
+    },
+    {
+      "english": "No fear, try again.",
+      "spanish": "Sin miedo, intenta otra vez.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-09T02:57:19.566877"
+    },
+    {
+      "english": "Mistakes happen, keep going.",
+      "spanish": "Los errores pasan, sigue adelante.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-09T02:57:19.566879"
+    },
+    {
+      "english": "Listen much, talk more.",
+      "spanish": "Escucha mucho, habla más.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-09T02:57:19.566880"
+    },
+    {
+      "english": "Laugh often, learn Spanish.",
+      "spanish": "Ríe mucho, aprende español.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-09T02:57:19.566881"
+    },
+    {
+      "english": "Don't stop, won't stop.",
+      "spanish": "No pares, no te detengas.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-09T02:57:19.566882"
+    },
+    {
+      "english": "Practice daily, win daily.",
+      "spanish": "Practica diario, gana diario.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-09T02:57:19.566883"
+    },
+    {
+      "english": "Be brave, speak loud.",
+      "spanish": "Sé valiente, habla fuerte.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-09T02:57:19.566885"
+    },
+    {
+      "english": "Curiosity wins, learn more.",
+      "spanish": "La curiosidad gana, aprende más.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-09T02:57:19.566886"
+    },
+    {
+      "english": "Future you, will thank you.",
+      "spanish": "Tu yo futuro, te dará las gracias.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-09T02:57:19.566887"
+    },
+    {
+      "english": "Unlock doors, learn words.",
+      "spanish": "Abre puertas, aprende palabras.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-09T02:57:19.566888"
+    },
+    {
+      "english": "Embrace the struggle, it's worth it.",
+      "spanish": "Abraza la lucha, vale la pena.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-09T02:57:19.566889"
+    },
+    {
+      "english": "Your brain, loves new things.",
+      "spanish": "Tu cerebro, ama cosas nuevas.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-09T02:57:19.566890"
+    },
+    {
+      "english": "Fluent is a journey, not a race.",
+      "spanish": "Ser fluido es un viaje, no una carrera.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-09T02:57:19.566891"
+    },
+    {
+      "english": "Speak to everyone, understand more.",
+      "spanish": "Habla con todos, entiende más.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-09T02:57:19.566892"
+    },
+    {
+      "english": "One word, one victory.",
+      "spanish": "Una palabra, una victoria.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-09T02:57:19.566893"
+    },
+    {
+      "english": "Celebrate small wins, they add up.",
+      "spanish": "Celebra pequeñas victorias, suman.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-09T02:57:19.566894"
+    },
+    {
+      "english": "Your voice matters, speak it.",
+      "spanish": "Tu voz importa, dilo.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-09T02:57:19.566895"
+    },
+    {
+      "english": "Spanish is fun, no excuses.",
+      "spanish": "El español es divertido, sin excusas.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-09T02:57:19.566897"
+    },
+    {
+      "english": "Keep the rhythm, keep the flow.",
+      "spanish": "Mantén el ritmo, mantén el flujo.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-09T02:57:19.566898"
+    },
+    {
+      "english": "Imperfect is perfect, sometimes.",
+      "spanish": "Lo imperfecto es perfecto, a veces.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-09T02:57:19.566899"
+    },
+    {
+      "english": "Listen to music, learn phrases.",
+      "spanish": "Escucha música, aprende frases.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-09T02:57:19.566900"
+    },
+    {
+      "english": "Your journey, your pace.",
+      "spanish": "Tu viaje, tu ritmo.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-09T02:57:19.566901"
+    },
+    {
+      "english": "Be a language adventurer.",
+      "spanish": "Sé un aventurero del idioma.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-09T02:57:19.566902"
+    },
+    {
+      "english": "Mistakes are stepping stones.",
+      "spanish": "Los errores son peldaños.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-09T02:57:19.566903"
+    },
+    {
+      "english": "Grow your vocabulary, grow your world.",
+      "spanish": "Aumenta tu vocabulario, aumenta tu mundo.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-09T02:57:19.566904"
+    },
+    {
+      "english": "Talk, even if you stumble.",
+      "spanish": "Habla, aunque tropieces.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-09T02:57:19.566905"
+    },
+    {
+      "english": "Spanish is a superpower.",
+      "spanish": "El español es un superpoder.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-09T02:57:19.566906"
+    },
+    {
+      "english": "Embrace the accent, own it.",
+      "spanish": "Adopta el acento, hazlo tuyo.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-09T02:57:19.566908"
+    },
+    {
+      "english": "Read books, find stories.",
+      "spanish": "Lee libros, encuentra historias.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-09T02:57:19.566909"
+    },
+    {
+      "english": "Be consistent, see results.",
+      "spanish": "Sé constante, ve resultados.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-09T02:57:19.566910"
+    },
+    {
+      "english": "Your effort, pays off.",
+      "spanish": "Tu esfuerzo, vale la pena.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-09T02:57:19.566911"
+    },
+    {
+      "english": "Open your mind, open your mouth.",
+      "spanish": "Abre tu mente, abre tu boca.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-09T02:57:19.566912"
+    },
+    {
+      "english": "Spanish is a doorway, step through.",
+      "spanish": "El español es una puerta, cruza.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-09T02:57:19.566913"
+    },
+    {
+      "english": "Connect with people, speak Spanish.",
+      "spanish": "Conecta con gente, habla español.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-09T02:57:19.566914"
+    },
+    {
+      "english": "Believe in yourself, you can do it.",
+      "spanish": "Cree en ti, puedes hacerlo.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-09T02:57:19.566915"
+    },
+    {
+      "english": "Eat tacos, speak Spanish.",
+      "spanish": "Come tacos, habla español.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-09T02:57:19.566917"
+    },
+    {
+      "english": "Learn words, get smarter.",
+      "spanish": "Aprende palabras, sé más listo.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-09T02:57:19.566918"
+    },
+    {
+      "english": "No fear, try again.",
+      "spanish": "Sin miedo, intenta otra vez.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-09T02:57:19.566919"
+    },
+    {
+      "english": "Mistakes happen, keep going.",
+      "spanish": "Los errores pasan, sigue adelante.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-09T02:57:19.566920"
+    },
+    {
+      "english": "Listen much, talk more.",
+      "spanish": "Escucha mucho, habla más.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-09T02:57:19.566921"
+    },
+    {
+      "english": "Laugh often, learn Spanish.",
+      "spanish": "Ríe mucho, aprende español.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-09T02:57:19.566922"
+    },
+    {
+      "english": "Don't stop, won't stop.",
+      "spanish": "No pares, no te detengas.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-09T02:57:19.566923"
+    },
+    {
+      "english": "Practice daily, win daily.",
+      "spanish": "Practica diario, gana diario.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-09T02:57:19.566924"
+    },
+    {
+      "english": "Be brave, speak loud.",
+      "spanish": "Sé valiente, habla fuerte.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-09T02:57:19.566925"
+    },
+    {
+      "english": "Curiosity wins, learn more.",
+      "spanish": "La curiosidad gana, aprende más.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-09T02:57:19.566926"
+    },
+    {
+      "english": "Future you, will thank you.",
+      "spanish": "Tu yo futuro, te dará las gracias.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-09T02:57:19.566928"
+    },
+    {
+      "english": "Unlock doors, learn words.",
+      "spanish": "Abre puertas, aprende palabras.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-09T02:57:19.566929"
+    },
+    {
+      "english": "Embrace the struggle, it's worth it.",
+      "spanish": "Abraza la lucha, vale la pena.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-09T02:57:19.566930"
+    },
+    {
+      "english": "Your brain, loves new things.",
+      "spanish": "Tu cerebro, ama cosas nuevas.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-09T02:57:19.566931"
+    },
+    {
+      "english": "Fluent is a journey, not a race.",
+      "spanish": "Ser fluido es un viaje, no una carrera.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-09T02:57:19.566932"
+    },
+    {
+      "english": "Speak to everyone, understand more.",
+      "spanish": "Habla con todos, entiende más.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-09T02:57:19.566933"
+    },
+    {
+      "english": "One word, one victory.",
+      "spanish": "Una palabra, una victoria.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-09T02:57:19.566934"
+    },
+    {
+      "english": "Celebrate small wins, they add up.",
+      "spanish": "Celebra pequeñas victorias, suman.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-09T02:57:19.566935"
+    },
+    {
+      "english": "Your voice matters, speak it.",
+      "spanish": "Tu voz importa, dilo.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-09T02:57:19.566936"
+    },
+    {
+      "english": "Spanish is fun, no excuses.",
+      "spanish": "El español es divertido, sin excusas.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-09T02:57:19.566937"
+    },
+    {
+      "english": "Keep the rhythm, keep the flow.",
+      "spanish": "Mantén el ritmo, mantén el flujo.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-09T02:57:19.566938"
+    },
+    {
+      "english": "Imperfect is perfect, sometimes.",
+      "spanish": "Lo imperfecto es perfecto, a veces.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-09T02:57:19.566939"
+    },
+    {
+      "english": "Listen to music, learn phrases.",
+      "spanish": "Escucha música, aprende frases.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-09T02:57:19.566940"
+    },
+    {
+      "english": "Your journey, your pace.",
+      "spanish": "Tu viaje, tu ritmo.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-09T02:57:19.566941"
+    },
+    {
+      "english": "Be a language adventurer.",
+      "spanish": "Sé un aventurero del idioma.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-09T02:57:19.566942"
+    },
+    {
+      "english": "Mistakes are stepping stones.",
+      "spanish": "Los errores son peldaños.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-09T02:57:19.566943"
+    },
+    {
+      "english": "Grow your vocabulary, grow your world.",
+      "spanish": "Aumenta tu vocabulario, aumenta tu mundo.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-09T02:57:19.566944"
+    },
+    {
+      "english": "Talk, even if you stumble.",
+      "spanish": "Habla, aunque tropieces.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-09T02:57:19.566945"
+    },
+    {
+      "english": "Spanish is a superpower.",
+      "spanish": "El español es un superpoder.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-09T02:57:19.566946"
+    },
+    {
+      "english": "Embrace the accent, own it.",
+      "spanish": "Adopta el acento, hazlo tuyo.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-09T02:57:19.566948"
+    },
+    {
+      "english": "Read books, find stories.",
+      "spanish": "Lee libros, encuentra historias.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-09T02:57:19.566949"
+    },
+    {
+      "english": "Be consistent, see results.",
+      "spanish": "Sé constante, ve resultados.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-09T02:57:19.566950"
+    },
+    {
+      "english": "Your effort, pays off.",
+      "spanish": "Tu esfuerzo, vale la pena.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-09T02:57:19.566951"
+    },
+    {
+      "english": "Open your mind, open your mouth.",
+      "spanish": "Abre tu mente, abre tu boca.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-09T02:57:19.566952"
+    },
+    {
+      "english": "Spanish is a doorway, step through.",
+      "spanish": "El español es una puerta, cruza.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-09T02:57:19.566953"
+    },
+    {
+      "english": "Connect with people, speak Spanish.",
+      "spanish": "Conecta con gente, habla español.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-09T02:57:19.566954"
+    },
+    {
+      "english": "Believe in yourself, you can do it.",
+      "spanish": "Cree en ti, puedes hacerlo.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-09T02:57:19.566955"
+    },
+    {
+      "english": "Eat tacos, speak Spanish.",
+      "spanish": "Come tacos, habla español.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-09T02:57:19.566956"
+    },
+    {
+      "english": "Learn words, get smarter.",
+      "spanish": "Aprende palabras, sé más listo.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-09T02:57:19.566957"
+    },
+    {
+      "english": "No fear, try again.",
+      "spanish": "Sin miedo, intenta otra vez.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-09T02:57:19.566958"
+    },
+    {
+      "english": "Mistakes happen, keep going.",
+      "spanish": "Los errores pasan, sigue adelante.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-09T02:57:19.566960"
+    },
+    {
+      "english": "Listen much, talk more.",
+      "spanish": "Escucha mucho, habla más.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-09T02:57:19.566961"
+    },
+    {
+      "english": "Laugh often, learn Spanish.",
+      "spanish": "Ríe mucho, aprende español.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-09T02:57:19.566962"
+    },
+    {
+      "english": "Don't stop, won't stop.",
+      "spanish": "No pares, no te detengas.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-09T02:57:19.566963"
+    },
+    {
+      "english": "Practice daily, win daily.",
+      "spanish": "Practica diario, gana diario.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-09T02:57:19.566964"
+    },
+    {
+      "english": "Be brave, speak loud.",
+      "spanish": "Sé valiente, habla fuerte.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-09T02:57:19.566965"
     }
   ],
-  "last_updated": "2026-08-08T02:49:52.710115"
+  "last_updated": "2026-08-09T02:57:19.566967"
 }
