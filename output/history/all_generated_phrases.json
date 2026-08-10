@@ -17999,7 +17999,727 @@
       "spanish": "Sé valiente, habla fuerte.",
       "category": "Inspiration",
       "generated_at": "2026-08-09T02:57:19.566965"
+    },
+    {
+      "english": "Spark an idea, let it bloom.",
+      "spanish": "Enciende una idea, deja que florezca.",
+      "category": "Creativity",
+      "generated_at": "2026-08-10T03:06:32.251465"
+    },
+    {
+      "english": "Your thoughts, they can fly.",
+      "spanish": "Tus pensamientos, ellos pueden volar.",
+      "category": "Creativity",
+      "generated_at": "2026-08-10T03:06:32.251476"
+    },
+    {
+      "english": "Imagine it, then build it.",
+      "spanish": "Imagínalo, luego constrúyelo.",
+      "category": "Creativity",
+      "generated_at": "2026-08-10T03:06:32.251478"
+    },
+    {
+      "english": "Color outside lines, find new art.",
+      "spanish": "Colorea fuera de las líneas, encuentra arte nuevo.",
+      "category": "Creativity",
+      "generated_at": "2026-08-10T03:06:32.251480"
+    },
+    {
+      "english": "Let your mind wander, explore worlds.",
+      "spanish": "Deja tu mente divagar, explora mundos.",
+      "category": "Creativity",
+      "generated_at": "2026-08-10T03:06:32.251481"
+    },
+    {
+      "english": "Combine bits, make something new.",
+      "spanish": "Combina trozos, haz algo nuevo.",
+      "category": "Creativity",
+      "generated_at": "2026-08-10T03:06:32.251482"
+    },
+    {
+      "english": "What if, the best question.",
+      "spanish": "¿Y si, la mejor pregunta?",
+      "category": "Creativity",
+      "generated_at": "2026-08-10T03:06:32.251483"
+    },
+    {
+      "english": "Invent your own fun.",
+      "spanish": "Inventa tu propia diversión.",
+      "category": "Creativity",
+      "generated_at": "2026-08-10T03:06:32.251486"
+    },
+    {
+      "english": "See a new path, take it.",
+      "spanish": "Ve un camino nuevo, tómalo.",
+      "category": "Creativity",
+      "generated_at": "2026-08-10T03:06:32.251488"
+    },
+    {
+      "english": "Your perspective, always unique.",
+      "spanish": "Tu perspectiva, siempre única.",
+      "category": "Creativity",
+      "generated_at": "2026-08-10T03:06:32.251489"
+    },
+    {
+      "english": "Build with what you have.",
+      "spanish": "Construye con lo que tienes.",
+      "category": "Creativity",
+      "generated_at": "2026-08-10T03:06:32.251491"
+    },
+    {
+      "english": "Play with ideas, no pressure.",
+      "spanish": "Juega con ideas, sin presión.",
+      "category": "Creativity",
+      "generated_at": "2026-08-10T03:06:32.251492"
+    },
+    {
+      "english": "What if we try this?",
+      "spanish": "¿Y si probamos esto?",
+      "category": "Creativity",
+      "generated_at": "2026-08-10T03:06:32.251493"
+    },
+    {
+      "english": "A small spark, big changes.",
+      "spanish": "Una pequeña chispa, grandes cambios.",
+      "category": "Creativity",
+      "generated_at": "2026-08-10T03:06:32.251494"
+    },
+    {
+      "english": "Rearrange, rethink, renew.",
+      "spanish": "Reorganiza, repiensa, renueva.",
+      "category": "Creativity",
+      "generated_at": "2026-08-10T03:06:32.251496"
+    },
+    {
+      "english": "Your inner voice, guide it.",
+      "spanish": "Tu voz interior, guíala.",
+      "category": "Creativity",
+      "generated_at": "2026-08-10T03:06:32.251497"
+    },
+    {
+      "english": "Make something beautiful, slowly.",
+      "spanish": "Haz algo hermoso, despacio.",
+      "category": "Creativity",
+      "generated_at": "2026-08-10T03:06:32.251498"
+    },
+    {
+      "english": "The world needs your art.",
+      "spanish": "El mundo necesita tu arte.",
+      "category": "Creativity",
+      "generated_at": "2026-08-10T03:06:32.251499"
+    },
+    {
+      "english": "Think outside the box, always.",
+      "spanish": "Piensa fuera de la caja, siempre.",
+      "category": "Creativity",
+      "generated_at": "2026-08-10T03:06:32.251501"
+    },
+    {
+      "english": "Let inspiration strike you.",
+      "spanish": "Deja que la inspiración te golpee.",
+      "category": "Creativity",
+      "generated_at": "2026-08-10T03:06:32.251502"
+    },
+    {
+      "english": "Sketch your wildest dreams.",
+      "spanish": "Dibuja tus sueños más locos.",
+      "category": "Creativity",
+      "generated_at": "2026-08-10T03:06:32.251503"
+    },
+    {
+      "english": "Discover your unique talent.",
+      "spanish": "Descubre tu talento único.",
+      "category": "Creativity",
+      "generated_at": "2026-08-10T03:06:32.251504"
+    },
+    {
+      "english": "Don't be afraid to fail.",
+      "spanish": "No tengas miedo a fallar.",
+      "category": "Creativity",
+      "generated_at": "2026-08-10T03:06:32.251505"
+    },
+    {
+      "english": "Transform ordinary, into magic.",
+      "spanish": "Transforma lo ordinario, en magia.",
+      "category": "Creativity",
+      "generated_at": "2026-08-10T03:06:32.251506"
+    },
+    {
+      "english": "Find joy in the making.",
+      "spanish": "Encuentra gozo en el hacer.",
+      "category": "Creativity",
+      "generated_at": "2026-08-10T03:06:32.251508"
+    },
+    {
+      "english": "Let curiosity lead you.",
+      "spanish": "Deja que la curiosidad te guíe.",
+      "category": "Creativity",
+      "generated_at": "2026-08-10T03:06:32.251509"
+    },
+    {
+      "english": "Your ideas have power.",
+      "spanish": "Tus ideas tienen poder.",
+      "category": "Creativity",
+      "generated_at": "2026-08-10T03:06:32.251510"
+    },
+    {
+      "english": "What if we change it?",
+      "spanish": "¿Y si lo cambiamos?",
+      "category": "Creativity",
+      "generated_at": "2026-08-10T03:06:32.251511"
+    },
+    {
+      "english": "Build bridges, not walls.",
+      "spanish": "Construye puentes, no muros.",
+      "category": "Creativity",
+      "generated_at": "2026-08-10T03:06:32.251512"
+    },
+    {
+      "english": "Let your spirit create.",
+      "spanish": "Deja que tu espíritu cree.",
+      "category": "Creativity",
+      "generated_at": "2026-08-10T03:06:32.251513"
+    },
+    {
+      "english": "Dare to be original.",
+      "spanish": "Atrévete a ser original.",
+      "category": "Creativity",
+      "generated_at": "2026-08-10T03:06:32.251514"
+    },
+    {
+      "english": "Dream up, then make it real.",
+      "spanish": "Sueña alto, luego hazlo real.",
+      "category": "Creativity",
+      "generated_at": "2026-08-10T03:06:32.251515"
+    },
+    {
+      "english": "Your imagination, your tool.",
+      "spanish": "Tu imaginación, tu herramienta.",
+      "category": "Creativity",
+      "generated_at": "2026-08-10T03:06:32.251516"
+    },
+    {
+      "english": "Create with passion, ignite.",
+      "spanish": "Crea con pasión, enciende.",
+      "category": "Creativity",
+      "generated_at": "2026-08-10T03:06:32.251517"
+    },
+    {
+      "english": "Innovate, it's your moment.",
+      "spanish": "Innova, es tu momento.",
+      "category": "Creativity",
+      "generated_at": "2026-08-10T03:06:32.251518"
+    },
+    {
+      "english": "Spark an idea, let it bloom.",
+      "spanish": "Enciende una idea, deja que florezca.",
+      "category": "Creativity",
+      "generated_at": "2026-08-10T03:06:32.251519"
+    },
+    {
+      "english": "Your thoughts, they can fly.",
+      "spanish": "Tus pensamientos, ellos pueden volar.",
+      "category": "Creativity",
+      "generated_at": "2026-08-10T03:06:32.251521"
+    },
+    {
+      "english": "Imagine it, then build it.",
+      "spanish": "Imagínalo, luego constrúyelo.",
+      "category": "Creativity",
+      "generated_at": "2026-08-10T03:06:32.251522"
+    },
+    {
+      "english": "Color outside lines, find new art.",
+      "spanish": "Colorea fuera de las líneas, encuentra arte nuevo.",
+      "category": "Creativity",
+      "generated_at": "2026-08-10T03:06:32.251523"
+    },
+    {
+      "english": "Let your mind wander, explore worlds.",
+      "spanish": "Deja tu mente divagar, explora mundos.",
+      "category": "Creativity",
+      "generated_at": "2026-08-10T03:06:32.251524"
+    },
+    {
+      "english": "Combine bits, make something new.",
+      "spanish": "Combina trozos, haz algo nuevo.",
+      "category": "Creativity",
+      "generated_at": "2026-08-10T03:06:32.251525"
+    },
+    {
+      "english": "What if, the best question.",
+      "spanish": "¿Y si, la mejor pregunta?",
+      "category": "Creativity",
+      "generated_at": "2026-08-10T03:06:32.251527"
+    },
+    {
+      "english": "Invent your own fun.",
+      "spanish": "Inventa tu propia diversión.",
+      "category": "Creativity",
+      "generated_at": "2026-08-10T03:06:32.251528"
+    },
+    {
+      "english": "See a new path, take it.",
+      "spanish": "Ve un camino nuevo, tómalo.",
+      "category": "Creativity",
+      "generated_at": "2026-08-10T03:06:32.251529"
+    },
+    {
+      "english": "Your perspective, always unique.",
+      "spanish": "Tu perspectiva, siempre única.",
+      "category": "Creativity",
+      "generated_at": "2026-08-10T03:06:32.251530"
+    },
+    {
+      "english": "Build with what you have.",
+      "spanish": "Construye con lo que tienes.",
+      "category": "Creativity",
+      "generated_at": "2026-08-10T03:06:32.251531"
+    },
+    {
+      "english": "Play with ideas, no pressure.",
+      "spanish": "Juega con ideas, sin presión.",
+      "category": "Creativity",
+      "generated_at": "2026-08-10T03:06:32.251533"
+    },
+    {
+      "english": "What if we try this?",
+      "spanish": "¿Y si probamos esto?",
+      "category": "Creativity",
+      "generated_at": "2026-08-10T03:06:32.251534"
+    },
+    {
+      "english": "A small spark, big changes.",
+      "spanish": "Una pequeña chispa, grandes cambios.",
+      "category": "Creativity",
+      "generated_at": "2026-08-10T03:06:32.251535"
+    },
+    {
+      "english": "Rearrange, rethink, renew.",
+      "spanish": "Reorganiza, repiensa, renueva.",
+      "category": "Creativity",
+      "generated_at": "2026-08-10T03:06:32.251536"
+    },
+    {
+      "english": "Your inner voice, guide it.",
+      "spanish": "Tu voz interior, guíala.",
+      "category": "Creativity",
+      "generated_at": "2026-08-10T03:06:32.251537"
+    },
+    {
+      "english": "Make something beautiful, slowly.",
+      "spanish": "Haz algo hermoso, despacio.",
+      "category": "Creativity",
+      "generated_at": "2026-08-10T03:06:32.251538"
+    },
+    {
+      "english": "The world needs your art.",
+      "spanish": "El mundo necesita tu arte.",
+      "category": "Creativity",
+      "generated_at": "2026-08-10T03:06:32.251539"
+    },
+    {
+      "english": "Think outside the box, always.",
+      "spanish": "Piensa fuera de la caja, siempre.",
+      "category": "Creativity",
+      "generated_at": "2026-08-10T03:06:32.251540"
+    },
+    {
+      "english": "Let inspiration strike you.",
+      "spanish": "Deja que la inspiración te golpee.",
+      "category": "Creativity",
+      "generated_at": "2026-08-10T03:06:32.251542"
+    },
+    {
+      "english": "Sketch your wildest dreams.",
+      "spanish": "Dibuja tus sueños más locos.",
+      "category": "Creativity",
+      "generated_at": "2026-08-10T03:06:32.251543"
+    },
+    {
+      "english": "Discover your unique talent.",
+      "spanish": "Descubre tu talento único.",
+      "category": "Creativity",
+      "generated_at": "2026-08-10T03:06:32.251544"
+    },
+    {
+      "english": "Don't be afraid to fail.",
+      "spanish": "No tengas miedo a fallar.",
+      "category": "Creativity",
+      "generated_at": "2026-08-10T03:06:32.251545"
+    },
+    {
+      "english": "Transform ordinary, into magic.",
+      "spanish": "Transforma lo ordinario, en magia.",
+      "category": "Creativity",
+      "generated_at": "2026-08-10T03:06:32.251546"
+    },
+    {
+      "english": "Find joy in the making.",
+      "spanish": "Encuentra gozo en el hacer.",
+      "category": "Creativity",
+      "generated_at": "2026-08-10T03:06:32.251547"
+    },
+    {
+      "english": "Let curiosity lead you.",
+      "spanish": "Deja que la curiosidad te guíe.",
+      "category": "Creativity",
+      "generated_at": "2026-08-10T03:06:32.251548"
+    },
+    {
+      "english": "Your ideas have power.",
+      "spanish": "Tus ideas tienen poder.",
+      "category": "Creativity",
+      "generated_at": "2026-08-10T03:06:32.251550"
+    },
+    {
+      "english": "What if we change it?",
+      "spanish": "¿Y si lo cambiamos?",
+      "category": "Creativity",
+      "generated_at": "2026-08-10T03:06:32.251551"
+    },
+    {
+      "english": "Build bridges, not walls.",
+      "spanish": "Construye puentes, no muros.",
+      "category": "Creativity",
+      "generated_at": "2026-08-10T03:06:32.251552"
+    },
+    {
+      "english": "Let your spirit create.",
+      "spanish": "Deja que tu espíritu cree.",
+      "category": "Creativity",
+      "generated_at": "2026-08-10T03:06:32.251553"
+    },
+    {
+      "english": "Dare to be original.",
+      "spanish": "Atrévete a ser original.",
+      "category": "Creativity",
+      "generated_at": "2026-08-10T03:06:32.251554"
+    },
+    {
+      "english": "Dream up, then make it real.",
+      "spanish": "Sueña alto, luego hazlo real.",
+      "category": "Creativity",
+      "generated_at": "2026-08-10T03:06:32.251555"
+    },
+    {
+      "english": "Your imagination, your tool.",
+      "spanish": "Tu imaginación, tu herramienta.",
+      "category": "Creativity",
+      "generated_at": "2026-08-10T03:06:32.251556"
+    },
+    {
+      "english": "Create with passion, ignite.",
+      "spanish": "Crea con pasión, enciende.",
+      "category": "Creativity",
+      "generated_at": "2026-08-10T03:06:32.251557"
+    },
+    {
+      "english": "Innovate, it's your moment.",
+      "spanish": "Innova, es tu momento.",
+      "category": "Creativity",
+      "generated_at": "2026-08-10T03:06:32.251558"
+    },
+    {
+      "english": "Spark an idea, let it bloom.",
+      "spanish": "Enciende una idea, deja que florezca.",
+      "category": "Creativity",
+      "generated_at": "2026-08-10T03:06:32.251560"
+    },
+    {
+      "english": "Your thoughts, they can fly.",
+      "spanish": "Tus pensamientos, ellos pueden volar.",
+      "category": "Creativity",
+      "generated_at": "2026-08-10T03:06:32.251561"
+    },
+    {
+      "english": "Imagine it, then build it.",
+      "spanish": "Imagínalo, luego constrúyelo.",
+      "category": "Creativity",
+      "generated_at": "2026-08-10T03:06:32.251562"
+    },
+    {
+      "english": "Color outside lines, find new art.",
+      "spanish": "Colorea fuera de las líneas, encuentra arte nuevo.",
+      "category": "Creativity",
+      "generated_at": "2026-08-10T03:06:32.251563"
+    },
+    {
+      "english": "Let your mind wander, explore worlds.",
+      "spanish": "Deja tu mente divagar, explora mundos.",
+      "category": "Creativity",
+      "generated_at": "2026-08-10T03:06:32.251564"
+    },
+    {
+      "english": "Combine bits, make something new.",
+      "spanish": "Combina trozos, haz algo nuevo.",
+      "category": "Creativity",
+      "generated_at": "2026-08-10T03:06:32.251565"
+    },
+    {
+      "english": "What if, the best question.",
+      "spanish": "¿Y si, la mejor pregunta?",
+      "category": "Creativity",
+      "generated_at": "2026-08-10T03:06:32.251566"
+    },
+    {
+      "english": "Invent your own fun.",
+      "spanish": "Inventa tu propia diversión.",
+      "category": "Creativity",
+      "generated_at": "2026-08-10T03:06:32.251568"
+    },
+    {
+      "english": "See a new path, take it.",
+      "spanish": "Ve un camino nuevo, tómalo.",
+      "category": "Creativity",
+      "generated_at": "2026-08-10T03:06:32.251569"
+    },
+    {
+      "english": "Your perspective, always unique.",
+      "spanish": "Tu perspectiva, siempre única.",
+      "category": "Creativity",
+      "generated_at": "2026-08-10T03:06:32.251570"
+    },
+    {
+      "english": "Build with what you have.",
+      "spanish": "Construye con lo que tienes.",
+      "category": "Creativity",
+      "generated_at": "2026-08-10T03:06:32.251571"
+    },
+    {
+      "english": "Play with ideas, no pressure.",
+      "spanish": "Juega con ideas, sin presión.",
+      "category": "Creativity",
+      "generated_at": "2026-08-10T03:06:32.251572"
+    },
+    {
+      "english": "What if we try this?",
+      "spanish": "¿Y si probamos esto?",
+      "category": "Creativity",
+      "generated_at": "2026-08-10T03:06:32.251573"
+    },
+    {
+      "english": "A small spark, big changes.",
+      "spanish": "Una pequeña chispa, grandes cambios.",
+      "category": "Creativity",
+      "generated_at": "2026-08-10T03:06:32.251574"
+    },
+    {
+      "english": "Rearrange, rethink, renew.",
+      "spanish": "Reorganiza, repiensa, renueva.",
+      "category": "Creativity",
+      "generated_at": "2026-08-10T03:06:32.251576"
+    },
+    {
+      "english": "Your inner voice, guide it.",
+      "spanish": "Tu voz interior, guíala.",
+      "category": "Creativity",
+      "generated_at": "2026-08-10T03:06:32.251577"
+    },
+    {
+      "english": "Make something beautiful, slowly.",
+      "spanish": "Haz algo hermoso, despacio.",
+      "category": "Creativity",
+      "generated_at": "2026-08-10T03:06:32.251578"
+    },
+    {
+      "english": "The world needs your art.",
+      "spanish": "El mundo necesita tu arte.",
+      "category": "Creativity",
+      "generated_at": "2026-08-10T03:06:32.251579"
+    },
+    {
+      "english": "Think outside the box, always.",
+      "spanish": "Piensa fuera de la caja, siempre.",
+      "category": "Creativity",
+      "generated_at": "2026-08-10T03:06:32.251580"
+    },
+    {
+      "english": "Let inspiration strike you.",
+      "spanish": "Deja que la inspiración te golpee.",
+      "category": "Creativity",
+      "generated_at": "2026-08-10T03:06:32.251581"
+    },
+    {
+      "english": "Sketch your wildest dreams.",
+      "spanish": "Dibuja tus sueños más locos.",
+      "category": "Creativity",
+      "generated_at": "2026-08-10T03:06:32.251582"
+    },
+    {
+      "english": "Discover your unique talent.",
+      "spanish": "Descubre tu talento único.",
+      "category": "Creativity",
+      "generated_at": "2026-08-10T03:06:32.251583"
+    },
+    {
+      "english": "Don't be afraid to fail.",
+      "spanish": "No tengas miedo a fallar.",
+      "category": "Creativity",
+      "generated_at": "2026-08-10T03:06:32.251584"
+    },
+    {
+      "english": "Transform ordinary, into magic.",
+      "spanish": "Transforma lo ordinario, en magia.",
+      "category": "Creativity",
+      "generated_at": "2026-08-10T03:06:32.251585"
+    },
+    {
+      "english": "Find joy in the making.",
+      "spanish": "Encuentra gozo en el hacer.",
+      "category": "Creativity",
+      "generated_at": "2026-08-10T03:06:32.251586"
+    },
+    {
+      "english": "Let curiosity lead you.",
+      "spanish": "Deja que la curiosidad te guíe.",
+      "category": "Creativity",
+      "generated_at": "2026-08-10T03:06:32.251587"
+    },
+    {
+      "english": "Your ideas have power.",
+      "spanish": "Tus ideas tienen poder.",
+      "category": "Creativity",
+      "generated_at": "2026-08-10T03:06:32.251589"
+    },
+    {
+      "english": "What if we change it?",
+      "spanish": "¿Y si lo cambiamos?",
+      "category": "Creativity",
+      "generated_at": "2026-08-10T03:06:32.251590"
+    },
+    {
+      "english": "Build bridges, not walls.",
+      "spanish": "Construye puentes, no muros.",
+      "category": "Creativity",
+      "generated_at": "2026-08-10T03:06:32.251591"
+    },
+    {
+      "english": "Let your spirit create.",
+      "spanish": "Deja que tu espíritu cree.",
+      "category": "Creativity",
+      "generated_at": "2026-08-10T03:06:32.251592"
+    },
+    {
+      "english": "Dare to be original.",
+      "spanish": "Atrévete a ser original.",
+      "category": "Creativity",
+      "generated_at": "2026-08-10T03:06:32.251593"
+    },
+    {
+      "english": "Dream up, then make it real.",
+      "spanish": "Sueña alto, luego hazlo real.",
+      "category": "Creativity",
+      "generated_at": "2026-08-10T03:06:32.251594"
+    },
+    {
+      "english": "Your imagination, your tool.",
+      "spanish": "Tu imaginación, tu herramienta.",
+      "category": "Creativity",
+      "generated_at": "2026-08-10T03:06:32.251595"
+    },
+    {
+      "english": "Create with passion, ignite.",
+      "spanish": "Crea con pasión, enciende.",
+      "category": "Creativity",
+      "generated_at": "2026-08-10T03:06:32.251596"
+    },
+    {
+      "english": "Innovate, it's your moment.",
+      "spanish": "Innova, es tu momento.",
+      "category": "Creativity",
+      "generated_at": "2026-08-10T03:06:32.251597"
+    },
+    {
+      "english": "Spark an idea, let it bloom.",
+      "spanish": "Enciende una idea, deja que florezca.",
+      "category": "Creativity",
+      "generated_at": "2026-08-10T03:06:32.251598"
+    },
+    {
+      "english": "Your thoughts, they can fly.",
+      "spanish": "Tus pensamientos, ellos pueden volar.",
+      "category": "Creativity",
+      "generated_at": "2026-08-10T03:06:32.251599"
+    },
+    {
+      "english": "Imagine it, then build it.",
+      "spanish": "Imagínalo, luego constrúyelo.",
+      "category": "Creativity",
+      "generated_at": "2026-08-10T03:06:32.251600"
+    },
+    {
+      "english": "Color outside lines, find new art.",
+      "spanish": "Colorea fuera de las líneas, encuentra arte nuevo.",
+      "category": "Creativity",
+      "generated_at": "2026-08-10T03:06:32.251602"
+    },
+    {
+      "english": "Let your mind wander, explore worlds.",
+      "spanish": "Deja tu mente divagar, explora mundos.",
+      "category": "Creativity",
+      "generated_at": "2026-08-10T03:06:32.251603"
+    },
+    {
+      "english": "Combine bits, make something new.",
+      "spanish": "Combina trozos, haz algo nuevo.",
+      "category": "Creativity",
+      "generated_at": "2026-08-10T03:06:32.251604"
+    },
+    {
+      "english": "What if, the best question.",
+      "spanish": "¿Y si, la mejor pregunta?",
+      "category": "Creativity",
+      "generated_at": "2026-08-10T03:06:32.251605"
+    },
+    {
+      "english": "Invent your own fun.",
+      "spanish": "Inventa tu propia diversión.",
+      "category": "Creativity",
+      "generated_at": "2026-08-10T03:06:32.251606"
+    },
+    {
+      "english": "See a new path, take it.",
+      "spanish": "Ve un camino nuevo, tómalo.",
+      "category": "Creativity",
+      "generated_at": "2026-08-10T03:06:32.251608"
+    },
+    {
+      "english": "Your perspective, always unique.",
+      "spanish": "Tu perspectiva, siempre única.",
+      "category": "Creativity",
+      "generated_at": "2026-08-10T03:06:32.251609"
+    },
+    {
+      "english": "Build with what you have.",
+      "spanish": "Construye con lo que tienes.",
+      "category": "Creativity",
+      "generated_at": "2026-08-10T03:06:32.251610"
+    },
+    {
+      "english": "Play with ideas, no pressure.",
+      "spanish": "Juega con ideas, sin presión.",
+      "category": "Creativity",
+      "generated_at": "2026-08-10T03:06:32.251611"
+    },
+    {
+      "english": "What if we try this?",
+      "spanish": "¿Y si probamos esto?",
+      "category": "Creativity",
+      "generated_at": "2026-08-10T03:06:32.251612"
+    },
+    {
+      "english": "A small spark, big changes.",
+      "spanish": "Una pequeña chispa, grandes cambios.",
+      "category": "Creativity",
+      "generated_at": "2026-08-10T03:06:32.251613"
+    },
+    {
+      "english": "Rearrange, rethink, renew.",
+      "spanish": "Reorganiza, repiensa, renueva.",
+      "category": "Creativity",
+      "generated_at": "2026-08-10T03:06:32.251615"
     }
   ],
-  "last_updated": "2026-08-09T02:57:19.566967"
+  "last_updated": "2026-08-10T03:06:32.251617"
 }
