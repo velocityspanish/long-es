@@ -23039,7 +23039,727 @@
       "spanish": "Abre tu corazón, a la paz.",
       "category": "Forgiveness",
       "generated_at": "2026-08-16T02:15:50.425964"
+    },
+    {
+      "english": "Smile more, worry less.",
+      "spanish": "Sonríe más, preocúpate menos.",
+      "category": "Happiness",
+      "generated_at": "2026-08-17T02:13:26.386768"
+    },
+    {
+      "english": "Live happy, be happy.",
+      "spanish": "Vive feliz, sé feliz.",
+      "category": "Happiness",
+      "generated_at": "2026-08-17T02:13:26.386779"
+    },
+    {
+      "english": "Embrace your bliss, today.",
+      "spanish": "Abraza tu dicha, hoy.",
+      "category": "Happiness",
+      "generated_at": "2026-08-17T02:13:26.386781"
+    },
+    {
+      "english": "Happiness, is a journey.",
+      "spanish": "La felicidad, es un viaje.",
+      "category": "Happiness",
+      "generated_at": "2026-08-17T02:13:26.386783"
+    },
+    {
+      "english": "Chase dreams, with a smile.",
+      "spanish": "Persigue sueños, con una sonrisa.",
+      "category": "Happiness",
+      "generated_at": "2026-08-17T02:13:26.386784"
+    },
+    {
+      "english": "Love life, fully now.",
+      "spanish": "Ama la vida, plenamente ahora.",
+      "category": "Happiness",
+      "generated_at": "2026-08-17T02:13:26.386785"
+    },
+    {
+      "english": "Good vibes, only please.",
+      "spanish": "Buenas vibras, solo por favor.",
+      "category": "Happiness",
+      "generated_at": "2026-08-17T02:13:26.386786"
+    },
+    {
+      "english": "Your smile, brightens days.",
+      "spanish": "Tu sonrisa, ilumina días.",
+      "category": "Happiness",
+      "generated_at": "2026-08-17T02:13:26.386789"
+    },
+    {
+      "english": "Contentment, is true wealth.",
+      "spanish": "La satisfacción, es riqueza verdadera.",
+      "category": "Happiness",
+      "generated_at": "2026-08-17T02:13:26.386791"
+    },
+    {
+      "english": "Find your happy place.",
+      "spanish": "Encuentra tu lugar feliz.",
+      "category": "Happiness",
+      "generated_at": "2026-08-17T02:13:26.386792"
+    },
+    {
+      "english": "Spread sunshine, everywhere you go.",
+      "spanish": "Esparce sol, a donde vayas.",
+      "category": "Happiness",
+      "generated_at": "2026-08-17T02:13:26.386793"
+    },
+    {
+      "english": "Life is good, enjoy it.",
+      "spanish": "La vida es buena, disfrútala.",
+      "category": "Happiness",
+      "generated_at": "2026-08-17T02:13:26.386794"
+    },
+    {
+      "english": "Cherish moments, make them count.",
+      "spanish": "Aprecia momentos, haz que cuenten.",
+      "category": "Happiness",
+      "generated_at": "2026-08-17T02:13:26.386795"
+    },
+    {
+      "english": "Inner peace, outer joy.",
+      "spanish": "Paz interior, alegría exterior.",
+      "category": "Happiness",
+      "generated_at": "2026-08-17T02:13:26.386796"
+    },
+    {
+      "english": "Be bright, be cheerful.",
+      "spanish": "Sé brillante, sé alegre.",
+      "category": "Happiness",
+      "generated_at": "2026-08-17T02:13:26.386797"
+    },
+    {
+      "english": "Gratitude, fuels happiness.",
+      "spanish": "La gratitud, alimenta la felicidad.",
+      "category": "Happiness",
+      "generated_at": "2026-08-17T02:13:26.386798"
+    },
+    {
+      "english": "Laughter, is the best medicine.",
+      "spanish": "La risa, es la mejor medicina.",
+      "category": "Happiness",
+      "generated_at": "2026-08-17T02:13:26.386800"
+    },
+    {
+      "english": "Positive thoughts, positive life.",
+      "spanish": "Pensamientos positivos, vida positiva.",
+      "category": "Happiness",
+      "generated_at": "2026-08-17T02:13:26.386801"
+    },
+    {
+      "english": "Seek out, what makes you happy.",
+      "spanish": "Busca, lo que te hace feliz.",
+      "category": "Happiness",
+      "generated_at": "2026-08-17T02:13:26.386802"
+    },
+    {
+      "english": "Your happiness, matters greatly.",
+      "spanish": "Tu felicidad, importa mucho.",
+      "category": "Happiness",
+      "generated_at": "2026-08-17T02:13:26.386803"
+    },
+    {
+      "english": "Bloom where you are planted.",
+      "spanish": "Florece donde estás plantado.",
+      "category": "Happiness",
+      "generated_at": "2026-08-17T02:13:26.386804"
+    },
+    {
+      "english": "Simply be, joyfully present.",
+      "spanish": "Simplemente sé, alegremente presente.",
+      "category": "Happiness",
+      "generated_at": "2026-08-17T02:13:26.386805"
+    },
+    {
+      "english": "May your day, be wonderful.",
+      "spanish": "Que tu día, sea maravilloso.",
+      "category": "Happiness",
+      "generated_at": "2026-08-17T02:13:26.386806"
+    },
+    {
+      "english": "Joy is found, within.",
+      "spanish": "La alegría se encuentra, en el interior.",
+      "category": "Happiness",
+      "generated_at": "2026-08-17T02:13:26.386807"
+    },
+    {
+      "english": "Live with lightness, and laughter.",
+      "spanish": "Vive con ligereza, y risas.",
+      "category": "Happiness",
+      "generated_at": "2026-08-17T02:13:26.386808"
+    },
+    {
+      "english": "Count your blessings, daily.",
+      "spanish": "Cuenta tus bendiciones, a diario.",
+      "category": "Happiness",
+      "generated_at": "2026-08-17T02:13:26.386809"
+    },
+    {
+      "english": "Be kind, be happy.",
+      "spanish": "Sé amable, sé feliz.",
+      "category": "Happiness",
+      "generated_at": "2026-08-17T02:13:26.386809"
+    },
+    {
+      "english": "A joyful heart, is contagious.",
+      "spanish": "Un corazón alegre, es contagioso.",
+      "category": "Happiness",
+      "generated_at": "2026-08-17T02:13:26.386810"
+    },
+    {
+      "english": "Find peace, in the present.",
+      "spanish": "Encuentra paz, en el presente.",
+      "category": "Happiness",
+      "generated_at": "2026-08-17T02:13:26.386811"
+    },
+    {
+      "english": "Your true happiness, awaits.",
+      "spanish": "Tu verdadera felicidad, te espera.",
+      "category": "Happiness",
+      "generated_at": "2026-08-17T02:13:26.386812"
+    },
+    {
+      "english": "Embrace life's simple pleasures.",
+      "spanish": "Abraza los placeres simples de la vida.",
+      "category": "Happiness",
+      "generated_at": "2026-08-17T02:13:26.386813"
+    },
+    {
+      "english": "Make space, for joy.",
+      "spanish": "Haz espacio, para la alegría.",
+      "category": "Happiness",
+      "generated_at": "2026-08-17T02:13:26.386814"
+    },
+    {
+      "english": "Feel good, do good.",
+      "spanish": "Siéntete bien, haz el bien.",
+      "category": "Happiness",
+      "generated_at": "2026-08-17T02:13:26.386815"
+    },
+    {
+      "english": "Happiness blooms, from within.",
+      "spanish": "La felicidad florece, desde adentro.",
+      "category": "Happiness",
+      "generated_at": "2026-08-17T02:13:26.386816"
+    },
+    {
+      "english": "Share your light, with others.",
+      "spanish": "Comparte tu luz, con otros.",
+      "category": "Happiness",
+      "generated_at": "2026-08-17T02:13:26.386817"
+    },
+    {
+      "english": "Just be happy, right now.",
+      "spanish": "Solo sé feliz, ahora mismo.",
+      "category": "Happiness",
+      "generated_at": "2026-08-17T02:13:26.386818"
+    },
+    {
+      "english": "Smile more, worry less.",
+      "spanish": "Sonríe más, preocúpate menos.",
+      "category": "Happiness",
+      "generated_at": "2026-08-17T02:13:26.386819"
+    },
+    {
+      "english": "Live happy, be happy.",
+      "spanish": "Vive feliz, sé feliz.",
+      "category": "Happiness",
+      "generated_at": "2026-08-17T02:13:26.386820"
+    },
+    {
+      "english": "Embrace your bliss, today.",
+      "spanish": "Abraza tu dicha, hoy.",
+      "category": "Happiness",
+      "generated_at": "2026-08-17T02:13:26.386822"
+    },
+    {
+      "english": "Happiness, is a journey.",
+      "spanish": "La felicidad, es un viaje.",
+      "category": "Happiness",
+      "generated_at": "2026-08-17T02:13:26.386823"
+    },
+    {
+      "english": "Chase dreams, with a smile.",
+      "spanish": "Persigue sueños, con una sonrisa.",
+      "category": "Happiness",
+      "generated_at": "2026-08-17T02:13:26.386824"
+    },
+    {
+      "english": "Love life, fully now.",
+      "spanish": "Ama la vida, plenamente ahora.",
+      "category": "Happiness",
+      "generated_at": "2026-08-17T02:13:26.386825"
+    },
+    {
+      "english": "Good vibes, only please.",
+      "spanish": "Buenas vibras, solo por favor.",
+      "category": "Happiness",
+      "generated_at": "2026-08-17T02:13:26.386826"
+    },
+    {
+      "english": "Your smile, brightens days.",
+      "spanish": "Tu sonrisa, ilumina días.",
+      "category": "Happiness",
+      "generated_at": "2026-08-17T02:13:26.386827"
+    },
+    {
+      "english": "Contentment, is true wealth.",
+      "spanish": "La satisfacción, es riqueza verdadera.",
+      "category": "Happiness",
+      "generated_at": "2026-08-17T02:13:26.386828"
+    },
+    {
+      "english": "Find your happy place.",
+      "spanish": "Encuentra tu lugar feliz.",
+      "category": "Happiness",
+      "generated_at": "2026-08-17T02:13:26.386829"
+    },
+    {
+      "english": "Spread sunshine, everywhere you go.",
+      "spanish": "Esparce sol, a donde vayas.",
+      "category": "Happiness",
+      "generated_at": "2026-08-17T02:13:26.386830"
+    },
+    {
+      "english": "Life is good, enjoy it.",
+      "spanish": "La vida es buena, disfrútala.",
+      "category": "Happiness",
+      "generated_at": "2026-08-17T02:13:26.386831"
+    },
+    {
+      "english": "Cherish moments, make them count.",
+      "spanish": "Aprecia momentos, haz que cuenten.",
+      "category": "Happiness",
+      "generated_at": "2026-08-17T02:13:26.386832"
+    },
+    {
+      "english": "Inner peace, outer joy.",
+      "spanish": "Paz interior, alegría exterior.",
+      "category": "Happiness",
+      "generated_at": "2026-08-17T02:13:26.386833"
+    },
+    {
+      "english": "Be bright, be cheerful.",
+      "spanish": "Sé brillante, sé alegre.",
+      "category": "Happiness",
+      "generated_at": "2026-08-17T02:13:26.386834"
+    },
+    {
+      "english": "Gratitude, fuels happiness.",
+      "spanish": "La gratitud, alimenta la felicidad.",
+      "category": "Happiness",
+      "generated_at": "2026-08-17T02:13:26.386835"
+    },
+    {
+      "english": "Laughter, is the best medicine.",
+      "spanish": "La risa, es la mejor medicina.",
+      "category": "Happiness",
+      "generated_at": "2026-08-17T02:13:26.386836"
+    },
+    {
+      "english": "Positive thoughts, positive life.",
+      "spanish": "Pensamientos positivos, vida positiva.",
+      "category": "Happiness",
+      "generated_at": "2026-08-17T02:13:26.386837"
+    },
+    {
+      "english": "Seek out, what makes you happy.",
+      "spanish": "Busca, lo que te hace feliz.",
+      "category": "Happiness",
+      "generated_at": "2026-08-17T02:13:26.386838"
+    },
+    {
+      "english": "Your happiness, matters greatly.",
+      "spanish": "Tu felicidad, importa mucho.",
+      "category": "Happiness",
+      "generated_at": "2026-08-17T02:13:26.386839"
+    },
+    {
+      "english": "Bloom where you are planted.",
+      "spanish": "Florece donde estás plantado.",
+      "category": "Happiness",
+      "generated_at": "2026-08-17T02:13:26.386840"
+    },
+    {
+      "english": "Simply be, joyfully present.",
+      "spanish": "Simplemente sé, alegremente presente.",
+      "category": "Happiness",
+      "generated_at": "2026-08-17T02:13:26.386841"
+    },
+    {
+      "english": "May your day, be wonderful.",
+      "spanish": "Que tu día, sea maravilloso.",
+      "category": "Happiness",
+      "generated_at": "2026-08-17T02:13:26.386842"
+    },
+    {
+      "english": "Joy is found, within.",
+      "spanish": "La alegría se encuentra, en el interior.",
+      "category": "Happiness",
+      "generated_at": "2026-08-17T02:13:26.386843"
+    },
+    {
+      "english": "Live with lightness, and laughter.",
+      "spanish": "Vive con ligereza, y risas.",
+      "category": "Happiness",
+      "generated_at": "2026-08-17T02:13:26.386844"
+    },
+    {
+      "english": "Count your blessings, daily.",
+      "spanish": "Cuenta tus bendiciones, a diario.",
+      "category": "Happiness",
+      "generated_at": "2026-08-17T02:13:26.386845"
+    },
+    {
+      "english": "Be kind, be happy.",
+      "spanish": "Sé amable, sé feliz.",
+      "category": "Happiness",
+      "generated_at": "2026-08-17T02:13:26.386846"
+    },
+    {
+      "english": "A joyful heart, is contagious.",
+      "spanish": "Un corazón alegre, es contagioso.",
+      "category": "Happiness",
+      "generated_at": "2026-08-17T02:13:26.386847"
+    },
+    {
+      "english": "Find peace, in the present.",
+      "spanish": "Encuentra paz, en el presente.",
+      "category": "Happiness",
+      "generated_at": "2026-08-17T02:13:26.386848"
+    },
+    {
+      "english": "Your true happiness, awaits.",
+      "spanish": "Tu verdadera felicidad, te espera.",
+      "category": "Happiness",
+      "generated_at": "2026-08-17T02:13:26.386849"
+    },
+    {
+      "english": "Embrace life's simple pleasures.",
+      "spanish": "Abraza los placeres simples de la vida.",
+      "category": "Happiness",
+      "generated_at": "2026-08-17T02:13:26.386850"
+    },
+    {
+      "english": "Make space, for joy.",
+      "spanish": "Haz espacio, para la alegría.",
+      "category": "Happiness",
+      "generated_at": "2026-08-17T02:13:26.386851"
+    },
+    {
+      "english": "Feel good, do good.",
+      "spanish": "Siéntete bien, haz el bien.",
+      "category": "Happiness",
+      "generated_at": "2026-08-17T02:13:26.386852"
+    },
+    {
+      "english": "Happiness blooms, from within.",
+      "spanish": "La felicidad florece, desde adentro.",
+      "category": "Happiness",
+      "generated_at": "2026-08-17T02:13:26.386853"
+    },
+    {
+      "english": "Share your light, with others.",
+      "spanish": "Comparte tu luz, con otros.",
+      "category": "Happiness",
+      "generated_at": "2026-08-17T02:13:26.386854"
+    },
+    {
+      "english": "Just be happy, right now.",
+      "spanish": "Solo sé feliz, ahora mismo.",
+      "category": "Happiness",
+      "generated_at": "2026-08-17T02:13:26.386855"
+    },
+    {
+      "english": "Smile more, worry less.",
+      "spanish": "Sonríe más, preocúpate menos.",
+      "category": "Happiness",
+      "generated_at": "2026-08-17T02:13:26.386856"
+    },
+    {
+      "english": "Live happy, be happy.",
+      "spanish": "Vive feliz, sé feliz.",
+      "category": "Happiness",
+      "generated_at": "2026-08-17T02:13:26.386857"
+    },
+    {
+      "english": "Embrace your bliss, today.",
+      "spanish": "Abraza tu dicha, hoy.",
+      "category": "Happiness",
+      "generated_at": "2026-08-17T02:13:26.386858"
+    },
+    {
+      "english": "Happiness, is a journey.",
+      "spanish": "La felicidad, es un viaje.",
+      "category": "Happiness",
+      "generated_at": "2026-08-17T02:13:26.386859"
+    },
+    {
+      "english": "Chase dreams, with a smile.",
+      "spanish": "Persigue sueños, con una sonrisa.",
+      "category": "Happiness",
+      "generated_at": "2026-08-17T02:13:26.386860"
+    },
+    {
+      "english": "Love life, fully now.",
+      "spanish": "Ama la vida, plenamente ahora.",
+      "category": "Happiness",
+      "generated_at": "2026-08-17T02:13:26.386861"
+    },
+    {
+      "english": "Good vibes, only please.",
+      "spanish": "Buenas vibras, solo por favor.",
+      "category": "Happiness",
+      "generated_at": "2026-08-17T02:13:26.386862"
+    },
+    {
+      "english": "Your smile, brightens days.",
+      "spanish": "Tu sonrisa, ilumina días.",
+      "category": "Happiness",
+      "generated_at": "2026-08-17T02:13:26.386863"
+    },
+    {
+      "english": "Contentment, is true wealth.",
+      "spanish": "La satisfacción, es riqueza verdadera.",
+      "category": "Happiness",
+      "generated_at": "2026-08-17T02:13:26.386864"
+    },
+    {
+      "english": "Find your happy place.",
+      "spanish": "Encuentra tu lugar feliz.",
+      "category": "Happiness",
+      "generated_at": "2026-08-17T02:13:26.386865"
+    },
+    {
+      "english": "Spread sunshine, everywhere you go.",
+      "spanish": "Esparce sol, a donde vayas.",
+      "category": "Happiness",
+      "generated_at": "2026-08-17T02:13:26.386866"
+    },
+    {
+      "english": "Life is good, enjoy it.",
+      "spanish": "La vida es buena, disfrútala.",
+      "category": "Happiness",
+      "generated_at": "2026-08-17T02:13:26.386867"
+    },
+    {
+      "english": "Cherish moments, make them count.",
+      "spanish": "Aprecia momentos, haz que cuenten.",
+      "category": "Happiness",
+      "generated_at": "2026-08-17T02:13:26.386868"
+    },
+    {
+      "english": "Inner peace, outer joy.",
+      "spanish": "Paz interior, alegría exterior.",
+      "category": "Happiness",
+      "generated_at": "2026-08-17T02:13:26.386869"
+    },
+    {
+      "english": "Be bright, be cheerful.",
+      "spanish": "Sé brillante, sé alegre.",
+      "category": "Happiness",
+      "generated_at": "2026-08-17T02:13:26.386870"
+    },
+    {
+      "english": "Gratitude, fuels happiness.",
+      "spanish": "La gratitud, alimenta la felicidad.",
+      "category": "Happiness",
+      "generated_at": "2026-08-17T02:13:26.386871"
+    },
+    {
+      "english": "Laughter, is the best medicine.",
+      "spanish": "La risa, es la mejor medicina.",
+      "category": "Happiness",
+      "generated_at": "2026-08-17T02:13:26.386872"
+    },
+    {
+      "english": "Positive thoughts, positive life.",
+      "spanish": "Pensamientos positivos, vida positiva.",
+      "category": "Happiness",
+      "generated_at": "2026-08-17T02:13:26.386873"
+    },
+    {
+      "english": "Seek out, what makes you happy.",
+      "spanish": "Busca, lo que te hace feliz.",
+      "category": "Happiness",
+      "generated_at": "2026-08-17T02:13:26.386874"
+    },
+    {
+      "english": "Your happiness, matters greatly.",
+      "spanish": "Tu felicidad, importa mucho.",
+      "category": "Happiness",
+      "generated_at": "2026-08-17T02:13:26.386875"
+    },
+    {
+      "english": "Bloom where you are planted.",
+      "spanish": "Florece donde estás plantado.",
+      "category": "Happiness",
+      "generated_at": "2026-08-17T02:13:26.386876"
+    },
+    {
+      "english": "Simply be, joyfully present.",
+      "spanish": "Simplemente sé, alegremente presente.",
+      "category": "Happiness",
+      "generated_at": "2026-08-17T02:13:26.386877"
+    },
+    {
+      "english": "May your day, be wonderful.",
+      "spanish": "Que tu día, sea maravilloso.",
+      "category": "Happiness",
+      "generated_at": "2026-08-17T02:13:26.386878"
+    },
+    {
+      "english": "Joy is found, within.",
+      "spanish": "La alegría se encuentra, en el interior.",
+      "category": "Happiness",
+      "generated_at": "2026-08-17T02:13:26.386879"
+    },
+    {
+      "english": "Live with lightness, and laughter.",
+      "spanish": "Vive con ligereza, y risas.",
+      "category": "Happiness",
+      "generated_at": "2026-08-17T02:13:26.386880"
+    },
+    {
+      "english": "Count your blessings, daily.",
+      "spanish": "Cuenta tus bendiciones, a diario.",
+      "category": "Happiness",
+      "generated_at": "2026-08-17T02:13:26.386881"
+    },
+    {
+      "english": "Be kind, be happy.",
+      "spanish": "Sé amable, sé feliz.",
+      "category": "Happiness",
+      "generated_at": "2026-08-17T02:13:26.386882"
+    },
+    {
+      "english": "A joyful heart, is contagious.",
+      "spanish": "Un corazón alegre, es contagioso.",
+      "category": "Happiness",
+      "generated_at": "2026-08-17T02:13:26.386883"
+    },
+    {
+      "english": "Find peace, in the present.",
+      "spanish": "Encuentra paz, en el presente.",
+      "category": "Happiness",
+      "generated_at": "2026-08-17T02:13:26.386884"
+    },
+    {
+      "english": "Your true happiness, awaits.",
+      "spanish": "Tu verdadera felicidad, te espera.",
+      "category": "Happiness",
+      "generated_at": "2026-08-17T02:13:26.386885"
+    },
+    {
+      "english": "Embrace life's simple pleasures.",
+      "spanish": "Abraza los placeres simples de la vida.",
+      "category": "Happiness",
+      "generated_at": "2026-08-17T02:13:26.386886"
+    },
+    {
+      "english": "Make space, for joy.",
+      "spanish": "Haz espacio, para la alegría.",
+      "category": "Happiness",
+      "generated_at": "2026-08-17T02:13:26.386887"
+    },
+    {
+      "english": "Feel good, do good.",
+      "spanish": "Siéntete bien, haz el bien.",
+      "category": "Happiness",
+      "generated_at": "2026-08-17T02:13:26.386888"
+    },
+    {
+      "english": "Happiness blooms, from within.",
+      "spanish": "La felicidad florece, desde adentro.",
+      "category": "Happiness",
+      "generated_at": "2026-08-17T02:13:26.386889"
+    },
+    {
+      "english": "Share your light, with others.",
+      "spanish": "Comparte tu luz, con otros.",
+      "category": "Happiness",
+      "generated_at": "2026-08-17T02:13:26.386890"
+    },
+    {
+      "english": "Just be happy, right now.",
+      "spanish": "Solo sé feliz, ahora mismo.",
+      "category": "Happiness",
+      "generated_at": "2026-08-17T02:13:26.386891"
+    },
+    {
+      "english": "Smile more, worry less.",
+      "spanish": "Sonríe más, preocúpate menos.",
+      "category": "Happiness",
+      "generated_at": "2026-08-17T02:13:26.386892"
+    },
+    {
+      "english": "Live happy, be happy.",
+      "spanish": "Vive feliz, sé feliz.",
+      "category": "Happiness",
+      "generated_at": "2026-08-17T02:13:26.386893"
+    },
+    {
+      "english": "Embrace your bliss, today.",
+      "spanish": "Abraza tu dicha, hoy.",
+      "category": "Happiness",
+      "generated_at": "2026-08-17T02:13:26.386894"
+    },
+    {
+      "english": "Happiness, is a journey.",
+      "spanish": "La felicidad, es un viaje.",
+      "category": "Happiness",
+      "generated_at": "2026-08-17T02:13:26.386895"
+    },
+    {
+      "english": "Chase dreams, with a smile.",
+      "spanish": "Persigue sueños, con una sonrisa.",
+      "category": "Happiness",
+      "generated_at": "2026-08-17T02:13:26.386897"
+    },
+    {
+      "english": "Love life, fully now.",
+      "spanish": "Ama la vida, plenamente ahora.",
+      "category": "Happiness",
+      "generated_at": "2026-08-17T02:13:26.386898"
+    },
+    {
+      "english": "Good vibes, only please.",
+      "spanish": "Buenas vibras, solo por favor.",
+      "category": "Happiness",
+      "generated_at": "2026-08-17T02:13:26.386899"
+    },
+    {
+      "english": "Your smile, brightens days.",
+      "spanish": "Tu sonrisa, ilumina días.",
+      "category": "Happiness",
+      "generated_at": "2026-08-17T02:13:26.386900"
+    },
+    {
+      "english": "Contentment, is true wealth.",
+      "spanish": "La satisfacción, es riqueza verdadera.",
+      "category": "Happiness",
+      "generated_at": "2026-08-17T02:13:26.386901"
+    },
+    {
+      "english": "Find your happy place.",
+      "spanish": "Encuentra tu lugar feliz.",
+      "category": "Happiness",
+      "generated_at": "2026-08-17T02:13:26.386901"
+    },
+    {
+      "english": "Spread sunshine, everywhere you go.",
+      "spanish": "Esparce sol, a donde vayas.",
+      "category": "Happiness",
+      "generated_at": "2026-08-17T02:13:26.386902"
+    },
+    {
+      "english": "Life is good, enjoy it.",
+      "spanish": "La vida es buena, disfrútala.",
+      "category": "Happiness",
+      "generated_at": "2026-08-17T02:13:26.386903"
     }
   ],
-  "last_updated": "2026-08-16T02:15:50.425965"
+  "last_updated": "2026-08-17T02:13:26.386905"
 }
