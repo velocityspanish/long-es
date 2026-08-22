@@ -123,6 +123,26 @@ def get_uploads_playlist_id(youtube):
     return ch["items"][0]["contentDetails"]["relatedPlaylists"]["uploads"]
 
 
+def cleanup_stale_seo_playlists(youtube):
+    """Delete any SEO-style playlist whose language doesn't match LANG_NAME
+    (e.g. a wrongly-created playlist from a buggy dispatch)."""
+    try:
+        pls = _execute_with_retry(youtube.playlists().list(part="snippet", mine=True, maxResults=50))
+    except Exception as e:
+        print(f"  [cleanup] could not list playlists: {e}")
+        return
+    for p in pls.get("items", []):
+        title = p["snippet"]["title"]
+        m = re.match(r"Learn (.+?) Phrases for Beginners \| Velocity (.+)", title)
+        if m and m.group(1) != LANG_NAME:
+            pid = p["id"]
+            try:
+                _execute_with_retry(youtube.playlists().delete(id=pid))
+                print(f"  [cleanup] deleted stale SEO playlist: {title} (id={pid})")
+            except Exception as e:
+                print(f"  [cleanup] failed to delete {title}: {e}")
+
+
 def get_all_video_ids(youtube, playlist_id):
     ids = []
     token = None
@@ -191,6 +211,8 @@ def update_channel_seo(youtube):
 def main():
     dry = os.getenv("DRY_RUN", "1") == "1"
     youtube = get_authenticated_service()
+
+    cleanup_stale_seo_playlists(youtube)
 
     print(f"=== {LANG_NAME} playlist/channel SEO ===")
     playlist_id = ensure_seo_playlist(youtube)
