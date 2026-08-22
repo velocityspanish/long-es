@@ -171,6 +171,10 @@ def add_video(youtube, playlist_id, video_id):
         print(f"  [added] {video_id}")
         return True
     except Exception as e:
+        msg = str(e).lower()
+        if "retries exhausted" in msg or "quota" in msg or "403" in msg:
+            print(f"  [quota] {video_id}: daily quota exhausted")
+            return "quota"
         print(f"  [FAIL] {video_id}: {e}")
         return False
 
@@ -225,7 +229,11 @@ def main():
         added = 0
         failed = 0
         for v in missing:
-            if add_video(youtube, playlist_id, v):
+            r = add_video(youtube, playlist_id, v)
+            if r == "quota":
+                print("  [quota] daily quota exhausted; stopping. Remaining videos will be added on the next run.")
+                break
+            if r:
                 added += 1
             else:
                 failed += 1

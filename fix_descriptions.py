@@ -165,9 +165,12 @@ def fix_video(youtube, video_id, dry_run=False):
             print(f"  [UPDATED] {video_id} - {title[:40]} (desc {len(desc)}->{len(new_desc)})")
             return True
         except Exception as e:
-            if not _quota_wait(e, attempt):
-                print(f"  [ERROR] {video_id}: {e}")
-                return False
+            if _quota_wait(e, attempt):
+                # daily quota exhausted -> signal abort so we stop fast
+                # and resume tomorrow instead of retrying every video.
+                return "quota"
+            print(f"  [ERROR] {video_id}: {e}")
+            return False
     print(f"  [ERROR] {video_id}: still failing after retries")
     return False
 
@@ -179,7 +182,11 @@ def main():
     print(f"Found {len(videos)} uploaded videos")
     updated = 0
     for vid in videos:
-        if fix_video(youtube, vid, dry_run=dry):
+        res = fix_video(youtube, vid, dry_run=dry)
+        if res == "quota":
+            print("  [quota] daily quota exhausted; stopping. Remaining videos will be processed on the next run.")
+            break
+        if res:
             updated += 1
         time.sleep(0.5)
     print(f"Done. {updated} {'would-be updated' if dry else 'updated'} videos.")
