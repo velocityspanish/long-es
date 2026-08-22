@@ -77,9 +77,9 @@ CATEGORIES_SPANISH = {
     "Mindfulness": "Atención Plena",
 }
 
-# Edge TTS voices
-ENGLISH_VOICE = "en-US-GuyNeural"
-SPANISH_VOICE = "es-ES-ElviraNeural"
+# Edge TTS voices (primary + fallbacks so a single failing voice never produces silence)
+ENGLISH_VOICES = ["en-US-GuyNeural", "en-US-JennyNeural", "en-US-AriaNeural"]
+SPANISH_VOICES = ["es-ES-ElviraNeural", "es-ES-AlvaroNeural", "es-MX-DaliaNeural", "es-US-PalomaNeural"]
 
 # Phrase history file (NEVER delete this!)
 PHRASE_HISTORY_FILE = HISTORY_DIR / "all_generated_phrases.json"
@@ -257,7 +257,7 @@ For each phrase:
 1. English phrase (with commas for natural pauses)
 2. Spanish translation
 3. Pronunciation guide (phonetic spelling for English speakers)
-CRITICAL: Every translation MUST be in Spanish. NEVER use German, Spanish, or any other language. Only Spanish.
+CRITICAL: The "spanish" field MUST contain the Spanish translation of the English phrase. NEVER put English text in the spanish field. ONLY write real Spanish in the spanish field.
 
 Return as JSON array:
 [{{"english": "...", "spanish": "...", "pronunciation": "..."}}]
@@ -490,15 +490,30 @@ def get_fresh_fallback_phrases(category: str, num_phrases: int) -> list:
 # ============== AUDIO GENERATION ==============
 
 async def generate_single_audio(text: str, voice: str, output_path: str):
-    """Generate audio using Edge TTS"""
-    try:
-        import edge_tts
-        communicate = edge_tts.Communicate(text, voice)
-        await communicate.save(output_path)
-        return True
-    except Exception as e:
-        print(f"  TTS error: {e}")
+    """Generate audio using Edge TTS for a single voice (with internal retries)"""
+    import edge_tts
+    last_err = None
+    for attempt in range(4):
+        try:
+            communicate = edge_tts.Communicate(text, voice)
+            await communicate.save(output_path)
+            return True
+        except Exception as e:
+            last_err = e
+            await asyncio.sleep(1.5 * (attempt + 1))
+    print(f"  TTS error ({voice}): {last_err}")
+    return False
+
+
+async def generate_audio_with_fallbacks(text: str, voices: list, output_path: str) -> bool:
+    """Try each voice in order until one succeeds; only fails if ALL fail."""
+    if not text or not text.strip():
+        print(f"  TTS skip: empty text for {output_path}")
         return False
+    for voice in voices:
+        if await generate_single_audio(text, voice, output_path):
+            return True
+    return False
 
 
 def generate_all_audio(phrases: list, output_dir: str):
@@ -517,13 +532,13 @@ def generate_all_audio(phrases: list, output_dir: str):
             print(f"  Generating audio {i+1}/{len(phrases)}...")
 
         # Generate English audio
-        en_success = asyncio.run(generate_single_audio(phrase["english"], ENGLISH_VOICE, str(english_file)))
+        en_success = asyncio.run(generate_audio_with_fallbacks(phrase["english"], ENGLISH_VOICES, str(english_file)))
         if not en_success:
             cmd = ["ffmpeg", "-y", "-f", "lavfi", "-i", "anullsrc=r=24000:cl=mono", "-t", "2", str(english_file)]
             subprocess.run(cmd, capture_output=True)
 
         # Generate Spanish audio
-        es_success = asyncio.run(generate_single_audio(phrase["spanish"], SPANISH_VOICE, str(spanish_file)))
+        es_success = asyncio.run(generate_audio_with_fallbacks(phrase["spanish"], SPANISH_VOICES, str(spanish_file)))
         if not es_success:
             cmd = ["ffmpeg", "-y", "-f", "lavfi", "-i", "anullsrc=r=24000:cl=mono", "-t", "2", str(spanish_file)]
             subprocess.run(cmd, capture_output=True)
