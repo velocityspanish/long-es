@@ -30239,7 +30239,727 @@
       "spanish": "Conecta con la cultura. Motiva.",
       "category": "Inspiration",
       "generated_at": "2026-08-25T02:12:31.628200"
+    },
+    {
+      "english": "Surprise your brain, with riddles.",
+      "spanish": "Sorprende a tu cerebro, con acertijos.",
+      "category": "Balance",
+      "generated_at": "2026-08-26T02:19:05.048262"
+    },
+    {
+      "english": "Short bursts, are effective.",
+      "spanish": "Ráfagas cortas, son efectivas.",
+      "category": "Balance",
+      "generated_at": "2026-08-26T02:19:05.048273"
+    },
+    {
+      "english": "Teach a friend, you'll learn more.",
+      "spanish": "Enseña a un amigo, aprenderás más.",
+      "category": "Balance",
+      "generated_at": "2026-08-26T02:19:05.048275"
+    },
+    {
+      "english": "Use emojis, to express feelings.",
+      "spanish": "Usa emojis, para expresar sentimientos.",
+      "category": "Balance",
+      "generated_at": "2026-08-26T02:19:05.048276"
+    },
+    {
+      "english": "Watch cartoons, for simple words.",
+      "spanish": "Mira dibujos, para palabras sencillas.",
+      "category": "Balance",
+      "generated_at": "2026-08-26T02:19:05.048277"
+    },
+    {
+      "english": "Label your objects, at home.",
+      "spanish": "Etiqueta tus objetos, en casa.",
+      "category": "Balance",
+      "generated_at": "2026-08-26T02:19:05.048279"
+    },
+    {
+      "english": "Change your phone, language.",
+      "spanish": "Cambia el idioma, de tu teléfono.",
+      "category": "Balance",
+      "generated_at": "2026-08-26T02:19:05.048280"
+    },
+    {
+      "english": "Dream in Spanish, sometimes.",
+      "spanish": "Sueña en español, a veces.",
+      "category": "Balance",
+      "generated_at": "2026-08-26T02:19:05.048283"
+    },
+    {
+      "english": "Mimic native speakers, carefully.",
+      "spanish": "Imita a nativos, con cuidado.",
+      "category": "Balance",
+      "generated_at": "2026-08-26T02:19:05.048285"
+    },
+    {
+      "english": "Use a sentence, each day.",
+      "spanish": "Usa una frase, cada día.",
+      "category": "Balance",
+      "generated_at": "2026-08-26T02:19:05.048286"
+    },
+    {
+      "english": "Listen to podcasts, for practice.",
+      "spanish": "Escucha podcasts, para practicar.",
+      "category": "Balance",
+      "generated_at": "2026-08-26T02:19:05.048288"
+    },
+    {
+      "english": "Write short stories, with verbs.",
+      "spanish": "Escribe cuentos, con verbos.",
+      "category": "Balance",
+      "generated_at": "2026-08-26T02:19:05.048289"
+    },
+    {
+      "english": "Visit Spanish websites, often.",
+      "spanish": "Visita sitios web, en español.",
+      "category": "Balance",
+      "generated_at": "2026-08-26T02:19:05.048290"
+    },
+    {
+      "english": "Play language games, online.",
+      "spanish": "Juega juegos, de idiomas online.",
+      "category": "Balance",
+      "generated_at": "2026-08-26T02:19:05.048291"
+    },
+    {
+      "english": "Keep a language journal.",
+      "spanish": "Lleva un diario, de idiomas.",
+      "category": "Balance",
+      "generated_at": "2026-08-26T02:19:05.048292"
+    },
+    {
+      "english": "Translate song lyrics, you like.",
+      "spanish": "Traduce letras, de canciones que te gusten.",
+      "category": "Balance",
+      "generated_at": "2026-08-26T02:19:05.048294"
+    },
+    {
+      "english": "Imagine conversations, in your head.",
+      "spanish": "Imagina conversaciones, en tu mente.",
+      "category": "Balance",
+      "generated_at": "2026-08-26T02:19:05.048295"
+    },
+    {
+      "english": "Use flashcards, for new words.",
+      "spanish": "Usa tarjetas, para palabras nuevas.",
+      "category": "Balance",
+      "generated_at": "2026-08-26T02:19:05.048296"
+    },
+    {
+      "english": "Watch Spanish news, briefly.",
+      "spanish": "Mira noticias, breves en español.",
+      "category": "Balance",
+      "generated_at": "2026-08-26T02:19:05.048297"
+    },
+    {
+      "english": "Try tongue twisters, for fun.",
+      "spanish": "Intenta trabalenguas, por diversión.",
+      "category": "Balance",
+      "generated_at": "2026-08-26T02:19:05.048298"
+    },
+    {
+      "english": "Cook Spanish recipes.",
+      "spanish": "Cocina recetas, españolas.",
+      "category": "Balance",
+      "generated_at": "2026-08-26T02:19:05.048299"
+    },
+    {
+      "english": "Review daily, for retention.",
+      "spanish": "Repasa a diario, para retener.",
+      "category": "Balance",
+      "generated_at": "2026-08-26T02:19:05.048300"
+    },
+    {
+      "english": "Describe your day, simply.",
+      "spanish": "Describe tu día, de forma simple.",
+      "category": "Balance",
+      "generated_at": "2026-08-26T02:19:05.048301"
+    },
+    {
+      "english": "Find a hobby, in Spanish.",
+      "spanish": "Busca un pasatiempo, en español.",
+      "category": "Balance",
+      "generated_at": "2026-08-26T02:19:05.048302"
+    },
+    {
+      "english": "Translate your thoughts.",
+      "spanish": "Traduce tus pensamientos.",
+      "category": "Balance",
+      "generated_at": "2026-08-26T02:19:05.048303"
+    },
+    {
+      "english": "Summarize a book, in Spanish.",
+      "spanish": "Resume un libro, en español.",
+      "category": "Balance",
+      "generated_at": "2026-08-26T02:19:05.048304"
+    },
+    {
+      "english": "Guess the meaning, from context.",
+      "spanish": "Adivina el significado, por contexto.",
+      "category": "Balance",
+      "generated_at": "2026-08-26T02:19:05.048305"
+    },
+    {
+      "english": "Use visuals, to remember.",
+      "spanish": "Usa imágenes, para recordar.",
+      "category": "Balance",
+      "generated_at": "2026-08-26T02:19:05.048306"
+    },
+    {
+      "english": "Learn Spanish idioms, for fluency.",
+      "spanish": "Aprende dichos, para fluidez.",
+      "category": "Balance",
+      "generated_at": "2026-08-26T02:19:05.048307"
+    },
+    {
+      "english": "Share interesting facts, you find.",
+      "spanish": "Comparte datos, interesantes.",
+      "category": "Balance",
+      "generated_at": "2026-08-26T02:19:05.048309"
+    },
+    {
+      "english": "Re-watch favorite scenes.",
+      "spanish": "Vuelve a ver, escenas favoritas.",
+      "category": "Balance",
+      "generated_at": "2026-08-26T02:19:05.048310"
+    },
+    {
+      "english": "Practice pronunciation, with apps.",
+      "spanish": "Practica pronunciación, con apps.",
+      "category": "Balance",
+      "generated_at": "2026-08-26T02:19:05.048311"
+    },
+    {
+      "english": "Use Spanish, in real life.",
+      "spanish": "Usa el español, en la vida real.",
+      "category": "Balance",
+      "generated_at": "2026-08-26T02:19:05.048311"
+    },
+    {
+      "english": "Surprise your brain, with riddles.",
+      "spanish": "Sorprende a tu cerebro, con acertijos.",
+      "category": "Balance",
+      "generated_at": "2026-08-26T02:19:05.048313"
+    },
+    {
+      "english": "Short bursts, are effective.",
+      "spanish": "Ráfagas cortas, son efectivas.",
+      "category": "Balance",
+      "generated_at": "2026-08-26T02:19:05.048314"
+    },
+    {
+      "english": "Teach a friend, you'll learn more.",
+      "spanish": "Enseña a un amigo, aprenderás más.",
+      "category": "Balance",
+      "generated_at": "2026-08-26T02:19:05.048315"
+    },
+    {
+      "english": "Use emojis, to express feelings.",
+      "spanish": "Usa emojis, para expresar sentimientos.",
+      "category": "Balance",
+      "generated_at": "2026-08-26T02:19:05.048316"
+    },
+    {
+      "english": "Watch cartoons, for simple words.",
+      "spanish": "Mira dibujos, para palabras sencillas.",
+      "category": "Balance",
+      "generated_at": "2026-08-26T02:19:05.048318"
+    },
+    {
+      "english": "Label your objects, at home.",
+      "spanish": "Etiqueta tus objetos, en casa.",
+      "category": "Balance",
+      "generated_at": "2026-08-26T02:19:05.048319"
+    },
+    {
+      "english": "Change your phone, language.",
+      "spanish": "Cambia el idioma, de tu teléfono.",
+      "category": "Balance",
+      "generated_at": "2026-08-26T02:19:05.048320"
+    },
+    {
+      "english": "Dream in Spanish, sometimes.",
+      "spanish": "Sueña en español, a veces.",
+      "category": "Balance",
+      "generated_at": "2026-08-26T02:19:05.048321"
+    },
+    {
+      "english": "Mimic native speakers, carefully.",
+      "spanish": "Imita a nativos, con cuidado.",
+      "category": "Balance",
+      "generated_at": "2026-08-26T02:19:05.048322"
+    },
+    {
+      "english": "Use a sentence, each day.",
+      "spanish": "Usa una frase, cada día.",
+      "category": "Balance",
+      "generated_at": "2026-08-26T02:19:05.048323"
+    },
+    {
+      "english": "Listen to podcasts, for practice.",
+      "spanish": "Escucha podcasts, para practicar.",
+      "category": "Balance",
+      "generated_at": "2026-08-26T02:19:05.048324"
+    },
+    {
+      "english": "Write short stories, with verbs.",
+      "spanish": "Escribe cuentos, con verbos.",
+      "category": "Balance",
+      "generated_at": "2026-08-26T02:19:05.048326"
+    },
+    {
+      "english": "Visit Spanish websites, often.",
+      "spanish": "Visita sitios web, en español.",
+      "category": "Balance",
+      "generated_at": "2026-08-26T02:19:05.048327"
+    },
+    {
+      "english": "Play language games, online.",
+      "spanish": "Juega juegos, de idiomas online.",
+      "category": "Balance",
+      "generated_at": "2026-08-26T02:19:05.048328"
+    },
+    {
+      "english": "Keep a language journal.",
+      "spanish": "Lleva un diario, de idiomas.",
+      "category": "Balance",
+      "generated_at": "2026-08-26T02:19:05.048329"
+    },
+    {
+      "english": "Translate song lyrics, you like.",
+      "spanish": "Traduce letras, de canciones que te gusten.",
+      "category": "Balance",
+      "generated_at": "2026-08-26T02:19:05.048330"
+    },
+    {
+      "english": "Imagine conversations, in your head.",
+      "spanish": "Imagina conversaciones, en tu mente.",
+      "category": "Balance",
+      "generated_at": "2026-08-26T02:19:05.048331"
+    },
+    {
+      "english": "Use flashcards, for new words.",
+      "spanish": "Usa tarjetas, para palabras nuevas.",
+      "category": "Balance",
+      "generated_at": "2026-08-26T02:19:05.048332"
+    },
+    {
+      "english": "Watch Spanish news, briefly.",
+      "spanish": "Mira noticias, breves en español.",
+      "category": "Balance",
+      "generated_at": "2026-08-26T02:19:05.048333"
+    },
+    {
+      "english": "Try tongue twisters, for fun.",
+      "spanish": "Intenta trabalenguas, por diversión.",
+      "category": "Balance",
+      "generated_at": "2026-08-26T02:19:05.048334"
+    },
+    {
+      "english": "Cook Spanish recipes.",
+      "spanish": "Cocina recetas, españolas.",
+      "category": "Balance",
+      "generated_at": "2026-08-26T02:19:05.048336"
+    },
+    {
+      "english": "Review daily, for retention.",
+      "spanish": "Repasa a diario, para retener.",
+      "category": "Balance",
+      "generated_at": "2026-08-26T02:19:05.048337"
+    },
+    {
+      "english": "Describe your day, simply.",
+      "spanish": "Describe tu día, de forma simple.",
+      "category": "Balance",
+      "generated_at": "2026-08-26T02:19:05.048338"
+    },
+    {
+      "english": "Find a hobby, in Spanish.",
+      "spanish": "Busca un pasatiempo, en español.",
+      "category": "Balance",
+      "generated_at": "2026-08-26T02:19:05.048339"
+    },
+    {
+      "english": "Translate your thoughts.",
+      "spanish": "Traduce tus pensamientos.",
+      "category": "Balance",
+      "generated_at": "2026-08-26T02:19:05.048340"
+    },
+    {
+      "english": "Summarize a book, in Spanish.",
+      "spanish": "Resume un libro, en español.",
+      "category": "Balance",
+      "generated_at": "2026-08-26T02:19:05.048341"
+    },
+    {
+      "english": "Guess the meaning, from context.",
+      "spanish": "Adivina el significado, por contexto.",
+      "category": "Balance",
+      "generated_at": "2026-08-26T02:19:05.048342"
+    },
+    {
+      "english": "Use visuals, to remember.",
+      "spanish": "Usa imágenes, para recordar.",
+      "category": "Balance",
+      "generated_at": "2026-08-26T02:19:05.048344"
+    },
+    {
+      "english": "Learn Spanish idioms, for fluency.",
+      "spanish": "Aprende dichos, para fluidez.",
+      "category": "Balance",
+      "generated_at": "2026-08-26T02:19:05.048345"
+    },
+    {
+      "english": "Share interesting facts, you find.",
+      "spanish": "Comparte datos, interesantes.",
+      "category": "Balance",
+      "generated_at": "2026-08-26T02:19:05.048346"
+    },
+    {
+      "english": "Re-watch favorite scenes.",
+      "spanish": "Vuelve a ver, escenas favoritas.",
+      "category": "Balance",
+      "generated_at": "2026-08-26T02:19:05.048347"
+    },
+    {
+      "english": "Practice pronunciation, with apps.",
+      "spanish": "Practica pronunciación, con apps.",
+      "category": "Balance",
+      "generated_at": "2026-08-26T02:19:05.048348"
+    },
+    {
+      "english": "Use Spanish, in real life.",
+      "spanish": "Usa el español, en la vida real.",
+      "category": "Balance",
+      "generated_at": "2026-08-26T02:19:05.048349"
+    },
+    {
+      "english": "Surprise your brain, with riddles.",
+      "spanish": "Sorprende a tu cerebro, con acertijos.",
+      "category": "Balance",
+      "generated_at": "2026-08-26T02:19:05.048350"
+    },
+    {
+      "english": "Short bursts, are effective.",
+      "spanish": "Ráfagas cortas, son efectivas.",
+      "category": "Balance",
+      "generated_at": "2026-08-26T02:19:05.048351"
+    },
+    {
+      "english": "Teach a friend, you'll learn more.",
+      "spanish": "Enseña a un amigo, aprenderás más.",
+      "category": "Balance",
+      "generated_at": "2026-08-26T02:19:05.048353"
+    },
+    {
+      "english": "Use emojis, to express feelings.",
+      "spanish": "Usa emojis, para expresar sentimientos.",
+      "category": "Balance",
+      "generated_at": "2026-08-26T02:19:05.048354"
+    },
+    {
+      "english": "Watch cartoons, for simple words.",
+      "spanish": "Mira dibujos, para palabras sencillas.",
+      "category": "Balance",
+      "generated_at": "2026-08-26T02:19:05.048354"
+    },
+    {
+      "english": "Label your objects, at home.",
+      "spanish": "Etiqueta tus objetos, en casa.",
+      "category": "Balance",
+      "generated_at": "2026-08-26T02:19:05.048356"
+    },
+    {
+      "english": "Change your phone, language.",
+      "spanish": "Cambia el idioma, de tu teléfono.",
+      "category": "Balance",
+      "generated_at": "2026-08-26T02:19:05.048357"
+    },
+    {
+      "english": "Dream in Spanish, sometimes.",
+      "spanish": "Sueña en español, a veces.",
+      "category": "Balance",
+      "generated_at": "2026-08-26T02:19:05.048358"
+    },
+    {
+      "english": "Mimic native speakers, carefully.",
+      "spanish": "Imita a nativos, con cuidado.",
+      "category": "Balance",
+      "generated_at": "2026-08-26T02:19:05.048360"
+    },
+    {
+      "english": "Use a sentence, each day.",
+      "spanish": "Usa una frase, cada día.",
+      "category": "Balance",
+      "generated_at": "2026-08-26T02:19:05.048361"
+    },
+    {
+      "english": "Listen to podcasts, for practice.",
+      "spanish": "Escucha podcasts, para practicar.",
+      "category": "Balance",
+      "generated_at": "2026-08-26T02:19:05.048362"
+    },
+    {
+      "english": "Write short stories, with verbs.",
+      "spanish": "Escribe cuentos, con verbos.",
+      "category": "Balance",
+      "generated_at": "2026-08-26T02:19:05.048363"
+    },
+    {
+      "english": "Visit Spanish websites, often.",
+      "spanish": "Visita sitios web, en español.",
+      "category": "Balance",
+      "generated_at": "2026-08-26T02:19:05.048364"
+    },
+    {
+      "english": "Play language games, online.",
+      "spanish": "Juega juegos, de idiomas online.",
+      "category": "Balance",
+      "generated_at": "2026-08-26T02:19:05.048365"
+    },
+    {
+      "english": "Keep a language journal.",
+      "spanish": "Lleva un diario, de idiomas.",
+      "category": "Balance",
+      "generated_at": "2026-08-26T02:19:05.048366"
+    },
+    {
+      "english": "Translate song lyrics, you like.",
+      "spanish": "Traduce letras, de canciones que te gusten.",
+      "category": "Balance",
+      "generated_at": "2026-08-26T02:19:05.048368"
+    },
+    {
+      "english": "Imagine conversations, in your head.",
+      "spanish": "Imagina conversaciones, en tu mente.",
+      "category": "Balance",
+      "generated_at": "2026-08-26T02:19:05.048368"
+    },
+    {
+      "english": "Use flashcards, for new words.",
+      "spanish": "Usa tarjetas, para palabras nuevas.",
+      "category": "Balance",
+      "generated_at": "2026-08-26T02:19:05.048369"
+    },
+    {
+      "english": "Watch Spanish news, briefly.",
+      "spanish": "Mira noticias, breves en español.",
+      "category": "Balance",
+      "generated_at": "2026-08-26T02:19:05.048371"
+    },
+    {
+      "english": "Try tongue twisters, for fun.",
+      "spanish": "Intenta trabalenguas, por diversión.",
+      "category": "Balance",
+      "generated_at": "2026-08-26T02:19:05.048372"
+    },
+    {
+      "english": "Cook Spanish recipes.",
+      "spanish": "Cocina recetas, españolas.",
+      "category": "Balance",
+      "generated_at": "2026-08-26T02:19:05.048373"
+    },
+    {
+      "english": "Review daily, for retention.",
+      "spanish": "Repasa a diario, para retener.",
+      "category": "Balance",
+      "generated_at": "2026-08-26T02:19:05.048374"
+    },
+    {
+      "english": "Describe your day, simply.",
+      "spanish": "Describe tu día, de forma simple.",
+      "category": "Balance",
+      "generated_at": "2026-08-26T02:19:05.048375"
+    },
+    {
+      "english": "Find a hobby, in Spanish.",
+      "spanish": "Busca un pasatiempo, en español.",
+      "category": "Balance",
+      "generated_at": "2026-08-26T02:19:05.048376"
+    },
+    {
+      "english": "Translate your thoughts.",
+      "spanish": "Traduce tus pensamientos.",
+      "category": "Balance",
+      "generated_at": "2026-08-26T02:19:05.048377"
+    },
+    {
+      "english": "Summarize a book, in Spanish.",
+      "spanish": "Resume un libro, en español.",
+      "category": "Balance",
+      "generated_at": "2026-08-26T02:19:05.048378"
+    },
+    {
+      "english": "Guess the meaning, from context.",
+      "spanish": "Adivina el significado, por contexto.",
+      "category": "Balance",
+      "generated_at": "2026-08-26T02:19:05.048379"
+    },
+    {
+      "english": "Use visuals, to remember.",
+      "spanish": "Usa imágenes, para recordar.",
+      "category": "Balance",
+      "generated_at": "2026-08-26T02:19:05.048380"
+    },
+    {
+      "english": "Learn Spanish idioms, for fluency.",
+      "spanish": "Aprende dichos, para fluidez.",
+      "category": "Balance",
+      "generated_at": "2026-08-26T02:19:05.048381"
+    },
+    {
+      "english": "Share interesting facts, you find.",
+      "spanish": "Comparte datos, interesantes.",
+      "category": "Balance",
+      "generated_at": "2026-08-26T02:19:05.048382"
+    },
+    {
+      "english": "Re-watch favorite scenes.",
+      "spanish": "Vuelve a ver, escenas favoritas.",
+      "category": "Balance",
+      "generated_at": "2026-08-26T02:19:05.048384"
+    },
+    {
+      "english": "Practice pronunciation, with apps.",
+      "spanish": "Practica pronunciación, con apps.",
+      "category": "Balance",
+      "generated_at": "2026-08-26T02:19:05.048385"
+    },
+    {
+      "english": "Use Spanish, in real life.",
+      "spanish": "Usa el español, en la vida real.",
+      "category": "Balance",
+      "generated_at": "2026-08-26T02:19:05.048386"
+    },
+    {
+      "english": "Surprise your brain, with riddles.",
+      "spanish": "Sorprende a tu cerebro, con acertijos.",
+      "category": "Balance",
+      "generated_at": "2026-08-26T02:19:05.048387"
+    },
+    {
+      "english": "Short bursts, are effective.",
+      "spanish": "Ráfagas cortas, son efectivas.",
+      "category": "Balance",
+      "generated_at": "2026-08-26T02:19:05.048388"
+    },
+    {
+      "english": "Teach a friend, you'll learn more.",
+      "spanish": "Enseña a un amigo, aprenderás más.",
+      "category": "Balance",
+      "generated_at": "2026-08-26T02:19:05.048389"
+    },
+    {
+      "english": "Use emojis, to express feelings.",
+      "spanish": "Usa emojis, para expresar sentimientos.",
+      "category": "Balance",
+      "generated_at": "2026-08-26T02:19:05.048391"
+    },
+    {
+      "english": "Watch cartoons, for simple words.",
+      "spanish": "Mira dibujos, para palabras sencillas.",
+      "category": "Balance",
+      "generated_at": "2026-08-26T02:19:05.048392"
+    },
+    {
+      "english": "Label your objects, at home.",
+      "spanish": "Etiqueta tus objetos, en casa.",
+      "category": "Balance",
+      "generated_at": "2026-08-26T02:19:05.048393"
+    },
+    {
+      "english": "Change your phone, language.",
+      "spanish": "Cambia el idioma, de tu teléfono.",
+      "category": "Balance",
+      "generated_at": "2026-08-26T02:19:05.048394"
+    },
+    {
+      "english": "Dream in Spanish, sometimes.",
+      "spanish": "Sueña en español, a veces.",
+      "category": "Balance",
+      "generated_at": "2026-08-26T02:19:05.048395"
+    },
+    {
+      "english": "Mimic native speakers, carefully.",
+      "spanish": "Imita a nativos, con cuidado.",
+      "category": "Balance",
+      "generated_at": "2026-08-26T02:19:05.048396"
+    },
+    {
+      "english": "Use a sentence, each day.",
+      "spanish": "Usa una frase, cada día.",
+      "category": "Balance",
+      "generated_at": "2026-08-26T02:19:05.048397"
+    },
+    {
+      "english": "Listen to podcasts, for practice.",
+      "spanish": "Escucha podcasts, para practicar.",
+      "category": "Balance",
+      "generated_at": "2026-08-26T02:19:05.048399"
+    },
+    {
+      "english": "Write short stories, with verbs.",
+      "spanish": "Escribe cuentos, con verbos.",
+      "category": "Balance",
+      "generated_at": "2026-08-26T02:19:05.048400"
+    },
+    {
+      "english": "Visit Spanish websites, often.",
+      "spanish": "Visita sitios web, en español.",
+      "category": "Balance",
+      "generated_at": "2026-08-26T02:19:05.048401"
+    },
+    {
+      "english": "Play language games, online.",
+      "spanish": "Juega juegos, de idiomas online.",
+      "category": "Balance",
+      "generated_at": "2026-08-26T02:19:05.048402"
+    },
+    {
+      "english": "Keep a language journal.",
+      "spanish": "Lleva un diario, de idiomas.",
+      "category": "Balance",
+      "generated_at": "2026-08-26T02:19:05.048403"
+    },
+    {
+      "english": "Translate song lyrics, you like.",
+      "spanish": "Traduce letras, de canciones que te gusten.",
+      "category": "Balance",
+      "generated_at": "2026-08-26T02:19:05.048404"
+    },
+    {
+      "english": "Imagine conversations, in your head.",
+      "spanish": "Imagina conversaciones, en tu mente.",
+      "category": "Balance",
+      "generated_at": "2026-08-26T02:19:05.048405"
+    },
+    {
+      "english": "Use flashcards, for new words.",
+      "spanish": "Usa tarjetas, para palabras nuevas.",
+      "category": "Balance",
+      "generated_at": "2026-08-26T02:19:05.048406"
+    },
+    {
+      "english": "Watch Spanish news, briefly.",
+      "spanish": "Mira noticias, breves en español.",
+      "category": "Balance",
+      "generated_at": "2026-08-26T02:19:05.048407"
+    },
+    {
+      "english": "Try tongue twisters, for fun.",
+      "spanish": "Intenta trabalenguas, por diversión.",
+      "category": "Balance",
+      "generated_at": "2026-08-26T02:19:05.048408"
+    },
+    {
+      "english": "Cook Spanish recipes.",
+      "spanish": "Cocina recetas, españolas.",
+      "category": "Balance",
+      "generated_at": "2026-08-26T02:19:05.048409"
     }
   ],
-  "last_updated": "2026-08-25T02:12:31.628201"
+  "last_updated": "2026-08-26T02:19:05.048411"
 }
