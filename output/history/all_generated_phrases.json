@@ -31679,7 +31679,727 @@
       "spanish": "Dilo alto, con clara intención.",
       "category": "Confidence",
       "generated_at": "2026-08-27T10:44:32.241917"
+    },
+    {
+      "english": "Believe in your journey, it's yours.",
+      "spanish": "Cree en tu viaje, es tuyo.",
+      "category": "Hope",
+      "generated_at": "2026-08-28T12:22:22.920077"
+    },
+    {
+      "english": "A little progress, every day.",
+      "spanish": "Un poco de progreso, cada día.",
+      "category": "Hope",
+      "generated_at": "2026-08-28T12:22:22.920089"
+    },
+    {
+      "english": "Your dream is valid, pursue it.",
+      "spanish": "Tu sueño es válido, síguelo.",
+      "category": "Hope",
+      "generated_at": "2026-08-28T12:22:22.920091"
+    },
+    {
+      "english": "Keep the spark, alive within.",
+      "spanish": "Mantén la chispa, viva dentro.",
+      "category": "Hope",
+      "generated_at": "2026-08-28T12:22:22.920092"
+    },
+    {
+      "english": "Small steps forward, always count.",
+      "spanish": "Pequeños pasos adelante, siempre cuentan.",
+      "category": "Hope",
+      "generated_at": "2026-08-28T12:22:22.920093"
+    },
+    {
+      "english": "You are stronger, than you know.",
+      "spanish": "Eres más fuerte, de lo que sabes.",
+      "category": "Hope",
+      "generated_at": "2026-08-28T12:22:22.920095"
+    },
+    {
+      "english": "Good things come, to those who wait.",
+      "spanish": "Las cosas buenas llegan, a quienes esperan.",
+      "category": "Hope",
+      "generated_at": "2026-08-28T12:22:22.920096"
+    },
+    {
+      "english": "The best is yet, to come.",
+      "spanish": "Lo mejor está, por venir.",
+      "category": "Hope",
+      "generated_at": "2026-08-28T12:22:22.920100"
+    },
+    {
+      "english": "You have the power, to succeed.",
+      "spanish": "Tienes el poder, de triunfar.",
+      "category": "Hope",
+      "generated_at": "2026-08-28T12:22:22.920102"
+    },
+    {
+      "english": "Embrace the struggle, it makes you.",
+      "spanish": "Abraza la lucha, te forma.",
+      "category": "Hope",
+      "generated_at": "2026-08-28T12:22:22.920103"
+    },
+    {
+      "english": "Keep your chin up, always.",
+      "spanish": "Mantén la cabeza alta, siempre.",
+      "category": "Hope",
+      "generated_at": "2026-08-28T12:22:22.920105"
+    },
+    {
+      "english": "Every ending, is a start.",
+      "spanish": "Cada final, es un principio.",
+      "category": "Hope",
+      "generated_at": "2026-08-28T12:22:22.920106"
+    },
+    {
+      "english": "Your spirit shines, brightly.",
+      "spanish": "Tu espíritu brilla, intensamente.",
+      "category": "Hope",
+      "generated_at": "2026-08-28T12:22:22.920107"
+    },
+    {
+      "english": "Don't fear failure, learn from it.",
+      "spanish": "No temas al fracaso, aprende de él.",
+      "category": "Hope",
+      "generated_at": "2026-08-28T12:22:22.920109"
+    },
+    {
+      "english": "Hope is a good thing, very good.",
+      "spanish": "La esperanza es buena, muy buena.",
+      "category": "Hope",
+      "generated_at": "2026-08-28T12:22:22.920110"
+    },
+    {
+      "english": "You are capable, of great things.",
+      "spanish": "Eres capaz, de grandes cosas.",
+      "category": "Hope",
+      "generated_at": "2026-08-28T12:22:22.920111"
+    },
+    {
+      "english": "Keep pushing forward, with heart.",
+      "spanish": "Sigue avanzando, con corazón.",
+      "category": "Hope",
+      "generated_at": "2026-08-28T12:22:22.920112"
+    },
+    {
+      "english": "Believe in what's possible.",
+      "spanish": "Cree en lo posible.",
+      "category": "Hope",
+      "generated_at": "2026-08-28T12:22:22.920113"
+    },
+    {
+      "english": "A new dawn, awaits you.",
+      "spanish": "Un nuevo amanecer, te espera.",
+      "category": "Hope",
+      "generated_at": "2026-08-28T12:22:22.920114"
+    },
+    {
+      "english": "You can overcome, anything.",
+      "spanish": "Puedes superar, cualquier cosa.",
+      "category": "Hope",
+      "generated_at": "2026-08-28T12:22:22.920115"
+    },
+    {
+      "english": "Find your light, and share it.",
+      "spanish": "Encuentra tu luz, y compártela.",
+      "category": "Hope",
+      "generated_at": "2026-08-28T12:22:22.920116"
+    },
+    {
+      "english": "The future is bright, for you.",
+      "spanish": "El futuro es brillante, para ti.",
+      "category": "Hope",
+      "generated_at": "2026-08-28T12:22:22.920117"
+    },
+    {
+      "english": "Keep shining, your own way.",
+      "spanish": "Sigue brillando, a tu manera.",
+      "category": "Hope",
+      "generated_at": "2026-08-28T12:22:22.920118"
+    },
+    {
+      "english": "Believe in tomorrow, it will come.",
+      "spanish": "Cree en el mañana, llegará.",
+      "category": "Hope",
+      "generated_at": "2026-08-28T12:22:22.920119"
+    },
+    {
+      "english": "Embrace the good, always.",
+      "spanish": "Abraza lo bueno, siempre.",
+      "category": "Hope",
+      "generated_at": "2026-08-28T12:22:22.920120"
+    },
+    {
+      "english": "You are enough, just as you are.",
+      "spanish": "Eres suficiente, tal como eres.",
+      "category": "Hope",
+      "generated_at": "2026-08-28T12:22:22.920121"
+    },
+    {
+      "english": "Let faith, be your anchor.",
+      "spanish": "Que la fe, sea tu ancla.",
+      "category": "Hope",
+      "generated_at": "2026-08-28T12:22:22.920122"
+    },
+    {
+      "english": "Every challenge, is a chance.",
+      "spanish": "Cada desafío, es una oportunidad.",
+      "category": "Hope",
+      "generated_at": "2026-08-28T12:22:22.920123"
+    },
+    {
+      "english": "Keep believing, in miracles.",
+      "spanish": "Sigue creyendo, en milagros.",
+      "category": "Hope",
+      "generated_at": "2026-08-28T12:22:22.920124"
+    },
+    {
+      "english": "Hope is the beginning, of everything.",
+      "spanish": "La esperanza es el inicio, de todo.",
+      "category": "Hope",
+      "generated_at": "2026-08-28T12:22:22.920125"
+    },
+    {
+      "english": "You are capable, of more than you imagine.",
+      "spanish": "Eres capaz de más, de lo que imaginas.",
+      "category": "Hope",
+      "generated_at": "2026-08-28T12:22:22.920127"
+    },
+    {
+      "english": "Believe in your journey, it's yours.",
+      "spanish": "Cree en tu viaje, es tuyo.",
+      "category": "Hope",
+      "generated_at": "2026-08-28T12:22:22.920128"
+    },
+    {
+      "english": "A little progress, every day.",
+      "spanish": "Un poco de progreso, cada día.",
+      "category": "Hope",
+      "generated_at": "2026-08-28T12:22:22.920129"
+    },
+    {
+      "english": "Your dream is valid, pursue it.",
+      "spanish": "Tu sueño es válido, síguelo.",
+      "category": "Hope",
+      "generated_at": "2026-08-28T12:22:22.920131"
+    },
+    {
+      "english": "Keep the spark, alive within.",
+      "spanish": "Mantén la chispa, viva dentro.",
+      "category": "Hope",
+      "generated_at": "2026-08-28T12:22:22.920132"
+    },
+    {
+      "english": "Small steps forward, always count.",
+      "spanish": "Pequeños pasos adelante, siempre cuentan.",
+      "category": "Hope",
+      "generated_at": "2026-08-28T12:22:22.920133"
+    },
+    {
+      "english": "You are stronger, than you know.",
+      "spanish": "Eres más fuerte, de lo que sabes.",
+      "category": "Hope",
+      "generated_at": "2026-08-28T12:22:22.920135"
+    },
+    {
+      "english": "Good things come, to those who wait.",
+      "spanish": "Las cosas buenas llegan, a quienes esperan.",
+      "category": "Hope",
+      "generated_at": "2026-08-28T12:22:22.920136"
+    },
+    {
+      "english": "The best is yet, to come.",
+      "spanish": "Lo mejor está, por venir.",
+      "category": "Hope",
+      "generated_at": "2026-08-28T12:22:22.920137"
+    },
+    {
+      "english": "You have the power, to succeed.",
+      "spanish": "Tienes el poder, de triunfar.",
+      "category": "Hope",
+      "generated_at": "2026-08-28T12:22:22.920138"
+    },
+    {
+      "english": "Embrace the struggle, it makes you.",
+      "spanish": "Abraza la lucha, te forma.",
+      "category": "Hope",
+      "generated_at": "2026-08-28T12:22:22.920139"
+    },
+    {
+      "english": "Keep your chin up, always.",
+      "spanish": "Mantén la cabeza alta, siempre.",
+      "category": "Hope",
+      "generated_at": "2026-08-28T12:22:22.920141"
+    },
+    {
+      "english": "Every ending, is a start.",
+      "spanish": "Cada final, es un principio.",
+      "category": "Hope",
+      "generated_at": "2026-08-28T12:22:22.920142"
+    },
+    {
+      "english": "Your spirit shines, brightly.",
+      "spanish": "Tu espíritu brilla, intensamente.",
+      "category": "Hope",
+      "generated_at": "2026-08-28T12:22:22.920143"
+    },
+    {
+      "english": "Don't fear failure, learn from it.",
+      "spanish": "No temas al fracaso, aprende de él.",
+      "category": "Hope",
+      "generated_at": "2026-08-28T12:22:22.920144"
+    },
+    {
+      "english": "Hope is a good thing, very good.",
+      "spanish": "La esperanza es buena, muy buena.",
+      "category": "Hope",
+      "generated_at": "2026-08-28T12:22:22.920146"
+    },
+    {
+      "english": "You are capable, of great things.",
+      "spanish": "Eres capaz, de grandes cosas.",
+      "category": "Hope",
+      "generated_at": "2026-08-28T12:22:22.920147"
+    },
+    {
+      "english": "Keep pushing forward, with heart.",
+      "spanish": "Sigue avanzando, con corazón.",
+      "category": "Hope",
+      "generated_at": "2026-08-28T12:22:22.920148"
+    },
+    {
+      "english": "Believe in what's possible.",
+      "spanish": "Cree en lo posible.",
+      "category": "Hope",
+      "generated_at": "2026-08-28T12:22:22.920149"
+    },
+    {
+      "english": "A new dawn, awaits you.",
+      "spanish": "Un nuevo amanecer, te espera.",
+      "category": "Hope",
+      "generated_at": "2026-08-28T12:22:22.920150"
+    },
+    {
+      "english": "You can overcome, anything.",
+      "spanish": "Puedes superar, cualquier cosa.",
+      "category": "Hope",
+      "generated_at": "2026-08-28T12:22:22.920151"
+    },
+    {
+      "english": "Find your light, and share it.",
+      "spanish": "Encuentra tu luz, y compártela.",
+      "category": "Hope",
+      "generated_at": "2026-08-28T12:22:22.920152"
+    },
+    {
+      "english": "The future is bright, for you.",
+      "spanish": "El futuro es brillante, para ti.",
+      "category": "Hope",
+      "generated_at": "2026-08-28T12:22:22.920153"
+    },
+    {
+      "english": "Keep shining, your own way.",
+      "spanish": "Sigue brillando, a tu manera.",
+      "category": "Hope",
+      "generated_at": "2026-08-28T12:22:22.920154"
+    },
+    {
+      "english": "Believe in tomorrow, it will come.",
+      "spanish": "Cree en el mañana, llegará.",
+      "category": "Hope",
+      "generated_at": "2026-08-28T12:22:22.920155"
+    },
+    {
+      "english": "Embrace the good, always.",
+      "spanish": "Abraza lo bueno, siempre.",
+      "category": "Hope",
+      "generated_at": "2026-08-28T12:22:22.920156"
+    },
+    {
+      "english": "You are enough, just as you are.",
+      "spanish": "Eres suficiente, tal como eres.",
+      "category": "Hope",
+      "generated_at": "2026-08-28T12:22:22.920158"
+    },
+    {
+      "english": "Let faith, be your anchor.",
+      "spanish": "Que la fe, sea tu ancla.",
+      "category": "Hope",
+      "generated_at": "2026-08-28T12:22:22.920159"
+    },
+    {
+      "english": "Every challenge, is a chance.",
+      "spanish": "Cada desafío, es una oportunidad.",
+      "category": "Hope",
+      "generated_at": "2026-08-28T12:22:22.920160"
+    },
+    {
+      "english": "Keep believing, in miracles.",
+      "spanish": "Sigue creyendo, en milagros.",
+      "category": "Hope",
+      "generated_at": "2026-08-28T12:22:22.920161"
+    },
+    {
+      "english": "Hope is the beginning, of everything.",
+      "spanish": "La esperanza es el inicio, de todo.",
+      "category": "Hope",
+      "generated_at": "2026-08-28T12:22:22.920162"
+    },
+    {
+      "english": "You are capable, of more than you imagine.",
+      "spanish": "Eres capaz de más, de lo que imaginas.",
+      "category": "Hope",
+      "generated_at": "2026-08-28T12:22:22.920163"
+    },
+    {
+      "english": "Believe in your journey, it's yours.",
+      "spanish": "Cree en tu viaje, es tuyo.",
+      "category": "Hope",
+      "generated_at": "2026-08-28T12:22:22.920164"
+    },
+    {
+      "english": "A little progress, every day.",
+      "spanish": "Un poco de progreso, cada día.",
+      "category": "Hope",
+      "generated_at": "2026-08-28T12:22:22.920166"
+    },
+    {
+      "english": "Your dream is valid, pursue it.",
+      "spanish": "Tu sueño es válido, síguelo.",
+      "category": "Hope",
+      "generated_at": "2026-08-28T12:22:22.920167"
+    },
+    {
+      "english": "Keep the spark, alive within.",
+      "spanish": "Mantén la chispa, viva dentro.",
+      "category": "Hope",
+      "generated_at": "2026-08-28T12:22:22.920168"
+    },
+    {
+      "english": "Small steps forward, always count.",
+      "spanish": "Pequeños pasos adelante, siempre cuentan.",
+      "category": "Hope",
+      "generated_at": "2026-08-28T12:22:22.920169"
+    },
+    {
+      "english": "You are stronger, than you know.",
+      "spanish": "Eres más fuerte, de lo que sabes.",
+      "category": "Hope",
+      "generated_at": "2026-08-28T12:22:22.920170"
+    },
+    {
+      "english": "Good things come, to those who wait.",
+      "spanish": "Las cosas buenas llegan, a quienes esperan.",
+      "category": "Hope",
+      "generated_at": "2026-08-28T12:22:22.920172"
+    },
+    {
+      "english": "The best is yet, to come.",
+      "spanish": "Lo mejor está, por venir.",
+      "category": "Hope",
+      "generated_at": "2026-08-28T12:22:22.920173"
+    },
+    {
+      "english": "You have the power, to succeed.",
+      "spanish": "Tienes el poder, de triunfar.",
+      "category": "Hope",
+      "generated_at": "2026-08-28T12:22:22.920174"
+    },
+    {
+      "english": "Embrace the struggle, it makes you.",
+      "spanish": "Abraza la lucha, te forma.",
+      "category": "Hope",
+      "generated_at": "2026-08-28T12:22:22.920175"
+    },
+    {
+      "english": "Keep your chin up, always.",
+      "spanish": "Mantén la cabeza alta, siempre.",
+      "category": "Hope",
+      "generated_at": "2026-08-28T12:22:22.920176"
+    },
+    {
+      "english": "Every ending, is a start.",
+      "spanish": "Cada final, es un principio.",
+      "category": "Hope",
+      "generated_at": "2026-08-28T12:22:22.920177"
+    },
+    {
+      "english": "Your spirit shines, brightly.",
+      "spanish": "Tu espíritu brilla, intensamente.",
+      "category": "Hope",
+      "generated_at": "2026-08-28T12:22:22.920179"
+    },
+    {
+      "english": "Don't fear failure, learn from it.",
+      "spanish": "No temas al fracaso, aprende de él.",
+      "category": "Hope",
+      "generated_at": "2026-08-28T12:22:22.920180"
+    },
+    {
+      "english": "Hope is a good thing, very good.",
+      "spanish": "La esperanza es buena, muy buena.",
+      "category": "Hope",
+      "generated_at": "2026-08-28T12:22:22.920181"
+    },
+    {
+      "english": "You are capable, of great things.",
+      "spanish": "Eres capaz, de grandes cosas.",
+      "category": "Hope",
+      "generated_at": "2026-08-28T12:22:22.920182"
+    },
+    {
+      "english": "Keep pushing forward, with heart.",
+      "spanish": "Sigue avanzando, con corazón.",
+      "category": "Hope",
+      "generated_at": "2026-08-28T12:22:22.920184"
+    },
+    {
+      "english": "Believe in what's possible.",
+      "spanish": "Cree en lo posible.",
+      "category": "Hope",
+      "generated_at": "2026-08-28T12:22:22.920185"
+    },
+    {
+      "english": "A new dawn, awaits you.",
+      "spanish": "Un nuevo amanecer, te espera.",
+      "category": "Hope",
+      "generated_at": "2026-08-28T12:22:22.920186"
+    },
+    {
+      "english": "You can overcome, anything.",
+      "spanish": "Puedes superar, cualquier cosa.",
+      "category": "Hope",
+      "generated_at": "2026-08-28T12:22:22.920187"
+    },
+    {
+      "english": "Find your light, and share it.",
+      "spanish": "Encuentra tu luz, y compártela.",
+      "category": "Hope",
+      "generated_at": "2026-08-28T12:22:22.920188"
+    },
+    {
+      "english": "The future is bright, for you.",
+      "spanish": "El futuro es brillante, para ti.",
+      "category": "Hope",
+      "generated_at": "2026-08-28T12:22:22.920189"
+    },
+    {
+      "english": "Keep shining, your own way.",
+      "spanish": "Sigue brillando, a tu manera.",
+      "category": "Hope",
+      "generated_at": "2026-08-28T12:22:22.920190"
+    },
+    {
+      "english": "Believe in tomorrow, it will come.",
+      "spanish": "Cree en el mañana, llegará.",
+      "category": "Hope",
+      "generated_at": "2026-08-28T12:22:22.920191"
+    },
+    {
+      "english": "Embrace the good, always.",
+      "spanish": "Abraza lo bueno, siempre.",
+      "category": "Hope",
+      "generated_at": "2026-08-28T12:22:22.920192"
+    },
+    {
+      "english": "You are enough, just as you are.",
+      "spanish": "Eres suficiente, tal como eres.",
+      "category": "Hope",
+      "generated_at": "2026-08-28T12:22:22.920193"
+    },
+    {
+      "english": "Let faith, be your anchor.",
+      "spanish": "Que la fe, sea tu ancla.",
+      "category": "Hope",
+      "generated_at": "2026-08-28T12:22:22.920195"
+    },
+    {
+      "english": "Every challenge, is a chance.",
+      "spanish": "Cada desafío, es una oportunidad.",
+      "category": "Hope",
+      "generated_at": "2026-08-28T12:22:22.920196"
+    },
+    {
+      "english": "Keep believing, in miracles.",
+      "spanish": "Sigue creyendo, en milagros.",
+      "category": "Hope",
+      "generated_at": "2026-08-28T12:22:22.920197"
+    },
+    {
+      "english": "Hope is the beginning, of everything.",
+      "spanish": "La esperanza es el inicio, de todo.",
+      "category": "Hope",
+      "generated_at": "2026-08-28T12:22:22.920198"
+    },
+    {
+      "english": "You are capable, of more than you imagine.",
+      "spanish": "Eres capaz de más, de lo que imaginas.",
+      "category": "Hope",
+      "generated_at": "2026-08-28T12:22:22.920199"
+    },
+    {
+      "english": "Believe in your journey, it's yours.",
+      "spanish": "Cree en tu viaje, es tuyo.",
+      "category": "Hope",
+      "generated_at": "2026-08-28T12:22:22.920200"
+    },
+    {
+      "english": "A little progress, every day.",
+      "spanish": "Un poco de progreso, cada día.",
+      "category": "Hope",
+      "generated_at": "2026-08-28T12:22:22.920202"
+    },
+    {
+      "english": "Your dream is valid, pursue it.",
+      "spanish": "Tu sueño es válido, síguelo.",
+      "category": "Hope",
+      "generated_at": "2026-08-28T12:22:22.920203"
+    },
+    {
+      "english": "Keep the spark, alive within.",
+      "spanish": "Mantén la chispa, viva dentro.",
+      "category": "Hope",
+      "generated_at": "2026-08-28T12:22:22.920204"
+    },
+    {
+      "english": "Small steps forward, always count.",
+      "spanish": "Pequeños pasos adelante, siempre cuentan.",
+      "category": "Hope",
+      "generated_at": "2026-08-28T12:22:22.920205"
+    },
+    {
+      "english": "You are stronger, than you know.",
+      "spanish": "Eres más fuerte, de lo que sabes.",
+      "category": "Hope",
+      "generated_at": "2026-08-28T12:22:22.920207"
+    },
+    {
+      "english": "Good things come, to those who wait.",
+      "spanish": "Las cosas buenas llegan, a quienes esperan.",
+      "category": "Hope",
+      "generated_at": "2026-08-28T12:22:22.920208"
+    },
+    {
+      "english": "The best is yet, to come.",
+      "spanish": "Lo mejor está, por venir.",
+      "category": "Hope",
+      "generated_at": "2026-08-28T12:22:22.920209"
+    },
+    {
+      "english": "You have the power, to succeed.",
+      "spanish": "Tienes el poder, de triunfar.",
+      "category": "Hope",
+      "generated_at": "2026-08-28T12:22:22.920211"
+    },
+    {
+      "english": "Embrace the struggle, it makes you.",
+      "spanish": "Abraza la lucha, te forma.",
+      "category": "Hope",
+      "generated_at": "2026-08-28T12:22:22.920212"
+    },
+    {
+      "english": "Keep your chin up, always.",
+      "spanish": "Mantén la cabeza alta, siempre.",
+      "category": "Hope",
+      "generated_at": "2026-08-28T12:22:22.920213"
+    },
+    {
+      "english": "Every ending, is a start.",
+      "spanish": "Cada final, es un principio.",
+      "category": "Hope",
+      "generated_at": "2026-08-28T12:22:22.920214"
+    },
+    {
+      "english": "Your spirit shines, brightly.",
+      "spanish": "Tu espíritu brilla, intensamente.",
+      "category": "Hope",
+      "generated_at": "2026-08-28T12:22:22.920215"
+    },
+    {
+      "english": "Don't fear failure, learn from it.",
+      "spanish": "No temas al fracaso, aprende de él.",
+      "category": "Hope",
+      "generated_at": "2026-08-28T12:22:22.920216"
+    },
+    {
+      "english": "Hope is a good thing, very good.",
+      "spanish": "La esperanza es buena, muy buena.",
+      "category": "Hope",
+      "generated_at": "2026-08-28T12:22:22.920217"
+    },
+    {
+      "english": "You are capable, of great things.",
+      "spanish": "Eres capaz, de grandes cosas.",
+      "category": "Hope",
+      "generated_at": "2026-08-28T12:22:22.920218"
+    },
+    {
+      "english": "Keep pushing forward, with heart.",
+      "spanish": "Sigue avanzando, con corazón.",
+      "category": "Hope",
+      "generated_at": "2026-08-28T12:22:22.920220"
+    },
+    {
+      "english": "Believe in what's possible.",
+      "spanish": "Cree en lo posible.",
+      "category": "Hope",
+      "generated_at": "2026-08-28T12:22:22.920221"
+    },
+    {
+      "english": "A new dawn, awaits you.",
+      "spanish": "Un nuevo amanecer, te espera.",
+      "category": "Hope",
+      "generated_at": "2026-08-28T12:22:22.920222"
+    },
+    {
+      "english": "You can overcome, anything.",
+      "spanish": "Puedes superar, cualquier cosa.",
+      "category": "Hope",
+      "generated_at": "2026-08-28T12:22:22.920223"
+    },
+    {
+      "english": "Find your light, and share it.",
+      "spanish": "Encuentra tu luz, y compártela.",
+      "category": "Hope",
+      "generated_at": "2026-08-28T12:22:22.920224"
+    },
+    {
+      "english": "The future is bright, for you.",
+      "spanish": "El futuro es brillante, para ti.",
+      "category": "Hope",
+      "generated_at": "2026-08-28T12:22:22.920225"
+    },
+    {
+      "english": "Keep shining, your own way.",
+      "spanish": "Sigue brillando, a tu manera.",
+      "category": "Hope",
+      "generated_at": "2026-08-28T12:22:22.920226"
+    },
+    {
+      "english": "Believe in tomorrow, it will come.",
+      "spanish": "Cree en el mañana, llegará.",
+      "category": "Hope",
+      "generated_at": "2026-08-28T12:22:22.920227"
+    },
+    {
+      "english": "Embrace the good, always.",
+      "spanish": "Abraza lo bueno, siempre.",
+      "category": "Hope",
+      "generated_at": "2026-08-28T12:22:22.920228"
+    },
+    {
+      "english": "You are enough, just as you are.",
+      "spanish": "Eres suficiente, tal como eres.",
+      "category": "Hope",
+      "generated_at": "2026-08-28T12:22:22.920230"
+    },
+    {
+      "english": "Let faith, be your anchor.",
+      "spanish": "Que la fe, sea tu ancla.",
+      "category": "Hope",
+      "generated_at": "2026-08-28T12:22:22.920231"
     }
   ],
-  "last_updated": "2026-08-27T10:44:32.241919"
+  "last_updated": "2026-08-28T12:22:22.920233"
 }
