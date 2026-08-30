@@ -33119,7 +33119,727 @@
       "spanish": "Toma el riesgo, puedes.",
       "category": "Courage",
       "generated_at": "2026-08-29T07:31:59.106488"
+    },
+    {
+      "english": "Learn Spanish, for adventure.",
+      "spanish": "Aprende español, para la aventura.",
+      "category": "Purpose",
+      "generated_at": "2026-08-30T06:03:18.014207"
+    },
+    {
+      "english": "Speak truth, with kindness.",
+      "spanish": "Di la verdad, con amabilidad.",
+      "category": "Purpose",
+      "generated_at": "2026-08-30T06:03:18.014220"
+    },
+    {
+      "english": "Listen closely, to others.",
+      "spanish": "Escucha atentamente, a los demás.",
+      "category": "Purpose",
+      "generated_at": "2026-08-30T06:03:18.014222"
+    },
+    {
+      "english": "Taste life, fully.",
+      "spanish": "Saborea la vida, plenamente.",
+      "category": "Purpose",
+      "generated_at": "2026-08-30T06:03:18.014223"
+    },
+    {
+      "english": "Travel far, and learn.",
+      "spanish": "Viaja lejos, y aprende.",
+      "category": "Purpose",
+      "generated_at": "2026-08-30T06:03:18.014224"
+    },
+    {
+      "english": "Create beauty, every day.",
+      "spanish": "Crea belleza, cada día.",
+      "category": "Purpose",
+      "generated_at": "2026-08-30T06:03:18.014226"
+    },
+    {
+      "english": "Help someone, unexpectedly.",
+      "spanish": "Ayuda a alguien, inesperadamente.",
+      "category": "Purpose",
+      "generated_at": "2026-08-30T06:03:18.014227"
+    },
+    {
+      "english": "Laugh often, with friends.",
+      "spanish": "Ríe a menudo, con amigos.",
+      "category": "Purpose",
+      "generated_at": "2026-08-30T06:03:18.014230"
+    },
+    {
+      "english": "Plant seeds, for tomorrow.",
+      "spanish": "Siembra semillas, para el mañana.",
+      "category": "Purpose",
+      "generated_at": "2026-08-30T06:03:18.014232"
+    },
+    {
+      "english": "Explore new paths, bravely.",
+      "spanish": "Explora nuevos caminos, valientemente.",
+      "category": "Purpose",
+      "generated_at": "2026-08-30T06:03:18.014233"
+    },
+    {
+      "english": "Offer a smile, freely.",
+      "spanish": "Ofrece una sonrisa, libremente.",
+      "category": "Purpose",
+      "generated_at": "2026-08-30T06:03:18.014235"
+    },
+    {
+      "english": "Learn languages, connect people.",
+      "spanish": "Aprende idiomas, conecta gente.",
+      "category": "Purpose",
+      "generated_at": "2026-08-30T06:03:18.014236"
+    },
+    {
+      "english": "Seek wisdom, from elders.",
+      "spanish": "Busca sabiduría, de los mayores.",
+      "category": "Purpose",
+      "generated_at": "2026-08-30T06:03:18.014237"
+    },
+    {
+      "english": "Create art, from passion.",
+      "spanish": "Crea arte, desde la pasión.",
+      "category": "Purpose",
+      "generated_at": "2026-08-30T06:03:18.014239"
+    },
+    {
+      "english": "Give generously, without expecting.",
+      "spanish": "Da generosamente, sin esperar.",
+      "category": "Purpose",
+      "generated_at": "2026-08-30T06:03:18.014240"
+    },
+    {
+      "english": "Observe the world, closely.",
+      "spanish": "Observa el mundo, de cerca.",
+      "category": "Purpose",
+      "generated_at": "2026-08-30T06:03:18.014241"
+    },
+    {
+      "english": "Be a good neighbor, always.",
+      "spanish": "Sé un buen vecino, siempre.",
+      "category": "Purpose",
+      "generated_at": "2026-08-30T06:03:18.014242"
+    },
+    {
+      "english": "Sow peace, and harmony.",
+      "spanish": "Siembra paz, y armonía.",
+      "category": "Purpose",
+      "generated_at": "2026-08-30T06:03:18.014243"
+    },
+    {
+      "english": "Share knowledge, with enthusiasm.",
+      "spanish": "Comparte conocimiento, con entusiasmo.",
+      "category": "Purpose",
+      "generated_at": "2026-08-30T06:03:18.014244"
+    },
+    {
+      "english": "Follow your intuition, always.",
+      "spanish": "Sigue tu intuición, siempre.",
+      "category": "Purpose",
+      "generated_at": "2026-08-30T06:03:18.014246"
+    },
+    {
+      "english": "Be kind, to yourself too.",
+      "spanish": "Sé amable, contigo también.",
+      "category": "Purpose",
+      "generated_at": "2026-08-30T06:03:18.014247"
+    },
+    {
+      "english": "Explore your talents, fully.",
+      "spanish": "Explora tus talentos, plenamente.",
+      "category": "Purpose",
+      "generated_at": "2026-08-30T06:03:18.014248"
+    },
+    {
+      "english": "Offer a helping hand, often.",
+      "spanish": "Ofrece una mano amiga, a menudo.",
+      "category": "Purpose",
+      "generated_at": "2026-08-30T06:03:18.014249"
+    },
+    {
+      "english": "Learn from mistakes, grow.",
+      "spanish": "Aprende de los errores, crece.",
+      "category": "Purpose",
+      "generated_at": "2026-08-30T06:03:18.014250"
+    },
+    {
+      "english": "Sing your own song, loud.",
+      "spanish": "Canta tu propia canción, fuerte.",
+      "category": "Purpose",
+      "generated_at": "2026-08-30T06:03:18.014251"
+    },
+    {
+      "english": "Be a good listener, always.",
+      "spanish": "Sé un buen oyente, siempre.",
+      "category": "Purpose",
+      "generated_at": "2026-08-30T06:03:18.014252"
+    },
+    {
+      "english": "Create memories, with love.",
+      "spanish": "Crea recuerdos, con amor.",
+      "category": "Purpose",
+      "generated_at": "2026-08-30T06:03:18.014253"
+    },
+    {
+      "english": "Share your dreams, openly.",
+      "spanish": "Comparte tus sueños, abiertamente.",
+      "category": "Purpose",
+      "generated_at": "2026-08-30T06:03:18.014254"
+    },
+    {
+      "english": "Find peace, within yourself.",
+      "spanish": "Encuentra paz, dentro de ti.",
+      "category": "Purpose",
+      "generated_at": "2026-08-30T06:03:18.014254"
+    },
+    {
+      "english": "Learn Spanish, for adventure.",
+      "spanish": "Aprende español, para la aventura.",
+      "category": "Purpose",
+      "generated_at": "2026-08-30T06:03:18.014256"
+    },
+    {
+      "english": "Speak truth, with kindness.",
+      "spanish": "Di la verdad, con amabilidad.",
+      "category": "Purpose",
+      "generated_at": "2026-08-30T06:03:18.014257"
+    },
+    {
+      "english": "Listen closely, to others.",
+      "spanish": "Escucha atentamente, a los demás.",
+      "category": "Purpose",
+      "generated_at": "2026-08-30T06:03:18.014258"
+    },
+    {
+      "english": "Taste life, fully.",
+      "spanish": "Saborea la vida, plenamente.",
+      "category": "Purpose",
+      "generated_at": "2026-08-30T06:03:18.014260"
+    },
+    {
+      "english": "Travel far, and learn.",
+      "spanish": "Viaja lejos, y aprende.",
+      "category": "Purpose",
+      "generated_at": "2026-08-30T06:03:18.014261"
+    },
+    {
+      "english": "Create beauty, every day.",
+      "spanish": "Crea belleza, cada día.",
+      "category": "Purpose",
+      "generated_at": "2026-08-30T06:03:18.014263"
+    },
+    {
+      "english": "Help someone, unexpectedly.",
+      "spanish": "Ayuda a alguien, inesperadamente.",
+      "category": "Purpose",
+      "generated_at": "2026-08-30T06:03:18.014264"
+    },
+    {
+      "english": "Laugh often, with friends.",
+      "spanish": "Ríe a menudo, con amigos.",
+      "category": "Purpose",
+      "generated_at": "2026-08-30T06:03:18.014265"
+    },
+    {
+      "english": "Plant seeds, for tomorrow.",
+      "spanish": "Siembra semillas, para el mañana.",
+      "category": "Purpose",
+      "generated_at": "2026-08-30T06:03:18.014266"
+    },
+    {
+      "english": "Explore new paths, bravely.",
+      "spanish": "Explora nuevos caminos, valientemente.",
+      "category": "Purpose",
+      "generated_at": "2026-08-30T06:03:18.014268"
+    },
+    {
+      "english": "Offer a smile, freely.",
+      "spanish": "Ofrece una sonrisa, libremente.",
+      "category": "Purpose",
+      "generated_at": "2026-08-30T06:03:18.014269"
+    },
+    {
+      "english": "Learn languages, connect people.",
+      "spanish": "Aprende idiomas, conecta gente.",
+      "category": "Purpose",
+      "generated_at": "2026-08-30T06:03:18.014270"
+    },
+    {
+      "english": "Seek wisdom, from elders.",
+      "spanish": "Busca sabiduría, de los mayores.",
+      "category": "Purpose",
+      "generated_at": "2026-08-30T06:03:18.014271"
+    },
+    {
+      "english": "Create art, from passion.",
+      "spanish": "Crea arte, desde la pasión.",
+      "category": "Purpose",
+      "generated_at": "2026-08-30T06:03:18.014272"
+    },
+    {
+      "english": "Give generously, without expecting.",
+      "spanish": "Da generosamente, sin esperar.",
+      "category": "Purpose",
+      "generated_at": "2026-08-30T06:03:18.014273"
+    },
+    {
+      "english": "Observe the world, closely.",
+      "spanish": "Observa el mundo, de cerca.",
+      "category": "Purpose",
+      "generated_at": "2026-08-30T06:03:18.014275"
+    },
+    {
+      "english": "Be a good neighbor, always.",
+      "spanish": "Sé un buen vecino, siempre.",
+      "category": "Purpose",
+      "generated_at": "2026-08-30T06:03:18.014276"
+    },
+    {
+      "english": "Sow peace, and harmony.",
+      "spanish": "Siembra paz, y armonía.",
+      "category": "Purpose",
+      "generated_at": "2026-08-30T06:03:18.014277"
+    },
+    {
+      "english": "Share knowledge, with enthusiasm.",
+      "spanish": "Comparte conocimiento, con entusiasmo.",
+      "category": "Purpose",
+      "generated_at": "2026-08-30T06:03:18.014278"
+    },
+    {
+      "english": "Follow your intuition, always.",
+      "spanish": "Sigue tu intuición, siempre.",
+      "category": "Purpose",
+      "generated_at": "2026-08-30T06:03:18.014279"
+    },
+    {
+      "english": "Be kind, to yourself too.",
+      "spanish": "Sé amable, contigo también.",
+      "category": "Purpose",
+      "generated_at": "2026-08-30T06:03:18.014280"
+    },
+    {
+      "english": "Explore your talents, fully.",
+      "spanish": "Explora tus talentos, plenamente.",
+      "category": "Purpose",
+      "generated_at": "2026-08-30T06:03:18.014281"
+    },
+    {
+      "english": "Offer a helping hand, often.",
+      "spanish": "Ofrece una mano amiga, a menudo.",
+      "category": "Purpose",
+      "generated_at": "2026-08-30T06:03:18.014282"
+    },
+    {
+      "english": "Learn from mistakes, grow.",
+      "spanish": "Aprende de los errores, crece.",
+      "category": "Purpose",
+      "generated_at": "2026-08-30T06:03:18.014283"
+    },
+    {
+      "english": "Sing your own song, loud.",
+      "spanish": "Canta tu propia canción, fuerte.",
+      "category": "Purpose",
+      "generated_at": "2026-08-30T06:03:18.014284"
+    },
+    {
+      "english": "Be a good listener, always.",
+      "spanish": "Sé un buen oyente, siempre.",
+      "category": "Purpose",
+      "generated_at": "2026-08-30T06:03:18.014285"
+    },
+    {
+      "english": "Create memories, with love.",
+      "spanish": "Crea recuerdos, con amor.",
+      "category": "Purpose",
+      "generated_at": "2026-08-30T06:03:18.014286"
+    },
+    {
+      "english": "Share your dreams, openly.",
+      "spanish": "Comparte tus sueños, abiertamente.",
+      "category": "Purpose",
+      "generated_at": "2026-08-30T06:03:18.014287"
+    },
+    {
+      "english": "Find peace, within yourself.",
+      "spanish": "Encuentra paz, dentro de ti.",
+      "category": "Purpose",
+      "generated_at": "2026-08-30T06:03:18.014288"
+    },
+    {
+      "english": "Learn Spanish, for adventure.",
+      "spanish": "Aprende español, para la aventura.",
+      "category": "Purpose",
+      "generated_at": "2026-08-30T06:03:18.014290"
+    },
+    {
+      "english": "Speak truth, with kindness.",
+      "spanish": "Di la verdad, con amabilidad.",
+      "category": "Purpose",
+      "generated_at": "2026-08-30T06:03:18.014291"
+    },
+    {
+      "english": "Listen closely, to others.",
+      "spanish": "Escucha atentamente, a los demás.",
+      "category": "Purpose",
+      "generated_at": "2026-08-30T06:03:18.014292"
+    },
+    {
+      "english": "Taste life, fully.",
+      "spanish": "Saborea la vida, plenamente.",
+      "category": "Purpose",
+      "generated_at": "2026-08-30T06:03:18.014293"
+    },
+    {
+      "english": "Travel far, and learn.",
+      "spanish": "Viaja lejos, y aprende.",
+      "category": "Purpose",
+      "generated_at": "2026-08-30T06:03:18.014294"
+    },
+    {
+      "english": "Create beauty, every day.",
+      "spanish": "Crea belleza, cada día.",
+      "category": "Purpose",
+      "generated_at": "2026-08-30T06:03:18.014295"
+    },
+    {
+      "english": "Help someone, unexpectedly.",
+      "spanish": "Ayuda a alguien, inesperadamente.",
+      "category": "Purpose",
+      "generated_at": "2026-08-30T06:03:18.014297"
+    },
+    {
+      "english": "Laugh often, with friends.",
+      "spanish": "Ríe a menudo, con amigos.",
+      "category": "Purpose",
+      "generated_at": "2026-08-30T06:03:18.014298"
+    },
+    {
+      "english": "Plant seeds, for tomorrow.",
+      "spanish": "Siembra semillas, para el mañana.",
+      "category": "Purpose",
+      "generated_at": "2026-08-30T06:03:18.014299"
+    },
+    {
+      "english": "Explore new paths, bravely.",
+      "spanish": "Explora nuevos caminos, valientemente.",
+      "category": "Purpose",
+      "generated_at": "2026-08-30T06:03:18.014300"
+    },
+    {
+      "english": "Offer a smile, freely.",
+      "spanish": "Ofrece una sonrisa, libremente.",
+      "category": "Purpose",
+      "generated_at": "2026-08-30T06:03:18.014301"
+    },
+    {
+      "english": "Learn languages, connect people.",
+      "spanish": "Aprende idiomas, conecta gente.",
+      "category": "Purpose",
+      "generated_at": "2026-08-30T06:03:18.014302"
+    },
+    {
+      "english": "Seek wisdom, from elders.",
+      "spanish": "Busca sabiduría, de los mayores.",
+      "category": "Purpose",
+      "generated_at": "2026-08-30T06:03:18.014303"
+    },
+    {
+      "english": "Create art, from passion.",
+      "spanish": "Crea arte, desde la pasión.",
+      "category": "Purpose",
+      "generated_at": "2026-08-30T06:03:18.014304"
+    },
+    {
+      "english": "Give generously, without expecting.",
+      "spanish": "Da generosamente, sin esperar.",
+      "category": "Purpose",
+      "generated_at": "2026-08-30T06:03:18.014305"
+    },
+    {
+      "english": "Observe the world, closely.",
+      "spanish": "Observa el mundo, de cerca.",
+      "category": "Purpose",
+      "generated_at": "2026-08-30T06:03:18.014306"
+    },
+    {
+      "english": "Be a good neighbor, always.",
+      "spanish": "Sé un buen vecino, siempre.",
+      "category": "Purpose",
+      "generated_at": "2026-08-30T06:03:18.014307"
+    },
+    {
+      "english": "Sow peace, and harmony.",
+      "spanish": "Siembra paz, y armonía.",
+      "category": "Purpose",
+      "generated_at": "2026-08-30T06:03:18.014309"
+    },
+    {
+      "english": "Share knowledge, with enthusiasm.",
+      "spanish": "Comparte conocimiento, con entusiasmo.",
+      "category": "Purpose",
+      "generated_at": "2026-08-30T06:03:18.014310"
+    },
+    {
+      "english": "Follow your intuition, always.",
+      "spanish": "Sigue tu intuición, siempre.",
+      "category": "Purpose",
+      "generated_at": "2026-08-30T06:03:18.014311"
+    },
+    {
+      "english": "Be kind, to yourself too.",
+      "spanish": "Sé amable, contigo también.",
+      "category": "Purpose",
+      "generated_at": "2026-08-30T06:03:18.014312"
+    },
+    {
+      "english": "Explore your talents, fully.",
+      "spanish": "Explora tus talentos, plenamente.",
+      "category": "Purpose",
+      "generated_at": "2026-08-30T06:03:18.014313"
+    },
+    {
+      "english": "Offer a helping hand, often.",
+      "spanish": "Ofrece una mano amiga, a menudo.",
+      "category": "Purpose",
+      "generated_at": "2026-08-30T06:03:18.014315"
+    },
+    {
+      "english": "Learn from mistakes, grow.",
+      "spanish": "Aprende de los errores, crece.",
+      "category": "Purpose",
+      "generated_at": "2026-08-30T06:03:18.014316"
+    },
+    {
+      "english": "Sing your own song, loud.",
+      "spanish": "Canta tu propia canción, fuerte.",
+      "category": "Purpose",
+      "generated_at": "2026-08-30T06:03:18.014317"
+    },
+    {
+      "english": "Be a good listener, always.",
+      "spanish": "Sé un buen oyente, siempre.",
+      "category": "Purpose",
+      "generated_at": "2026-08-30T06:03:18.014318"
+    },
+    {
+      "english": "Create memories, with love.",
+      "spanish": "Crea recuerdos, con amor.",
+      "category": "Purpose",
+      "generated_at": "2026-08-30T06:03:18.014319"
+    },
+    {
+      "english": "Share your dreams, openly.",
+      "spanish": "Comparte tus sueños, abiertamente.",
+      "category": "Purpose",
+      "generated_at": "2026-08-30T06:03:18.014321"
+    },
+    {
+      "english": "Find peace, within yourself.",
+      "spanish": "Encuentra paz, dentro de ti.",
+      "category": "Purpose",
+      "generated_at": "2026-08-30T06:03:18.014322"
+    },
+    {
+      "english": "Learn Spanish, for adventure.",
+      "spanish": "Aprende español, para la aventura.",
+      "category": "Purpose",
+      "generated_at": "2026-08-30T06:03:18.014323"
+    },
+    {
+      "english": "Speak truth, with kindness.",
+      "spanish": "Di la verdad, con amabilidad.",
+      "category": "Purpose",
+      "generated_at": "2026-08-30T06:03:18.014324"
+    },
+    {
+      "english": "Listen closely, to others.",
+      "spanish": "Escucha atentamente, a los demás.",
+      "category": "Purpose",
+      "generated_at": "2026-08-30T06:03:18.014325"
+    },
+    {
+      "english": "Taste life, fully.",
+      "spanish": "Saborea la vida, plenamente.",
+      "category": "Purpose",
+      "generated_at": "2026-08-30T06:03:18.014327"
+    },
+    {
+      "english": "Travel far, and learn.",
+      "spanish": "Viaja lejos, y aprende.",
+      "category": "Purpose",
+      "generated_at": "2026-08-30T06:03:18.014328"
+    },
+    {
+      "english": "Create beauty, every day.",
+      "spanish": "Crea belleza, cada día.",
+      "category": "Purpose",
+      "generated_at": "2026-08-30T06:03:18.014329"
+    },
+    {
+      "english": "Help someone, unexpectedly.",
+      "spanish": "Ayuda a alguien, inesperadamente.",
+      "category": "Purpose",
+      "generated_at": "2026-08-30T06:03:18.014330"
+    },
+    {
+      "english": "Laugh often, with friends.",
+      "spanish": "Ríe a menudo, con amigos.",
+      "category": "Purpose",
+      "generated_at": "2026-08-30T06:03:18.014331"
+    },
+    {
+      "english": "Plant seeds, for tomorrow.",
+      "spanish": "Siembra semillas, para el mañana.",
+      "category": "Purpose",
+      "generated_at": "2026-08-30T06:03:18.014332"
+    },
+    {
+      "english": "Explore new paths, bravely.",
+      "spanish": "Explora nuevos caminos, valientemente.",
+      "category": "Purpose",
+      "generated_at": "2026-08-30T06:03:18.014333"
+    },
+    {
+      "english": "Offer a smile, freely.",
+      "spanish": "Ofrece una sonrisa, libremente.",
+      "category": "Purpose",
+      "generated_at": "2026-08-30T06:03:18.014334"
+    },
+    {
+      "english": "Learn languages, connect people.",
+      "spanish": "Aprende idiomas, conecta gente.",
+      "category": "Purpose",
+      "generated_at": "2026-08-30T06:03:18.014336"
+    },
+    {
+      "english": "Seek wisdom, from elders.",
+      "spanish": "Busca sabiduría, de los mayores.",
+      "category": "Purpose",
+      "generated_at": "2026-08-30T06:03:18.014337"
+    },
+    {
+      "english": "Create art, from passion.",
+      "spanish": "Crea arte, desde la pasión.",
+      "category": "Purpose",
+      "generated_at": "2026-08-30T06:03:18.014338"
+    },
+    {
+      "english": "Give generously, without expecting.",
+      "spanish": "Da generosamente, sin esperar.",
+      "category": "Purpose",
+      "generated_at": "2026-08-30T06:03:18.014339"
+    },
+    {
+      "english": "Observe the world, closely.",
+      "spanish": "Observa el mundo, de cerca.",
+      "category": "Purpose",
+      "generated_at": "2026-08-30T06:03:18.014340"
+    },
+    {
+      "english": "Be a good neighbor, always.",
+      "spanish": "Sé un buen vecino, siempre.",
+      "category": "Purpose",
+      "generated_at": "2026-08-30T06:03:18.014341"
+    },
+    {
+      "english": "Sow peace, and harmony.",
+      "spanish": "Siembra paz, y armonía.",
+      "category": "Purpose",
+      "generated_at": "2026-08-30T06:03:18.014342"
+    },
+    {
+      "english": "Share knowledge, with enthusiasm.",
+      "spanish": "Comparte conocimiento, con entusiasmo.",
+      "category": "Purpose",
+      "generated_at": "2026-08-30T06:03:18.014343"
+    },
+    {
+      "english": "Follow your intuition, always.",
+      "spanish": "Sigue tu intuición, siempre.",
+      "category": "Purpose",
+      "generated_at": "2026-08-30T06:03:18.014344"
+    },
+    {
+      "english": "Be kind, to yourself too.",
+      "spanish": "Sé amable, contigo también.",
+      "category": "Purpose",
+      "generated_at": "2026-08-30T06:03:18.014345"
+    },
+    {
+      "english": "Explore your talents, fully.",
+      "spanish": "Explora tus talentos, plenamente.",
+      "category": "Purpose",
+      "generated_at": "2026-08-30T06:03:18.014346"
+    },
+    {
+      "english": "Offer a helping hand, often.",
+      "spanish": "Ofrece una mano amiga, a menudo.",
+      "category": "Purpose",
+      "generated_at": "2026-08-30T06:03:18.014348"
+    },
+    {
+      "english": "Learn from mistakes, grow.",
+      "spanish": "Aprende de los errores, crece.",
+      "category": "Purpose",
+      "generated_at": "2026-08-30T06:03:18.014349"
+    },
+    {
+      "english": "Sing your own song, loud.",
+      "spanish": "Canta tu propia canción, fuerte.",
+      "category": "Purpose",
+      "generated_at": "2026-08-30T06:03:18.014350"
+    },
+    {
+      "english": "Be a good listener, always.",
+      "spanish": "Sé un buen oyente, siempre.",
+      "category": "Purpose",
+      "generated_at": "2026-08-30T06:03:18.014351"
+    },
+    {
+      "english": "Create memories, with love.",
+      "spanish": "Crea recuerdos, con amor.",
+      "category": "Purpose",
+      "generated_at": "2026-08-30T06:03:18.014352"
+    },
+    {
+      "english": "Share your dreams, openly.",
+      "spanish": "Comparte tus sueños, abiertamente.",
+      "category": "Purpose",
+      "generated_at": "2026-08-30T06:03:18.014353"
+    },
+    {
+      "english": "Find peace, within yourself.",
+      "spanish": "Encuentra paz, dentro de ti.",
+      "category": "Purpose",
+      "generated_at": "2026-08-30T06:03:18.014354"
+    },
+    {
+      "english": "Learn Spanish, for adventure.",
+      "spanish": "Aprende español, para la aventura.",
+      "category": "Purpose",
+      "generated_at": "2026-08-30T06:03:18.014355"
+    },
+    {
+      "english": "Speak truth, with kindness.",
+      "spanish": "Di la verdad, con amabilidad.",
+      "category": "Purpose",
+      "generated_at": "2026-08-30T06:03:18.014356"
+    },
+    {
+      "english": "Listen closely, to others.",
+      "spanish": "Escucha atentamente, a los demás.",
+      "category": "Purpose",
+      "generated_at": "2026-08-30T06:03:18.014357"
+    },
+    {
+      "english": "Taste life, fully.",
+      "spanish": "Saborea la vida, plenamente.",
+      "category": "Purpose",
+      "generated_at": "2026-08-30T06:03:18.014358"
     }
   ],
-  "last_updated": "2026-08-29T07:31:59.106490"
+  "last_updated": "2026-08-30T06:03:18.014360"
 }
