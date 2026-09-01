@@ -34559,7 +34559,727 @@
       "spanish": "La bondad florece, adentro.",
       "category": "Inner Peace",
       "generated_at": "2026-08-31T06:23:14.522100"
+    },
+    {
+      "english": "Courage isn't fearlessness, it's acting despite fear.",
+      "spanish": "El coraje no es ausencia de miedo, es actuar a pesar de él.",
+      "category": "Courage",
+      "generated_at": "2026-09-01T05:50:55.650550"
+    },
+    {
+      "english": "Even a small step forward, is brave.",
+      "spanish": "Incluso un pequeño paso adelante, es valiente.",
+      "category": "Courage",
+      "generated_at": "2026-09-01T05:50:55.650564"
+    },
+    {
+      "english": "True strength, comes from within.",
+      "spanish": "La verdadera fuerza, viene de adentro.",
+      "category": "Courage",
+      "generated_at": "2026-09-01T05:50:55.650566"
+    },
+    {
+      "english": "Face your doubts, they lose power.",
+      "spanish": "Enfrenta tus dudas, pierden poder.",
+      "category": "Courage",
+      "generated_at": "2026-09-01T05:50:55.650567"
+    },
+    {
+      "english": "Boldness unlocks, new possibilities.",
+      "spanish": "La audacia desbloquea, nuevas posibilidades.",
+      "category": "Courage",
+      "generated_at": "2026-09-01T05:50:55.650569"
+    },
+    {
+      "english": "Dare to be, vulnerable.",
+      "spanish": "Atrévete a ser, vulnerable.",
+      "category": "Courage",
+      "generated_at": "2026-09-01T05:50:55.650570"
+    },
+    {
+      "english": "Embrace the unknown, bravely.",
+      "spanish": "Abraza lo desconocido, valientemente.",
+      "category": "Courage",
+      "generated_at": "2026-09-01T05:50:55.650572"
+    },
+    {
+      "english": "Failure is a lesson, not an end.",
+      "spanish": "El fracaso es una lección, no un final.",
+      "category": "Courage",
+      "generated_at": "2026-09-01T05:50:55.650576"
+    },
+    {
+      "english": "Stand tall, for what you believe.",
+      "spanish": "Mantente firme, por lo que crees.",
+      "category": "Courage",
+      "generated_at": "2026-09-01T05:50:55.650578"
+    },
+    {
+      "english": "Courage fuels, your dreams.",
+      "spanish": "El coraje impulsa, tus sueños.",
+      "category": "Courage",
+      "generated_at": "2026-09-01T05:50:55.650579"
+    },
+    {
+      "english": "A determined spirit, is unstoppable.",
+      "spanish": "Un espíritu decidido, es imparable.",
+      "category": "Courage",
+      "generated_at": "2026-09-01T05:50:55.650580"
+    },
+    {
+      "english": "Don't wait for perfect, be brave now.",
+      "spanish": "No esperes la perfección, sé valiente ahora.",
+      "category": "Courage",
+      "generated_at": "2026-09-01T05:50:55.650582"
+    },
+    {
+      "english": "Integrity is acting, with courage.",
+      "spanish": "La integridad es actuar, con coraje.",
+      "category": "Courage",
+      "generated_at": "2026-09-01T05:50:55.650583"
+    },
+    {
+      "english": "The bravest decision, is to be kind.",
+      "spanish": "La decisión más valiente, es ser amable.",
+      "category": "Courage",
+      "generated_at": "2026-09-01T05:50:55.650584"
+    },
+    {
+      "english": "Adventure awaits, the bold.",
+      "spanish": "La aventura espera, a los audaces.",
+      "category": "Courage",
+      "generated_at": "2026-09-01T05:50:55.650585"
+    },
+    {
+      "english": "Your spirit, is tougher than you think.",
+      "spanish": "Tu espíritu, es más fuerte de lo que crees.",
+      "category": "Courage",
+      "generated_at": "2026-09-01T05:50:55.650586"
+    },
+    {
+      "english": "Take a leap of faith, often.",
+      "spanish": "Da un salto de fe, a menudo.",
+      "category": "Courage",
+      "generated_at": "2026-09-01T05:50:55.650587"
+    },
+    {
+      "english": "Courage is the engine, of change.",
+      "spanish": "El coraje es el motor, del cambio.",
+      "category": "Courage",
+      "generated_at": "2026-09-01T05:50:55.650588"
+    },
+    {
+      "english": "Believe in your potential, always.",
+      "spanish": "Cree en tu potencial, siempre.",
+      "category": "Courage",
+      "generated_at": "2026-09-01T05:50:55.650589"
+    },
+    {
+      "english": "When in doubt, choose bravery.",
+      "spanish": "Cuando dudes, elige la valentía.",
+      "category": "Courage",
+      "generated_at": "2026-09-01T05:50:55.650590"
+    },
+    {
+      "english": "Your courage inspires, others.",
+      "spanish": "Tu coraje inspira, a otros.",
+      "category": "Courage",
+      "generated_at": "2026-09-01T05:50:55.650591"
+    },
+    {
+      "english": "A single brave act, can change everything.",
+      "spanish": "Un solo acto valiente, puede cambiarlo todo.",
+      "category": "Courage",
+      "generated_at": "2026-09-01T05:50:55.650592"
+    },
+    {
+      "english": "Embrace challenges, with a bold heart.",
+      "spanish": "Acepta los desafíos, con un corazón audaz.",
+      "category": "Courage",
+      "generated_at": "2026-09-01T05:50:55.650593"
+    },
+    {
+      "english": "Your persistence, is a form of courage.",
+      "spanish": "Tu persistencia, es una forma de coraje.",
+      "category": "Courage",
+      "generated_at": "2026-09-01T05:50:55.650594"
+    },
+    {
+      "english": "Find courage, in small victories.",
+      "spanish": "Encuentra coraje, en pequeñas victorias.",
+      "category": "Courage",
+      "generated_at": "2026-09-01T05:50:55.650595"
+    },
+    {
+      "english": "The greatest courage, is to be yourself.",
+      "spanish": "El coraje más grande, es ser tú mismo.",
+      "category": "Courage",
+      "generated_at": "2026-09-01T05:50:55.650596"
+    },
+    {
+      "english": "Stand up for yourself, always.",
+      "spanish": "Defiéndete a ti mismo, siempre.",
+      "category": "Courage",
+      "generated_at": "2026-09-01T05:50:55.650597"
+    },
+    {
+      "english": "Your inner warrior, awakens now.",
+      "spanish": "Tu guerrero interior, despierta ahora.",
+      "category": "Courage",
+      "generated_at": "2026-09-01T05:50:55.650598"
+    },
+    {
+      "english": "It takes courage, to be happy.",
+      "spanish": "Se necesita coraje, para ser feliz.",
+      "category": "Courage",
+      "generated_at": "2026-09-01T05:50:55.650599"
+    },
+    {
+      "english": "Embrace your journey, with bold steps.",
+      "spanish": "Abraza tu camino, con pasos audaces.",
+      "category": "Courage",
+      "generated_at": "2026-09-01T05:50:55.650600"
+    },
+    {
+      "english": "Courage is the first step, towards freedom.",
+      "spanish": "El coraje es el primer paso, hacia la libertad.",
+      "category": "Courage",
+      "generated_at": "2026-09-01T05:50:55.650601"
+    },
+    {
+      "english": "Don't let fear, define you.",
+      "spanish": "No dejes que el miedo, te defina.",
+      "category": "Courage",
+      "generated_at": "2026-09-01T05:50:55.650602"
+    },
+    {
+      "english": "Your heart has courage, listen.",
+      "spanish": "Tu corazón tiene coraje, escucha.",
+      "category": "Courage",
+      "generated_at": "2026-09-01T05:50:55.650603"
+    },
+    {
+      "english": "Courage isn't fearlessness, it's acting despite fear.",
+      "spanish": "El coraje no es ausencia de miedo, es actuar a pesar de él.",
+      "category": "Courage",
+      "generated_at": "2026-09-01T05:50:55.650604"
+    },
+    {
+      "english": "Even a small step forward, is brave.",
+      "spanish": "Incluso un pequeño paso adelante, es valiente.",
+      "category": "Courage",
+      "generated_at": "2026-09-01T05:50:55.650605"
+    },
+    {
+      "english": "True strength, comes from within.",
+      "spanish": "La verdadera fuerza, viene de adentro.",
+      "category": "Courage",
+      "generated_at": "2026-09-01T05:50:55.650606"
+    },
+    {
+      "english": "Face your doubts, they lose power.",
+      "spanish": "Enfrenta tus dudas, pierden poder.",
+      "category": "Courage",
+      "generated_at": "2026-09-01T05:50:55.650607"
+    },
+    {
+      "english": "Boldness unlocks, new possibilities.",
+      "spanish": "La audacia desbloquea, nuevas posibilidades.",
+      "category": "Courage",
+      "generated_at": "2026-09-01T05:50:55.650608"
+    },
+    {
+      "english": "Dare to be, vulnerable.",
+      "spanish": "Atrévete a ser, vulnerable.",
+      "category": "Courage",
+      "generated_at": "2026-09-01T05:50:55.650609"
+    },
+    {
+      "english": "Embrace the unknown, bravely.",
+      "spanish": "Abraza lo desconocido, valientemente.",
+      "category": "Courage",
+      "generated_at": "2026-09-01T05:50:55.650611"
+    },
+    {
+      "english": "Failure is a lesson, not an end.",
+      "spanish": "El fracaso es una lección, no un final.",
+      "category": "Courage",
+      "generated_at": "2026-09-01T05:50:55.650612"
+    },
+    {
+      "english": "Stand tall, for what you believe.",
+      "spanish": "Mantente firme, por lo que crees.",
+      "category": "Courage",
+      "generated_at": "2026-09-01T05:50:55.650612"
+    },
+    {
+      "english": "Courage fuels, your dreams.",
+      "spanish": "El coraje impulsa, tus sueños.",
+      "category": "Courage",
+      "generated_at": "2026-09-01T05:50:55.650613"
+    },
+    {
+      "english": "A determined spirit, is unstoppable.",
+      "spanish": "Un espíritu decidido, es imparable.",
+      "category": "Courage",
+      "generated_at": "2026-09-01T05:50:55.650614"
+    },
+    {
+      "english": "Don't wait for perfect, be brave now.",
+      "spanish": "No esperes la perfección, sé valiente ahora.",
+      "category": "Courage",
+      "generated_at": "2026-09-01T05:50:55.650615"
+    },
+    {
+      "english": "Integrity is acting, with courage.",
+      "spanish": "La integridad es actuar, con coraje.",
+      "category": "Courage",
+      "generated_at": "2026-09-01T05:50:55.650617"
+    },
+    {
+      "english": "The bravest decision, is to be kind.",
+      "spanish": "La decisión más valiente, es ser amable.",
+      "category": "Courage",
+      "generated_at": "2026-09-01T05:50:55.650618"
+    },
+    {
+      "english": "Adventure awaits, the bold.",
+      "spanish": "La aventura espera, a los audaces.",
+      "category": "Courage",
+      "generated_at": "2026-09-01T05:50:55.650619"
+    },
+    {
+      "english": "Your spirit, is tougher than you think.",
+      "spanish": "Tu espíritu, es más fuerte de lo que crees.",
+      "category": "Courage",
+      "generated_at": "2026-09-01T05:50:55.650620"
+    },
+    {
+      "english": "Take a leap of faith, often.",
+      "spanish": "Da un salto de fe, a menudo.",
+      "category": "Courage",
+      "generated_at": "2026-09-01T05:50:55.650621"
+    },
+    {
+      "english": "Courage is the engine, of change.",
+      "spanish": "El coraje es el motor, del cambio.",
+      "category": "Courage",
+      "generated_at": "2026-09-01T05:50:55.650622"
+    },
+    {
+      "english": "Believe in your potential, always.",
+      "spanish": "Cree en tu potencial, siempre.",
+      "category": "Courage",
+      "generated_at": "2026-09-01T05:50:55.650623"
+    },
+    {
+      "english": "When in doubt, choose bravery.",
+      "spanish": "Cuando dudes, elige la valentía.",
+      "category": "Courage",
+      "generated_at": "2026-09-01T05:50:55.650624"
+    },
+    {
+      "english": "Your courage inspires, others.",
+      "spanish": "Tu coraje inspira, a otros.",
+      "category": "Courage",
+      "generated_at": "2026-09-01T05:50:55.650625"
+    },
+    {
+      "english": "A single brave act, can change everything.",
+      "spanish": "Un solo acto valiente, puede cambiarlo todo.",
+      "category": "Courage",
+      "generated_at": "2026-09-01T05:50:55.650626"
+    },
+    {
+      "english": "Embrace challenges, with a bold heart.",
+      "spanish": "Acepta los desafíos, con un corazón audaz.",
+      "category": "Courage",
+      "generated_at": "2026-09-01T05:50:55.650627"
+    },
+    {
+      "english": "Your persistence, is a form of courage.",
+      "spanish": "Tu persistencia, es una forma de coraje.",
+      "category": "Courage",
+      "generated_at": "2026-09-01T05:50:55.650628"
+    },
+    {
+      "english": "Find courage, in small victories.",
+      "spanish": "Encuentra coraje, en pequeñas victorias.",
+      "category": "Courage",
+      "generated_at": "2026-09-01T05:50:55.650629"
+    },
+    {
+      "english": "The greatest courage, is to be yourself.",
+      "spanish": "El coraje más grande, es ser tú mismo.",
+      "category": "Courage",
+      "generated_at": "2026-09-01T05:50:55.650630"
+    },
+    {
+      "english": "Stand up for yourself, always.",
+      "spanish": "Defiéndete a ti mismo, siempre.",
+      "category": "Courage",
+      "generated_at": "2026-09-01T05:50:55.650631"
+    },
+    {
+      "english": "Your inner warrior, awakens now.",
+      "spanish": "Tu guerrero interior, despierta ahora.",
+      "category": "Courage",
+      "generated_at": "2026-09-01T05:50:55.650632"
+    },
+    {
+      "english": "It takes courage, to be happy.",
+      "spanish": "Se necesita coraje, para ser feliz.",
+      "category": "Courage",
+      "generated_at": "2026-09-01T05:50:55.650633"
+    },
+    {
+      "english": "Embrace your journey, with bold steps.",
+      "spanish": "Abraza tu camino, con pasos audaces.",
+      "category": "Courage",
+      "generated_at": "2026-09-01T05:50:55.650634"
+    },
+    {
+      "english": "Courage is the first step, towards freedom.",
+      "spanish": "El coraje es el primer paso, hacia la libertad.",
+      "category": "Courage",
+      "generated_at": "2026-09-01T05:50:55.650635"
+    },
+    {
+      "english": "Don't let fear, define you.",
+      "spanish": "No dejes que el miedo, te defina.",
+      "category": "Courage",
+      "generated_at": "2026-09-01T05:50:55.650636"
+    },
+    {
+      "english": "Your heart has courage, listen.",
+      "spanish": "Tu corazón tiene coraje, escucha.",
+      "category": "Courage",
+      "generated_at": "2026-09-01T05:50:55.650637"
+    },
+    {
+      "english": "Courage isn't fearlessness, it's acting despite fear.",
+      "spanish": "El coraje no es ausencia de miedo, es actuar a pesar de él.",
+      "category": "Courage",
+      "generated_at": "2026-09-01T05:50:55.650638"
+    },
+    {
+      "english": "Even a small step forward, is brave.",
+      "spanish": "Incluso un pequeño paso adelante, es valiente.",
+      "category": "Courage",
+      "generated_at": "2026-09-01T05:50:55.650640"
+    },
+    {
+      "english": "True strength, comes from within.",
+      "spanish": "La verdadera fuerza, viene de adentro.",
+      "category": "Courage",
+      "generated_at": "2026-09-01T05:50:55.650641"
+    },
+    {
+      "english": "Face your doubts, they lose power.",
+      "spanish": "Enfrenta tus dudas, pierden poder.",
+      "category": "Courage",
+      "generated_at": "2026-09-01T05:50:55.650642"
+    },
+    {
+      "english": "Boldness unlocks, new possibilities.",
+      "spanish": "La audacia desbloquea, nuevas posibilidades.",
+      "category": "Courage",
+      "generated_at": "2026-09-01T05:50:55.650643"
+    },
+    {
+      "english": "Dare to be, vulnerable.",
+      "spanish": "Atrévete a ser, vulnerable.",
+      "category": "Courage",
+      "generated_at": "2026-09-01T05:50:55.650644"
+    },
+    {
+      "english": "Embrace the unknown, bravely.",
+      "spanish": "Abraza lo desconocido, valientemente.",
+      "category": "Courage",
+      "generated_at": "2026-09-01T05:50:55.650645"
+    },
+    {
+      "english": "Failure is a lesson, not an end.",
+      "spanish": "El fracaso es una lección, no un final.",
+      "category": "Courage",
+      "generated_at": "2026-09-01T05:50:55.650646"
+    },
+    {
+      "english": "Stand tall, for what you believe.",
+      "spanish": "Mantente firme, por lo que crees.",
+      "category": "Courage",
+      "generated_at": "2026-09-01T05:50:55.650647"
+    },
+    {
+      "english": "Courage fuels, your dreams.",
+      "spanish": "El coraje impulsa, tus sueños.",
+      "category": "Courage",
+      "generated_at": "2026-09-01T05:50:55.650648"
+    },
+    {
+      "english": "A determined spirit, is unstoppable.",
+      "spanish": "Un espíritu decidido, es imparable.",
+      "category": "Courage",
+      "generated_at": "2026-09-01T05:50:55.650649"
+    },
+    {
+      "english": "Don't wait for perfect, be brave now.",
+      "spanish": "No esperes la perfección, sé valiente ahora.",
+      "category": "Courage",
+      "generated_at": "2026-09-01T05:50:55.650650"
+    },
+    {
+      "english": "Integrity is acting, with courage.",
+      "spanish": "La integridad es actuar, con coraje.",
+      "category": "Courage",
+      "generated_at": "2026-09-01T05:50:55.650651"
+    },
+    {
+      "english": "The bravest decision, is to be kind.",
+      "spanish": "La decisión más valiente, es ser amable.",
+      "category": "Courage",
+      "generated_at": "2026-09-01T05:50:55.650652"
+    },
+    {
+      "english": "Adventure awaits, the bold.",
+      "spanish": "La aventura espera, a los audaces.",
+      "category": "Courage",
+      "generated_at": "2026-09-01T05:50:55.650653"
+    },
+    {
+      "english": "Your spirit, is tougher than you think.",
+      "spanish": "Tu espíritu, es más fuerte de lo que crees.",
+      "category": "Courage",
+      "generated_at": "2026-09-01T05:50:55.650654"
+    },
+    {
+      "english": "Take a leap of faith, often.",
+      "spanish": "Da un salto de fe, a menudo.",
+      "category": "Courage",
+      "generated_at": "2026-09-01T05:50:55.650655"
+    },
+    {
+      "english": "Courage is the engine, of change.",
+      "spanish": "El coraje es el motor, del cambio.",
+      "category": "Courage",
+      "generated_at": "2026-09-01T05:50:55.650656"
+    },
+    {
+      "english": "Believe in your potential, always.",
+      "spanish": "Cree en tu potencial, siempre.",
+      "category": "Courage",
+      "generated_at": "2026-09-01T05:50:55.650657"
+    },
+    {
+      "english": "When in doubt, choose bravery.",
+      "spanish": "Cuando dudes, elige la valentía.",
+      "category": "Courage",
+      "generated_at": "2026-09-01T05:50:55.650658"
+    },
+    {
+      "english": "Your courage inspires, others.",
+      "spanish": "Tu coraje inspira, a otros.",
+      "category": "Courage",
+      "generated_at": "2026-09-01T05:50:55.650659"
+    },
+    {
+      "english": "A single brave act, can change everything.",
+      "spanish": "Un solo acto valiente, puede cambiarlo todo.",
+      "category": "Courage",
+      "generated_at": "2026-09-01T05:50:55.650660"
+    },
+    {
+      "english": "Embrace challenges, with a bold heart.",
+      "spanish": "Acepta los desafíos, con un corazón audaz.",
+      "category": "Courage",
+      "generated_at": "2026-09-01T05:50:55.650661"
+    },
+    {
+      "english": "Your persistence, is a form of courage.",
+      "spanish": "Tu persistencia, es una forma de coraje.",
+      "category": "Courage",
+      "generated_at": "2026-09-01T05:50:55.650662"
+    },
+    {
+      "english": "Find courage, in small victories.",
+      "spanish": "Encuentra coraje, en pequeñas victorias.",
+      "category": "Courage",
+      "generated_at": "2026-09-01T05:50:55.650663"
+    },
+    {
+      "english": "The greatest courage, is to be yourself.",
+      "spanish": "El coraje más grande, es ser tú mismo.",
+      "category": "Courage",
+      "generated_at": "2026-09-01T05:50:55.650664"
+    },
+    {
+      "english": "Stand up for yourself, always.",
+      "spanish": "Defiéndete a ti mismo, siempre.",
+      "category": "Courage",
+      "generated_at": "2026-09-01T05:50:55.650665"
+    },
+    {
+      "english": "Your inner warrior, awakens now.",
+      "spanish": "Tu guerrero interior, despierta ahora.",
+      "category": "Courage",
+      "generated_at": "2026-09-01T05:50:55.650666"
+    },
+    {
+      "english": "It takes courage, to be happy.",
+      "spanish": "Se necesita coraje, para ser feliz.",
+      "category": "Courage",
+      "generated_at": "2026-09-01T05:50:55.650667"
+    },
+    {
+      "english": "Embrace your journey, with bold steps.",
+      "spanish": "Abraza tu camino, con pasos audaces.",
+      "category": "Courage",
+      "generated_at": "2026-09-01T05:50:55.650668"
+    },
+    {
+      "english": "Courage is the first step, towards freedom.",
+      "spanish": "El coraje es el primer paso, hacia la libertad.",
+      "category": "Courage",
+      "generated_at": "2026-09-01T05:50:55.650669"
+    },
+    {
+      "english": "Don't let fear, define you.",
+      "spanish": "No dejes que el miedo, te defina.",
+      "category": "Courage",
+      "generated_at": "2026-09-01T05:50:55.650670"
+    },
+    {
+      "english": "Your heart has courage, listen.",
+      "spanish": "Tu corazón tiene coraje, escucha.",
+      "category": "Courage",
+      "generated_at": "2026-09-01T05:50:55.650671"
+    },
+    {
+      "english": "Courage isn't fearlessness, it's acting despite fear.",
+      "spanish": "El coraje no es ausencia de miedo, es actuar a pesar de él.",
+      "category": "Courage",
+      "generated_at": "2026-09-01T05:50:55.650672"
+    },
+    {
+      "english": "Even a small step forward, is brave.",
+      "spanish": "Incluso un pequeño paso adelante, es valiente.",
+      "category": "Courage",
+      "generated_at": "2026-09-01T05:50:55.650673"
+    },
+    {
+      "english": "True strength, comes from within.",
+      "spanish": "La verdadera fuerza, viene de adentro.",
+      "category": "Courage",
+      "generated_at": "2026-09-01T05:50:55.650674"
+    },
+    {
+      "english": "Face your doubts, they lose power.",
+      "spanish": "Enfrenta tus dudas, pierden poder.",
+      "category": "Courage",
+      "generated_at": "2026-09-01T05:50:55.650675"
+    },
+    {
+      "english": "Boldness unlocks, new possibilities.",
+      "spanish": "La audacia desbloquea, nuevas posibilidades.",
+      "category": "Courage",
+      "generated_at": "2026-09-01T05:50:55.650676"
+    },
+    {
+      "english": "Dare to be, vulnerable.",
+      "spanish": "Atrévete a ser, vulnerable.",
+      "category": "Courage",
+      "generated_at": "2026-09-01T05:50:55.650677"
+    },
+    {
+      "english": "Embrace the unknown, bravely.",
+      "spanish": "Abraza lo desconocido, valientemente.",
+      "category": "Courage",
+      "generated_at": "2026-09-01T05:50:55.650678"
+    },
+    {
+      "english": "Failure is a lesson, not an end.",
+      "spanish": "El fracaso es una lección, no un final.",
+      "category": "Courage",
+      "generated_at": "2026-09-01T05:50:55.650679"
+    },
+    {
+      "english": "Stand tall, for what you believe.",
+      "spanish": "Mantente firme, por lo que crees.",
+      "category": "Courage",
+      "generated_at": "2026-09-01T05:50:55.650680"
+    },
+    {
+      "english": "Courage fuels, your dreams.",
+      "spanish": "El coraje impulsa, tus sueños.",
+      "category": "Courage",
+      "generated_at": "2026-09-01T05:50:55.650681"
+    },
+    {
+      "english": "A determined spirit, is unstoppable.",
+      "spanish": "Un espíritu decidido, es imparable.",
+      "category": "Courage",
+      "generated_at": "2026-09-01T05:50:55.650682"
+    },
+    {
+      "english": "Don't wait for perfect, be brave now.",
+      "spanish": "No esperes la perfección, sé valiente ahora.",
+      "category": "Courage",
+      "generated_at": "2026-09-01T05:50:55.650683"
+    },
+    {
+      "english": "Integrity is acting, with courage.",
+      "spanish": "La integridad es actuar, con coraje.",
+      "category": "Courage",
+      "generated_at": "2026-09-01T05:50:55.650684"
+    },
+    {
+      "english": "The bravest decision, is to be kind.",
+      "spanish": "La decisión más valiente, es ser amable.",
+      "category": "Courage",
+      "generated_at": "2026-09-01T05:50:55.650685"
+    },
+    {
+      "english": "Adventure awaits, the bold.",
+      "spanish": "La aventura espera, a los audaces.",
+      "category": "Courage",
+      "generated_at": "2026-09-01T05:50:55.650686"
+    },
+    {
+      "english": "Your spirit, is tougher than you think.",
+      "spanish": "Tu espíritu, es más fuerte de lo que crees.",
+      "category": "Courage",
+      "generated_at": "2026-09-01T05:50:55.650687"
+    },
+    {
+      "english": "Take a leap of faith, often.",
+      "spanish": "Da un salto de fe, a menudo.",
+      "category": "Courage",
+      "generated_at": "2026-09-01T05:50:55.650688"
+    },
+    {
+      "english": "Courage is the engine, of change.",
+      "spanish": "El coraje es el motor, del cambio.",
+      "category": "Courage",
+      "generated_at": "2026-09-01T05:50:55.650689"
+    },
+    {
+      "english": "Believe in your potential, always.",
+      "spanish": "Cree en tu potencial, siempre.",
+      "category": "Courage",
+      "generated_at": "2026-09-01T05:50:55.650690"
+    },
+    {
+      "english": "When in doubt, choose bravery.",
+      "spanish": "Cuando dudes, elige la valentía.",
+      "category": "Courage",
+      "generated_at": "2026-09-01T05:50:55.650691"
+    },
+    {
+      "english": "Your courage inspires, others.",
+      "spanish": "Tu coraje inspira, a otros.",
+      "category": "Courage",
+      "generated_at": "2026-09-01T05:50:55.650692"
     }
   ],
-  "last_updated": "2026-08-31T06:23:14.522104"
+  "last_updated": "2026-09-01T05:50:55.650694"
 }
