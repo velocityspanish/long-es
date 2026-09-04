@@ -36719,7 +36719,727 @@
       "spanish": "Sé presente, completamente ahora.",
       "category": "Joy",
       "generated_at": "2026-09-03T05:19:12.630055"
+    },
+    {
+      "english": "Be kind, always.",
+      "spanish": "Sé amable, siempre.",
+      "category": "Kindness",
+      "generated_at": "2026-09-04T05:13:46.010741"
+    },
+    {
+      "english": "Help others, genuinely.",
+      "spanish": "Ayuda a otros, sinceramente.",
+      "category": "Kindness",
+      "generated_at": "2026-09-04T05:13:46.010755"
+    },
+    {
+      "english": "Smile often, widely.",
+      "spanish": "Sonríe a menudo, ampliamente.",
+      "category": "Kindness",
+      "generated_at": "2026-09-04T05:13:46.010757"
+    },
+    {
+      "english": "Share what you have.",
+      "spanish": "Comparte lo que tienes.",
+      "category": "Kindness",
+      "generated_at": "2026-09-04T05:13:46.010759"
+    },
+    {
+      "english": "Offer comfort, freely.",
+      "spanish": "Ofrece consuelo, libremente.",
+      "category": "Kindness",
+      "generated_at": "2026-09-04T05:13:46.010760"
+    },
+    {
+      "english": "Forgive quickly, easily.",
+      "spanish": "Perdona rápido, fácilmente.",
+      "category": "Kindness",
+      "generated_at": "2026-09-04T05:13:46.010761"
+    },
+    {
+      "english": "Say thank you, always.",
+      "spanish": "Di gracias, siempre.",
+      "category": "Kindness",
+      "generated_at": "2026-09-04T05:13:46.010763"
+    },
+    {
+      "english": "Encourage someone, today.",
+      "spanish": "Anima a alguien, hoy.",
+      "category": "Kindness",
+      "generated_at": "2026-09-04T05:13:46.010766"
+    },
+    {
+      "english": "Think good thoughts, about them.",
+      "spanish": "Piensa cosas buenas, sobre ellos.",
+      "category": "Kindness",
+      "generated_at": "2026-09-04T05:13:46.010768"
+    },
+    {
+      "english": "Show empathy, deeply.",
+      "spanish": "Muestra empatía, profundamente.",
+      "category": "Kindness",
+      "generated_at": "2026-09-04T05:13:46.010770"
+    },
+    {
+      "english": "Offer a compliment, sincerely.",
+      "spanish": "Ofrece un cumplido, sinceramente.",
+      "category": "Kindness",
+      "generated_at": "2026-09-04T05:13:46.010771"
+    },
+    {
+      "english": "Respect differences, openly.",
+      "spanish": "Respeta las diferencias, abiertamente.",
+      "category": "Kindness",
+      "generated_at": "2026-09-04T05:13:46.010773"
+    },
+    {
+      "english": "Let your actions, speak.",
+      "spanish": "Deja que tus acciones, hablen.",
+      "category": "Kindness",
+      "generated_at": "2026-09-04T05:13:46.010774"
+    },
+    {
+      "english": "Offer support, when needed.",
+      "spanish": "Ofrece apoyo, cuando se necesite.",
+      "category": "Kindness",
+      "generated_at": "2026-09-04T05:13:46.010775"
+    },
+    {
+      "english": "Think of others, first.",
+      "spanish": "Piensa en los demás, primero.",
+      "category": "Kindness",
+      "generated_at": "2026-09-04T05:13:46.010777"
+    },
+    {
+      "english": "Practice compassion, daily.",
+      "spanish": "Practica la compasión, diaria.",
+      "category": "Kindness",
+      "generated_at": "2026-09-04T05:13:46.010778"
+    },
+    {
+      "english": "Spread positivity, everywhere.",
+      "spanish": "Difunde positividad, en todas partes.",
+      "category": "Kindness",
+      "generated_at": "2026-09-04T05:13:46.010779"
+    },
+    {
+      "english": "Forgive and forget, easily.",
+      "spanish": "Perdona y olvida, fácilmente.",
+      "category": "Kindness",
+      "generated_at": "2026-09-04T05:13:46.010780"
+    },
+    {
+      "english": "Be understanding, always.",
+      "spanish": "Sé comprensivo, siempre.",
+      "category": "Kindness",
+      "generated_at": "2026-09-04T05:13:46.010781"
+    },
+    {
+      "english": "Offer help, when you can.",
+      "spanish": "Ofrece ayuda, cuando puedas.",
+      "category": "Kindness",
+      "generated_at": "2026-09-04T05:13:46.010782"
+    },
+    {
+      "english": "Kindness, a simple gift.",
+      "spanish": "Amabilidad, un simple regalo.",
+      "category": "Kindness",
+      "generated_at": "2026-09-04T05:13:46.010783"
+    },
+    {
+      "english": "Make someone smile.",
+      "spanish": "Haz sonreír a alguien.",
+      "category": "Kindness",
+      "generated_at": "2026-09-04T05:13:46.010785"
+    },
+    {
+      "english": "Treat everyone, with respect.",
+      "spanish": "Trata a todos, con respeto.",
+      "category": "Kindness",
+      "generated_at": "2026-09-04T05:13:46.010786"
+    },
+    {
+      "english": "Be generous, with your time.",
+      "spanish": "Sé generoso, con tu tiempo.",
+      "category": "Kindness",
+      "generated_at": "2026-09-04T05:13:46.010787"
+    },
+    {
+      "english": "Embrace forgiveness, fully.",
+      "spanish": "Abraza el perdón, completamente.",
+      "category": "Kindness",
+      "generated_at": "2026-09-04T05:13:46.010788"
+    },
+    {
+      "english": "Spread good deeds, daily.",
+      "spanish": "Difunde buenas acciones, diariamente.",
+      "category": "Kindness",
+      "generated_at": "2026-09-04T05:13:46.010789"
+    },
+    {
+      "english": "Show compassion, always.",
+      "spanish": "Muestra compasión, siempre.",
+      "category": "Kindness",
+      "generated_at": "2026-09-04T05:13:46.010790"
+    },
+    {
+      "english": "Offer encouragement, freely.",
+      "spanish": "Ofrece aliento, libremente.",
+      "category": "Kindness",
+      "generated_at": "2026-09-04T05:13:46.010791"
+    },
+    {
+      "english": "Kindness connects, us all.",
+      "spanish": "La amabilidad nos conecta, a todos.",
+      "category": "Kindness",
+      "generated_at": "2026-09-04T05:13:46.010792"
+    },
+    {
+      "english": "Be a blessing, today.",
+      "spanish": "Sé una bendición, hoy.",
+      "category": "Kindness",
+      "generated_at": "2026-09-04T05:13:46.010793"
+    },
+    {
+      "english": "Act with kindness, always.",
+      "spanish": "Actúa con amabilidad, siempre.",
+      "category": "Kindness",
+      "generated_at": "2026-09-04T05:13:46.010794"
+    },
+    {
+      "english": "Be kind, always.",
+      "spanish": "Sé amable, siempre.",
+      "category": "Kindness",
+      "generated_at": "2026-09-04T05:13:46.010796"
+    },
+    {
+      "english": "Help others, genuinely.",
+      "spanish": "Ayuda a otros, sinceramente.",
+      "category": "Kindness",
+      "generated_at": "2026-09-04T05:13:46.010797"
+    },
+    {
+      "english": "Smile often, widely.",
+      "spanish": "Sonríe a menudo, ampliamente.",
+      "category": "Kindness",
+      "generated_at": "2026-09-04T05:13:46.010798"
+    },
+    {
+      "english": "Share what you have.",
+      "spanish": "Comparte lo que tienes.",
+      "category": "Kindness",
+      "generated_at": "2026-09-04T05:13:46.010800"
+    },
+    {
+      "english": "Offer comfort, freely.",
+      "spanish": "Ofrece consuelo, libremente.",
+      "category": "Kindness",
+      "generated_at": "2026-09-04T05:13:46.010801"
+    },
+    {
+      "english": "Forgive quickly, easily.",
+      "spanish": "Perdona rápido, fácilmente.",
+      "category": "Kindness",
+      "generated_at": "2026-09-04T05:13:46.010802"
+    },
+    {
+      "english": "Say thank you, always.",
+      "spanish": "Di gracias, siempre.",
+      "category": "Kindness",
+      "generated_at": "2026-09-04T05:13:46.010804"
+    },
+    {
+      "english": "Encourage someone, today.",
+      "spanish": "Anima a alguien, hoy.",
+      "category": "Kindness",
+      "generated_at": "2026-09-04T05:13:46.010805"
+    },
+    {
+      "english": "Think good thoughts, about them.",
+      "spanish": "Piensa cosas buenas, sobre ellos.",
+      "category": "Kindness",
+      "generated_at": "2026-09-04T05:13:46.010806"
+    },
+    {
+      "english": "Show empathy, deeply.",
+      "spanish": "Muestra empatía, profundamente.",
+      "category": "Kindness",
+      "generated_at": "2026-09-04T05:13:46.010807"
+    },
+    {
+      "english": "Offer a compliment, sincerely.",
+      "spanish": "Ofrece un cumplido, sinceramente.",
+      "category": "Kindness",
+      "generated_at": "2026-09-04T05:13:46.010808"
+    },
+    {
+      "english": "Respect differences, openly.",
+      "spanish": "Respeta las diferencias, abiertamente.",
+      "category": "Kindness",
+      "generated_at": "2026-09-04T05:13:46.010810"
+    },
+    {
+      "english": "Let your actions, speak.",
+      "spanish": "Deja que tus acciones, hablen.",
+      "category": "Kindness",
+      "generated_at": "2026-09-04T05:13:46.010811"
+    },
+    {
+      "english": "Offer support, when needed.",
+      "spanish": "Ofrece apoyo, cuando se necesite.",
+      "category": "Kindness",
+      "generated_at": "2026-09-04T05:13:46.010812"
+    },
+    {
+      "english": "Think of others, first.",
+      "spanish": "Piensa en los demás, primero.",
+      "category": "Kindness",
+      "generated_at": "2026-09-04T05:13:46.010813"
+    },
+    {
+      "english": "Practice compassion, daily.",
+      "spanish": "Practica la compasión, diaria.",
+      "category": "Kindness",
+      "generated_at": "2026-09-04T05:13:46.010814"
+    },
+    {
+      "english": "Spread positivity, everywhere.",
+      "spanish": "Difunde positividad, en todas partes.",
+      "category": "Kindness",
+      "generated_at": "2026-09-04T05:13:46.010815"
+    },
+    {
+      "english": "Forgive and forget, easily.",
+      "spanish": "Perdona y olvida, fácilmente.",
+      "category": "Kindness",
+      "generated_at": "2026-09-04T05:13:46.010816"
+    },
+    {
+      "english": "Be understanding, always.",
+      "spanish": "Sé comprensivo, siempre.",
+      "category": "Kindness",
+      "generated_at": "2026-09-04T05:13:46.010818"
+    },
+    {
+      "english": "Offer help, when you can.",
+      "spanish": "Ofrece ayuda, cuando puedas.",
+      "category": "Kindness",
+      "generated_at": "2026-09-04T05:13:46.010819"
+    },
+    {
+      "english": "Kindness, a simple gift.",
+      "spanish": "Amabilidad, un simple regalo.",
+      "category": "Kindness",
+      "generated_at": "2026-09-04T05:13:46.010820"
+    },
+    {
+      "english": "Make someone smile.",
+      "spanish": "Haz sonreír a alguien.",
+      "category": "Kindness",
+      "generated_at": "2026-09-04T05:13:46.010821"
+    },
+    {
+      "english": "Treat everyone, with respect.",
+      "spanish": "Trata a todos, con respeto.",
+      "category": "Kindness",
+      "generated_at": "2026-09-04T05:13:46.010822"
+    },
+    {
+      "english": "Be generous, with your time.",
+      "spanish": "Sé generoso, con tu tiempo.",
+      "category": "Kindness",
+      "generated_at": "2026-09-04T05:13:46.010824"
+    },
+    {
+      "english": "Embrace forgiveness, fully.",
+      "spanish": "Abraza el perdón, completamente.",
+      "category": "Kindness",
+      "generated_at": "2026-09-04T05:13:46.010825"
+    },
+    {
+      "english": "Spread good deeds, daily.",
+      "spanish": "Difunde buenas acciones, diariamente.",
+      "category": "Kindness",
+      "generated_at": "2026-09-04T05:13:46.010826"
+    },
+    {
+      "english": "Show compassion, always.",
+      "spanish": "Muestra compasión, siempre.",
+      "category": "Kindness",
+      "generated_at": "2026-09-04T05:13:46.010827"
+    },
+    {
+      "english": "Offer encouragement, freely.",
+      "spanish": "Ofrece aliento, libremente.",
+      "category": "Kindness",
+      "generated_at": "2026-09-04T05:13:46.010828"
+    },
+    {
+      "english": "Kindness connects, us all.",
+      "spanish": "La amabilidad nos conecta, a todos.",
+      "category": "Kindness",
+      "generated_at": "2026-09-04T05:13:46.010829"
+    },
+    {
+      "english": "Be a blessing, today.",
+      "spanish": "Sé una bendición, hoy.",
+      "category": "Kindness",
+      "generated_at": "2026-09-04T05:13:46.010831"
+    },
+    {
+      "english": "Act with kindness, always.",
+      "spanish": "Actúa con amabilidad, siempre.",
+      "category": "Kindness",
+      "generated_at": "2026-09-04T05:13:46.010832"
+    },
+    {
+      "english": "Be kind, always.",
+      "spanish": "Sé amable, siempre.",
+      "category": "Kindness",
+      "generated_at": "2026-09-04T05:13:46.010833"
+    },
+    {
+      "english": "Help others, genuinely.",
+      "spanish": "Ayuda a otros, sinceramente.",
+      "category": "Kindness",
+      "generated_at": "2026-09-04T05:13:46.010835"
+    },
+    {
+      "english": "Smile often, widely.",
+      "spanish": "Sonríe a menudo, ampliamente.",
+      "category": "Kindness",
+      "generated_at": "2026-09-04T05:13:46.010836"
+    },
+    {
+      "english": "Share what you have.",
+      "spanish": "Comparte lo que tienes.",
+      "category": "Kindness",
+      "generated_at": "2026-09-04T05:13:46.010837"
+    },
+    {
+      "english": "Offer comfort, freely.",
+      "spanish": "Ofrece consuelo, libremente.",
+      "category": "Kindness",
+      "generated_at": "2026-09-04T05:13:46.010838"
+    },
+    {
+      "english": "Forgive quickly, easily.",
+      "spanish": "Perdona rápido, fácilmente.",
+      "category": "Kindness",
+      "generated_at": "2026-09-04T05:13:46.010839"
+    },
+    {
+      "english": "Say thank you, always.",
+      "spanish": "Di gracias, siempre.",
+      "category": "Kindness",
+      "generated_at": "2026-09-04T05:13:46.010840"
+    },
+    {
+      "english": "Encourage someone, today.",
+      "spanish": "Anima a alguien, hoy.",
+      "category": "Kindness",
+      "generated_at": "2026-09-04T05:13:46.010842"
+    },
+    {
+      "english": "Think good thoughts, about them.",
+      "spanish": "Piensa cosas buenas, sobre ellos.",
+      "category": "Kindness",
+      "generated_at": "2026-09-04T05:13:46.010843"
+    },
+    {
+      "english": "Show empathy, deeply.",
+      "spanish": "Muestra empatía, profundamente.",
+      "category": "Kindness",
+      "generated_at": "2026-09-04T05:13:46.010846"
+    },
+    {
+      "english": "Offer a compliment, sincerely.",
+      "spanish": "Ofrece un cumplido, sinceramente.",
+      "category": "Kindness",
+      "generated_at": "2026-09-04T05:13:46.010848"
+    },
+    {
+      "english": "Respect differences, openly.",
+      "spanish": "Respeta las diferencias, abiertamente.",
+      "category": "Kindness",
+      "generated_at": "2026-09-04T05:13:46.010854"
+    },
+    {
+      "english": "Let your actions, speak.",
+      "spanish": "Deja que tus acciones, hablen.",
+      "category": "Kindness",
+      "generated_at": "2026-09-04T05:13:46.010856"
+    },
+    {
+      "english": "Offer support, when needed.",
+      "spanish": "Ofrece apoyo, cuando se necesite.",
+      "category": "Kindness",
+      "generated_at": "2026-09-04T05:13:46.010859"
+    },
+    {
+      "english": "Think of others, first.",
+      "spanish": "Piensa en los demás, primero.",
+      "category": "Kindness",
+      "generated_at": "2026-09-04T05:13:46.010861"
+    },
+    {
+      "english": "Practice compassion, daily.",
+      "spanish": "Practica la compasión, diaria.",
+      "category": "Kindness",
+      "generated_at": "2026-09-04T05:13:46.010863"
+    },
+    {
+      "english": "Spread positivity, everywhere.",
+      "spanish": "Difunde positividad, en todas partes.",
+      "category": "Kindness",
+      "generated_at": "2026-09-04T05:13:46.010865"
+    },
+    {
+      "english": "Forgive and forget, easily.",
+      "spanish": "Perdona y olvida, fácilmente.",
+      "category": "Kindness",
+      "generated_at": "2026-09-04T05:13:46.010867"
+    },
+    {
+      "english": "Be understanding, always.",
+      "spanish": "Sé comprensivo, siempre.",
+      "category": "Kindness",
+      "generated_at": "2026-09-04T05:13:46.010869"
+    },
+    {
+      "english": "Offer help, when you can.",
+      "spanish": "Ofrece ayuda, cuando puedas.",
+      "category": "Kindness",
+      "generated_at": "2026-09-04T05:13:46.010871"
+    },
+    {
+      "english": "Kindness, a simple gift.",
+      "spanish": "Amabilidad, un simple regalo.",
+      "category": "Kindness",
+      "generated_at": "2026-09-04T05:13:46.010874"
+    },
+    {
+      "english": "Make someone smile.",
+      "spanish": "Haz sonreír a alguien.",
+      "category": "Kindness",
+      "generated_at": "2026-09-04T05:13:46.010876"
+    },
+    {
+      "english": "Treat everyone, with respect.",
+      "spanish": "Trata a todos, con respeto.",
+      "category": "Kindness",
+      "generated_at": "2026-09-04T05:13:46.010878"
+    },
+    {
+      "english": "Be generous, with your time.",
+      "spanish": "Sé generoso, con tu tiempo.",
+      "category": "Kindness",
+      "generated_at": "2026-09-04T05:13:46.010881"
+    },
+    {
+      "english": "Embrace forgiveness, fully.",
+      "spanish": "Abraza el perdón, completamente.",
+      "category": "Kindness",
+      "generated_at": "2026-09-04T05:13:46.010883"
+    },
+    {
+      "english": "Spread good deeds, daily.",
+      "spanish": "Difunde buenas acciones, diariamente.",
+      "category": "Kindness",
+      "generated_at": "2026-09-04T05:13:46.010885"
+    },
+    {
+      "english": "Show compassion, always.",
+      "spanish": "Muestra compasión, siempre.",
+      "category": "Kindness",
+      "generated_at": "2026-09-04T05:13:46.010887"
+    },
+    {
+      "english": "Offer encouragement, freely.",
+      "spanish": "Ofrece aliento, libremente.",
+      "category": "Kindness",
+      "generated_at": "2026-09-04T05:13:46.010889"
+    },
+    {
+      "english": "Kindness connects, us all.",
+      "spanish": "La amabilidad nos conecta, a todos.",
+      "category": "Kindness",
+      "generated_at": "2026-09-04T05:13:46.010891"
+    },
+    {
+      "english": "Be a blessing, today.",
+      "spanish": "Sé una bendición, hoy.",
+      "category": "Kindness",
+      "generated_at": "2026-09-04T05:13:46.010892"
+    },
+    {
+      "english": "Act with kindness, always.",
+      "spanish": "Actúa con amabilidad, siempre.",
+      "category": "Kindness",
+      "generated_at": "2026-09-04T05:13:46.010894"
+    },
+    {
+      "english": "Be kind, always.",
+      "spanish": "Sé amable, siempre.",
+      "category": "Kindness",
+      "generated_at": "2026-09-04T05:13:46.010896"
+    },
+    {
+      "english": "Help others, genuinely.",
+      "spanish": "Ayuda a otros, sinceramente.",
+      "category": "Kindness",
+      "generated_at": "2026-09-04T05:13:46.010898"
+    },
+    {
+      "english": "Smile often, widely.",
+      "spanish": "Sonríe a menudo, ampliamente.",
+      "category": "Kindness",
+      "generated_at": "2026-09-04T05:13:46.010900"
+    },
+    {
+      "english": "Share what you have.",
+      "spanish": "Comparte lo que tienes.",
+      "category": "Kindness",
+      "generated_at": "2026-09-04T05:13:46.010902"
+    },
+    {
+      "english": "Offer comfort, freely.",
+      "spanish": "Ofrece consuelo, libremente.",
+      "category": "Kindness",
+      "generated_at": "2026-09-04T05:13:46.010904"
+    },
+    {
+      "english": "Forgive quickly, easily.",
+      "spanish": "Perdona rápido, fácilmente.",
+      "category": "Kindness",
+      "generated_at": "2026-09-04T05:13:46.010906"
+    },
+    {
+      "english": "Say thank you, always.",
+      "spanish": "Di gracias, siempre.",
+      "category": "Kindness",
+      "generated_at": "2026-09-04T05:13:46.010908"
+    },
+    {
+      "english": "Encourage someone, today.",
+      "spanish": "Anima a alguien, hoy.",
+      "category": "Kindness",
+      "generated_at": "2026-09-04T05:13:46.010909"
+    },
+    {
+      "english": "Think good thoughts, about them.",
+      "spanish": "Piensa cosas buenas, sobre ellos.",
+      "category": "Kindness",
+      "generated_at": "2026-09-04T05:13:46.010911"
+    },
+    {
+      "english": "Show empathy, deeply.",
+      "spanish": "Muestra empatía, profundamente.",
+      "category": "Kindness",
+      "generated_at": "2026-09-04T05:13:46.010913"
+    },
+    {
+      "english": "Offer a compliment, sincerely.",
+      "spanish": "Ofrece un cumplido, sinceramente.",
+      "category": "Kindness",
+      "generated_at": "2026-09-04T05:13:46.010915"
+    },
+    {
+      "english": "Respect differences, openly.",
+      "spanish": "Respeta las diferencias, abiertamente.",
+      "category": "Kindness",
+      "generated_at": "2026-09-04T05:13:46.010917"
+    },
+    {
+      "english": "Let your actions, speak.",
+      "spanish": "Deja que tus acciones, hablen.",
+      "category": "Kindness",
+      "generated_at": "2026-09-04T05:13:46.010919"
+    },
+    {
+      "english": "Offer support, when needed.",
+      "spanish": "Ofrece apoyo, cuando se necesite.",
+      "category": "Kindness",
+      "generated_at": "2026-09-04T05:13:46.010921"
+    },
+    {
+      "english": "Think of others, first.",
+      "spanish": "Piensa en los demás, primero.",
+      "category": "Kindness",
+      "generated_at": "2026-09-04T05:13:46.010923"
+    },
+    {
+      "english": "Practice compassion, daily.",
+      "spanish": "Practica la compasión, diaria.",
+      "category": "Kindness",
+      "generated_at": "2026-09-04T05:13:46.010925"
+    },
+    {
+      "english": "Spread positivity, everywhere.",
+      "spanish": "Difunde positividad, en todas partes.",
+      "category": "Kindness",
+      "generated_at": "2026-09-04T05:13:46.010927"
+    },
+    {
+      "english": "Forgive and forget, easily.",
+      "spanish": "Perdona y olvida, fácilmente.",
+      "category": "Kindness",
+      "generated_at": "2026-09-04T05:13:46.010929"
+    },
+    {
+      "english": "Be understanding, always.",
+      "spanish": "Sé comprensivo, siempre.",
+      "category": "Kindness",
+      "generated_at": "2026-09-04T05:13:46.010932"
+    },
+    {
+      "english": "Offer help, when you can.",
+      "spanish": "Ofrece ayuda, cuando puedas.",
+      "category": "Kindness",
+      "generated_at": "2026-09-04T05:13:46.010934"
+    },
+    {
+      "english": "Kindness, a simple gift.",
+      "spanish": "Amabilidad, un simple regalo.",
+      "category": "Kindness",
+      "generated_at": "2026-09-04T05:13:46.010936"
+    },
+    {
+      "english": "Make someone smile.",
+      "spanish": "Haz sonreír a alguien.",
+      "category": "Kindness",
+      "generated_at": "2026-09-04T05:13:46.010938"
+    },
+    {
+      "english": "Treat everyone, with respect.",
+      "spanish": "Trata a todos, con respeto.",
+      "category": "Kindness",
+      "generated_at": "2026-09-04T05:13:46.010940"
+    },
+    {
+      "english": "Be generous, with your time.",
+      "spanish": "Sé generoso, con tu tiempo.",
+      "category": "Kindness",
+      "generated_at": "2026-09-04T05:13:46.010943"
+    },
+    {
+      "english": "Embrace forgiveness, fully.",
+      "spanish": "Abraza el perdón, completamente.",
+      "category": "Kindness",
+      "generated_at": "2026-09-04T05:13:46.010946"
+    },
+    {
+      "english": "Spread good deeds, daily.",
+      "spanish": "Difunde buenas acciones, diariamente.",
+      "category": "Kindness",
+      "generated_at": "2026-09-04T05:13:46.010948"
+    },
+    {
+      "english": "Show compassion, always.",
+      "spanish": "Muestra compasión, siempre.",
+      "category": "Kindness",
+      "generated_at": "2026-09-04T05:13:46.010950"
     }
   ],
-  "last_updated": "2026-09-03T05:19:12.630057"
+  "last_updated": "2026-09-04T05:13:46.010953"
 }
