@@ -37439,7 +37439,727 @@
       "spanish": "Muestra compasión, siempre.",
       "category": "Kindness",
       "generated_at": "2026-09-04T05:13:46.010950"
+    },
+    {
+      "english": "Travel light, live large.",
+      "spanish": "Viaja ligero, vive a lo grande.",
+      "category": "Success",
+      "generated_at": "2026-09-05T05:02:49.073125"
+    },
+    {
+      "english": "Learn a phrase, make a friend.",
+      "spanish": "Aprende una frase, haz un amigo.",
+      "category": "Success",
+      "generated_at": "2026-09-05T05:02:49.073136"
+    },
+    {
+      "english": "Order coffee, confidently.",
+      "spanish": "Pide café, con confianza.",
+      "category": "Success",
+      "generated_at": "2026-09-05T05:02:49.073137"
+    },
+    {
+      "english": "Eat local food, often.",
+      "spanish": "Come comida local, a menudo.",
+      "category": "Success",
+      "generated_at": "2026-09-05T05:02:49.073138"
+    },
+    {
+      "english": "Try new things, bravely.",
+      "spanish": "Prueba cosas nuevas, valientemente.",
+      "category": "Success",
+      "generated_at": "2026-09-05T05:02:49.073140"
+    },
+    {
+      "english": "Take photos, of memories.",
+      "spanish": "Toma fotos, de recuerdos.",
+      "category": "Success",
+      "generated_at": "2026-09-05T05:02:49.073141"
+    },
+    {
+      "english": "Get lost, on purpose.",
+      "spanish": "Piérdete, a propósito.",
+      "category": "Success",
+      "generated_at": "2026-09-05T05:02:49.073142"
+    },
+    {
+      "english": "Use gestures, wisely.",
+      "spanish": "Usa gestos, sabiamente.",
+      "category": "Success",
+      "generated_at": "2026-09-05T05:02:49.073145"
+    },
+    {
+      "english": "Observe and learn, always.",
+      "spanish": "Observa y aprende, siempre.",
+      "category": "Success",
+      "generated_at": "2026-09-05T05:02:49.073146"
+    },
+    {
+      "english": "Stay curious, everywhere.",
+      "spanish": "Mantente curioso, en todas partes.",
+      "category": "Success",
+      "generated_at": "2026-09-05T05:02:49.073147"
+    },
+    {
+      "english": "Greet everyone, warmly.",
+      "spanish": "Saluda a todos, cálidamente.",
+      "category": "Success",
+      "generated_at": "2026-09-05T05:02:49.073148"
+    },
+    {
+      "english": "Enjoy the moment, now.",
+      "spanish": "Disfruta el momento, ahora.",
+      "category": "Success",
+      "generated_at": "2026-09-05T05:02:49.073149"
+    },
+    {
+      "english": "Explore side streets, quietly.",
+      "spanish": "Explora calles secundarias, en silencio.",
+      "category": "Success",
+      "generated_at": "2026-09-05T05:02:49.073150"
+    },
+    {
+      "english": "Try the local markets, daily.",
+      "spanish": "Prueba los mercados locales, diariamente.",
+      "category": "Success",
+      "generated_at": "2026-09-05T05:02:49.073151"
+    },
+    {
+      "english": "Be open to surprises, always.",
+      "spanish": "Sé abierto a sorpresas, siempre.",
+      "category": "Success",
+      "generated_at": "2026-09-05T05:02:49.073152"
+    },
+    {
+      "english": "Don't fear mistakes, learn them.",
+      "spanish": "No temas errores, apréndelos.",
+      "category": "Success",
+      "generated_at": "2026-09-05T05:02:49.073153"
+    },
+    {
+      "english": "Find quiet corners, to rest.",
+      "spanish": "Encuentra rincones tranquilos, para descansar.",
+      "category": "Success",
+      "generated_at": "2026-09-05T05:02:49.073154"
+    },
+    {
+      "english": "Savor the flavors, slowly.",
+      "spanish": "Saborea los sabores, despacio.",
+      "category": "Success",
+      "generated_at": "2026-09-05T05:02:49.073155"
+    },
+    {
+      "english": "Walk everywhere, you can.",
+      "spanish": "Camina a todas partes, que puedas.",
+      "category": "Success",
+      "generated_at": "2026-09-05T05:02:49.073156"
+    },
+    {
+      "english": "Ask 'why', often.",
+      "spanish": "Pregunta 'por qué', a menudo.",
+      "category": "Success",
+      "generated_at": "2026-09-05T05:02:49.073156"
+    },
+    {
+      "english": "Seek local insights, always.",
+      "spanish": "Busca perspectivas locales, siempre.",
+      "category": "Success",
+      "generated_at": "2026-09-05T05:02:49.073157"
+    },
+    {
+      "english": "Try a street vendor, today.",
+      "spanish": "Prueba un vendedor callejero, hoy.",
+      "category": "Success",
+      "generated_at": "2026-09-05T05:02:49.073158"
+    },
+    {
+      "english": "Listen to the rhythm, of life.",
+      "spanish": "Escucha el ritmo, de la vida.",
+      "category": "Success",
+      "generated_at": "2026-09-05T05:02:49.073159"
+    },
+    {
+      "english": "Use cognates, smartly.",
+      "spanish": "Usa cognados, inteligentemente.",
+      "category": "Success",
+      "generated_at": "2026-09-05T05:02:49.073159"
+    },
+    {
+      "english": "Point and smile, often.",
+      "spanish": "Señala y sonríe, a menudo.",
+      "category": "Success",
+      "generated_at": "2026-09-05T05:02:49.073160"
+    },
+    {
+      "english": "Learn to say 'hello', first.",
+      "spanish": "Aprende a decir 'hola', primero.",
+      "category": "Success",
+      "generated_at": "2026-09-05T05:02:49.073161"
+    },
+    {
+      "english": "Enjoy the simple things, always.",
+      "spanish": "Disfruta las cosas simples, siempre.",
+      "category": "Success",
+      "generated_at": "2026-09-05T05:02:49.073162"
+    },
+    {
+      "english": "Observe local customs, keenly.",
+      "spanish": "Observa las costumbres locales, atentamente.",
+      "category": "Success",
+      "generated_at": "2026-09-05T05:02:49.073163"
+    },
+    {
+      "english": "Try the local bread, warm.",
+      "spanish": "Prueba el pan local, caliente.",
+      "category": "Success",
+      "generated_at": "2026-09-05T05:02:49.073163"
+    },
+    {
+      "english": "Ask about the day, simply.",
+      "spanish": "Pregunta por el día, simplemente.",
+      "category": "Success",
+      "generated_at": "2026-09-05T05:02:49.073164"
+    },
+    {
+      "english": "Live in the moment, truly.",
+      "spanish": "Vive el momento, de verdad.",
+      "category": "Success",
+      "generated_at": "2026-09-05T05:02:49.073165"
+    },
+    {
+      "english": "Travel light, live large.",
+      "spanish": "Viaja ligero, vive a lo grande.",
+      "category": "Success",
+      "generated_at": "2026-09-05T05:02:49.073166"
+    },
+    {
+      "english": "Learn a phrase, make a friend.",
+      "spanish": "Aprende una frase, haz un amigo.",
+      "category": "Success",
+      "generated_at": "2026-09-05T05:02:49.073167"
+    },
+    {
+      "english": "Order coffee, confidently.",
+      "spanish": "Pide café, con confianza.",
+      "category": "Success",
+      "generated_at": "2026-09-05T05:02:49.073168"
+    },
+    {
+      "english": "Eat local food, often.",
+      "spanish": "Come comida local, a menudo.",
+      "category": "Success",
+      "generated_at": "2026-09-05T05:02:49.073169"
+    },
+    {
+      "english": "Try new things, bravely.",
+      "spanish": "Prueba cosas nuevas, valientemente.",
+      "category": "Success",
+      "generated_at": "2026-09-05T05:02:49.073169"
+    },
+    {
+      "english": "Take photos, of memories.",
+      "spanish": "Toma fotos, de recuerdos.",
+      "category": "Success",
+      "generated_at": "2026-09-05T05:02:49.073170"
+    },
+    {
+      "english": "Get lost, on purpose.",
+      "spanish": "Piérdete, a propósito.",
+      "category": "Success",
+      "generated_at": "2026-09-05T05:02:49.073171"
+    },
+    {
+      "english": "Use gestures, wisely.",
+      "spanish": "Usa gestos, sabiamente.",
+      "category": "Success",
+      "generated_at": "2026-09-05T05:02:49.073172"
+    },
+    {
+      "english": "Observe and learn, always.",
+      "spanish": "Observa y aprende, siempre.",
+      "category": "Success",
+      "generated_at": "2026-09-05T05:02:49.073173"
+    },
+    {
+      "english": "Stay curious, everywhere.",
+      "spanish": "Mantente curioso, en todas partes.",
+      "category": "Success",
+      "generated_at": "2026-09-05T05:02:49.073174"
+    },
+    {
+      "english": "Greet everyone, warmly.",
+      "spanish": "Saluda a todos, cálidamente.",
+      "category": "Success",
+      "generated_at": "2026-09-05T05:02:49.073174"
+    },
+    {
+      "english": "Enjoy the moment, now.",
+      "spanish": "Disfruta el momento, ahora.",
+      "category": "Success",
+      "generated_at": "2026-09-05T05:02:49.073175"
+    },
+    {
+      "english": "Explore side streets, quietly.",
+      "spanish": "Explora calles secundarias, en silencio.",
+      "category": "Success",
+      "generated_at": "2026-09-05T05:02:49.073176"
+    },
+    {
+      "english": "Try the local markets, daily.",
+      "spanish": "Prueba los mercados locales, diariamente.",
+      "category": "Success",
+      "generated_at": "2026-09-05T05:02:49.073177"
+    },
+    {
+      "english": "Be open to surprises, always.",
+      "spanish": "Sé abierto a sorpresas, siempre.",
+      "category": "Success",
+      "generated_at": "2026-09-05T05:02:49.073178"
+    },
+    {
+      "english": "Don't fear mistakes, learn them.",
+      "spanish": "No temas errores, apréndelos.",
+      "category": "Success",
+      "generated_at": "2026-09-05T05:02:49.073179"
+    },
+    {
+      "english": "Find quiet corners, to rest.",
+      "spanish": "Encuentra rincones tranquilos, para descansar.",
+      "category": "Success",
+      "generated_at": "2026-09-05T05:02:49.073180"
+    },
+    {
+      "english": "Savor the flavors, slowly.",
+      "spanish": "Saborea los sabores, despacio.",
+      "category": "Success",
+      "generated_at": "2026-09-05T05:02:49.073180"
+    },
+    {
+      "english": "Walk everywhere, you can.",
+      "spanish": "Camina a todas partes, que puedas.",
+      "category": "Success",
+      "generated_at": "2026-09-05T05:02:49.073181"
+    },
+    {
+      "english": "Ask 'why', often.",
+      "spanish": "Pregunta 'por qué', a menudo.",
+      "category": "Success",
+      "generated_at": "2026-09-05T05:02:49.073182"
+    },
+    {
+      "english": "Seek local insights, always.",
+      "spanish": "Busca perspectivas locales, siempre.",
+      "category": "Success",
+      "generated_at": "2026-09-05T05:02:49.073183"
+    },
+    {
+      "english": "Try a street vendor, today.",
+      "spanish": "Prueba un vendedor callejero, hoy.",
+      "category": "Success",
+      "generated_at": "2026-09-05T05:02:49.073184"
+    },
+    {
+      "english": "Listen to the rhythm, of life.",
+      "spanish": "Escucha el ritmo, de la vida.",
+      "category": "Success",
+      "generated_at": "2026-09-05T05:02:49.073184"
+    },
+    {
+      "english": "Use cognates, smartly.",
+      "spanish": "Usa cognados, inteligentemente.",
+      "category": "Success",
+      "generated_at": "2026-09-05T05:02:49.073185"
+    },
+    {
+      "english": "Point and smile, often.",
+      "spanish": "Señala y sonríe, a menudo.",
+      "category": "Success",
+      "generated_at": "2026-09-05T05:02:49.073186"
+    },
+    {
+      "english": "Learn to say 'hello', first.",
+      "spanish": "Aprende a decir 'hola', primero.",
+      "category": "Success",
+      "generated_at": "2026-09-05T05:02:49.073187"
+    },
+    {
+      "english": "Enjoy the simple things, always.",
+      "spanish": "Disfruta las cosas simples, siempre.",
+      "category": "Success",
+      "generated_at": "2026-09-05T05:02:49.073188"
+    },
+    {
+      "english": "Observe local customs, keenly.",
+      "spanish": "Observa las costumbres locales, atentamente.",
+      "category": "Success",
+      "generated_at": "2026-09-05T05:02:49.073188"
+    },
+    {
+      "english": "Try the local bread, warm.",
+      "spanish": "Prueba el pan local, caliente.",
+      "category": "Success",
+      "generated_at": "2026-09-05T05:02:49.073189"
+    },
+    {
+      "english": "Ask about the day, simply.",
+      "spanish": "Pregunta por el día, simplemente.",
+      "category": "Success",
+      "generated_at": "2026-09-05T05:02:49.073190"
+    },
+    {
+      "english": "Live in the moment, truly.",
+      "spanish": "Vive el momento, de verdad.",
+      "category": "Success",
+      "generated_at": "2026-09-05T05:02:49.073191"
+    },
+    {
+      "english": "Travel light, live large.",
+      "spanish": "Viaja ligero, vive a lo grande.",
+      "category": "Success",
+      "generated_at": "2026-09-05T05:02:49.073192"
+    },
+    {
+      "english": "Learn a phrase, make a friend.",
+      "spanish": "Aprende una frase, haz un amigo.",
+      "category": "Success",
+      "generated_at": "2026-09-05T05:02:49.073193"
+    },
+    {
+      "english": "Order coffee, confidently.",
+      "spanish": "Pide café, con confianza.",
+      "category": "Success",
+      "generated_at": "2026-09-05T05:02:49.073194"
+    },
+    {
+      "english": "Eat local food, often.",
+      "spanish": "Come comida local, a menudo.",
+      "category": "Success",
+      "generated_at": "2026-09-05T05:02:49.073194"
+    },
+    {
+      "english": "Try new things, bravely.",
+      "spanish": "Prueba cosas nuevas, valientemente.",
+      "category": "Success",
+      "generated_at": "2026-09-05T05:02:49.073195"
+    },
+    {
+      "english": "Take photos, of memories.",
+      "spanish": "Toma fotos, de recuerdos.",
+      "category": "Success",
+      "generated_at": "2026-09-05T05:02:49.073196"
+    },
+    {
+      "english": "Get lost, on purpose.",
+      "spanish": "Piérdete, a propósito.",
+      "category": "Success",
+      "generated_at": "2026-09-05T05:02:49.073197"
+    },
+    {
+      "english": "Use gestures, wisely.",
+      "spanish": "Usa gestos, sabiamente.",
+      "category": "Success",
+      "generated_at": "2026-09-05T05:02:49.073198"
+    },
+    {
+      "english": "Observe and learn, always.",
+      "spanish": "Observa y aprende, siempre.",
+      "category": "Success",
+      "generated_at": "2026-09-05T05:02:49.073199"
+    },
+    {
+      "english": "Stay curious, everywhere.",
+      "spanish": "Mantente curioso, en todas partes.",
+      "category": "Success",
+      "generated_at": "2026-09-05T05:02:49.073200"
+    },
+    {
+      "english": "Greet everyone, warmly.",
+      "spanish": "Saluda a todos, cálidamente.",
+      "category": "Success",
+      "generated_at": "2026-09-05T05:02:49.073200"
+    },
+    {
+      "english": "Enjoy the moment, now.",
+      "spanish": "Disfruta el momento, ahora.",
+      "category": "Success",
+      "generated_at": "2026-09-05T05:02:49.073201"
+    },
+    {
+      "english": "Explore side streets, quietly.",
+      "spanish": "Explora calles secundarias, en silencio.",
+      "category": "Success",
+      "generated_at": "2026-09-05T05:02:49.073202"
+    },
+    {
+      "english": "Try the local markets, daily.",
+      "spanish": "Prueba los mercados locales, diariamente.",
+      "category": "Success",
+      "generated_at": "2026-09-05T05:02:49.073203"
+    },
+    {
+      "english": "Be open to surprises, always.",
+      "spanish": "Sé abierto a sorpresas, siempre.",
+      "category": "Success",
+      "generated_at": "2026-09-05T05:02:49.073204"
+    },
+    {
+      "english": "Don't fear mistakes, learn them.",
+      "spanish": "No temas errores, apréndelos.",
+      "category": "Success",
+      "generated_at": "2026-09-05T05:02:49.073205"
+    },
+    {
+      "english": "Find quiet corners, to rest.",
+      "spanish": "Encuentra rincones tranquilos, para descansar.",
+      "category": "Success",
+      "generated_at": "2026-09-05T05:02:49.073205"
+    },
+    {
+      "english": "Savor the flavors, slowly.",
+      "spanish": "Saborea los sabores, despacio.",
+      "category": "Success",
+      "generated_at": "2026-09-05T05:02:49.073206"
+    },
+    {
+      "english": "Walk everywhere, you can.",
+      "spanish": "Camina a todas partes, que puedas.",
+      "category": "Success",
+      "generated_at": "2026-09-05T05:02:49.073207"
+    },
+    {
+      "english": "Ask 'why', often.",
+      "spanish": "Pregunta 'por qué', a menudo.",
+      "category": "Success",
+      "generated_at": "2026-09-05T05:02:49.073208"
+    },
+    {
+      "english": "Seek local insights, always.",
+      "spanish": "Busca perspectivas locales, siempre.",
+      "category": "Success",
+      "generated_at": "2026-09-05T05:02:49.073208"
+    },
+    {
+      "english": "Try a street vendor, today.",
+      "spanish": "Prueba un vendedor callejero, hoy.",
+      "category": "Success",
+      "generated_at": "2026-09-05T05:02:49.073209"
+    },
+    {
+      "english": "Listen to the rhythm, of life.",
+      "spanish": "Escucha el ritmo, de la vida.",
+      "category": "Success",
+      "generated_at": "2026-09-05T05:02:49.073210"
+    },
+    {
+      "english": "Use cognates, smartly.",
+      "spanish": "Usa cognados, inteligentemente.",
+      "category": "Success",
+      "generated_at": "2026-09-05T05:02:49.073211"
+    },
+    {
+      "english": "Point and smile, often.",
+      "spanish": "Señala y sonríe, a menudo.",
+      "category": "Success",
+      "generated_at": "2026-09-05T05:02:49.073212"
+    },
+    {
+      "english": "Learn to say 'hello', first.",
+      "spanish": "Aprende a decir 'hola', primero.",
+      "category": "Success",
+      "generated_at": "2026-09-05T05:02:49.073212"
+    },
+    {
+      "english": "Enjoy the simple things, always.",
+      "spanish": "Disfruta las cosas simples, siempre.",
+      "category": "Success",
+      "generated_at": "2026-09-05T05:02:49.073213"
+    },
+    {
+      "english": "Observe local customs, keenly.",
+      "spanish": "Observa las costumbres locales, atentamente.",
+      "category": "Success",
+      "generated_at": "2026-09-05T05:02:49.073214"
+    },
+    {
+      "english": "Try the local bread, warm.",
+      "spanish": "Prueba el pan local, caliente.",
+      "category": "Success",
+      "generated_at": "2026-09-05T05:02:49.073214"
+    },
+    {
+      "english": "Ask about the day, simply.",
+      "spanish": "Pregunta por el día, simplemente.",
+      "category": "Success",
+      "generated_at": "2026-09-05T05:02:49.073215"
+    },
+    {
+      "english": "Live in the moment, truly.",
+      "spanish": "Vive el momento, de verdad.",
+      "category": "Success",
+      "generated_at": "2026-09-05T05:02:49.073216"
+    },
+    {
+      "english": "Travel light, live large.",
+      "spanish": "Viaja ligero, vive a lo grande.",
+      "category": "Success",
+      "generated_at": "2026-09-05T05:02:49.073217"
+    },
+    {
+      "english": "Learn a phrase, make a friend.",
+      "spanish": "Aprende una frase, haz un amigo.",
+      "category": "Success",
+      "generated_at": "2026-09-05T05:02:49.073218"
+    },
+    {
+      "english": "Order coffee, confidently.",
+      "spanish": "Pide café, con confianza.",
+      "category": "Success",
+      "generated_at": "2026-09-05T05:02:49.073218"
+    },
+    {
+      "english": "Eat local food, often.",
+      "spanish": "Come comida local, a menudo.",
+      "category": "Success",
+      "generated_at": "2026-09-05T05:02:49.073219"
+    },
+    {
+      "english": "Try new things, bravely.",
+      "spanish": "Prueba cosas nuevas, valientemente.",
+      "category": "Success",
+      "generated_at": "2026-09-05T05:02:49.073220"
+    },
+    {
+      "english": "Take photos, of memories.",
+      "spanish": "Toma fotos, de recuerdos.",
+      "category": "Success",
+      "generated_at": "2026-09-05T05:02:49.073221"
+    },
+    {
+      "english": "Get lost, on purpose.",
+      "spanish": "Piérdete, a propósito.",
+      "category": "Success",
+      "generated_at": "2026-09-05T05:02:49.073222"
+    },
+    {
+      "english": "Use gestures, wisely.",
+      "spanish": "Usa gestos, sabiamente.",
+      "category": "Success",
+      "generated_at": "2026-09-05T05:02:49.073222"
+    },
+    {
+      "english": "Observe and learn, always.",
+      "spanish": "Observa y aprende, siempre.",
+      "category": "Success",
+      "generated_at": "2026-09-05T05:02:49.073223"
+    },
+    {
+      "english": "Stay curious, everywhere.",
+      "spanish": "Mantente curioso, en todas partes.",
+      "category": "Success",
+      "generated_at": "2026-09-05T05:02:49.073224"
+    },
+    {
+      "english": "Greet everyone, warmly.",
+      "spanish": "Saluda a todos, cálidamente.",
+      "category": "Success",
+      "generated_at": "2026-09-05T05:02:49.073225"
+    },
+    {
+      "english": "Enjoy the moment, now.",
+      "spanish": "Disfruta el momento, ahora.",
+      "category": "Success",
+      "generated_at": "2026-09-05T05:02:49.073226"
+    },
+    {
+      "english": "Explore side streets, quietly.",
+      "spanish": "Explora calles secundarias, en silencio.",
+      "category": "Success",
+      "generated_at": "2026-09-05T05:02:49.073227"
+    },
+    {
+      "english": "Try the local markets, daily.",
+      "spanish": "Prueba los mercados locales, diariamente.",
+      "category": "Success",
+      "generated_at": "2026-09-05T05:02:49.073228"
+    },
+    {
+      "english": "Be open to surprises, always.",
+      "spanish": "Sé abierto a sorpresas, siempre.",
+      "category": "Success",
+      "generated_at": "2026-09-05T05:02:49.073229"
+    },
+    {
+      "english": "Don't fear mistakes, learn them.",
+      "spanish": "No temas errores, apréndelos.",
+      "category": "Success",
+      "generated_at": "2026-09-05T05:02:49.073229"
+    },
+    {
+      "english": "Find quiet corners, to rest.",
+      "spanish": "Encuentra rincones tranquilos, para descansar.",
+      "category": "Success",
+      "generated_at": "2026-09-05T05:02:49.073230"
+    },
+    {
+      "english": "Savor the flavors, slowly.",
+      "spanish": "Saborea los sabores, despacio.",
+      "category": "Success",
+      "generated_at": "2026-09-05T05:02:49.073231"
+    },
+    {
+      "english": "Walk everywhere, you can.",
+      "spanish": "Camina a todas partes, que puedas.",
+      "category": "Success",
+      "generated_at": "2026-09-05T05:02:49.073232"
+    },
+    {
+      "english": "Ask 'why', often.",
+      "spanish": "Pregunta 'por qué', a menudo.",
+      "category": "Success",
+      "generated_at": "2026-09-05T05:02:49.073233"
+    },
+    {
+      "english": "Seek local insights, always.",
+      "spanish": "Busca perspectivas locales, siempre.",
+      "category": "Success",
+      "generated_at": "2026-09-05T05:02:49.073233"
+    },
+    {
+      "english": "Try a street vendor, today.",
+      "spanish": "Prueba un vendedor callejero, hoy.",
+      "category": "Success",
+      "generated_at": "2026-09-05T05:02:49.073234"
+    },
+    {
+      "english": "Listen to the rhythm, of life.",
+      "spanish": "Escucha el ritmo, de la vida.",
+      "category": "Success",
+      "generated_at": "2026-09-05T05:02:49.073235"
+    },
+    {
+      "english": "Use cognates, smartly.",
+      "spanish": "Usa cognados, inteligentemente.",
+      "category": "Success",
+      "generated_at": "2026-09-05T05:02:49.073235"
+    },
+    {
+      "english": "Point and smile, often.",
+      "spanish": "Señala y sonríe, a menudo.",
+      "category": "Success",
+      "generated_at": "2026-09-05T05:02:49.073236"
+    },
+    {
+      "english": "Learn to say 'hello', first.",
+      "spanish": "Aprende a decir 'hola', primero.",
+      "category": "Success",
+      "generated_at": "2026-09-05T05:02:49.073237"
+    },
+    {
+      "english": "Enjoy the simple things, always.",
+      "spanish": "Disfruta las cosas simples, siempre.",
+      "category": "Success",
+      "generated_at": "2026-09-05T05:02:49.073238"
     }
   ],
-  "last_updated": "2026-09-04T05:13:46.010953"
+  "last_updated": "2026-09-05T05:02:49.073239"
 }
