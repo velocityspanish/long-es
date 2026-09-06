@@ -38159,7 +38159,727 @@
       "spanish": "Disfruta las cosas simples, siempre.",
       "category": "Success",
       "generated_at": "2026-09-05T05:02:49.073238"
+    },
+    {
+      "english": "Eat with your hands, dive in!",
+      "spanish": "¡Come con tus manos, sumérgete!",
+      "category": "Purpose",
+      "generated_at": "2026-09-06T05:16:39.491322"
+    },
+    {
+      "english": "Laugh out loud, it's contagious.",
+      "spanish": "Ríete a carcajadas, es contagioso.",
+      "category": "Purpose",
+      "generated_at": "2026-09-06T05:16:39.491335"
+    },
+    {
+      "english": "Sing off-key, with passion!",
+      "spanish": "¡Canta desafinado, con pasión!",
+      "category": "Purpose",
+      "generated_at": "2026-09-06T05:16:39.491337"
+    },
+    {
+      "english": "Dance like nobody sees, groove on!",
+      "spanish": "Baila como nadie te ve, ¡mueve el esqueleto!",
+      "category": "Purpose",
+      "generated_at": "2026-09-06T05:16:39.491338"
+    },
+    {
+      "english": "Nap in the afternoon, it's a must.",
+      "spanish": "Echa una siesta por la tarde, es un deber.",
+      "category": "Purpose",
+      "generated_at": "2026-09-06T05:16:39.491340"
+    },
+    {
+      "english": "Share your snacks, be generous.",
+      "spanish": "Comparte tus bocadillos, sé generoso.",
+      "category": "Purpose",
+      "generated_at": "2026-09-06T05:16:39.491341"
+    },
+    {
+      "english": "Ask for recommendations, with a grin.",
+      "spanish": "Pide recomendaciones, con una sonrisa.",
+      "category": "Purpose",
+      "generated_at": "2026-09-06T05:16:39.491342"
+    },
+    {
+      "english": "Try the street food, no fear!",
+      "spanish": "Prueba la comida callejera, ¡sin miedo!",
+      "category": "Purpose",
+      "generated_at": "2026-09-06T05:16:39.491345"
+    },
+    {
+      "english": "Strike up conversations, be bold.",
+      "spanish": "Inicia conversaciones, sé audaz.",
+      "category": "Purpose",
+      "generated_at": "2026-09-06T05:16:39.491347"
+    },
+    {
+      "english": "Embrace the chaos, go with it.",
+      "spanish": "Abraza el caos, déjate llevar.",
+      "category": "Purpose",
+      "generated_at": "2026-09-06T05:16:39.491349"
+    },
+    {
+      "english": "Sip your drink, slowly, savor.",
+      "spanish": "Bebe tu trago, despacio, saborea.",
+      "category": "Purpose",
+      "generated_at": "2026-09-06T05:16:39.491350"
+    },
+    {
+      "english": "Wave hello, enthusiastically.",
+      "spanish": "Saluda con la mano, con entusiasmo.",
+      "category": "Purpose",
+      "generated_at": "2026-09-06T05:16:39.491351"
+    },
+    {
+      "english": "Point at things, curiously.",
+      "spanish": "Señala cosas, con curiosidad.",
+      "category": "Purpose",
+      "generated_at": "2026-09-06T05:16:39.491352"
+    },
+    {
+      "english": "Wear bright colors, be vibrant.",
+      "spanish": "Viste colores vivos, sé vibrante.",
+      "category": "Purpose",
+      "generated_at": "2026-09-06T05:16:39.491353"
+    },
+    {
+      "english": "Hum a tune, wherever you go.",
+      "spanish": "Tararea una melodía, donde vayas.",
+      "category": "Purpose",
+      "generated_at": "2026-09-06T05:16:39.491355"
+    },
+    {
+      "english": "Take detours, for fun.",
+      "spanish": "Toma desvíos, por diversión.",
+      "category": "Purpose",
+      "generated_at": "2026-09-06T05:16:39.491356"
+    },
+    {
+      "english": "Ask for directions, with a smile.",
+      "spanish": "Pide direcciones, con una sonrisa.",
+      "category": "Purpose",
+      "generated_at": "2026-09-06T05:16:39.491357"
+    },
+    {
+      "english": "Try a new pastry, daily.",
+      "spanish": "Prueba un dulce nuevo, a diario.",
+      "category": "Purpose",
+      "generated_at": "2026-09-06T05:16:39.491358"
+    },
+    {
+      "english": "Practice your accent, with gusto.",
+      "spanish": "Practica tu acento, con ganas.",
+      "category": "Purpose",
+      "generated_at": "2026-09-06T05:16:39.491359"
+    },
+    {
+      "english": "Make eye contact, connect.",
+      "spanish": "Haz contacto visual, conéctate.",
+      "category": "Purpose",
+      "generated_at": "2026-09-06T05:16:39.491360"
+    },
+    {
+      "english": "Say 'please', and 'thank you', always.",
+      "spanish": "Di 'por favor', y 'gracias', siempre.",
+      "category": "Purpose",
+      "generated_at": "2026-09-06T05:16:39.491361"
+    },
+    {
+      "english": "Smell the flowers, breathe it in.",
+      "spanish": "Huele las flores, respira hondo.",
+      "category": "Purpose",
+      "generated_at": "2026-09-06T05:16:39.491362"
+    },
+    {
+      "english": "Sit at a cafe, observe.",
+      "spanish": "Siéntate en un café, observa.",
+      "category": "Purpose",
+      "generated_at": "2026-09-06T05:16:39.491363"
+    },
+    {
+      "english": "Admire the architecture, closely.",
+      "spanish": "Admira la arquitectura, de cerca.",
+      "category": "Purpose",
+      "generated_at": "2026-09-06T05:16:39.491364"
+    },
+    {
+      "english": "Learn a local joke, to share.",
+      "spanish": "Aprende un chiste local, para contar.",
+      "category": "Purpose",
+      "generated_at": "2026-09-06T05:16:39.491365"
+    },
+    {
+      "english": "Ask about the bus, patiently.",
+      "spanish": "Pregunta por el autobús, con paciencia.",
+      "category": "Purpose",
+      "generated_at": "2026-09-06T05:16:39.491366"
+    },
+    {
+      "english": "Try the local dessert, sweeten up!",
+      "spanish": "Prueba el postre local, ¡endúlzate!",
+      "category": "Purpose",
+      "generated_at": "2026-09-06T05:16:39.491367"
+    },
+    {
+      "english": "Humor the locals, with a wink.",
+      "spanish": "Haz reír a los locales, con un guiño.",
+      "category": "Purpose",
+      "generated_at": "2026-09-06T05:16:39.491369"
+    },
+    {
+      "english": "Take siesta breaks, refresh.",
+      "spanish": "Toma descansos de siesta, refréscate.",
+      "category": "Purpose",
+      "generated_at": "2026-09-06T05:16:39.491370"
+    },
+    {
+      "english": "Ask for the check, politely.",
+      "spanish": "Pide la cuenta, amablemente.",
+      "category": "Purpose",
+      "generated_at": "2026-09-06T05:16:39.491371"
+    },
+    {
+      "english": "Enjoy the flamenco, feel the passion.",
+      "spanish": "Disfruta el flamenco, siente la pasión.",
+      "category": "Purpose",
+      "generated_at": "2026-09-06T05:16:39.491372"
+    },
+    {
+      "english": "Order tapas, try a bit of everything.",
+      "spanish": "Pide tapas, prueba un poco de todo.",
+      "category": "Purpose",
+      "generated_at": "2026-09-06T05:16:39.491373"
+    },
+    {
+      "english": "Learn a few words, every day.",
+      "spanish": "Aprende algunas palabras, cada día.",
+      "category": "Purpose",
+      "generated_at": "2026-09-06T05:16:39.491374"
+    },
+    {
+      "english": "Admire the sunset, peacefully.",
+      "spanish": "Admira el atardecer, en paz.",
+      "category": "Purpose",
+      "generated_at": "2026-09-06T05:16:39.491375"
+    },
+    {
+      "english": "Stroll through plazas, leisurely.",
+      "spanish": "Pasea por plazas, tranquilamente.",
+      "category": "Purpose",
+      "generated_at": "2026-09-06T05:16:39.491376"
+    },
+    {
+      "english": "Ask for the bill, with a nod.",
+      "spanish": "Pide la cuenta, con un asentimiento.",
+      "category": "Purpose",
+      "generated_at": "2026-09-06T05:16:39.491377"
+    },
+    {
+      "english": "Try sangria, toast to life!",
+      "spanish": "Prueba sangría, ¡brinda por la vida!",
+      "category": "Purpose",
+      "generated_at": "2026-09-06T05:16:39.491378"
+    },
+    {
+      "english": "Get a compliment, accept it!",
+      "spanish": "Recibe un cumplido, ¡acéptalo!",
+      "category": "Purpose",
+      "generated_at": "2026-09-06T05:16:39.491379"
+    },
+    {
+      "english": "Order churros, for a treat.",
+      "spanish": "Pide churros, para darte un gusto.",
+      "category": "Purpose",
+      "generated_at": "2026-09-06T05:16:39.491379"
+    },
+    {
+      "english": "Eat with your hands, dive in!",
+      "spanish": "¡Come con tus manos, sumérgete!",
+      "category": "Purpose",
+      "generated_at": "2026-09-06T05:16:39.491381"
+    },
+    {
+      "english": "Laugh out loud, it's contagious.",
+      "spanish": "Ríete a carcajadas, es contagioso.",
+      "category": "Purpose",
+      "generated_at": "2026-09-06T05:16:39.491382"
+    },
+    {
+      "english": "Sing off-key, with passion!",
+      "spanish": "¡Canta desafinado, con pasión!",
+      "category": "Purpose",
+      "generated_at": "2026-09-06T05:16:39.491383"
+    },
+    {
+      "english": "Dance like nobody sees, groove on!",
+      "spanish": "Baila como nadie te ve, ¡mueve el esqueleto!",
+      "category": "Purpose",
+      "generated_at": "2026-09-06T05:16:39.491384"
+    },
+    {
+      "english": "Nap in the afternoon, it's a must.",
+      "spanish": "Echa una siesta por la tarde, es un deber.",
+      "category": "Purpose",
+      "generated_at": "2026-09-06T05:16:39.491385"
+    },
+    {
+      "english": "Share your snacks, be generous.",
+      "spanish": "Comparte tus bocadillos, sé generoso.",
+      "category": "Purpose",
+      "generated_at": "2026-09-06T05:16:39.491386"
+    },
+    {
+      "english": "Ask for recommendations, with a grin.",
+      "spanish": "Pide recomendaciones, con una sonrisa.",
+      "category": "Purpose",
+      "generated_at": "2026-09-06T05:16:39.491387"
+    },
+    {
+      "english": "Try the street food, no fear!",
+      "spanish": "Prueba la comida callejera, ¡sin miedo!",
+      "category": "Purpose",
+      "generated_at": "2026-09-06T05:16:39.491388"
+    },
+    {
+      "english": "Strike up conversations, be bold.",
+      "spanish": "Inicia conversaciones, sé audaz.",
+      "category": "Purpose",
+      "generated_at": "2026-09-06T05:16:39.491389"
+    },
+    {
+      "english": "Embrace the chaos, go with it.",
+      "spanish": "Abraza el caos, déjate llevar.",
+      "category": "Purpose",
+      "generated_at": "2026-09-06T05:16:39.491390"
+    },
+    {
+      "english": "Sip your drink, slowly, savor.",
+      "spanish": "Bebe tu trago, despacio, saborea.",
+      "category": "Purpose",
+      "generated_at": "2026-09-06T05:16:39.491391"
+    },
+    {
+      "english": "Wave hello, enthusiastically.",
+      "spanish": "Saluda con la mano, con entusiasmo.",
+      "category": "Purpose",
+      "generated_at": "2026-09-06T05:16:39.491393"
+    },
+    {
+      "english": "Point at things, curiously.",
+      "spanish": "Señala cosas, con curiosidad.",
+      "category": "Purpose",
+      "generated_at": "2026-09-06T05:16:39.491394"
+    },
+    {
+      "english": "Wear bright colors, be vibrant.",
+      "spanish": "Viste colores vivos, sé vibrante.",
+      "category": "Purpose",
+      "generated_at": "2026-09-06T05:16:39.491395"
+    },
+    {
+      "english": "Hum a tune, wherever you go.",
+      "spanish": "Tararea una melodía, donde vayas.",
+      "category": "Purpose",
+      "generated_at": "2026-09-06T05:16:39.491396"
+    },
+    {
+      "english": "Take detours, for fun.",
+      "spanish": "Toma desvíos, por diversión.",
+      "category": "Purpose",
+      "generated_at": "2026-09-06T05:16:39.491397"
+    },
+    {
+      "english": "Ask for directions, with a smile.",
+      "spanish": "Pide direcciones, con una sonrisa.",
+      "category": "Purpose",
+      "generated_at": "2026-09-06T05:16:39.491398"
+    },
+    {
+      "english": "Try a new pastry, daily.",
+      "spanish": "Prueba un dulce nuevo, a diario.",
+      "category": "Purpose",
+      "generated_at": "2026-09-06T05:16:39.491399"
+    },
+    {
+      "english": "Practice your accent, with gusto.",
+      "spanish": "Practica tu acento, con ganas.",
+      "category": "Purpose",
+      "generated_at": "2026-09-06T05:16:39.491400"
+    },
+    {
+      "english": "Make eye contact, connect.",
+      "spanish": "Haz contacto visual, conéctate.",
+      "category": "Purpose",
+      "generated_at": "2026-09-06T05:16:39.491401"
+    },
+    {
+      "english": "Say 'please', and 'thank you', always.",
+      "spanish": "Di 'por favor', y 'gracias', siempre.",
+      "category": "Purpose",
+      "generated_at": "2026-09-06T05:16:39.491402"
+    },
+    {
+      "english": "Smell the flowers, breathe it in.",
+      "spanish": "Huele las flores, respira hondo.",
+      "category": "Purpose",
+      "generated_at": "2026-09-06T05:16:39.491403"
+    },
+    {
+      "english": "Sit at a cafe, observe.",
+      "spanish": "Siéntate en un café, observa.",
+      "category": "Purpose",
+      "generated_at": "2026-09-06T05:16:39.491404"
+    },
+    {
+      "english": "Admire the architecture, closely.",
+      "spanish": "Admira la arquitectura, de cerca.",
+      "category": "Purpose",
+      "generated_at": "2026-09-06T05:16:39.491405"
+    },
+    {
+      "english": "Learn a local joke, to share.",
+      "spanish": "Aprende un chiste local, para contar.",
+      "category": "Purpose",
+      "generated_at": "2026-09-06T05:16:39.491406"
+    },
+    {
+      "english": "Ask about the bus, patiently.",
+      "spanish": "Pregunta por el autobús, con paciencia.",
+      "category": "Purpose",
+      "generated_at": "2026-09-06T05:16:39.491407"
+    },
+    {
+      "english": "Try the local dessert, sweeten up!",
+      "spanish": "Prueba el postre local, ¡endúlzate!",
+      "category": "Purpose",
+      "generated_at": "2026-09-06T05:16:39.491408"
+    },
+    {
+      "english": "Humor the locals, with a wink.",
+      "spanish": "Haz reír a los locales, con un guiño.",
+      "category": "Purpose",
+      "generated_at": "2026-09-06T05:16:39.491409"
+    },
+    {
+      "english": "Take siesta breaks, refresh.",
+      "spanish": "Toma descansos de siesta, refréscate.",
+      "category": "Purpose",
+      "generated_at": "2026-09-06T05:16:39.491410"
+    },
+    {
+      "english": "Ask for the check, politely.",
+      "spanish": "Pide la cuenta, amablemente.",
+      "category": "Purpose",
+      "generated_at": "2026-09-06T05:16:39.491411"
+    },
+    {
+      "english": "Enjoy the flamenco, feel the passion.",
+      "spanish": "Disfruta el flamenco, siente la pasión.",
+      "category": "Purpose",
+      "generated_at": "2026-09-06T05:16:39.491412"
+    },
+    {
+      "english": "Order tapas, try a bit of everything.",
+      "spanish": "Pide tapas, prueba un poco de todo.",
+      "category": "Purpose",
+      "generated_at": "2026-09-06T05:16:39.491413"
+    },
+    {
+      "english": "Learn a few words, every day.",
+      "spanish": "Aprende algunas palabras, cada día.",
+      "category": "Purpose",
+      "generated_at": "2026-09-06T05:16:39.491414"
+    },
+    {
+      "english": "Admire the sunset, peacefully.",
+      "spanish": "Admira el atardecer, en paz.",
+      "category": "Purpose",
+      "generated_at": "2026-09-06T05:16:39.491415"
+    },
+    {
+      "english": "Stroll through plazas, leisurely.",
+      "spanish": "Pasea por plazas, tranquilamente.",
+      "category": "Purpose",
+      "generated_at": "2026-09-06T05:16:39.491416"
+    },
+    {
+      "english": "Ask for the bill, with a nod.",
+      "spanish": "Pide la cuenta, con un asentimiento.",
+      "category": "Purpose",
+      "generated_at": "2026-09-06T05:16:39.491417"
+    },
+    {
+      "english": "Try sangria, toast to life!",
+      "spanish": "Prueba sangría, ¡brinda por la vida!",
+      "category": "Purpose",
+      "generated_at": "2026-09-06T05:16:39.491418"
+    },
+    {
+      "english": "Get a compliment, accept it!",
+      "spanish": "Recibe un cumplido, ¡acéptalo!",
+      "category": "Purpose",
+      "generated_at": "2026-09-06T05:16:39.491419"
+    },
+    {
+      "english": "Order churros, for a treat.",
+      "spanish": "Pide churros, para darte un gusto.",
+      "category": "Purpose",
+      "generated_at": "2026-09-06T05:16:39.491420"
+    },
+    {
+      "english": "Eat with your hands, dive in!",
+      "spanish": "¡Come con tus manos, sumérgete!",
+      "category": "Purpose",
+      "generated_at": "2026-09-06T05:16:39.491421"
+    },
+    {
+      "english": "Laugh out loud, it's contagious.",
+      "spanish": "Ríete a carcajadas, es contagioso.",
+      "category": "Purpose",
+      "generated_at": "2026-09-06T05:16:39.491422"
+    },
+    {
+      "english": "Sing off-key, with passion!",
+      "spanish": "¡Canta desafinado, con pasión!",
+      "category": "Purpose",
+      "generated_at": "2026-09-06T05:16:39.491423"
+    },
+    {
+      "english": "Dance like nobody sees, groove on!",
+      "spanish": "Baila como nadie te ve, ¡mueve el esqueleto!",
+      "category": "Purpose",
+      "generated_at": "2026-09-06T05:16:39.491424"
+    },
+    {
+      "english": "Nap in the afternoon, it's a must.",
+      "spanish": "Echa una siesta por la tarde, es un deber.",
+      "category": "Purpose",
+      "generated_at": "2026-09-06T05:16:39.491425"
+    },
+    {
+      "english": "Share your snacks, be generous.",
+      "spanish": "Comparte tus bocadillos, sé generoso.",
+      "category": "Purpose",
+      "generated_at": "2026-09-06T05:16:39.491427"
+    },
+    {
+      "english": "Ask for recommendations, with a grin.",
+      "spanish": "Pide recomendaciones, con una sonrisa.",
+      "category": "Purpose",
+      "generated_at": "2026-09-06T05:16:39.491427"
+    },
+    {
+      "english": "Try the street food, no fear!",
+      "spanish": "Prueba la comida callejera, ¡sin miedo!",
+      "category": "Purpose",
+      "generated_at": "2026-09-06T05:16:39.491428"
+    },
+    {
+      "english": "Strike up conversations, be bold.",
+      "spanish": "Inicia conversaciones, sé audaz.",
+      "category": "Purpose",
+      "generated_at": "2026-09-06T05:16:39.491429"
+    },
+    {
+      "english": "Embrace the chaos, go with it.",
+      "spanish": "Abraza el caos, déjate llevar.",
+      "category": "Purpose",
+      "generated_at": "2026-09-06T05:16:39.491431"
+    },
+    {
+      "english": "Sip your drink, slowly, savor.",
+      "spanish": "Bebe tu trago, despacio, saborea.",
+      "category": "Purpose",
+      "generated_at": "2026-09-06T05:16:39.491432"
+    },
+    {
+      "english": "Wave hello, enthusiastically.",
+      "spanish": "Saluda con la mano, con entusiasmo.",
+      "category": "Purpose",
+      "generated_at": "2026-09-06T05:16:39.491433"
+    },
+    {
+      "english": "Point at things, curiously.",
+      "spanish": "Señala cosas, con curiosidad.",
+      "category": "Purpose",
+      "generated_at": "2026-09-06T05:16:39.491434"
+    },
+    {
+      "english": "Wear bright colors, be vibrant.",
+      "spanish": "Viste colores vivos, sé vibrante.",
+      "category": "Purpose",
+      "generated_at": "2026-09-06T05:16:39.491435"
+    },
+    {
+      "english": "Hum a tune, wherever you go.",
+      "spanish": "Tararea una melodía, donde vayas.",
+      "category": "Purpose",
+      "generated_at": "2026-09-06T05:16:39.491436"
+    },
+    {
+      "english": "Take detours, for fun.",
+      "spanish": "Toma desvíos, por diversión.",
+      "category": "Purpose",
+      "generated_at": "2026-09-06T05:16:39.491437"
+    },
+    {
+      "english": "Ask for directions, with a smile.",
+      "spanish": "Pide direcciones, con una sonrisa.",
+      "category": "Purpose",
+      "generated_at": "2026-09-06T05:16:39.491438"
+    },
+    {
+      "english": "Try a new pastry, daily.",
+      "spanish": "Prueba un dulce nuevo, a diario.",
+      "category": "Purpose",
+      "generated_at": "2026-09-06T05:16:39.491439"
+    },
+    {
+      "english": "Practice your accent, with gusto.",
+      "spanish": "Practica tu acento, con ganas.",
+      "category": "Purpose",
+      "generated_at": "2026-09-06T05:16:39.491440"
+    },
+    {
+      "english": "Make eye contact, connect.",
+      "spanish": "Haz contacto visual, conéctate.",
+      "category": "Purpose",
+      "generated_at": "2026-09-06T05:16:39.491441"
+    },
+    {
+      "english": "Say 'please', and 'thank you', always.",
+      "spanish": "Di 'por favor', y 'gracias', siempre.",
+      "category": "Purpose",
+      "generated_at": "2026-09-06T05:16:39.491442"
+    },
+    {
+      "english": "Smell the flowers, breathe it in.",
+      "spanish": "Huele las flores, respira hondo.",
+      "category": "Purpose",
+      "generated_at": "2026-09-06T05:16:39.491443"
+    },
+    {
+      "english": "Sit at a cafe, observe.",
+      "spanish": "Siéntate en un café, observa.",
+      "category": "Purpose",
+      "generated_at": "2026-09-06T05:16:39.491444"
+    },
+    {
+      "english": "Admire the architecture, closely.",
+      "spanish": "Admira la arquitectura, de cerca.",
+      "category": "Purpose",
+      "generated_at": "2026-09-06T05:16:39.491445"
+    },
+    {
+      "english": "Learn a local joke, to share.",
+      "spanish": "Aprende un chiste local, para contar.",
+      "category": "Purpose",
+      "generated_at": "2026-09-06T05:16:39.491446"
+    },
+    {
+      "english": "Ask about the bus, patiently.",
+      "spanish": "Pregunta por el autobús, con paciencia.",
+      "category": "Purpose",
+      "generated_at": "2026-09-06T05:16:39.491447"
+    },
+    {
+      "english": "Try the local dessert, sweeten up!",
+      "spanish": "Prueba el postre local, ¡endúlzate!",
+      "category": "Purpose",
+      "generated_at": "2026-09-06T05:16:39.491448"
+    },
+    {
+      "english": "Humor the locals, with a wink.",
+      "spanish": "Haz reír a los locales, con un guiño.",
+      "category": "Purpose",
+      "generated_at": "2026-09-06T05:16:39.491449"
+    },
+    {
+      "english": "Take siesta breaks, refresh.",
+      "spanish": "Toma descansos de siesta, refréscate.",
+      "category": "Purpose",
+      "generated_at": "2026-09-06T05:16:39.491450"
+    },
+    {
+      "english": "Ask for the check, politely.",
+      "spanish": "Pide la cuenta, amablemente.",
+      "category": "Purpose",
+      "generated_at": "2026-09-06T05:16:39.491451"
+    },
+    {
+      "english": "Enjoy the flamenco, feel the passion.",
+      "spanish": "Disfruta el flamenco, siente la pasión.",
+      "category": "Purpose",
+      "generated_at": "2026-09-06T05:16:39.491452"
+    },
+    {
+      "english": "Order tapas, try a bit of everything.",
+      "spanish": "Pide tapas, prueba un poco de todo.",
+      "category": "Purpose",
+      "generated_at": "2026-09-06T05:16:39.491453"
+    },
+    {
+      "english": "Learn a few words, every day.",
+      "spanish": "Aprende algunas palabras, cada día.",
+      "category": "Purpose",
+      "generated_at": "2026-09-06T05:16:39.491454"
+    },
+    {
+      "english": "Admire the sunset, peacefully.",
+      "spanish": "Admira el atardecer, en paz.",
+      "category": "Purpose",
+      "generated_at": "2026-09-06T05:16:39.491455"
+    },
+    {
+      "english": "Stroll through plazas, leisurely.",
+      "spanish": "Pasea por plazas, tranquilamente.",
+      "category": "Purpose",
+      "generated_at": "2026-09-06T05:16:39.491456"
+    },
+    {
+      "english": "Ask for the bill, with a nod.",
+      "spanish": "Pide la cuenta, con un asentimiento.",
+      "category": "Purpose",
+      "generated_at": "2026-09-06T05:16:39.491457"
+    },
+    {
+      "english": "Try sangria, toast to life!",
+      "spanish": "Prueba sangría, ¡brinda por la vida!",
+      "category": "Purpose",
+      "generated_at": "2026-09-06T05:16:39.491458"
+    },
+    {
+      "english": "Get a compliment, accept it!",
+      "spanish": "Recibe un cumplido, ¡acéptalo!",
+      "category": "Purpose",
+      "generated_at": "2026-09-06T05:16:39.491459"
+    },
+    {
+      "english": "Order churros, for a treat.",
+      "spanish": "Pide churros, para darte un gusto.",
+      "category": "Purpose",
+      "generated_at": "2026-09-06T05:16:39.491460"
+    },
+    {
+      "english": "Eat with your hands, dive in!",
+      "spanish": "¡Come con tus manos, sumérgete!",
+      "category": "Purpose",
+      "generated_at": "2026-09-06T05:16:39.491461"
+    },
+    {
+      "english": "Laugh out loud, it's contagious.",
+      "spanish": "Ríete a carcajadas, es contagioso.",
+      "category": "Purpose",
+      "generated_at": "2026-09-06T05:16:39.491462"
+    },
+    {
+      "english": "Sing off-key, with passion!",
+      "spanish": "¡Canta desafinado, con pasión!",
+      "category": "Purpose",
+      "generated_at": "2026-09-06T05:16:39.491463"
     }
   ],
-  "last_updated": "2026-09-05T05:02:49.073239"
+  "last_updated": "2026-09-06T05:16:39.491465"
 }
