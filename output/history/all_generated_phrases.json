@@ -39599,7 +39599,727 @@
       "spanish": "Da un asentimiento de agradecimiento, gratitud simple.",
       "category": "Kindness",
       "generated_at": "2026-09-07T05:25:36.964599"
+    },
+    {
+      "english": "Speak slowly, please. I'm learning.",
+      "spanish": "Habla despacio, por favor. Estoy aprendiendo.",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-09T05:31:16.617623"
+    },
+    {
+      "english": "What does that mean? Explain it.",
+      "spanish": "¿Qué significa eso? Explícamelo.",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-09T05:31:16.617636"
+    },
+    {
+      "english": "Can you repeat that? I missed it.",
+      "spanish": "¿Puedes repetirlo? No lo escuché bien.",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-09T05:31:16.617637"
+    },
+    {
+      "english": "Don't worry, be patient.",
+      "spanish": "No te preocupes, sé paciente.",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-09T05:31:16.617638"
+    },
+    {
+      "english": "Mistakes are okay, keep trying.",
+      "spanish": "Los errores están bien, sigue intentando.",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-09T05:31:16.617639"
+    },
+    {
+      "english": "Listen carefully, absorb it.",
+      "spanish": "Escucha atentamente, contémplalo.",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-09T05:31:16.617640"
+    },
+    {
+      "english": "Don't be afraid, try speaking.",
+      "spanish": "No tengas miedo, intenta hablar.",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-09T05:31:16.617641"
+    },
+    {
+      "english": "Every word counts, use them.",
+      "spanish": "Cada palabra cuenta, úsalas.",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-09T05:31:16.617644"
+    },
+    {
+      "english": "Immerse yourself, live it.",
+      "spanish": "Sumérgete, vívelo.",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-09T05:31:16.617645"
+    },
+    {
+      "english": "It's okay to feel stuck. Keep going.",
+      "spanish": "Está bien sentirse atascado. Sigue adelante.",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-09T05:31:16.617646"
+    },
+    {
+      "english": "Review your notes, remember it.",
+      "spanish": "Revisa tus apuntes, recuérdalo.",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-09T05:31:16.617647"
+    },
+    {
+      "english": "Don't give up, you're close.",
+      "spanish": "No te rindas, estás cerca.",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-09T05:31:16.617648"
+    },
+    {
+      "english": "Watch movies, understand context.",
+      "spanish": "Mira películas, entiende el contexto.",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-09T05:31:16.617649"
+    },
+    {
+      "english": "Read simple texts, build vocabulary.",
+      "spanish": "Lee textos sencillos, amplía tu vocabulario.",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-09T05:31:16.617650"
+    },
+    {
+      "english": "Speak out loud, hear yourself.",
+      "spanish": "Habla en voz alta, escúchate.",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-09T05:31:16.617650"
+    },
+    {
+      "english": "Connect with natives, learn naturally.",
+      "spanish": "Conecta con nativos, aprende naturalmente.",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-09T05:31:16.617651"
+    },
+    {
+      "english": "Don't translate everything, guess.",
+      "spanish": "No traduzcas todo, adivina.",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-09T05:31:16.617652"
+    },
+    {
+      "english": "Find a study buddy, stay accountable.",
+      "spanish": "Busca un compañero de estudio, sé responsable.",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-09T05:31:16.617653"
+    },
+    {
+      "english": "Be persistent, the reward is worth it.",
+      "spanish": "Sé persistente, la recompensa vale la pena.",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-09T05:31:16.617654"
+    },
+    {
+      "english": "Record yourself, analyze.",
+      "spanish": "Grábate, analiza.",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-09T05:31:16.617655"
+    },
+    {
+      "english": "Think in Spanish, unlock fluency.",
+      "spanish": "Piensa en español, desbloquea la fluidez.",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-09T05:31:16.617656"
+    },
+    {
+      "english": "Learn common phrases, communicate.",
+      "spanish": "Aprende frases comunes, comunícate.",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-09T05:31:16.617657"
+    },
+    {
+      "english": "Don't fear judgment, just speak.",
+      "spanish": "No temas el juicio, solo habla.",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-09T05:31:16.617657"
+    },
+    {
+      "english": "Make it fun, enjoy learning.",
+      "spanish": "Hazlo divertido, disfruta aprendiendo.",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-09T05:31:16.617658"
+    },
+    {
+      "english": "Consistency is key, keep practicing.",
+      "spanish": "La constancia es clave, sigue practicando.",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-09T05:31:16.617659"
+    },
+    {
+      "english": "Break down complex ideas, simplify.",
+      "spanish": "Divide ideas complejas, simplifica.",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-09T05:31:16.617659"
+    },
+    {
+      "english": "Be kind to yourself, learn well.",
+      "spanish": "Sé amable contigo mismo, aprende bien.",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-09T05:31:16.617660"
+    },
+    {
+      "english": "Embrace pauses, gather your thoughts.",
+      "spanish": "Acepta las pausas, reúne tus ideas.",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-09T05:31:16.617661"
+    },
+    {
+      "english": "Find patterns, connect the dots.",
+      "spanish": "Encuentra patrones, conecta los puntos.",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-09T05:31:16.617661"
+    },
+    {
+      "english": "Speak slowly, please. I'm learning.",
+      "spanish": "Habla despacio, por favor. Estoy aprendiendo.",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-09T05:31:16.617663"
+    },
+    {
+      "english": "What does that mean? Explain it.",
+      "spanish": "¿Qué significa eso? Explícamelo.",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-09T05:31:16.617664"
+    },
+    {
+      "english": "Can you repeat that? I missed it.",
+      "spanish": "¿Puedes repetirlo? No lo escuché bien.",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-09T05:31:16.617665"
+    },
+    {
+      "english": "Don't worry, be patient.",
+      "spanish": "No te preocupes, sé paciente.",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-09T05:31:16.617666"
+    },
+    {
+      "english": "Mistakes are okay, keep trying.",
+      "spanish": "Los errores están bien, sigue intentando.",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-09T05:31:16.617667"
+    },
+    {
+      "english": "Listen carefully, absorb it.",
+      "spanish": "Escucha atentamente, contémplalo.",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-09T05:31:16.617668"
+    },
+    {
+      "english": "Don't be afraid, try speaking.",
+      "spanish": "No tengas miedo, intenta hablar.",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-09T05:31:16.617668"
+    },
+    {
+      "english": "Every word counts, use them.",
+      "spanish": "Cada palabra cuenta, úsalas.",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-09T05:31:16.617669"
+    },
+    {
+      "english": "Immerse yourself, live it.",
+      "spanish": "Sumérgete, vívelo.",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-09T05:31:16.617670"
+    },
+    {
+      "english": "It's okay to feel stuck. Keep going.",
+      "spanish": "Está bien sentirse atascado. Sigue adelante.",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-09T05:31:16.617671"
+    },
+    {
+      "english": "Review your notes, remember it.",
+      "spanish": "Revisa tus apuntes, recuérdalo.",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-09T05:31:16.617672"
+    },
+    {
+      "english": "Don't give up, you're close.",
+      "spanish": "No te rindas, estás cerca.",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-09T05:31:16.617673"
+    },
+    {
+      "english": "Watch movies, understand context.",
+      "spanish": "Mira películas, entiende el contexto.",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-09T05:31:16.617673"
+    },
+    {
+      "english": "Read simple texts, build vocabulary.",
+      "spanish": "Lee textos sencillos, amplía tu vocabulario.",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-09T05:31:16.617674"
+    },
+    {
+      "english": "Speak out loud, hear yourself.",
+      "spanish": "Habla en voz alta, escúchate.",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-09T05:31:16.617675"
+    },
+    {
+      "english": "Connect with natives, learn naturally.",
+      "spanish": "Conecta con nativos, aprende naturalmente.",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-09T05:31:16.617675"
+    },
+    {
+      "english": "Don't translate everything, guess.",
+      "spanish": "No traduzcas todo, adivina.",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-09T05:31:16.617676"
+    },
+    {
+      "english": "Find a study buddy, stay accountable.",
+      "spanish": "Busca un compañero de estudio, sé responsable.",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-09T05:31:16.617677"
+    },
+    {
+      "english": "Be persistent, the reward is worth it.",
+      "spanish": "Sé persistente, la recompensa vale la pena.",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-09T05:31:16.617678"
+    },
+    {
+      "english": "Record yourself, analyze.",
+      "spanish": "Grábate, analiza.",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-09T05:31:16.617678"
+    },
+    {
+      "english": "Think in Spanish, unlock fluency.",
+      "spanish": "Piensa en español, desbloquea la fluidez.",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-09T05:31:16.617679"
+    },
+    {
+      "english": "Learn common phrases, communicate.",
+      "spanish": "Aprende frases comunes, comunícate.",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-09T05:31:16.617680"
+    },
+    {
+      "english": "Don't fear judgment, just speak.",
+      "spanish": "No temas el juicio, solo habla.",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-09T05:31:16.617680"
+    },
+    {
+      "english": "Make it fun, enjoy learning.",
+      "spanish": "Hazlo divertido, disfruta aprendiendo.",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-09T05:31:16.617681"
+    },
+    {
+      "english": "Consistency is key, keep practicing.",
+      "spanish": "La constancia es clave, sigue practicando.",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-09T05:31:16.617681"
+    },
+    {
+      "english": "Break down complex ideas, simplify.",
+      "spanish": "Divide ideas complejas, simplifica.",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-09T05:31:16.617682"
+    },
+    {
+      "english": "Be kind to yourself, learn well.",
+      "spanish": "Sé amable contigo mismo, aprende bien.",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-09T05:31:16.617683"
+    },
+    {
+      "english": "Embrace pauses, gather your thoughts.",
+      "spanish": "Acepta las pausas, reúne tus ideas.",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-09T05:31:16.617684"
+    },
+    {
+      "english": "Find patterns, connect the dots.",
+      "spanish": "Encuentra patrones, conecta los puntos.",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-09T05:31:16.617684"
+    },
+    {
+      "english": "Speak slowly, please. I'm learning.",
+      "spanish": "Habla despacio, por favor. Estoy aprendiendo.",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-09T05:31:16.617685"
+    },
+    {
+      "english": "What does that mean? Explain it.",
+      "spanish": "¿Qué significa eso? Explícamelo.",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-09T05:31:16.617686"
+    },
+    {
+      "english": "Can you repeat that? I missed it.",
+      "spanish": "¿Puedes repetirlo? No lo escuché bien.",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-09T05:31:16.617687"
+    },
+    {
+      "english": "Don't worry, be patient.",
+      "spanish": "No te preocupes, sé paciente.",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-09T05:31:16.617687"
+    },
+    {
+      "english": "Mistakes are okay, keep trying.",
+      "spanish": "Los errores están bien, sigue intentando.",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-09T05:31:16.617688"
+    },
+    {
+      "english": "Listen carefully, absorb it.",
+      "spanish": "Escucha atentamente, contémplalo.",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-09T05:31:16.617689"
+    },
+    {
+      "english": "Don't be afraid, try speaking.",
+      "spanish": "No tengas miedo, intenta hablar.",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-09T05:31:16.617690"
+    },
+    {
+      "english": "Every word counts, use them.",
+      "spanish": "Cada palabra cuenta, úsalas.",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-09T05:31:16.617691"
+    },
+    {
+      "english": "Immerse yourself, live it.",
+      "spanish": "Sumérgete, vívelo.",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-09T05:31:16.617692"
+    },
+    {
+      "english": "It's okay to feel stuck. Keep going.",
+      "spanish": "Está bien sentirse atascado. Sigue adelante.",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-09T05:31:16.617692"
+    },
+    {
+      "english": "Review your notes, remember it.",
+      "spanish": "Revisa tus apuntes, recuérdalo.",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-09T05:31:16.617693"
+    },
+    {
+      "english": "Don't give up, you're close.",
+      "spanish": "No te rindas, estás cerca.",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-09T05:31:16.617694"
+    },
+    {
+      "english": "Watch movies, understand context.",
+      "spanish": "Mira películas, entiende el contexto.",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-09T05:31:16.617695"
+    },
+    {
+      "english": "Read simple texts, build vocabulary.",
+      "spanish": "Lee textos sencillos, amplía tu vocabulario.",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-09T05:31:16.617695"
+    },
+    {
+      "english": "Speak out loud, hear yourself.",
+      "spanish": "Habla en voz alta, escúchate.",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-09T05:31:16.617696"
+    },
+    {
+      "english": "Connect with natives, learn naturally.",
+      "spanish": "Conecta con nativos, aprende naturalmente.",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-09T05:31:16.617696"
+    },
+    {
+      "english": "Don't translate everything, guess.",
+      "spanish": "No traduzcas todo, adivina.",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-09T05:31:16.617697"
+    },
+    {
+      "english": "Find a study buddy, stay accountable.",
+      "spanish": "Busca un compañero de estudio, sé responsable.",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-09T05:31:16.617698"
+    },
+    {
+      "english": "Be persistent, the reward is worth it.",
+      "spanish": "Sé persistente, la recompensa vale la pena.",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-09T05:31:16.617698"
+    },
+    {
+      "english": "Record yourself, analyze.",
+      "spanish": "Grábate, analiza.",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-09T05:31:16.617699"
+    },
+    {
+      "english": "Think in Spanish, unlock fluency.",
+      "spanish": "Piensa en español, desbloquea la fluidez.",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-09T05:31:16.617700"
+    },
+    {
+      "english": "Learn common phrases, communicate.",
+      "spanish": "Aprende frases comunes, comunícate.",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-09T05:31:16.617700"
+    },
+    {
+      "english": "Don't fear judgment, just speak.",
+      "spanish": "No temas el juicio, solo habla.",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-09T05:31:16.617701"
+    },
+    {
+      "english": "Make it fun, enjoy learning.",
+      "spanish": "Hazlo divertido, disfruta aprendiendo.",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-09T05:31:16.617702"
+    },
+    {
+      "english": "Consistency is key, keep practicing.",
+      "spanish": "La constancia es clave, sigue practicando.",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-09T05:31:16.617702"
+    },
+    {
+      "english": "Break down complex ideas, simplify.",
+      "spanish": "Divide ideas complejas, simplifica.",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-09T05:31:16.617703"
+    },
+    {
+      "english": "Be kind to yourself, learn well.",
+      "spanish": "Sé amable contigo mismo, aprende bien.",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-09T05:31:16.617703"
+    },
+    {
+      "english": "Embrace pauses, gather your thoughts.",
+      "spanish": "Acepta las pausas, reúne tus ideas.",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-09T05:31:16.617704"
+    },
+    {
+      "english": "Find patterns, connect the dots.",
+      "spanish": "Encuentra patrones, conecta los puntos.",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-09T05:31:16.617704"
+    },
+    {
+      "english": "Speak slowly, please. I'm learning.",
+      "spanish": "Habla despacio, por favor. Estoy aprendiendo.",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-09T05:31:16.617705"
+    },
+    {
+      "english": "What does that mean? Explain it.",
+      "spanish": "¿Qué significa eso? Explícamelo.",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-09T05:31:16.617706"
+    },
+    {
+      "english": "Can you repeat that? I missed it.",
+      "spanish": "¿Puedes repetirlo? No lo escuché bien.",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-09T05:31:16.617707"
+    },
+    {
+      "english": "Don't worry, be patient.",
+      "spanish": "No te preocupes, sé paciente.",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-09T05:31:16.617708"
+    },
+    {
+      "english": "Mistakes are okay, keep trying.",
+      "spanish": "Los errores están bien, sigue intentando.",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-09T05:31:16.617709"
+    },
+    {
+      "english": "Listen carefully, absorb it.",
+      "spanish": "Escucha atentamente, contémplalo.",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-09T05:31:16.617709"
+    },
+    {
+      "english": "Don't be afraid, try speaking.",
+      "spanish": "No tengas miedo, intenta hablar.",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-09T05:31:16.617710"
+    },
+    {
+      "english": "Every word counts, use them.",
+      "spanish": "Cada palabra cuenta, úsalas.",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-09T05:31:16.617710"
+    },
+    {
+      "english": "Immerse yourself, live it.",
+      "spanish": "Sumérgete, vívelo.",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-09T05:31:16.617711"
+    },
+    {
+      "english": "It's okay to feel stuck. Keep going.",
+      "spanish": "Está bien sentirse atascado. Sigue adelante.",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-09T05:31:16.617712"
+    },
+    {
+      "english": "Review your notes, remember it.",
+      "spanish": "Revisa tus apuntes, recuérdalo.",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-09T05:31:16.617712"
+    },
+    {
+      "english": "Don't give up, you're close.",
+      "spanish": "No te rindas, estás cerca.",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-09T05:31:16.617713"
+    },
+    {
+      "english": "Watch movies, understand context.",
+      "spanish": "Mira películas, entiende el contexto.",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-09T05:31:16.617714"
+    },
+    {
+      "english": "Read simple texts, build vocabulary.",
+      "spanish": "Lee textos sencillos, amplía tu vocabulario.",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-09T05:31:16.617714"
+    },
+    {
+      "english": "Speak out loud, hear yourself.",
+      "spanish": "Habla en voz alta, escúchate.",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-09T05:31:16.617715"
+    },
+    {
+      "english": "Connect with natives, learn naturally.",
+      "spanish": "Conecta con nativos, aprende naturalmente.",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-09T05:31:16.617715"
+    },
+    {
+      "english": "Don't translate everything, guess.",
+      "spanish": "No traduzcas todo, adivina.",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-09T05:31:16.617716"
+    },
+    {
+      "english": "Find a study buddy, stay accountable.",
+      "spanish": "Busca un compañero de estudio, sé responsable.",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-09T05:31:16.617717"
+    },
+    {
+      "english": "Be persistent, the reward is worth it.",
+      "spanish": "Sé persistente, la recompensa vale la pena.",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-09T05:31:16.617717"
+    },
+    {
+      "english": "Record yourself, analyze.",
+      "spanish": "Grábate, analiza.",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-09T05:31:16.617718"
+    },
+    {
+      "english": "Think in Spanish, unlock fluency.",
+      "spanish": "Piensa en español, desbloquea la fluidez.",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-09T05:31:16.617718"
+    },
+    {
+      "english": "Learn common phrases, communicate.",
+      "spanish": "Aprende frases comunes, comunícate.",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-09T05:31:16.617719"
+    },
+    {
+      "english": "Don't fear judgment, just speak.",
+      "spanish": "No temas el juicio, solo habla.",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-09T05:31:16.617720"
+    },
+    {
+      "english": "Make it fun, enjoy learning.",
+      "spanish": "Hazlo divertido, disfruta aprendiendo.",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-09T05:31:16.617720"
+    },
+    {
+      "english": "Consistency is key, keep practicing.",
+      "spanish": "La constancia es clave, sigue practicando.",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-09T05:31:16.617721"
+    },
+    {
+      "english": "Break down complex ideas, simplify.",
+      "spanish": "Divide ideas complejas, simplifica.",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-09T05:31:16.617722"
+    },
+    {
+      "english": "Be kind to yourself, learn well.",
+      "spanish": "Sé amable contigo mismo, aprende bien.",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-09T05:31:16.617722"
+    },
+    {
+      "english": "Embrace pauses, gather your thoughts.",
+      "spanish": "Acepta las pausas, reúne tus ideas.",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-09T05:31:16.617728"
+    },
+    {
+      "english": "Find patterns, connect the dots.",
+      "spanish": "Encuentra patrones, conecta los puntos.",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-09T05:31:16.617728"
+    },
+    {
+      "english": "Speak slowly, please. I'm learning.",
+      "spanish": "Habla despacio, por favor. Estoy aprendiendo.",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-09T05:31:16.617729"
+    },
+    {
+      "english": "What does that mean? Explain it.",
+      "spanish": "¿Qué significa eso? Explícamelo.",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-09T05:31:16.617729"
+    },
+    {
+      "english": "Can you repeat that? I missed it.",
+      "spanish": "¿Puedes repetirlo? No lo escuché bien.",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-09T05:31:16.617730"
+    },
+    {
+      "english": "Don't worry, be patient.",
+      "spanish": "No te preocupes, sé paciente.",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-09T05:31:16.617731"
     }
   ],
-  "last_updated": "2026-09-07T05:25:36.964601"
+  "last_updated": "2026-09-09T05:31:16.617732"
 }
