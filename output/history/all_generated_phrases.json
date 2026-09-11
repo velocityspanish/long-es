@@ -41039,7 +41039,727 @@
       "spanish": "Saborea este momento.",
       "category": "Mindfulness",
       "generated_at": "2026-09-10T05:26:38.046115"
+    },
+    {
+      "english": "Don't stress, learn Spanish.",
+      "spanish": "No te estreses, aprende español.",
+      "category": "Motivation",
+      "generated_at": "2026-09-11T05:24:51.749076"
+    },
+    {
+      "english": "Mistakes are good, embrace them.",
+      "spanish": "Los errores son buenos, abrázalos.",
+      "category": "Motivation",
+      "generated_at": "2026-09-11T05:24:51.749089"
+    },
+    {
+      "english": "Practice daily, you'll improve.",
+      "spanish": "Practica a diario, mejorarás.",
+      "category": "Motivation",
+      "generated_at": "2026-09-11T05:24:51.749090"
+    },
+    {
+      "english": "It's okay, to mess up.",
+      "spanish": "Está bien, equivocarse.",
+      "category": "Motivation",
+      "generated_at": "2026-09-11T05:24:51.749091"
+    },
+    {
+      "english": "Speak, even if imperfect.",
+      "spanish": "Habla, aunque sea imperfecto.",
+      "category": "Motivation",
+      "generated_at": "2026-09-11T05:24:51.749092"
+    },
+    {
+      "english": "Celebrate your wins, however small.",
+      "spanish": "Celebra tus victorias, por pequeñas que sean.",
+      "category": "Motivation",
+      "generated_at": "2026-09-11T05:24:51.749093"
+    },
+    {
+      "english": "Don't fear, just speak.",
+      "spanish": "No temas, solo habla.",
+      "category": "Motivation",
+      "generated_at": "2026-09-11T05:24:51.749094"
+    },
+    {
+      "english": "Learning is fun, embrace it.",
+      "spanish": "Aprender es divertido, acéptalo.",
+      "category": "Motivation",
+      "generated_at": "2026-09-11T05:24:51.749098"
+    },
+    {
+      "english": "Your Spanish will bloom.",
+      "spanish": "Tu español florecerá.",
+      "category": "Motivation",
+      "generated_at": "2026-09-11T05:24:51.749099"
+    },
+    {
+      "english": "Try new phrases, expand.",
+      "spanish": "Prueba frases nuevas, expande.",
+      "category": "Motivation",
+      "generated_at": "2026-09-11T05:24:51.749100"
+    },
+    {
+      "english": "Don't translate, think Spanish.",
+      "spanish": "No traduzcas, piensa en español.",
+      "category": "Motivation",
+      "generated_at": "2026-09-11T05:24:51.749101"
+    },
+    {
+      "english": "Be brave, say it.",
+      "spanish": "Sé valiente, dilo.",
+      "category": "Motivation",
+      "generated_at": "2026-09-11T05:24:51.749102"
+    },
+    {
+      "english": "Immerse yourself, listen closely.",
+      "spanish": "Sumérgete, escucha atentamente.",
+      "category": "Motivation",
+      "generated_at": "2026-09-11T05:24:51.749103"
+    },
+    {
+      "english": "You're doing great, keep trying.",
+      "spanish": "Lo estás haciendo genial, sigue intentando.",
+      "category": "Motivation",
+      "generated_at": "2026-09-11T05:24:51.749104"
+    },
+    {
+      "english": "Ask questions, clarify.",
+      "spanish": "Haz preguntas, aclara.",
+      "category": "Motivation",
+      "generated_at": "2026-09-11T05:24:51.749104"
+    },
+    {
+      "english": "Don't worry, just learn.",
+      "spanish": "No te preocupes, solo aprende.",
+      "category": "Motivation",
+      "generated_at": "2026-09-11T05:24:51.749105"
+    },
+    {
+      "english": "You are capable, trust that.",
+      "spanish": "Eres capaz, confía en eso.",
+      "category": "Motivation",
+      "generated_at": "2026-09-11T05:24:51.749106"
+    },
+    {
+      "english": "Don't be afraid to sound funny.",
+      "spanish": "No tengas miedo de sonar chistoso.",
+      "category": "Motivation",
+      "generated_at": "2026-09-11T05:24:51.749107"
+    },
+    {
+      "english": "Focus on understanding.",
+      "spanish": "Concéntrate en comprender.",
+      "category": "Motivation",
+      "generated_at": "2026-09-11T05:24:51.749108"
+    },
+    {
+      "english": "Your efforts compound.",
+      "spanish": "Tus esfuerzos se acumulan.",
+      "category": "Motivation",
+      "generated_at": "2026-09-11T05:24:51.749108"
+    },
+    {
+      "english": "Keep practicing, it gets easier.",
+      "spanish": "Sigue practicando, se pone más fácil.",
+      "category": "Motivation",
+      "generated_at": "2026-09-11T05:24:51.749109"
+    },
+    {
+      "english": "Don't stress, learn Spanish.",
+      "spanish": "No te estreses, aprende español.",
+      "category": "Motivation",
+      "generated_at": "2026-09-11T05:24:51.749110"
+    },
+    {
+      "english": "Mistakes are good, embrace them.",
+      "spanish": "Los errores son buenos, abrázalos.",
+      "category": "Motivation",
+      "generated_at": "2026-09-11T05:24:51.749111"
+    },
+    {
+      "english": "Practice daily, you'll improve.",
+      "spanish": "Practica a diario, mejorarás.",
+      "category": "Motivation",
+      "generated_at": "2026-09-11T05:24:51.749112"
+    },
+    {
+      "english": "It's okay, to mess up.",
+      "spanish": "Está bien, equivocarse.",
+      "category": "Motivation",
+      "generated_at": "2026-09-11T05:24:51.749113"
+    },
+    {
+      "english": "Speak, even if imperfect.",
+      "spanish": "Habla, aunque sea imperfecto.",
+      "category": "Motivation",
+      "generated_at": "2026-09-11T05:24:51.749114"
+    },
+    {
+      "english": "Celebrate your wins, however small.",
+      "spanish": "Celebra tus victorias, por pequeñas que sean.",
+      "category": "Motivation",
+      "generated_at": "2026-09-11T05:24:51.749115"
+    },
+    {
+      "english": "Don't fear, just speak.",
+      "spanish": "No temas, solo habla.",
+      "category": "Motivation",
+      "generated_at": "2026-09-11T05:24:51.749115"
+    },
+    {
+      "english": "Learning is fun, embrace it.",
+      "spanish": "Aprender es divertido, acéptalo.",
+      "category": "Motivation",
+      "generated_at": "2026-09-11T05:24:51.749116"
+    },
+    {
+      "english": "Your Spanish will bloom.",
+      "spanish": "Tu español florecerá.",
+      "category": "Motivation",
+      "generated_at": "2026-09-11T05:24:51.749117"
+    },
+    {
+      "english": "Try new phrases, expand.",
+      "spanish": "Prueba frases nuevas, expande.",
+      "category": "Motivation",
+      "generated_at": "2026-09-11T05:24:51.749118"
+    },
+    {
+      "english": "Don't translate, think Spanish.",
+      "spanish": "No traduzcas, piensa en español.",
+      "category": "Motivation",
+      "generated_at": "2026-09-11T05:24:51.749118"
+    },
+    {
+      "english": "Be brave, say it.",
+      "spanish": "Sé valiente, dilo.",
+      "category": "Motivation",
+      "generated_at": "2026-09-11T05:24:51.749119"
+    },
+    {
+      "english": "Immerse yourself, listen closely.",
+      "spanish": "Sumérgete, escucha atentamente.",
+      "category": "Motivation",
+      "generated_at": "2026-09-11T05:24:51.749120"
+    },
+    {
+      "english": "You're doing great, keep trying.",
+      "spanish": "Lo estás haciendo genial, sigue intentando.",
+      "category": "Motivation",
+      "generated_at": "2026-09-11T05:24:51.749121"
+    },
+    {
+      "english": "Ask questions, clarify.",
+      "spanish": "Haz preguntas, aclara.",
+      "category": "Motivation",
+      "generated_at": "2026-09-11T05:24:51.749121"
+    },
+    {
+      "english": "Don't worry, just learn.",
+      "spanish": "No te preocupes, solo aprende.",
+      "category": "Motivation",
+      "generated_at": "2026-09-11T05:24:51.749122"
+    },
+    {
+      "english": "You are capable, trust that.",
+      "spanish": "Eres capaz, confía en eso.",
+      "category": "Motivation",
+      "generated_at": "2026-09-11T05:24:51.749123"
+    },
+    {
+      "english": "Don't be afraid to sound funny.",
+      "spanish": "No tengas miedo de sonar chistoso.",
+      "category": "Motivation",
+      "generated_at": "2026-09-11T05:24:51.749124"
+    },
+    {
+      "english": "Focus on understanding.",
+      "spanish": "Concéntrate en comprender.",
+      "category": "Motivation",
+      "generated_at": "2026-09-11T05:24:51.749125"
+    },
+    {
+      "english": "Your efforts compound.",
+      "spanish": "Tus esfuerzos se acumulan.",
+      "category": "Motivation",
+      "generated_at": "2026-09-11T05:24:51.749125"
+    },
+    {
+      "english": "Keep practicing, it gets easier.",
+      "spanish": "Sigue practicando, se pone más fácil.",
+      "category": "Motivation",
+      "generated_at": "2026-09-11T05:24:51.749126"
+    },
+    {
+      "english": "Don't stress, learn Spanish.",
+      "spanish": "No te estreses, aprende español.",
+      "category": "Motivation",
+      "generated_at": "2026-09-11T05:24:51.749127"
+    },
+    {
+      "english": "Mistakes are good, embrace them.",
+      "spanish": "Los errores son buenos, abrázalos.",
+      "category": "Motivation",
+      "generated_at": "2026-09-11T05:24:51.749128"
+    },
+    {
+      "english": "Practice daily, you'll improve.",
+      "spanish": "Practica a diario, mejorarás.",
+      "category": "Motivation",
+      "generated_at": "2026-09-11T05:24:51.749129"
+    },
+    {
+      "english": "It's okay, to mess up.",
+      "spanish": "Está bien, equivocarse.",
+      "category": "Motivation",
+      "generated_at": "2026-09-11T05:24:51.749130"
+    },
+    {
+      "english": "Speak, even if imperfect.",
+      "spanish": "Habla, aunque sea imperfecto.",
+      "category": "Motivation",
+      "generated_at": "2026-09-11T05:24:51.749131"
+    },
+    {
+      "english": "Celebrate your wins, however small.",
+      "spanish": "Celebra tus victorias, por pequeñas que sean.",
+      "category": "Motivation",
+      "generated_at": "2026-09-11T05:24:51.749132"
+    },
+    {
+      "english": "Don't fear, just speak.",
+      "spanish": "No temas, solo habla.",
+      "category": "Motivation",
+      "generated_at": "2026-09-11T05:24:51.749133"
+    },
+    {
+      "english": "Learning is fun, embrace it.",
+      "spanish": "Aprender es divertido, acéptalo.",
+      "category": "Motivation",
+      "generated_at": "2026-09-11T05:24:51.749134"
+    },
+    {
+      "english": "Your Spanish will bloom.",
+      "spanish": "Tu español florecerá.",
+      "category": "Motivation",
+      "generated_at": "2026-09-11T05:24:51.749134"
+    },
+    {
+      "english": "Try new phrases, expand.",
+      "spanish": "Prueba frases nuevas, expande.",
+      "category": "Motivation",
+      "generated_at": "2026-09-11T05:24:51.749135"
+    },
+    {
+      "english": "Don't translate, think Spanish.",
+      "spanish": "No traduzcas, piensa en español.",
+      "category": "Motivation",
+      "generated_at": "2026-09-11T05:24:51.749136"
+    },
+    {
+      "english": "Be brave, say it.",
+      "spanish": "Sé valiente, dilo.",
+      "category": "Motivation",
+      "generated_at": "2026-09-11T05:24:51.749137"
+    },
+    {
+      "english": "Immerse yourself, listen closely.",
+      "spanish": "Sumérgete, escucha atentamente.",
+      "category": "Motivation",
+      "generated_at": "2026-09-11T05:24:51.749138"
+    },
+    {
+      "english": "You're doing great, keep trying.",
+      "spanish": "Lo estás haciendo genial, sigue intentando.",
+      "category": "Motivation",
+      "generated_at": "2026-09-11T05:24:51.749138"
+    },
+    {
+      "english": "Ask questions, clarify.",
+      "spanish": "Haz preguntas, aclara.",
+      "category": "Motivation",
+      "generated_at": "2026-09-11T05:24:51.749139"
+    },
+    {
+      "english": "Don't worry, just learn.",
+      "spanish": "No te preocupes, solo aprende.",
+      "category": "Motivation",
+      "generated_at": "2026-09-11T05:24:51.749140"
+    },
+    {
+      "english": "You are capable, trust that.",
+      "spanish": "Eres capaz, confía en eso.",
+      "category": "Motivation",
+      "generated_at": "2026-09-11T05:24:51.749141"
+    },
+    {
+      "english": "Don't be afraid to sound funny.",
+      "spanish": "No tengas miedo de sonar chistoso.",
+      "category": "Motivation",
+      "generated_at": "2026-09-11T05:24:51.749142"
+    },
+    {
+      "english": "Focus on understanding.",
+      "spanish": "Concéntrate en comprender.",
+      "category": "Motivation",
+      "generated_at": "2026-09-11T05:24:51.749142"
+    },
+    {
+      "english": "Your efforts compound.",
+      "spanish": "Tus esfuerzos se acumulan.",
+      "category": "Motivation",
+      "generated_at": "2026-09-11T05:24:51.749143"
+    },
+    {
+      "english": "Keep practicing, it gets easier.",
+      "spanish": "Sigue practicando, se pone más fácil.",
+      "category": "Motivation",
+      "generated_at": "2026-09-11T05:24:51.749144"
+    },
+    {
+      "english": "Don't stress, learn Spanish.",
+      "spanish": "No te estreses, aprende español.",
+      "category": "Motivation",
+      "generated_at": "2026-09-11T05:24:51.749145"
+    },
+    {
+      "english": "Mistakes are good, embrace them.",
+      "spanish": "Los errores son buenos, abrázalos.",
+      "category": "Motivation",
+      "generated_at": "2026-09-11T05:24:51.749146"
+    },
+    {
+      "english": "Practice daily, you'll improve.",
+      "spanish": "Practica a diario, mejorarás.",
+      "category": "Motivation",
+      "generated_at": "2026-09-11T05:24:51.749147"
+    },
+    {
+      "english": "It's okay, to mess up.",
+      "spanish": "Está bien, equivocarse.",
+      "category": "Motivation",
+      "generated_at": "2026-09-11T05:24:51.749148"
+    },
+    {
+      "english": "Speak, even if imperfect.",
+      "spanish": "Habla, aunque sea imperfecto.",
+      "category": "Motivation",
+      "generated_at": "2026-09-11T05:24:51.749148"
+    },
+    {
+      "english": "Celebrate your wins, however small.",
+      "spanish": "Celebra tus victorias, por pequeñas que sean.",
+      "category": "Motivation",
+      "generated_at": "2026-09-11T05:24:51.749149"
+    },
+    {
+      "english": "Don't fear, just speak.",
+      "spanish": "No temas, solo habla.",
+      "category": "Motivation",
+      "generated_at": "2026-09-11T05:24:51.749150"
+    },
+    {
+      "english": "Learning is fun, embrace it.",
+      "spanish": "Aprender es divertido, acéptalo.",
+      "category": "Motivation",
+      "generated_at": "2026-09-11T05:24:51.749151"
+    },
+    {
+      "english": "Your Spanish will bloom.",
+      "spanish": "Tu español florecerá.",
+      "category": "Motivation",
+      "generated_at": "2026-09-11T05:24:51.749152"
+    },
+    {
+      "english": "Try new phrases, expand.",
+      "spanish": "Prueba frases nuevas, expande.",
+      "category": "Motivation",
+      "generated_at": "2026-09-11T05:24:51.749153"
+    },
+    {
+      "english": "Don't translate, think Spanish.",
+      "spanish": "No traduzcas, piensa en español.",
+      "category": "Motivation",
+      "generated_at": "2026-09-11T05:24:51.749153"
+    },
+    {
+      "english": "Be brave, say it.",
+      "spanish": "Sé valiente, dilo.",
+      "category": "Motivation",
+      "generated_at": "2026-09-11T05:24:51.749154"
+    },
+    {
+      "english": "Immerse yourself, listen closely.",
+      "spanish": "Sumérgete, escucha atentamente.",
+      "category": "Motivation",
+      "generated_at": "2026-09-11T05:24:51.749155"
+    },
+    {
+      "english": "You're doing great, keep trying.",
+      "spanish": "Lo estás haciendo genial, sigue intentando.",
+      "category": "Motivation",
+      "generated_at": "2026-09-11T05:24:51.749156"
+    },
+    {
+      "english": "Ask questions, clarify.",
+      "spanish": "Haz preguntas, aclara.",
+      "category": "Motivation",
+      "generated_at": "2026-09-11T05:24:51.749156"
+    },
+    {
+      "english": "Don't worry, just learn.",
+      "spanish": "No te preocupes, solo aprende.",
+      "category": "Motivation",
+      "generated_at": "2026-09-11T05:24:51.749157"
+    },
+    {
+      "english": "You are capable, trust that.",
+      "spanish": "Eres capaz, confía en eso.",
+      "category": "Motivation",
+      "generated_at": "2026-09-11T05:24:51.749158"
+    },
+    {
+      "english": "Don't be afraid to sound funny.",
+      "spanish": "No tengas miedo de sonar chistoso.",
+      "category": "Motivation",
+      "generated_at": "2026-09-11T05:24:51.749158"
+    },
+    {
+      "english": "Focus on understanding.",
+      "spanish": "Concéntrate en comprender.",
+      "category": "Motivation",
+      "generated_at": "2026-09-11T05:24:51.749159"
+    },
+    {
+      "english": "Your efforts compound.",
+      "spanish": "Tus esfuerzos se acumulan.",
+      "category": "Motivation",
+      "generated_at": "2026-09-11T05:24:51.749160"
+    },
+    {
+      "english": "Keep practicing, it gets easier.",
+      "spanish": "Sigue practicando, se pone más fácil.",
+      "category": "Motivation",
+      "generated_at": "2026-09-11T05:24:51.749161"
+    },
+    {
+      "english": "Don't stress, learn Spanish.",
+      "spanish": "No te estreses, aprende español.",
+      "category": "Motivation",
+      "generated_at": "2026-09-11T05:24:51.749162"
+    },
+    {
+      "english": "Mistakes are good, embrace them.",
+      "spanish": "Los errores son buenos, abrázalos.",
+      "category": "Motivation",
+      "generated_at": "2026-09-11T05:24:51.749163"
+    },
+    {
+      "english": "Practice daily, you'll improve.",
+      "spanish": "Practica a diario, mejorarás.",
+      "category": "Motivation",
+      "generated_at": "2026-09-11T05:24:51.749163"
+    },
+    {
+      "english": "It's okay, to mess up.",
+      "spanish": "Está bien, equivocarse.",
+      "category": "Motivation",
+      "generated_at": "2026-09-11T05:24:51.749164"
+    },
+    {
+      "english": "Speak, even if imperfect.",
+      "spanish": "Habla, aunque sea imperfecto.",
+      "category": "Motivation",
+      "generated_at": "2026-09-11T05:24:51.749165"
+    },
+    {
+      "english": "Celebrate your wins, however small.",
+      "spanish": "Celebra tus victorias, por pequeñas que sean.",
+      "category": "Motivation",
+      "generated_at": "2026-09-11T05:24:51.749166"
+    },
+    {
+      "english": "Don't fear, just speak.",
+      "spanish": "No temas, solo habla.",
+      "category": "Motivation",
+      "generated_at": "2026-09-11T05:24:51.749167"
+    },
+    {
+      "english": "Learning is fun, embrace it.",
+      "spanish": "Aprender es divertido, acéptalo.",
+      "category": "Motivation",
+      "generated_at": "2026-09-11T05:24:51.749168"
+    },
+    {
+      "english": "Your Spanish will bloom.",
+      "spanish": "Tu español florecerá.",
+      "category": "Motivation",
+      "generated_at": "2026-09-11T05:24:51.749169"
+    },
+    {
+      "english": "Try new phrases, expand.",
+      "spanish": "Prueba frases nuevas, expande.",
+      "category": "Motivation",
+      "generated_at": "2026-09-11T05:24:51.749169"
+    },
+    {
+      "english": "Don't translate, think Spanish.",
+      "spanish": "No traduzcas, piensa en español.",
+      "category": "Motivation",
+      "generated_at": "2026-09-11T05:24:51.749170"
+    },
+    {
+      "english": "Be brave, say it.",
+      "spanish": "Sé valiente, dilo.",
+      "category": "Motivation",
+      "generated_at": "2026-09-11T05:24:51.749171"
+    },
+    {
+      "english": "Immerse yourself, listen closely.",
+      "spanish": "Sumérgete, escucha atentamente.",
+      "category": "Motivation",
+      "generated_at": "2026-09-11T05:24:51.749171"
+    },
+    {
+      "english": "You're doing great, keep trying.",
+      "spanish": "Lo estás haciendo genial, sigue intentando.",
+      "category": "Motivation",
+      "generated_at": "2026-09-11T05:24:51.749172"
+    },
+    {
+      "english": "Ask questions, clarify.",
+      "spanish": "Haz preguntas, aclara.",
+      "category": "Motivation",
+      "generated_at": "2026-09-11T05:24:51.749173"
+    },
+    {
+      "english": "Don't worry, just learn.",
+      "spanish": "No te preocupes, solo aprende.",
+      "category": "Motivation",
+      "generated_at": "2026-09-11T05:24:51.749174"
+    },
+    {
+      "english": "You are capable, trust that.",
+      "spanish": "Eres capaz, confía en eso.",
+      "category": "Motivation",
+      "generated_at": "2026-09-11T05:24:51.749175"
+    },
+    {
+      "english": "Don't be afraid to sound funny.",
+      "spanish": "No tengas miedo de sonar chistoso.",
+      "category": "Motivation",
+      "generated_at": "2026-09-11T05:24:51.749175"
+    },
+    {
+      "english": "Focus on understanding.",
+      "spanish": "Concéntrate en comprender.",
+      "category": "Motivation",
+      "generated_at": "2026-09-11T05:24:51.749176"
+    },
+    {
+      "english": "Your efforts compound.",
+      "spanish": "Tus esfuerzos se acumulan.",
+      "category": "Motivation",
+      "generated_at": "2026-09-11T05:24:51.749177"
+    },
+    {
+      "english": "Keep practicing, it gets easier.",
+      "spanish": "Sigue practicando, se pone más fácil.",
+      "category": "Motivation",
+      "generated_at": "2026-09-11T05:24:51.749178"
+    },
+    {
+      "english": "Don't say 'yo soy', say 'yo tengo' for age.",
+      "spanish": "No digas 'yo soy', di 'yo tengo' para edad.",
+      "category": "Motivation",
+      "generated_at": "2026-09-11T05:24:51.749179"
+    },
+    {
+      "english": "It's not 'the book', it's 'un libro'.",
+      "spanish": "No es 'el libro', es 'un libro'.",
+      "category": "Motivation",
+      "generated_at": "2026-09-11T05:24:51.749179"
+    },
+    {
+      "english": "Say 'mucho gusto', not 'nice meet you'.",
+      "spanish": "Di 'mucho gusto', no 'nice meet you'.",
+      "category": "Motivation",
+      "generated_at": "2026-09-11T05:24:51.749180"
+    },
+    {
+      "english": "Remember 'haber' for 'there is', 'there are'.",
+      "spanish": "Recuerda 'haber' para 'there is', 'there are'.",
+      "category": "Motivation",
+      "generated_at": "2026-09-11T05:24:51.749181"
+    },
+    {
+      "english": "Use 'por' for duration, 'para' for purpose.",
+      "spanish": "Usa 'por' para duración, 'para' para propósito.",
+      "category": "Motivation",
+      "generated_at": "2026-09-11T05:24:51.749182"
+    },
+    {
+      "english": "Adjectives, they agree! Match the noun.",
+      "spanish": "Adjetivos, ¡concuerdan! Empareja el sustantivo.",
+      "category": "Motivation",
+      "generated_at": "2026-09-11T05:24:51.749183"
+    },
+    {
+      "english": "Don't use 'very', try 'muy' for adjectives.",
+      "spanish": "No uses 'very', intenta 'muy' con adjetivos.",
+      "category": "Motivation",
+      "generated_at": "2026-09-11T05:24:51.749183"
+    },
+    {
+      "english": "It's 'tener sed', not 'to be thirsty'.",
+      "spanish": "Es 'tener sed', no 'to be thirsty'.",
+      "category": "Motivation",
+      "generated_at": "2026-09-11T05:24:51.749184"
+    },
+    {
+      "english": "To want something, say 'querer'.",
+      "spanish": "Para querer algo, di 'querer'.",
+      "category": "Motivation",
+      "generated_at": "2026-09-11T05:24:51.749185"
+    },
+    {
+      "english": "When 'to be', choose wisely, 'ser' or 'estar'.",
+      "spanish": "Cuando 'ser', elige bien, 'ser' o 'estar'.",
+      "category": "Motivation",
+      "generated_at": "2026-09-11T05:24:51.749186"
+    },
+    {
+      "english": "Possessive 'my' is 'mi', not 'my'.",
+      "spanish": "El posesivo 'mi', es 'mi', no 'my'.",
+      "category": "Motivation",
+      "generated_at": "2026-09-11T05:24:51.749186"
+    },
+    {
+      "english": "Say 'sí' for yes, not 'si'.",
+      "spanish": "Di 'sí' para sí, no 'si'.",
+      "category": "Motivation",
+      "generated_at": "2026-09-11T05:24:51.749187"
+    },
+    {
+      "english": "For 'how are you', 'cómo estás' is common.",
+      "spanish": "Para 'cómo estás', 'cómo estás' es común.",
+      "category": "Motivation",
+      "generated_at": "2026-09-11T05:24:51.749188"
+    },
+    {
+      "english": "The direct object? Use 'lo' or 'la'.",
+      "spanish": "¿El objeto directo? Usa 'lo' o 'la'.",
+      "category": "Motivation",
+      "generated_at": "2026-09-11T05:24:51.749189"
+    },
+    {
+      "english": "Don't forget accent marks, they matter!",
+      "spanish": "¡No olvides las tildes, son importantes!",
+      "category": "Motivation",
+      "generated_at": "2026-09-11T05:24:51.749189"
     }
   ],
-  "last_updated": "2026-09-10T05:26:38.046116"
+  "last_updated": "2026-09-11T05:24:51.749191"
 }
