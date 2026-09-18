@@ -46079,7 +46079,727 @@
       "spanish": "Pequeños hábitos, crean cambio.",
       "category": "Growth",
       "generated_at": "2026-09-17T05:35:33.054677"
+    },
+    {
+      "english": "Thanks a lot, really.",
+      "spanish": "Muchas gracias, de verdad.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-18T05:24:16.797397"
+    },
+    {
+      "english": "I appreciate it, so much.",
+      "spanish": "Lo aprecio, muchísimo.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-18T05:24:16.797411"
+    },
+    {
+      "english": "You're so kind, thank you.",
+      "spanish": "Eres muy amable, gracias.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-18T05:24:16.797412"
+    },
+    {
+      "english": "I'm grateful, for you.",
+      "spanish": "Estoy agradecido, por ti.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-18T05:24:16.797412"
+    },
+    {
+      "english": "What a nice gesture, thanks.",
+      "spanish": "Qué detalle tan bonito, gracias.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-18T05:24:16.797413"
+    },
+    {
+      "english": "I owe you one, truly.",
+      "spanish": "Te debo una, de verdad.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-18T05:24:16.797414"
+    },
+    {
+      "english": "That was very helpful, thanks.",
+      "spanish": "Eso fue muy útil, gracias.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-18T05:24:16.797414"
+    },
+    {
+      "english": "My thanks, to you all.",
+      "spanish": "Mi agradecimiento, a todos.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-18T05:24:16.797418"
+    },
+    {
+      "english": "You saved me, really.",
+      "spanish": "Me salvaste, de verdad.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-18T05:24:16.797419"
+    },
+    {
+      "english": "I'm thankful, for this.",
+      "spanish": "Doy gracias, por esto.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-18T05:24:16.797420"
+    },
+    {
+      "english": "This means a lot, thanks.",
+      "spanish": "Esto significa mucho, gracias.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-18T05:24:16.797420"
+    },
+    {
+      "english": "I really appreciate, your help.",
+      "spanish": "Aprecio mucho, tu ayuda.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-18T05:24:16.797421"
+    },
+    {
+      "english": "Such kindness, wow.",
+      "spanish": "Qué amabilidad, vaya.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-18T05:24:16.797422"
+    },
+    {
+      "english": "I'm so grateful, today.",
+      "spanish": "Estoy muy agradecido, hoy.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-18T05:24:16.797422"
+    },
+    {
+      "english": "Thank you kindly, sir.",
+      "spanish": "Gracias amablemente, señor.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-18T05:24:16.797423"
+    },
+    {
+      "english": "Thank you kindly, madam.",
+      "spanish": "Gracias amablemente, señora.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-18T05:24:16.797423"
+    },
+    {
+      "english": "You're a lifesaver, thanks.",
+      "spanish": "Eres un salvavidas, gracias.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-18T05:24:16.797424"
+    },
+    {
+      "english": "I can't thank you enough.",
+      "spanish": "No puedo agradecerte lo suficiente.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-18T05:24:16.797425"
+    },
+    {
+      "english": "My sincere thanks, always.",
+      "spanish": "Mi sincero agradecimiento, siempre.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-18T05:24:16.797426"
+    },
+    {
+      "english": "What a thoughtful gift, thanks.",
+      "spanish": "Qué regalo tan considerado, gracias.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-18T05:24:16.797426"
+    },
+    {
+      "english": "I'm indebted, to you.",
+      "spanish": "Estoy en deuda, contigo.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-18T05:24:16.797427"
+    },
+    {
+      "english": "This is wonderful, thank you.",
+      "spanish": "Esto es maravilloso, gracias.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-18T05:24:16.797427"
+    },
+    {
+      "english": "You've been a great help.",
+      "spanish": "Has sido de gran ayuda.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-18T05:24:16.797428"
+    },
+    {
+      "english": "My gratitude, is immense.",
+      "spanish": "Mi gratitud, es inmensa.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-18T05:24:16.797428"
+    },
+    {
+      "english": "How thoughtful of you, thanks.",
+      "spanish": "Qué detalle tan considerado, gracias.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-18T05:24:16.797429"
+    },
+    {
+      "english": "I appreciate your time, much.",
+      "spanish": "Aprecio tu tiempo, mucho.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-18T05:24:16.797430"
+    },
+    {
+      "english": "You're a true friend, thanks.",
+      "spanish": "Eres un verdadero amigo, gracias.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-18T05:24:16.797430"
+    },
+    {
+      "english": "I'm so thankful, for everything.",
+      "spanish": "Estoy muy agradecido, por todo.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-18T05:24:16.797431"
+    },
+    {
+      "english": "This is fantastic, thanks.",
+      "spanish": "Esto es fantástico, gracias.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-18T05:24:16.797432"
+    },
+    {
+      "english": "I'm really grateful, for this.",
+      "spanish": "Estoy muy agradecido, por esto.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-18T05:24:16.797432"
+    },
+    {
+      "english": "I have no words, thanks.",
+      "spanish": "No tengo palabras, gracias.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-18T05:24:16.797432"
+    },
+    {
+      "english": "What a treat, thank you.",
+      "spanish": "Qué gusto, gracias.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-18T05:24:16.797433"
+    },
+    {
+      "english": "I'm appreciative, always.",
+      "spanish": "Siempre estoy agradecido.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-18T05:24:16.797434"
+    },
+    {
+      "english": "You're so thoughtful, thank you.",
+      "spanish": "Eres muy considerado, gracias.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-18T05:24:16.797434"
+    },
+    {
+      "english": "This is perfect, thanks.",
+      "spanish": "Esto es perfecto, gracias.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-18T05:24:16.797435"
+    },
+    {
+      "english": "You made my day, thanks.",
+      "spanish": "Me alegraste el día, gracias.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-18T05:24:16.797435"
+    },
+    {
+      "english": "Deepest thanks, to you.",
+      "spanish": "Mi más profundo agradecimiento.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-18T05:24:16.797436"
+    },
+    {
+      "english": "I'm truly thankful, yes.",
+      "spanish": "Estoy verdaderamente agradecido, sí.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-18T05:24:16.797436"
+    },
+    {
+      "english": "Thanks a lot, really.",
+      "spanish": "Muchas gracias, de verdad.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-18T05:24:16.797437"
+    },
+    {
+      "english": "I appreciate it, so much.",
+      "spanish": "Lo aprecio, muchísimo.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-18T05:24:16.797438"
+    },
+    {
+      "english": "You're so kind, thank you.",
+      "spanish": "Eres muy amable, gracias.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-18T05:24:16.797439"
+    },
+    {
+      "english": "I'm grateful, for you.",
+      "spanish": "Estoy agradecido, por ti.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-18T05:24:16.797439"
+    },
+    {
+      "english": "What a nice gesture, thanks.",
+      "spanish": "Qué detalle tan bonito, gracias.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-18T05:24:16.797440"
+    },
+    {
+      "english": "I owe you one, truly.",
+      "spanish": "Te debo una, de verdad.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-18T05:24:16.797441"
+    },
+    {
+      "english": "That was very helpful, thanks.",
+      "spanish": "Eso fue muy útil, gracias.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-18T05:24:16.797441"
+    },
+    {
+      "english": "My thanks, to you all.",
+      "spanish": "Mi agradecimiento, a todos.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-18T05:24:16.797442"
+    },
+    {
+      "english": "You saved me, really.",
+      "spanish": "Me salvaste, de verdad.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-18T05:24:16.797443"
+    },
+    {
+      "english": "I'm thankful, for this.",
+      "spanish": "Doy gracias, por esto.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-18T05:24:16.797443"
+    },
+    {
+      "english": "This means a lot, thanks.",
+      "spanish": "Esto significa mucho, gracias.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-18T05:24:16.797444"
+    },
+    {
+      "english": "I really appreciate, your help.",
+      "spanish": "Aprecio mucho, tu ayuda.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-18T05:24:16.797444"
+    },
+    {
+      "english": "Such kindness, wow.",
+      "spanish": "Qué amabilidad, vaya.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-18T05:24:16.797445"
+    },
+    {
+      "english": "I'm so grateful, today.",
+      "spanish": "Estoy muy agradecido, hoy.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-18T05:24:16.797445"
+    },
+    {
+      "english": "Thank you kindly, sir.",
+      "spanish": "Gracias amablemente, señor.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-18T05:24:16.797446"
+    },
+    {
+      "english": "Thank you kindly, madam.",
+      "spanish": "Gracias amablemente, señora.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-18T05:24:16.797447"
+    },
+    {
+      "english": "You're a lifesaver, thanks.",
+      "spanish": "Eres un salvavidas, gracias.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-18T05:24:16.797447"
+    },
+    {
+      "english": "I can't thank you enough.",
+      "spanish": "No puedo agradecerte lo suficiente.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-18T05:24:16.797448"
+    },
+    {
+      "english": "My sincere thanks, always.",
+      "spanish": "Mi sincero agradecimiento, siempre.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-18T05:24:16.797448"
+    },
+    {
+      "english": "What a thoughtful gift, thanks.",
+      "spanish": "Qué regalo tan considerado, gracias.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-18T05:24:16.797449"
+    },
+    {
+      "english": "I'm indebted, to you.",
+      "spanish": "Estoy en deuda, contigo.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-18T05:24:16.797450"
+    },
+    {
+      "english": "This is wonderful, thank you.",
+      "spanish": "Esto es maravilloso, gracias.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-18T05:24:16.797450"
+    },
+    {
+      "english": "You've been a great help.",
+      "spanish": "Has sido de gran ayuda.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-18T05:24:16.797451"
+    },
+    {
+      "english": "My gratitude, is immense.",
+      "spanish": "Mi gratitud, es inmensa.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-18T05:24:16.797452"
+    },
+    {
+      "english": "How thoughtful of you, thanks.",
+      "spanish": "Qué detalle tan considerado, gracias.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-18T05:24:16.797452"
+    },
+    {
+      "english": "I appreciate your time, much.",
+      "spanish": "Aprecio tu tiempo, mucho.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-18T05:24:16.797453"
+    },
+    {
+      "english": "You're a true friend, thanks.",
+      "spanish": "Eres un verdadero amigo, gracias.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-18T05:24:16.797453"
+    },
+    {
+      "english": "I'm so thankful, for everything.",
+      "spanish": "Estoy muy agradecido, por todo.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-18T05:24:16.797454"
+    },
+    {
+      "english": "This is fantastic, thanks.",
+      "spanish": "Esto es fantástico, gracias.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-18T05:24:16.797455"
+    },
+    {
+      "english": "I'm really grateful, for this.",
+      "spanish": "Estoy muy agradecido, por esto.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-18T05:24:16.797455"
+    },
+    {
+      "english": "I have no words, thanks.",
+      "spanish": "No tengo palabras, gracias.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-18T05:24:16.797456"
+    },
+    {
+      "english": "What a treat, thank you.",
+      "spanish": "Qué gusto, gracias.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-18T05:24:16.797457"
+    },
+    {
+      "english": "I'm appreciative, always.",
+      "spanish": "Siempre estoy agradecido.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-18T05:24:16.797457"
+    },
+    {
+      "english": "You're so thoughtful, thank you.",
+      "spanish": "Eres muy considerado, gracias.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-18T05:24:16.797458"
+    },
+    {
+      "english": "This is perfect, thanks.",
+      "spanish": "Esto es perfecto, gracias.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-18T05:24:16.797458"
+    },
+    {
+      "english": "You made my day, thanks.",
+      "spanish": "Me alegraste el día, gracias.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-18T05:24:16.797459"
+    },
+    {
+      "english": "Deepest thanks, to you.",
+      "spanish": "Mi más profundo agradecimiento.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-18T05:24:16.797460"
+    },
+    {
+      "english": "I'm truly thankful, yes.",
+      "spanish": "Estoy verdaderamente agradecido, sí.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-18T05:24:16.797460"
+    },
+    {
+      "english": "Thanks a lot, really.",
+      "spanish": "Muchas gracias, de verdad.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-18T05:24:16.797461"
+    },
+    {
+      "english": "I appreciate it, so much.",
+      "spanish": "Lo aprecio, muchísimo.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-18T05:24:16.797462"
+    },
+    {
+      "english": "You're so kind, thank you.",
+      "spanish": "Eres muy amable, gracias.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-18T05:24:16.797463"
+    },
+    {
+      "english": "I'm grateful, for you.",
+      "spanish": "Estoy agradecido, por ti.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-18T05:24:16.797463"
+    },
+    {
+      "english": "What a nice gesture, thanks.",
+      "spanish": "Qué detalle tan bonito, gracias.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-18T05:24:16.797464"
+    },
+    {
+      "english": "I owe you one, truly.",
+      "spanish": "Te debo una, de verdad.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-18T05:24:16.797465"
+    },
+    {
+      "english": "That was very helpful, thanks.",
+      "spanish": "Eso fue muy útil, gracias.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-18T05:24:16.797465"
+    },
+    {
+      "english": "My thanks, to you all.",
+      "spanish": "Mi agradecimiento, a todos.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-18T05:24:16.797466"
+    },
+    {
+      "english": "You saved me, really.",
+      "spanish": "Me salvaste, de verdad.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-18T05:24:16.797466"
+    },
+    {
+      "english": "I'm thankful, for this.",
+      "spanish": "Doy gracias, por esto.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-18T05:24:16.797467"
+    },
+    {
+      "english": "This means a lot, thanks.",
+      "spanish": "Esto significa mucho, gracias.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-18T05:24:16.797468"
+    },
+    {
+      "english": "I really appreciate, your help.",
+      "spanish": "Aprecio mucho, tu ayuda.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-18T05:24:16.797468"
+    },
+    {
+      "english": "Such kindness, wow.",
+      "spanish": "Qué amabilidad, vaya.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-18T05:24:16.797469"
+    },
+    {
+      "english": "I'm so grateful, today.",
+      "spanish": "Estoy muy agradecido, hoy.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-18T05:24:16.797470"
+    },
+    {
+      "english": "Thank you kindly, sir.",
+      "spanish": "Gracias amablemente, señor.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-18T05:24:16.797470"
+    },
+    {
+      "english": "Thank you kindly, madam.",
+      "spanish": "Gracias amablemente, señora.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-18T05:24:16.797471"
+    },
+    {
+      "english": "You're a lifesaver, thanks.",
+      "spanish": "Eres un salvavidas, gracias.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-18T05:24:16.797472"
+    },
+    {
+      "english": "I can't thank you enough.",
+      "spanish": "No puedo agradecerte lo suficiente.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-18T05:24:16.797472"
+    },
+    {
+      "english": "My sincere thanks, always.",
+      "spanish": "Mi sincero agradecimiento, siempre.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-18T05:24:16.797473"
+    },
+    {
+      "english": "What a thoughtful gift, thanks.",
+      "spanish": "Qué regalo tan considerado, gracias.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-18T05:24:16.797473"
+    },
+    {
+      "english": "I'm indebted, to you.",
+      "spanish": "Estoy en deuda, contigo.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-18T05:24:16.797474"
+    },
+    {
+      "english": "This is wonderful, thank you.",
+      "spanish": "Esto es maravilloso, gracias.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-18T05:24:16.797475"
+    },
+    {
+      "english": "You've been a great help.",
+      "spanish": "Has sido de gran ayuda.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-18T05:24:16.797475"
+    },
+    {
+      "english": "My gratitude, is immense.",
+      "spanish": "Mi gratitud, es inmensa.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-18T05:24:16.797476"
+    },
+    {
+      "english": "How thoughtful of you, thanks.",
+      "spanish": "Qué detalle tan considerado, gracias.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-18T05:24:16.797477"
+    },
+    {
+      "english": "I appreciate your time, much.",
+      "spanish": "Aprecio tu tiempo, mucho.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-18T05:24:16.797477"
+    },
+    {
+      "english": "You're a true friend, thanks.",
+      "spanish": "Eres un verdadero amigo, gracias.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-18T05:24:16.797478"
+    },
+    {
+      "english": "I'm so thankful, for everything.",
+      "spanish": "Estoy muy agradecido, por todo.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-18T05:24:16.797478"
+    },
+    {
+      "english": "This is fantastic, thanks.",
+      "spanish": "Esto es fantástico, gracias.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-18T05:24:16.797479"
+    },
+    {
+      "english": "I'm really grateful, for this.",
+      "spanish": "Estoy muy agradecido, por esto.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-18T05:24:16.797480"
+    },
+    {
+      "english": "I have no words, thanks.",
+      "spanish": "No tengo palabras, gracias.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-18T05:24:16.797480"
+    },
+    {
+      "english": "What a treat, thank you.",
+      "spanish": "Qué gusto, gracias.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-18T05:24:16.797481"
+    },
+    {
+      "english": "I'm appreciative, always.",
+      "spanish": "Siempre estoy agradecido.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-18T05:24:16.797482"
+    },
+    {
+      "english": "You're so thoughtful, thank you.",
+      "spanish": "Eres muy considerado, gracias.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-18T05:24:16.797482"
+    },
+    {
+      "english": "This is perfect, thanks.",
+      "spanish": "Esto es perfecto, gracias.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-18T05:24:16.797483"
+    },
+    {
+      "english": "You made my day, thanks.",
+      "spanish": "Me alegraste el día, gracias.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-18T05:24:16.797484"
+    },
+    {
+      "english": "Deepest thanks, to you.",
+      "spanish": "Mi más profundo agradecimiento.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-18T05:24:16.797484"
+    },
+    {
+      "english": "I'm truly thankful, yes.",
+      "spanish": "Estoy verdaderamente agradecido, sí.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-18T05:24:16.797485"
+    },
+    {
+      "english": "Thanks a lot, really.",
+      "spanish": "Muchas gracias, de verdad.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-18T05:24:16.797486"
+    },
+    {
+      "english": "I appreciate it, so much.",
+      "spanish": "Lo aprecio, muchísimo.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-18T05:24:16.797486"
+    },
+    {
+      "english": "You're so kind, thank you.",
+      "spanish": "Eres muy amable, gracias.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-18T05:24:16.797487"
+    },
+    {
+      "english": "I'm grateful, for you.",
+      "spanish": "Estoy agradecido, por ti.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-18T05:24:16.797487"
+    },
+    {
+      "english": "What a nice gesture, thanks.",
+      "spanish": "Qué detalle tan bonito, gracias.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-18T05:24:16.797488"
+    },
+    {
+      "english": "I owe you one, truly.",
+      "spanish": "Te debo una, de verdad.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-18T05:24:16.797488"
     }
   ],
-  "last_updated": "2026-09-17T05:35:33.054678"
+  "last_updated": "2026-09-18T05:24:16.797490"
 }
