@@ -47519,7 +47519,727 @@
       "spanish": "No te rindas, intenta otra vez.",
       "category": "Growth",
       "generated_at": "2026-09-19T05:15:42.148352"
+    },
+    {
+      "english": "Listen in, to yourself.",
+      "spanish": "Escucha en, tu interior.",
+      "category": "Inner Peace",
+      "generated_at": "2026-09-20T05:32:21.816730"
+    },
+    {
+      "english": "Peace comes, from within.",
+      "spanish": "La paz viene, de adentro.",
+      "category": "Inner Peace",
+      "generated_at": "2026-09-20T05:32:21.816741"
+    },
+    {
+      "english": "Settle your, mind.",
+      "spanish": "Tranquiliza tu, mente.",
+      "category": "Inner Peace",
+      "generated_at": "2026-09-20T05:32:21.816742"
+    },
+    {
+      "english": "Find your, center.",
+      "spanish": "Encuentra tu, centro.",
+      "category": "Inner Peace",
+      "generated_at": "2026-09-20T05:32:21.816744"
+    },
+    {
+      "english": "Quiet the, noise.",
+      "spanish": "Silencia el, ruido.",
+      "category": "Inner Peace",
+      "generated_at": "2026-09-20T05:32:21.816745"
+    },
+    {
+      "english": "Release what, hurts.",
+      "spanish": "Libera lo, que duele.",
+      "category": "Inner Peace",
+      "generated_at": "2026-09-20T05:32:21.816746"
+    },
+    {
+      "english": "Accept what, is.",
+      "spanish": "Acepta lo, que es.",
+      "category": "Inner Peace",
+      "generated_at": "2026-09-20T05:32:21.816747"
+    },
+    {
+      "english": "Feel the, stillness.",
+      "spanish": "Siente la, quietud.",
+      "category": "Inner Peace",
+      "generated_at": "2026-09-20T05:32:21.816750"
+    },
+    {
+      "english": "Your calm, awaits.",
+      "spanish": "Tu calma, espera.",
+      "category": "Inner Peace",
+      "generated_at": "2026-09-20T05:32:21.816752"
+    },
+    {
+      "english": "Slow down, your thoughts.",
+      "spanish": "Ralentiza tus, pensamientos.",
+      "category": "Inner Peace",
+      "generated_at": "2026-09-20T05:32:21.816753"
+    },
+    {
+      "english": "Embrace this, quiet.",
+      "spanish": "Abraza este, silencio.",
+      "category": "Inner Peace",
+      "generated_at": "2026-09-20T05:32:21.816754"
+    },
+    {
+      "english": "Find solace, here.",
+      "spanish": "Encuentra consuelo, aquí.",
+      "category": "Inner Peace",
+      "generated_at": "2026-09-20T05:32:21.816755"
+    },
+    {
+      "english": "Just be, and breathe.",
+      "spanish": "Solo está, y respira.",
+      "category": "Inner Peace",
+      "generated_at": "2026-09-20T05:32:21.816756"
+    },
+    {
+      "english": "Let worries, drift.",
+      "spanish": "Deja que las, preocupaciones se vayan.",
+      "category": "Inner Peace",
+      "generated_at": "2026-09-20T05:32:21.816758"
+    },
+    {
+      "english": "You are, enough.",
+      "spanish": "Eres, suficiente.",
+      "category": "Inner Peace",
+      "generated_at": "2026-09-20T05:32:21.816759"
+    },
+    {
+      "english": "Still your, racing heart.",
+      "spanish": "Calma tu, corazón acelerado.",
+      "category": "Inner Peace",
+      "generated_at": "2026-09-20T05:32:21.816760"
+    },
+    {
+      "english": "Seek your, inner light.",
+      "spanish": "Busca tu, luz interior.",
+      "category": "Inner Peace",
+      "generated_at": "2026-09-20T05:32:21.816761"
+    },
+    {
+      "english": "A moment, of peace.",
+      "spanish": "Un momento, de paz.",
+      "category": "Inner Peace",
+      "generated_at": "2026-09-20T05:32:21.816762"
+    },
+    {
+      "english": "Rest in, this quiet.",
+      "spanish": "Descansa en, esta quietud.",
+      "category": "Inner Peace",
+      "generated_at": "2026-09-20T05:32:21.816763"
+    },
+    {
+      "english": "Soothe your, soul.",
+      "spanish": "Calma tu, alma.",
+      "category": "Inner Peace",
+      "generated_at": "2026-09-20T05:32:21.816764"
+    },
+    {
+      "english": "Your mind, can rest.",
+      "spanish": "Tu mente, puede descansar.",
+      "category": "Inner Peace",
+      "generated_at": "2026-09-20T05:32:21.816765"
+    },
+    {
+      "english": "Find balance, inside.",
+      "spanish": "Encuentra equilibrio, por dentro.",
+      "category": "Inner Peace",
+      "generated_at": "2026-09-20T05:32:21.816766"
+    },
+    {
+      "english": "Be here, fully.",
+      "spanish": "Está aquí, completamente.",
+      "category": "Inner Peace",
+      "generated_at": "2026-09-20T05:32:21.816767"
+    },
+    {
+      "english": "Silence the, chatter.",
+      "spanish": "Silencia la, charla interna.",
+      "category": "Inner Peace",
+      "generated_at": "2026-09-20T05:32:21.816768"
+    },
+    {
+      "english": "A deep, exhale.",
+      "spanish": "Una profunda, exhalación.",
+      "category": "Inner Peace",
+      "generated_at": "2026-09-20T05:32:21.816769"
+    },
+    {
+      "english": "Be still, and know.",
+      "spanish": "Está quieto, y conoce.",
+      "category": "Inner Peace",
+      "generated_at": "2026-09-20T05:32:21.816770"
+    },
+    {
+      "english": "Your breath, your anchor.",
+      "spanish": "Tu respiración, tu ancla.",
+      "category": "Inner Peace",
+      "generated_at": "2026-09-20T05:32:21.816771"
+    },
+    {
+      "english": "Inner peace, is a choice.",
+      "spanish": "La paz interior, es una elección.",
+      "category": "Inner Peace",
+      "generated_at": "2026-09-20T05:32:21.816772"
+    },
+    {
+      "english": "Listen in, to yourself.",
+      "spanish": "Escucha en, tu interior.",
+      "category": "Inner Peace",
+      "generated_at": "2026-09-20T05:32:21.816774"
+    },
+    {
+      "english": "Peace comes, from within.",
+      "spanish": "La paz viene, de adentro.",
+      "category": "Inner Peace",
+      "generated_at": "2026-09-20T05:32:21.816775"
+    },
+    {
+      "english": "Settle your, mind.",
+      "spanish": "Tranquiliza tu, mente.",
+      "category": "Inner Peace",
+      "generated_at": "2026-09-20T05:32:21.816776"
+    },
+    {
+      "english": "Find your, center.",
+      "spanish": "Encuentra tu, centro.",
+      "category": "Inner Peace",
+      "generated_at": "2026-09-20T05:32:21.816777"
+    },
+    {
+      "english": "Quiet the, noise.",
+      "spanish": "Silencia el, ruido.",
+      "category": "Inner Peace",
+      "generated_at": "2026-09-20T05:32:21.816778"
+    },
+    {
+      "english": "Release what, hurts.",
+      "spanish": "Libera lo, que duele.",
+      "category": "Inner Peace",
+      "generated_at": "2026-09-20T05:32:21.816780"
+    },
+    {
+      "english": "Accept what, is.",
+      "spanish": "Acepta lo, que es.",
+      "category": "Inner Peace",
+      "generated_at": "2026-09-20T05:32:21.816781"
+    },
+    {
+      "english": "Feel the, stillness.",
+      "spanish": "Siente la, quietud.",
+      "category": "Inner Peace",
+      "generated_at": "2026-09-20T05:32:21.816782"
+    },
+    {
+      "english": "Your calm, awaits.",
+      "spanish": "Tu calma, espera.",
+      "category": "Inner Peace",
+      "generated_at": "2026-09-20T05:32:21.816783"
+    },
+    {
+      "english": "Slow down, your thoughts.",
+      "spanish": "Ralentiza tus, pensamientos.",
+      "category": "Inner Peace",
+      "generated_at": "2026-09-20T05:32:21.816784"
+    },
+    {
+      "english": "Embrace this, quiet.",
+      "spanish": "Abraza este, silencio.",
+      "category": "Inner Peace",
+      "generated_at": "2026-09-20T05:32:21.816785"
+    },
+    {
+      "english": "Find solace, here.",
+      "spanish": "Encuentra consuelo, aquí.",
+      "category": "Inner Peace",
+      "generated_at": "2026-09-20T05:32:21.816786"
+    },
+    {
+      "english": "Just be, and breathe.",
+      "spanish": "Solo está, y respira.",
+      "category": "Inner Peace",
+      "generated_at": "2026-09-20T05:32:21.816787"
+    },
+    {
+      "english": "Let worries, drift.",
+      "spanish": "Deja que las, preocupaciones se vayan.",
+      "category": "Inner Peace",
+      "generated_at": "2026-09-20T05:32:21.816788"
+    },
+    {
+      "english": "You are, enough.",
+      "spanish": "Eres, suficiente.",
+      "category": "Inner Peace",
+      "generated_at": "2026-09-20T05:32:21.816789"
+    },
+    {
+      "english": "Still your, racing heart.",
+      "spanish": "Calma tu, corazón acelerado.",
+      "category": "Inner Peace",
+      "generated_at": "2026-09-20T05:32:21.816790"
+    },
+    {
+      "english": "Seek your, inner light.",
+      "spanish": "Busca tu, luz interior.",
+      "category": "Inner Peace",
+      "generated_at": "2026-09-20T05:32:21.816791"
+    },
+    {
+      "english": "A moment, of peace.",
+      "spanish": "Un momento, de paz.",
+      "category": "Inner Peace",
+      "generated_at": "2026-09-20T05:32:21.816792"
+    },
+    {
+      "english": "Rest in, this quiet.",
+      "spanish": "Descansa en, esta quietud.",
+      "category": "Inner Peace",
+      "generated_at": "2026-09-20T05:32:21.816793"
+    },
+    {
+      "english": "Soothe your, soul.",
+      "spanish": "Calma tu, alma.",
+      "category": "Inner Peace",
+      "generated_at": "2026-09-20T05:32:21.816794"
+    },
+    {
+      "english": "Your mind, can rest.",
+      "spanish": "Tu mente, puede descansar.",
+      "category": "Inner Peace",
+      "generated_at": "2026-09-20T05:32:21.816795"
+    },
+    {
+      "english": "Find balance, inside.",
+      "spanish": "Encuentra equilibrio, por dentro.",
+      "category": "Inner Peace",
+      "generated_at": "2026-09-20T05:32:21.816796"
+    },
+    {
+      "english": "Be here, fully.",
+      "spanish": "Está aquí, completamente.",
+      "category": "Inner Peace",
+      "generated_at": "2026-09-20T05:32:21.816797"
+    },
+    {
+      "english": "Silence the, chatter.",
+      "spanish": "Silencia la, charla interna.",
+      "category": "Inner Peace",
+      "generated_at": "2026-09-20T05:32:21.816798"
+    },
+    {
+      "english": "A deep, exhale.",
+      "spanish": "Una profunda, exhalación.",
+      "category": "Inner Peace",
+      "generated_at": "2026-09-20T05:32:21.816799"
+    },
+    {
+      "english": "Be still, and know.",
+      "spanish": "Está quieto, y conoce.",
+      "category": "Inner Peace",
+      "generated_at": "2026-09-20T05:32:21.816801"
+    },
+    {
+      "english": "Your breath, your anchor.",
+      "spanish": "Tu respiración, tu ancla.",
+      "category": "Inner Peace",
+      "generated_at": "2026-09-20T05:32:21.816802"
+    },
+    {
+      "english": "Inner peace, is a choice.",
+      "spanish": "La paz interior, es una elección.",
+      "category": "Inner Peace",
+      "generated_at": "2026-09-20T05:32:21.816802"
+    },
+    {
+      "english": "Listen in, to yourself.",
+      "spanish": "Escucha en, tu interior.",
+      "category": "Inner Peace",
+      "generated_at": "2026-09-20T05:32:21.816804"
+    },
+    {
+      "english": "Peace comes, from within.",
+      "spanish": "La paz viene, de adentro.",
+      "category": "Inner Peace",
+      "generated_at": "2026-09-20T05:32:21.816805"
+    },
+    {
+      "english": "Settle your, mind.",
+      "spanish": "Tranquiliza tu, mente.",
+      "category": "Inner Peace",
+      "generated_at": "2026-09-20T05:32:21.816806"
+    },
+    {
+      "english": "Find your, center.",
+      "spanish": "Encuentra tu, centro.",
+      "category": "Inner Peace",
+      "generated_at": "2026-09-20T05:32:21.816807"
+    },
+    {
+      "english": "Quiet the, noise.",
+      "spanish": "Silencia el, ruido.",
+      "category": "Inner Peace",
+      "generated_at": "2026-09-20T05:32:21.816808"
+    },
+    {
+      "english": "Release what, hurts.",
+      "spanish": "Libera lo, que duele.",
+      "category": "Inner Peace",
+      "generated_at": "2026-09-20T05:32:21.816809"
+    },
+    {
+      "english": "Accept what, is.",
+      "spanish": "Acepta lo, que es.",
+      "category": "Inner Peace",
+      "generated_at": "2026-09-20T05:32:21.816810"
+    },
+    {
+      "english": "Feel the, stillness.",
+      "spanish": "Siente la, quietud.",
+      "category": "Inner Peace",
+      "generated_at": "2026-09-20T05:32:21.816811"
+    },
+    {
+      "english": "Your calm, awaits.",
+      "spanish": "Tu calma, espera.",
+      "category": "Inner Peace",
+      "generated_at": "2026-09-20T05:32:21.816813"
+    },
+    {
+      "english": "Slow down, your thoughts.",
+      "spanish": "Ralentiza tus, pensamientos.",
+      "category": "Inner Peace",
+      "generated_at": "2026-09-20T05:32:21.816814"
+    },
+    {
+      "english": "Embrace this, quiet.",
+      "spanish": "Abraza este, silencio.",
+      "category": "Inner Peace",
+      "generated_at": "2026-09-20T05:32:21.816815"
+    },
+    {
+      "english": "Find solace, here.",
+      "spanish": "Encuentra consuelo, aquí.",
+      "category": "Inner Peace",
+      "generated_at": "2026-09-20T05:32:21.816816"
+    },
+    {
+      "english": "Just be, and breathe.",
+      "spanish": "Solo está, y respira.",
+      "category": "Inner Peace",
+      "generated_at": "2026-09-20T05:32:21.816817"
+    },
+    {
+      "english": "Let worries, drift.",
+      "spanish": "Deja que las, preocupaciones se vayan.",
+      "category": "Inner Peace",
+      "generated_at": "2026-09-20T05:32:21.816818"
+    },
+    {
+      "english": "You are, enough.",
+      "spanish": "Eres, suficiente.",
+      "category": "Inner Peace",
+      "generated_at": "2026-09-20T05:32:21.816819"
+    },
+    {
+      "english": "Still your, racing heart.",
+      "spanish": "Calma tu, corazón acelerado.",
+      "category": "Inner Peace",
+      "generated_at": "2026-09-20T05:32:21.816821"
+    },
+    {
+      "english": "Seek your, inner light.",
+      "spanish": "Busca tu, luz interior.",
+      "category": "Inner Peace",
+      "generated_at": "2026-09-20T05:32:21.816822"
+    },
+    {
+      "english": "A moment, of peace.",
+      "spanish": "Un momento, de paz.",
+      "category": "Inner Peace",
+      "generated_at": "2026-09-20T05:32:21.816823"
+    },
+    {
+      "english": "Rest in, this quiet.",
+      "spanish": "Descansa en, esta quietud.",
+      "category": "Inner Peace",
+      "generated_at": "2026-09-20T05:32:21.816824"
+    },
+    {
+      "english": "Soothe your, soul.",
+      "spanish": "Calma tu, alma.",
+      "category": "Inner Peace",
+      "generated_at": "2026-09-20T05:32:21.816825"
+    },
+    {
+      "english": "Your mind, can rest.",
+      "spanish": "Tu mente, puede descansar.",
+      "category": "Inner Peace",
+      "generated_at": "2026-09-20T05:32:21.816826"
+    },
+    {
+      "english": "Find balance, inside.",
+      "spanish": "Encuentra equilibrio, por dentro.",
+      "category": "Inner Peace",
+      "generated_at": "2026-09-20T05:32:21.816827"
+    },
+    {
+      "english": "Be here, fully.",
+      "spanish": "Está aquí, completamente.",
+      "category": "Inner Peace",
+      "generated_at": "2026-09-20T05:32:21.816828"
+    },
+    {
+      "english": "Silence the, chatter.",
+      "spanish": "Silencia la, charla interna.",
+      "category": "Inner Peace",
+      "generated_at": "2026-09-20T05:32:21.816829"
+    },
+    {
+      "english": "A deep, exhale.",
+      "spanish": "Una profunda, exhalación.",
+      "category": "Inner Peace",
+      "generated_at": "2026-09-20T05:32:21.816830"
+    },
+    {
+      "english": "Be still, and know.",
+      "spanish": "Está quieto, y conoce.",
+      "category": "Inner Peace",
+      "generated_at": "2026-09-20T05:32:21.816831"
+    },
+    {
+      "english": "Your breath, your anchor.",
+      "spanish": "Tu respiración, tu ancla.",
+      "category": "Inner Peace",
+      "generated_at": "2026-09-20T05:32:21.816832"
+    },
+    {
+      "english": "Inner peace, is a choice.",
+      "spanish": "La paz interior, es una elección.",
+      "category": "Inner Peace",
+      "generated_at": "2026-09-20T05:32:21.816833"
+    },
+    {
+      "english": "Listen in, to yourself.",
+      "spanish": "Escucha en, tu interior.",
+      "category": "Inner Peace",
+      "generated_at": "2026-09-20T05:32:21.816834"
+    },
+    {
+      "english": "Peace comes, from within.",
+      "spanish": "La paz viene, de adentro.",
+      "category": "Inner Peace",
+      "generated_at": "2026-09-20T05:32:21.816835"
+    },
+    {
+      "english": "Settle your, mind.",
+      "spanish": "Tranquiliza tu, mente.",
+      "category": "Inner Peace",
+      "generated_at": "2026-09-20T05:32:21.816837"
+    },
+    {
+      "english": "Find your, center.",
+      "spanish": "Encuentra tu, centro.",
+      "category": "Inner Peace",
+      "generated_at": "2026-09-20T05:32:21.816838"
+    },
+    {
+      "english": "Quiet the, noise.",
+      "spanish": "Silencia el, ruido.",
+      "category": "Inner Peace",
+      "generated_at": "2026-09-20T05:32:21.816839"
+    },
+    {
+      "english": "Release what, hurts.",
+      "spanish": "Libera lo, que duele.",
+      "category": "Inner Peace",
+      "generated_at": "2026-09-20T05:32:21.816840"
+    },
+    {
+      "english": "Accept what, is.",
+      "spanish": "Acepta lo, que es.",
+      "category": "Inner Peace",
+      "generated_at": "2026-09-20T05:32:21.816841"
+    },
+    {
+      "english": "Feel the, stillness.",
+      "spanish": "Siente la, quietud.",
+      "category": "Inner Peace",
+      "generated_at": "2026-09-20T05:32:21.816842"
+    },
+    {
+      "english": "Your calm, awaits.",
+      "spanish": "Tu calma, espera.",
+      "category": "Inner Peace",
+      "generated_at": "2026-09-20T05:32:21.816843"
+    },
+    {
+      "english": "Slow down, your thoughts.",
+      "spanish": "Ralentiza tus, pensamientos.",
+      "category": "Inner Peace",
+      "generated_at": "2026-09-20T05:32:21.816844"
+    },
+    {
+      "english": "Embrace this, quiet.",
+      "spanish": "Abraza este, silencio.",
+      "category": "Inner Peace",
+      "generated_at": "2026-09-20T05:32:21.816845"
+    },
+    {
+      "english": "Find solace, here.",
+      "spanish": "Encuentra consuelo, aquí.",
+      "category": "Inner Peace",
+      "generated_at": "2026-09-20T05:32:21.816846"
+    },
+    {
+      "english": "Just be, and breathe.",
+      "spanish": "Solo está, y respira.",
+      "category": "Inner Peace",
+      "generated_at": "2026-09-20T05:32:21.816847"
+    },
+    {
+      "english": "Let worries, drift.",
+      "spanish": "Deja que las, preocupaciones se vayan.",
+      "category": "Inner Peace",
+      "generated_at": "2026-09-20T05:32:21.816848"
+    },
+    {
+      "english": "You are, enough.",
+      "spanish": "Eres, suficiente.",
+      "category": "Inner Peace",
+      "generated_at": "2026-09-20T05:32:21.816849"
+    },
+    {
+      "english": "Still your, racing heart.",
+      "spanish": "Calma tu, corazón acelerado.",
+      "category": "Inner Peace",
+      "generated_at": "2026-09-20T05:32:21.816850"
+    },
+    {
+      "english": "Seek your, inner light.",
+      "spanish": "Busca tu, luz interior.",
+      "category": "Inner Peace",
+      "generated_at": "2026-09-20T05:32:21.816851"
+    },
+    {
+      "english": "A moment, of peace.",
+      "spanish": "Un momento, de paz.",
+      "category": "Inner Peace",
+      "generated_at": "2026-09-20T05:32:21.816852"
+    },
+    {
+      "english": "Rest in, this quiet.",
+      "spanish": "Descansa en, esta quietud.",
+      "category": "Inner Peace",
+      "generated_at": "2026-09-20T05:32:21.816853"
+    },
+    {
+      "english": "Soothe your, soul.",
+      "spanish": "Calma tu, alma.",
+      "category": "Inner Peace",
+      "generated_at": "2026-09-20T05:32:21.816854"
+    },
+    {
+      "english": "Your mind, can rest.",
+      "spanish": "Tu mente, puede descansar.",
+      "category": "Inner Peace",
+      "generated_at": "2026-09-20T05:32:21.816855"
+    },
+    {
+      "english": "Find balance, inside.",
+      "spanish": "Encuentra equilibrio, por dentro.",
+      "category": "Inner Peace",
+      "generated_at": "2026-09-20T05:32:21.816857"
+    },
+    {
+      "english": "Be here, fully.",
+      "spanish": "Está aquí, completamente.",
+      "category": "Inner Peace",
+      "generated_at": "2026-09-20T05:32:21.816857"
+    },
+    {
+      "english": "Silence the, chatter.",
+      "spanish": "Silencia la, charla interna.",
+      "category": "Inner Peace",
+      "generated_at": "2026-09-20T05:32:21.816858"
+    },
+    {
+      "english": "A deep, exhale.",
+      "spanish": "Una profunda, exhalación.",
+      "category": "Inner Peace",
+      "generated_at": "2026-09-20T05:32:21.816860"
+    },
+    {
+      "english": "Be still, and know.",
+      "spanish": "Está quieto, y conoce.",
+      "category": "Inner Peace",
+      "generated_at": "2026-09-20T05:32:21.816861"
+    },
+    {
+      "english": "Your breath, your anchor.",
+      "spanish": "Tu respiración, tu ancla.",
+      "category": "Inner Peace",
+      "generated_at": "2026-09-20T05:32:21.816862"
+    },
+    {
+      "english": "Inner peace, is a choice.",
+      "spanish": "La paz interior, es una elección.",
+      "category": "Inner Peace",
+      "generated_at": "2026-09-20T05:32:21.816863"
+    },
+    {
+      "english": "Listen in, to yourself.",
+      "spanish": "Escucha en, tu interior.",
+      "category": "Inner Peace",
+      "generated_at": "2026-09-20T05:32:21.816864"
+    },
+    {
+      "english": "Peace comes, from within.",
+      "spanish": "La paz viene, de adentro.",
+      "category": "Inner Peace",
+      "generated_at": "2026-09-20T05:32:21.816865"
+    },
+    {
+      "english": "Settle your, mind.",
+      "spanish": "Tranquiliza tu, mente.",
+      "category": "Inner Peace",
+      "generated_at": "2026-09-20T05:32:21.816866"
+    },
+    {
+      "english": "Find your, center.",
+      "spanish": "Encuentra tu, centro.",
+      "category": "Inner Peace",
+      "generated_at": "2026-09-20T05:32:21.816868"
+    },
+    {
+      "english": "Quiet the, noise.",
+      "spanish": "Silencia el, ruido.",
+      "category": "Inner Peace",
+      "generated_at": "2026-09-20T05:32:21.816869"
+    },
+    {
+      "english": "Release what, hurts.",
+      "spanish": "Libera lo, que duele.",
+      "category": "Inner Peace",
+      "generated_at": "2026-09-20T05:32:21.816870"
+    },
+    {
+      "english": "Accept what, is.",
+      "spanish": "Acepta lo, que es.",
+      "category": "Inner Peace",
+      "generated_at": "2026-09-20T05:32:21.816871"
+    },
+    {
+      "english": "Feel the, stillness.",
+      "spanish": "Siente la, quietud.",
+      "category": "Inner Peace",
+      "generated_at": "2026-09-20T05:32:21.816872"
     }
   ],
-  "last_updated": "2026-09-19T05:15:42.148354"
+  "last_updated": "2026-09-20T05:32:21.816873"
 }
