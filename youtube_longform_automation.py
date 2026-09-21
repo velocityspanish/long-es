@@ -78,7 +78,7 @@ CATEGORIES_SPANISH = {
 }
 
 # Edge TTS voices (primary + fallbacks so a single failing voice never produces silence)
-ENGLISH_VOICES = ["en-US-AndrewNeural", "en-US-JennyNeural", "en-US-AriaNeural"]
+ENGLISH_VOICES = ["en-US-GuyNeural", "en-US-JennyNeural", "en-US-AriaNeural"]
 SPANISH_VOICES = ["es-ES-ElviraNeural", "es-ES-AlvaroNeural", "es-MX-DaliaNeural", "es-US-PalomaNeural"]
 
 # Phrase history file (NEVER delete this!)
