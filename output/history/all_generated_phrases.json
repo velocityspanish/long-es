@@ -49679,7 +49679,727 @@
       "spanish": "Tu amabilidad, puede cambiar, un día.",
       "category": "Kindness",
       "generated_at": "2026-09-22T05:35:38.009987"
+    },
+    {
+      "english": "Release, the pain.",
+      "spanish": "Libera, el dolor.",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-23T05:22:13.523281"
+    },
+    {
+      "english": "Choose peace, over anger.",
+      "spanish": "Elige paz, sobre el enfado.",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-23T05:22:13.523293"
+    },
+    {
+      "english": "Accept, and move on.",
+      "spanish": "Acepta, y sigue adelante.",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-23T05:22:13.523295"
+    },
+    {
+      "english": "Don't hold, onto hurt.",
+      "spanish": "No guardes, el rencor.",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-23T05:22:13.523296"
+    },
+    {
+      "english": "Unburden, your heart.",
+      "spanish": "Alivia, tu corazón.",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-23T05:22:13.523297"
+    },
+    {
+      "english": "Start fresh, today.",
+      "spanish": "Comienza de nuevo, hoy.",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-23T05:22:13.523298"
+    },
+    {
+      "english": "Mend, what's broken.",
+      "spanish": "Repara, lo roto.",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-23T05:22:13.523299"
+    },
+    {
+      "english": "Embrace, compassion.",
+      "spanish": "Abraza, la compasión.",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-23T05:22:13.523303"
+    },
+    {
+      "english": "Heal, from within.",
+      "spanish": "Sana, desde adentro.",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-23T05:22:13.523305"
+    },
+    {
+      "english": "Open, your mind.",
+      "spanish": "Abre, tu mente.",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-23T05:22:13.523306"
+    },
+    {
+      "english": "Let understanding, lead.",
+      "spanish": "Deja que la comprensión, guíe.",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-23T05:22:13.523306"
+    },
+    {
+      "english": "Find, closure.",
+      "spanish": "Encuentra, el cierre.",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-23T05:22:13.523307"
+    },
+    {
+      "english": "Overcome, bitterness.",
+      "spanish": "Supera, la amargura.",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-23T05:22:13.523308"
+    },
+    {
+      "english": "Give, grace.",
+      "spanish": "Da, gracia.",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-23T05:22:13.523309"
+    },
+    {
+      "english": "Seek, reconciliation.",
+      "spanish": "Busca, la reconciliación.",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-23T05:22:13.523310"
+    },
+    {
+      "english": "Empty, the past.",
+      "spanish": "Vacía, el pasado.",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-23T05:22:13.523311"
+    },
+    {
+      "english": "Extend, kindness.",
+      "spanish": "Extiende, amabilidad.",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-23T05:22:13.523312"
+    },
+    {
+      "english": "Acknowledge, their struggle.",
+      "spanish": "Reconoce, su lucha.",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-23T05:22:13.523313"
+    },
+    {
+      "english": "Release, resentment.",
+      "spanish": "Suelta, el resentimiento.",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-23T05:22:13.523313"
+    },
+    {
+      "english": "Forgive, for your sake.",
+      "spanish": "Perdona, por ti.",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-23T05:22:13.523314"
+    },
+    {
+      "english": "Build, bridges.",
+      "spanish": "Construye, puentes.",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-23T05:22:13.523315"
+    },
+    {
+      "english": "Offer, understanding.",
+      "spanish": "Ofrece, comprensión.",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-23T05:22:13.523315"
+    },
+    {
+      "english": "Heal, relationships.",
+      "spanish": "Sana, las relaciones.",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-23T05:22:13.523316"
+    },
+    {
+      "english": "Turn, the page.",
+      "spanish": "Pasa, la página.",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-23T05:22:13.523317"
+    },
+    {
+      "english": "Embrace, a new start.",
+      "spanish": "Acepta, un nuevo comienzo.",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-23T05:22:13.523317"
+    },
+    {
+      "english": "Choose, forgiveness.",
+      "spanish": "Elige, el perdón.",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-23T05:22:13.523318"
+    },
+    {
+      "english": "Let peace, reign.",
+      "spanish": "Deja que la paz, reine.",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-23T05:22:13.523319"
+    },
+    {
+      "english": "Find, solace.",
+      "spanish": "Encuentra, consuelo.",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-23T05:22:13.523320"
+    },
+    {
+      "english": "Release, anger's grip.",
+      "spanish": "Suelta, el enojo.",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-23T05:22:13.523321"
+    },
+    {
+      "english": "Open, to healing.",
+      "spanish": "Ábrete, a la sanación.",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-23T05:22:13.523321"
+    },
+    {
+      "english": "Let it go, truly.",
+      "spanish": "Déjalo ir, de verdad.",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-23T05:22:13.523322"
+    },
+    {
+      "english": "Find, freedom.",
+      "spanish": "Encuentra, la libertad.",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-23T05:22:13.523323"
+    },
+    {
+      "english": "Acknowledge, and release.",
+      "spanish": "Reconoce, y libera.",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-23T05:22:13.523324"
+    },
+    {
+      "english": "Forgive, the past.",
+      "spanish": "Perdona, el pasado.",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-23T05:22:13.523324"
+    },
+    {
+      "english": "Embrace, closure.",
+      "spanish": "Busca, el cierre.",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-23T05:22:13.523325"
+    },
+    {
+      "english": "Choose, understanding.",
+      "spanish": "Elige, la comprensión.",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-23T05:22:13.523326"
+    },
+    {
+      "english": "Heal, your heart.",
+      "spanish": "Sana, tu corazón.",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-23T05:22:13.523326"
+    },
+    {
+      "english": "Release, the pain.",
+      "spanish": "Libera, el dolor.",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-23T05:22:13.523327"
+    },
+    {
+      "english": "Choose peace, over anger.",
+      "spanish": "Elige paz, sobre el enfado.",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-23T05:22:13.523328"
+    },
+    {
+      "english": "Accept, and move on.",
+      "spanish": "Acepta, y sigue adelante.",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-23T05:22:13.523329"
+    },
+    {
+      "english": "Don't hold, onto hurt.",
+      "spanish": "No guardes, el rencor.",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-23T05:22:13.523330"
+    },
+    {
+      "english": "Unburden, your heart.",
+      "spanish": "Alivia, tu corazón.",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-23T05:22:13.523331"
+    },
+    {
+      "english": "Start fresh, today.",
+      "spanish": "Comienza de nuevo, hoy.",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-23T05:22:13.523331"
+    },
+    {
+      "english": "Mend, what's broken.",
+      "spanish": "Repara, lo roto.",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-23T05:22:13.523332"
+    },
+    {
+      "english": "Embrace, compassion.",
+      "spanish": "Abraza, la compasión.",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-23T05:22:13.523333"
+    },
+    {
+      "english": "Heal, from within.",
+      "spanish": "Sana, desde adentro.",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-23T05:22:13.523334"
+    },
+    {
+      "english": "Open, your mind.",
+      "spanish": "Abre, tu mente.",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-23T05:22:13.523335"
+    },
+    {
+      "english": "Let understanding, lead.",
+      "spanish": "Deja que la comprensión, guíe.",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-23T05:22:13.523336"
+    },
+    {
+      "english": "Find, closure.",
+      "spanish": "Encuentra, el cierre.",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-23T05:22:13.523337"
+    },
+    {
+      "english": "Overcome, bitterness.",
+      "spanish": "Supera, la amargura.",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-23T05:22:13.523338"
+    },
+    {
+      "english": "Give, grace.",
+      "spanish": "Da, gracia.",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-23T05:22:13.523339"
+    },
+    {
+      "english": "Seek, reconciliation.",
+      "spanish": "Busca, la reconciliación.",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-23T05:22:13.523339"
+    },
+    {
+      "english": "Empty, the past.",
+      "spanish": "Vacía, el pasado.",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-23T05:22:13.523340"
+    },
+    {
+      "english": "Extend, kindness.",
+      "spanish": "Extiende, amabilidad.",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-23T05:22:13.523341"
+    },
+    {
+      "english": "Acknowledge, their struggle.",
+      "spanish": "Reconoce, su lucha.",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-23T05:22:13.523342"
+    },
+    {
+      "english": "Release, resentment.",
+      "spanish": "Suelta, el resentimiento.",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-23T05:22:13.523342"
+    },
+    {
+      "english": "Forgive, for your sake.",
+      "spanish": "Perdona, por ti.",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-23T05:22:13.523343"
+    },
+    {
+      "english": "Build, bridges.",
+      "spanish": "Construye, puentes.",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-23T05:22:13.523344"
+    },
+    {
+      "english": "Offer, understanding.",
+      "spanish": "Ofrece, comprensión.",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-23T05:22:13.523345"
+    },
+    {
+      "english": "Heal, relationships.",
+      "spanish": "Sana, las relaciones.",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-23T05:22:13.523346"
+    },
+    {
+      "english": "Turn, the page.",
+      "spanish": "Pasa, la página.",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-23T05:22:13.523346"
+    },
+    {
+      "english": "Embrace, a new start.",
+      "spanish": "Acepta, un nuevo comienzo.",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-23T05:22:13.523347"
+    },
+    {
+      "english": "Choose, forgiveness.",
+      "spanish": "Elige, el perdón.",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-23T05:22:13.523348"
+    },
+    {
+      "english": "Let peace, reign.",
+      "spanish": "Deja que la paz, reine.",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-23T05:22:13.523349"
+    },
+    {
+      "english": "Find, solace.",
+      "spanish": "Encuentra, consuelo.",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-23T05:22:13.523350"
+    },
+    {
+      "english": "Release, anger's grip.",
+      "spanish": "Suelta, el enojo.",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-23T05:22:13.523350"
+    },
+    {
+      "english": "Open, to healing.",
+      "spanish": "Ábrete, a la sanación.",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-23T05:22:13.523351"
+    },
+    {
+      "english": "Let it go, truly.",
+      "spanish": "Déjalo ir, de verdad.",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-23T05:22:13.523352"
+    },
+    {
+      "english": "Find, freedom.",
+      "spanish": "Encuentra, la libertad.",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-23T05:22:13.523353"
+    },
+    {
+      "english": "Acknowledge, and release.",
+      "spanish": "Reconoce, y libera.",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-23T05:22:13.523353"
+    },
+    {
+      "english": "Forgive, the past.",
+      "spanish": "Perdona, el pasado.",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-23T05:22:13.523354"
+    },
+    {
+      "english": "Embrace, closure.",
+      "spanish": "Busca, el cierre.",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-23T05:22:13.523355"
+    },
+    {
+      "english": "Choose, understanding.",
+      "spanish": "Elige, la comprensión.",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-23T05:22:13.523356"
+    },
+    {
+      "english": "Heal, your heart.",
+      "spanish": "Sana, tu corazón.",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-23T05:22:13.523357"
+    },
+    {
+      "english": "Release, the pain.",
+      "spanish": "Libera, el dolor.",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-23T05:22:13.523358"
+    },
+    {
+      "english": "Choose peace, over anger.",
+      "spanish": "Elige paz, sobre el enfado.",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-23T05:22:13.523359"
+    },
+    {
+      "english": "Accept, and move on.",
+      "spanish": "Acepta, y sigue adelante.",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-23T05:22:13.523359"
+    },
+    {
+      "english": "Don't hold, onto hurt.",
+      "spanish": "No guardes, el rencor.",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-23T05:22:13.523360"
+    },
+    {
+      "english": "Unburden, your heart.",
+      "spanish": "Alivia, tu corazón.",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-23T05:22:13.523361"
+    },
+    {
+      "english": "Start fresh, today.",
+      "spanish": "Comienza de nuevo, hoy.",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-23T05:22:13.523362"
+    },
+    {
+      "english": "Mend, what's broken.",
+      "spanish": "Repara, lo roto.",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-23T05:22:13.523363"
+    },
+    {
+      "english": "Embrace, compassion.",
+      "spanish": "Abraza, la compasión.",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-23T05:22:13.523364"
+    },
+    {
+      "english": "Heal, from within.",
+      "spanish": "Sana, desde adentro.",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-23T05:22:13.523365"
+    },
+    {
+      "english": "Open, your mind.",
+      "spanish": "Abre, tu mente.",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-23T05:22:13.523365"
+    },
+    {
+      "english": "Let understanding, lead.",
+      "spanish": "Deja que la comprensión, guíe.",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-23T05:22:13.523366"
+    },
+    {
+      "english": "Find, closure.",
+      "spanish": "Encuentra, el cierre.",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-23T05:22:13.523367"
+    },
+    {
+      "english": "Overcome, bitterness.",
+      "spanish": "Supera, la amargura.",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-23T05:22:13.523368"
+    },
+    {
+      "english": "Give, grace.",
+      "spanish": "Da, gracia.",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-23T05:22:13.523369"
+    },
+    {
+      "english": "Seek, reconciliation.",
+      "spanish": "Busca, la reconciliación.",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-23T05:22:13.523369"
+    },
+    {
+      "english": "Empty, the past.",
+      "spanish": "Vacía, el pasado.",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-23T05:22:13.523370"
+    },
+    {
+      "english": "Extend, kindness.",
+      "spanish": "Extiende, amabilidad.",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-23T05:22:13.523371"
+    },
+    {
+      "english": "Acknowledge, their struggle.",
+      "spanish": "Reconoce, su lucha.",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-23T05:22:13.523372"
+    },
+    {
+      "english": "Release, resentment.",
+      "spanish": "Suelta, el resentimiento.",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-23T05:22:13.523373"
+    },
+    {
+      "english": "Forgive, for your sake.",
+      "spanish": "Perdona, por ti.",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-23T05:22:13.523374"
+    },
+    {
+      "english": "Build, bridges.",
+      "spanish": "Construye, puentes.",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-23T05:22:13.523375"
+    },
+    {
+      "english": "Offer, understanding.",
+      "spanish": "Ofrece, comprensión.",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-23T05:22:13.523375"
+    },
+    {
+      "english": "Heal, relationships.",
+      "spanish": "Sana, las relaciones.",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-23T05:22:13.523376"
+    },
+    {
+      "english": "Turn, the page.",
+      "spanish": "Pasa, la página.",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-23T05:22:13.523377"
+    },
+    {
+      "english": "Embrace, a new start.",
+      "spanish": "Acepta, un nuevo comienzo.",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-23T05:22:13.523378"
+    },
+    {
+      "english": "Choose, forgiveness.",
+      "spanish": "Elige, el perdón.",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-23T05:22:13.523379"
+    },
+    {
+      "english": "Let peace, reign.",
+      "spanish": "Deja que la paz, reine.",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-23T05:22:13.523379"
+    },
+    {
+      "english": "Find, solace.",
+      "spanish": "Encuentra, consuelo.",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-23T05:22:13.523380"
+    },
+    {
+      "english": "Release, anger's grip.",
+      "spanish": "Suelta, el enojo.",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-23T05:22:13.523381"
+    },
+    {
+      "english": "Open, to healing.",
+      "spanish": "Ábrete, a la sanación.",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-23T05:22:13.523382"
+    },
+    {
+      "english": "Let it go, truly.",
+      "spanish": "Déjalo ir, de verdad.",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-23T05:22:13.523383"
+    },
+    {
+      "english": "Find, freedom.",
+      "spanish": "Encuentra, la libertad.",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-23T05:22:13.523383"
+    },
+    {
+      "english": "Acknowledge, and release.",
+      "spanish": "Reconoce, y libera.",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-23T05:22:13.523384"
+    },
+    {
+      "english": "Forgive, the past.",
+      "spanish": "Perdona, el pasado.",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-23T05:22:13.523385"
+    },
+    {
+      "english": "Embrace, closure.",
+      "spanish": "Busca, el cierre.",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-23T05:22:13.523385"
+    },
+    {
+      "english": "Choose, understanding.",
+      "spanish": "Elige, la comprensión.",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-23T05:22:13.523386"
+    },
+    {
+      "english": "Heal, your heart.",
+      "spanish": "Sana, tu corazón.",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-23T05:22:13.523387"
+    },
+    {
+      "english": "Release, the pain.",
+      "spanish": "Libera, el dolor.",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-23T05:22:13.523388"
+    },
+    {
+      "english": "Choose peace, over anger.",
+      "spanish": "Elige paz, sobre el enfado.",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-23T05:22:13.523389"
+    },
+    {
+      "english": "Accept, and move on.",
+      "spanish": "Acepta, y sigue adelante.",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-23T05:22:13.523390"
+    },
+    {
+      "english": "Don't hold, onto hurt.",
+      "spanish": "No guardes, el rencor.",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-23T05:22:13.523391"
+    },
+    {
+      "english": "Unburden, your heart.",
+      "spanish": "Alivia, tu corazón.",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-23T05:22:13.523391"
+    },
+    {
+      "english": "Start fresh, today.",
+      "spanish": "Comienza de nuevo, hoy.",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-23T05:22:13.523392"
+    },
+    {
+      "english": "Mend, what's broken.",
+      "spanish": "Repara, lo roto.",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-23T05:22:13.523393"
+    },
+    {
+      "english": "Embrace, compassion.",
+      "spanish": "Abraza, la compasión.",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-23T05:22:13.523394"
+    },
+    {
+      "english": "Heal, from within.",
+      "spanish": "Sana, desde adentro.",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-23T05:22:13.523395"
     }
   ],
-  "last_updated": "2026-09-22T05:35:38.009989"
+  "last_updated": "2026-09-23T05:22:13.523397"
 }
