@@ -50399,7 +50399,727 @@
       "spanish": "Sana, desde adentro.",
       "category": "Forgiveness",
       "generated_at": "2026-09-23T05:22:13.523395"
+    },
+    {
+      "english": "Imagine, more than you see.",
+      "spanish": "Imagina, más de lo que ves.",
+      "category": "Creativity",
+      "generated_at": "2026-09-24T05:38:28.734860"
+    },
+    {
+      "english": "Create, your own magic.",
+      "spanish": "Crea, tu propia magia.",
+      "category": "Creativity",
+      "generated_at": "2026-09-24T05:38:28.734874"
+    },
+    {
+      "english": "Think, outside the box.",
+      "spanish": "Piensa, fuera de la caja.",
+      "category": "Creativity",
+      "generated_at": "2026-09-24T05:38:28.734876"
+    },
+    {
+      "english": "Invent, something new.",
+      "spanish": "Inventa, algo nuevo.",
+      "category": "Creativity",
+      "generated_at": "2026-09-24T05:38:28.734878"
+    },
+    {
+      "english": "Design, your future.",
+      "spanish": "Diseña, tu futuro.",
+      "category": "Creativity",
+      "generated_at": "2026-09-24T05:38:28.734879"
+    },
+    {
+      "english": "Explore, your ideas.",
+      "spanish": "Explora, tus ideas.",
+      "category": "Creativity",
+      "generated_at": "2026-09-24T05:38:28.734880"
+    },
+    {
+      "english": "Innovate, with passion.",
+      "spanish": "Innova, con pasión.",
+      "category": "Creativity",
+      "generated_at": "2026-09-24T05:38:28.734881"
+    },
+    {
+      "english": "Experiment, fearlessly.",
+      "spanish": "Experimenta, sin miedo.",
+      "category": "Creativity",
+      "generated_at": "2026-09-24T05:38:28.734885"
+    },
+    {
+      "english": "Dream, up possibilities.",
+      "spanish": "Sueña, posibilidades.",
+      "category": "Creativity",
+      "generated_at": "2026-09-24T05:38:28.734887"
+    },
+    {
+      "english": "Reinvent, yourself daily.",
+      "spanish": "Reinvéntate, a diario.",
+      "category": "Creativity",
+      "generated_at": "2026-09-24T05:38:28.734888"
+    },
+    {
+      "english": "Sketch, your dreams.",
+      "spanish": "Dibuja, tus sueños.",
+      "category": "Creativity",
+      "generated_at": "2026-09-24T05:38:28.734889"
+    },
+    {
+      "english": "Envision, the unseen.",
+      "spanish": "Visualiza, lo no visto.",
+      "category": "Creativity",
+      "generated_at": "2026-09-24T05:38:28.734890"
+    },
+    {
+      "english": "Compose, your story.",
+      "spanish": "Compón, tu historia.",
+      "category": "Creativity",
+      "generated_at": "2026-09-24T05:38:28.734891"
+    },
+    {
+      "english": "Build, something unique.",
+      "spanish": "Construye, algo único.",
+      "category": "Creativity",
+      "generated_at": "2026-09-24T05:38:28.734892"
+    },
+    {
+      "english": "Conceive, brilliant ideas.",
+      "spanish": "Concibe, ideas brillantes.",
+      "category": "Creativity",
+      "generated_at": "2026-09-24T05:38:28.734894"
+    },
+    {
+      "english": "Draft, your masterpiece.",
+      "spanish": "Boceta, tu obra maestra.",
+      "category": "Creativity",
+      "generated_at": "2026-09-24T05:38:28.734895"
+    },
+    {
+      "english": "Brainstorm, together now.",
+      "spanish": "Haz una lluvia, de ideas.",
+      "category": "Creativity",
+      "generated_at": "2026-09-24T05:38:28.734896"
+    },
+    {
+      "english": "Formulate, a new plan.",
+      "spanish": "Formula, un plan nuevo.",
+      "category": "Creativity",
+      "generated_at": "2026-09-24T05:38:28.734897"
+    },
+    {
+      "english": "Generate, fresh thoughts.",
+      "spanish": "Genera, pensamientos frescos.",
+      "category": "Creativity",
+      "generated_at": "2026-09-24T05:38:28.734898"
+    },
+    {
+      "english": "Originate, with boldness.",
+      "spanish": "Origina, con audacia.",
+      "category": "Creativity",
+      "generated_at": "2026-09-24T05:38:28.734899"
+    },
+    {
+      "english": "Devise, clever solutions.",
+      "spanish": "Idea, soluciones ingeniosas.",
+      "category": "Creativity",
+      "generated_at": "2026-09-24T05:38:28.734900"
+    },
+    {
+      "english": "Sketch, out the possibilities.",
+      "spanish": "Esboza, las posibilidades.",
+      "category": "Creativity",
+      "generated_at": "2026-09-24T05:38:28.734901"
+    },
+    {
+      "english": "Craft, unique expressions.",
+      "spanish": "Crea, expresiones únicas.",
+      "category": "Creativity",
+      "generated_at": "2026-09-24T05:38:28.734902"
+    },
+    {
+      "english": "Ponder, new perspectives.",
+      "spanish": "Reflexiona, sobre nuevas visiones.",
+      "category": "Creativity",
+      "generated_at": "2026-09-24T05:38:28.734903"
+    },
+    {
+      "english": "Sculpt, your ideas.",
+      "spanish": "Esculpe, tus ideas.",
+      "category": "Creativity",
+      "generated_at": "2026-09-24T05:38:28.734903"
+    },
+    {
+      "english": "Invent, from your heart.",
+      "spanish": "Inventa, desde tu corazón.",
+      "category": "Creativity",
+      "generated_at": "2026-09-24T05:38:28.734904"
+    },
+    {
+      "english": "Design, with intention.",
+      "spanish": "Diseña, con intención.",
+      "category": "Creativity",
+      "generated_at": "2026-09-24T05:38:28.734905"
+    },
+    {
+      "english": "Explore, uncharted territory.",
+      "spanish": "Explora, lo desconocido.",
+      "category": "Creativity",
+      "generated_at": "2026-09-24T05:38:28.734919"
+    },
+    {
+      "english": "Dream, bigger, brighter.",
+      "spanish": "Sueña, más grande, más brillante.",
+      "category": "Creativity",
+      "generated_at": "2026-09-24T05:38:28.734921"
+    },
+    {
+      "english": "Create, without limits.",
+      "spanish": "Crea, sin límites.",
+      "category": "Creativity",
+      "generated_at": "2026-09-24T05:38:28.734925"
+    },
+    {
+      "english": "Think, unconventionally.",
+      "spanish": "Piensa, de forma no convencional.",
+      "category": "Creativity",
+      "generated_at": "2026-09-24T05:38:28.734927"
+    },
+    {
+      "english": "Invent, your own path.",
+      "spanish": "Inventa, tu propio camino.",
+      "category": "Creativity",
+      "generated_at": "2026-09-24T05:38:28.734928"
+    },
+    {
+      "english": "Design, with imagination.",
+      "spanish": "Diseña, con imaginación.",
+      "category": "Creativity",
+      "generated_at": "2026-09-24T05:38:28.734930"
+    },
+    {
+      "english": "Explore, new worlds.",
+      "spanish": "Explora, nuevos mundos.",
+      "category": "Creativity",
+      "generated_at": "2026-09-24T05:38:28.734931"
+    },
+    {
+      "english": "Generate, original concepts.",
+      "spanish": "Genera, conceptos originales.",
+      "category": "Creativity",
+      "generated_at": "2026-09-24T05:38:28.734933"
+    },
+    {
+      "english": "Build, beyond expectations.",
+      "spanish": "Construye, más allá de lo esperado.",
+      "category": "Creativity",
+      "generated_at": "2026-09-24T05:38:28.734935"
+    },
+    {
+      "english": "Conceive, what could be.",
+      "spanish": "Concibe, lo que podría ser.",
+      "category": "Creativity",
+      "generated_at": "2026-09-24T05:38:28.734936"
+    },
+    {
+      "english": "Envision, the impossible.",
+      "spanish": "Visualiza, lo imposible.",
+      "category": "Creativity",
+      "generated_at": "2026-09-24T05:38:28.734938"
+    },
+    {
+      "english": "Compose, something bold.",
+      "spanish": "Compón, algo audaz.",
+      "category": "Creativity",
+      "generated_at": "2026-09-24T05:38:28.734939"
+    },
+    {
+      "english": "Spark, new ideas.",
+      "spanish": "Enciende, nuevas ideas.",
+      "category": "Creativity",
+      "generated_at": "2026-09-24T05:38:28.734941"
+    },
+    {
+      "english": "Imagine, more than you see.",
+      "spanish": "Imagina, más de lo que ves.",
+      "category": "Creativity",
+      "generated_at": "2026-09-24T05:38:28.734942"
+    },
+    {
+      "english": "Create, your own magic.",
+      "spanish": "Crea, tu propia magia.",
+      "category": "Creativity",
+      "generated_at": "2026-09-24T05:38:28.734944"
+    },
+    {
+      "english": "Think, outside the box.",
+      "spanish": "Piensa, fuera de la caja.",
+      "category": "Creativity",
+      "generated_at": "2026-09-24T05:38:28.734946"
+    },
+    {
+      "english": "Invent, something new.",
+      "spanish": "Inventa, algo nuevo.",
+      "category": "Creativity",
+      "generated_at": "2026-09-24T05:38:28.734947"
+    },
+    {
+      "english": "Design, your future.",
+      "spanish": "Diseña, tu futuro.",
+      "category": "Creativity",
+      "generated_at": "2026-09-24T05:38:28.734949"
+    },
+    {
+      "english": "Explore, your ideas.",
+      "spanish": "Explora, tus ideas.",
+      "category": "Creativity",
+      "generated_at": "2026-09-24T05:38:28.734950"
+    },
+    {
+      "english": "Innovate, with passion.",
+      "spanish": "Innova, con pasión.",
+      "category": "Creativity",
+      "generated_at": "2026-09-24T05:38:28.734951"
+    },
+    {
+      "english": "Experiment, fearlessly.",
+      "spanish": "Experimenta, sin miedo.",
+      "category": "Creativity",
+      "generated_at": "2026-09-24T05:38:28.734952"
+    },
+    {
+      "english": "Dream, up possibilities.",
+      "spanish": "Sueña, posibilidades.",
+      "category": "Creativity",
+      "generated_at": "2026-09-24T05:38:28.734953"
+    },
+    {
+      "english": "Reinvent, yourself daily.",
+      "spanish": "Reinvéntate, a diario.",
+      "category": "Creativity",
+      "generated_at": "2026-09-24T05:38:28.734954"
+    },
+    {
+      "english": "Sketch, your dreams.",
+      "spanish": "Dibuja, tus sueños.",
+      "category": "Creativity",
+      "generated_at": "2026-09-24T05:38:28.734954"
+    },
+    {
+      "english": "Envision, the unseen.",
+      "spanish": "Visualiza, lo no visto.",
+      "category": "Creativity",
+      "generated_at": "2026-09-24T05:38:28.734955"
+    },
+    {
+      "english": "Compose, your story.",
+      "spanish": "Compón, tu historia.",
+      "category": "Creativity",
+      "generated_at": "2026-09-24T05:38:28.734956"
+    },
+    {
+      "english": "Build, something unique.",
+      "spanish": "Construye, algo único.",
+      "category": "Creativity",
+      "generated_at": "2026-09-24T05:38:28.734957"
+    },
+    {
+      "english": "Conceive, brilliant ideas.",
+      "spanish": "Concibe, ideas brillantes.",
+      "category": "Creativity",
+      "generated_at": "2026-09-24T05:38:28.734958"
+    },
+    {
+      "english": "Draft, your masterpiece.",
+      "spanish": "Boceta, tu obra maestra.",
+      "category": "Creativity",
+      "generated_at": "2026-09-24T05:38:28.734959"
+    },
+    {
+      "english": "Brainstorm, together now.",
+      "spanish": "Haz una lluvia, de ideas.",
+      "category": "Creativity",
+      "generated_at": "2026-09-24T05:38:28.734960"
+    },
+    {
+      "english": "Formulate, a new plan.",
+      "spanish": "Formula, un plan nuevo.",
+      "category": "Creativity",
+      "generated_at": "2026-09-24T05:38:28.734961"
+    },
+    {
+      "english": "Generate, fresh thoughts.",
+      "spanish": "Genera, pensamientos frescos.",
+      "category": "Creativity",
+      "generated_at": "2026-09-24T05:38:28.734962"
+    },
+    {
+      "english": "Originate, with boldness.",
+      "spanish": "Origina, con audacia.",
+      "category": "Creativity",
+      "generated_at": "2026-09-24T05:38:28.734963"
+    },
+    {
+      "english": "Devise, clever solutions.",
+      "spanish": "Idea, soluciones ingeniosas.",
+      "category": "Creativity",
+      "generated_at": "2026-09-24T05:38:28.734964"
+    },
+    {
+      "english": "Sketch, out the possibilities.",
+      "spanish": "Esboza, las posibilidades.",
+      "category": "Creativity",
+      "generated_at": "2026-09-24T05:38:28.734965"
+    },
+    {
+      "english": "Craft, unique expressions.",
+      "spanish": "Crea, expresiones únicas.",
+      "category": "Creativity",
+      "generated_at": "2026-09-24T05:38:28.734966"
+    },
+    {
+      "english": "Ponder, new perspectives.",
+      "spanish": "Reflexiona, sobre nuevas visiones.",
+      "category": "Creativity",
+      "generated_at": "2026-09-24T05:38:28.734967"
+    },
+    {
+      "english": "Sculpt, your ideas.",
+      "spanish": "Esculpe, tus ideas.",
+      "category": "Creativity",
+      "generated_at": "2026-09-24T05:38:28.734968"
+    },
+    {
+      "english": "Invent, from your heart.",
+      "spanish": "Inventa, desde tu corazón.",
+      "category": "Creativity",
+      "generated_at": "2026-09-24T05:38:28.734969"
+    },
+    {
+      "english": "Design, with intention.",
+      "spanish": "Diseña, con intención.",
+      "category": "Creativity",
+      "generated_at": "2026-09-24T05:38:28.734970"
+    },
+    {
+      "english": "Explore, uncharted territory.",
+      "spanish": "Explora, lo desconocido.",
+      "category": "Creativity",
+      "generated_at": "2026-09-24T05:38:28.734971"
+    },
+    {
+      "english": "Dream, bigger, brighter.",
+      "spanish": "Sueña, más grande, más brillante.",
+      "category": "Creativity",
+      "generated_at": "2026-09-24T05:38:28.734972"
+    },
+    {
+      "english": "Create, without limits.",
+      "spanish": "Crea, sin límites.",
+      "category": "Creativity",
+      "generated_at": "2026-09-24T05:38:28.734973"
+    },
+    {
+      "english": "Think, unconventionally.",
+      "spanish": "Piensa, de forma no convencional.",
+      "category": "Creativity",
+      "generated_at": "2026-09-24T05:38:28.734974"
+    },
+    {
+      "english": "Invent, your own path.",
+      "spanish": "Inventa, tu propio camino.",
+      "category": "Creativity",
+      "generated_at": "2026-09-24T05:38:28.734975"
+    },
+    {
+      "english": "Design, with imagination.",
+      "spanish": "Diseña, con imaginación.",
+      "category": "Creativity",
+      "generated_at": "2026-09-24T05:38:28.734975"
+    },
+    {
+      "english": "Explore, new worlds.",
+      "spanish": "Explora, nuevos mundos.",
+      "category": "Creativity",
+      "generated_at": "2026-09-24T05:38:28.734976"
+    },
+    {
+      "english": "Generate, original concepts.",
+      "spanish": "Genera, conceptos originales.",
+      "category": "Creativity",
+      "generated_at": "2026-09-24T05:38:28.734977"
+    },
+    {
+      "english": "Build, beyond expectations.",
+      "spanish": "Construye, más allá de lo esperado.",
+      "category": "Creativity",
+      "generated_at": "2026-09-24T05:38:28.734978"
+    },
+    {
+      "english": "Conceive, what could be.",
+      "spanish": "Concibe, lo que podría ser.",
+      "category": "Creativity",
+      "generated_at": "2026-09-24T05:38:28.734979"
+    },
+    {
+      "english": "Envision, the impossible.",
+      "spanish": "Visualiza, lo imposible.",
+      "category": "Creativity",
+      "generated_at": "2026-09-24T05:38:28.734980"
+    },
+    {
+      "english": "Compose, something bold.",
+      "spanish": "Compón, algo audaz.",
+      "category": "Creativity",
+      "generated_at": "2026-09-24T05:38:28.734981"
+    },
+    {
+      "english": "Spark, new ideas.",
+      "spanish": "Enciende, nuevas ideas.",
+      "category": "Creativity",
+      "generated_at": "2026-09-24T05:38:28.734982"
+    },
+    {
+      "english": "Imagine, more than you see.",
+      "spanish": "Imagina, más de lo que ves.",
+      "category": "Creativity",
+      "generated_at": "2026-09-24T05:38:28.734983"
+    },
+    {
+      "english": "Create, your own magic.",
+      "spanish": "Crea, tu propia magia.",
+      "category": "Creativity",
+      "generated_at": "2026-09-24T05:38:28.734984"
+    },
+    {
+      "english": "Think, outside the box.",
+      "spanish": "Piensa, fuera de la caja.",
+      "category": "Creativity",
+      "generated_at": "2026-09-24T05:38:28.734985"
+    },
+    {
+      "english": "Invent, something new.",
+      "spanish": "Inventa, algo nuevo.",
+      "category": "Creativity",
+      "generated_at": "2026-09-24T05:38:28.734986"
+    },
+    {
+      "english": "Design, your future.",
+      "spanish": "Diseña, tu futuro.",
+      "category": "Creativity",
+      "generated_at": "2026-09-24T05:38:28.734987"
+    },
+    {
+      "english": "Explore, your ideas.",
+      "spanish": "Explora, tus ideas.",
+      "category": "Creativity",
+      "generated_at": "2026-09-24T05:38:28.734988"
+    },
+    {
+      "english": "Innovate, with passion.",
+      "spanish": "Innova, con pasión.",
+      "category": "Creativity",
+      "generated_at": "2026-09-24T05:38:28.734989"
+    },
+    {
+      "english": "Experiment, fearlessly.",
+      "spanish": "Experimenta, sin miedo.",
+      "category": "Creativity",
+      "generated_at": "2026-09-24T05:38:28.734990"
+    },
+    {
+      "english": "Dream, up possibilities.",
+      "spanish": "Sueña, posibilidades.",
+      "category": "Creativity",
+      "generated_at": "2026-09-24T05:38:28.734991"
+    },
+    {
+      "english": "Reinvent, yourself daily.",
+      "spanish": "Reinvéntate, a diario.",
+      "category": "Creativity",
+      "generated_at": "2026-09-24T05:38:28.734993"
+    },
+    {
+      "english": "Sketch, your dreams.",
+      "spanish": "Dibuja, tus sueños.",
+      "category": "Creativity",
+      "generated_at": "2026-09-24T05:38:28.734994"
+    },
+    {
+      "english": "Envision, the unseen.",
+      "spanish": "Visualiza, lo no visto.",
+      "category": "Creativity",
+      "generated_at": "2026-09-24T05:38:28.734995"
+    },
+    {
+      "english": "Compose, your story.",
+      "spanish": "Compón, tu historia.",
+      "category": "Creativity",
+      "generated_at": "2026-09-24T05:38:28.734996"
+    },
+    {
+      "english": "Build, something unique.",
+      "spanish": "Construye, algo único.",
+      "category": "Creativity",
+      "generated_at": "2026-09-24T05:38:28.734997"
+    },
+    {
+      "english": "Conceive, brilliant ideas.",
+      "spanish": "Concibe, ideas brillantes.",
+      "category": "Creativity",
+      "generated_at": "2026-09-24T05:38:28.734998"
+    },
+    {
+      "english": "Draft, your masterpiece.",
+      "spanish": "Boceta, tu obra maestra.",
+      "category": "Creativity",
+      "generated_at": "2026-09-24T05:38:28.734999"
+    },
+    {
+      "english": "Brainstorm, together now.",
+      "spanish": "Haz una lluvia, de ideas.",
+      "category": "Creativity",
+      "generated_at": "2026-09-24T05:38:28.735000"
+    },
+    {
+      "english": "Formulate, a new plan.",
+      "spanish": "Formula, un plan nuevo.",
+      "category": "Creativity",
+      "generated_at": "2026-09-24T05:38:28.735001"
+    },
+    {
+      "english": "Generate, fresh thoughts.",
+      "spanish": "Genera, pensamientos frescos.",
+      "category": "Creativity",
+      "generated_at": "2026-09-24T05:38:28.735002"
+    },
+    {
+      "english": "Originate, with boldness.",
+      "spanish": "Origina, con audacia.",
+      "category": "Creativity",
+      "generated_at": "2026-09-24T05:38:28.735003"
+    },
+    {
+      "english": "Devise, clever solutions.",
+      "spanish": "Idea, soluciones ingeniosas.",
+      "category": "Creativity",
+      "generated_at": "2026-09-24T05:38:28.735004"
+    },
+    {
+      "english": "Sketch, out the possibilities.",
+      "spanish": "Esboza, las posibilidades.",
+      "category": "Creativity",
+      "generated_at": "2026-09-24T05:38:28.735005"
+    },
+    {
+      "english": "Craft, unique expressions.",
+      "spanish": "Crea, expresiones únicas.",
+      "category": "Creativity",
+      "generated_at": "2026-09-24T05:38:28.735006"
+    },
+    {
+      "english": "Ponder, new perspectives.",
+      "spanish": "Reflexiona, sobre nuevas visiones.",
+      "category": "Creativity",
+      "generated_at": "2026-09-24T05:38:28.735007"
+    },
+    {
+      "english": "Sculpt, your ideas.",
+      "spanish": "Esculpe, tus ideas.",
+      "category": "Creativity",
+      "generated_at": "2026-09-24T05:38:28.735008"
+    },
+    {
+      "english": "Invent, from your heart.",
+      "spanish": "Inventa, desde tu corazón.",
+      "category": "Creativity",
+      "generated_at": "2026-09-24T05:38:28.735009"
+    },
+    {
+      "english": "Design, with intention.",
+      "spanish": "Diseña, con intención.",
+      "category": "Creativity",
+      "generated_at": "2026-09-24T05:38:28.735010"
+    },
+    {
+      "english": "Explore, uncharted territory.",
+      "spanish": "Explora, lo desconocido.",
+      "category": "Creativity",
+      "generated_at": "2026-09-24T05:38:28.735011"
+    },
+    {
+      "english": "Dream, bigger, brighter.",
+      "spanish": "Sueña, más grande, más brillante.",
+      "category": "Creativity",
+      "generated_at": "2026-09-24T05:38:28.735011"
+    },
+    {
+      "english": "Create, without limits.",
+      "spanish": "Crea, sin límites.",
+      "category": "Creativity",
+      "generated_at": "2026-09-24T05:38:28.735012"
+    },
+    {
+      "english": "Think, unconventionally.",
+      "spanish": "Piensa, de forma no convencional.",
+      "category": "Creativity",
+      "generated_at": "2026-09-24T05:38:28.735013"
+    },
+    {
+      "english": "Invent, your own path.",
+      "spanish": "Inventa, tu propio camino.",
+      "category": "Creativity",
+      "generated_at": "2026-09-24T05:38:28.735014"
+    },
+    {
+      "english": "Design, with imagination.",
+      "spanish": "Diseña, con imaginación.",
+      "category": "Creativity",
+      "generated_at": "2026-09-24T05:38:28.735015"
+    },
+    {
+      "english": "Explore, new worlds.",
+      "spanish": "Explora, nuevos mundos.",
+      "category": "Creativity",
+      "generated_at": "2026-09-24T05:38:28.735016"
+    },
+    {
+      "english": "Generate, original concepts.",
+      "spanish": "Genera, conceptos originales.",
+      "category": "Creativity",
+      "generated_at": "2026-09-24T05:38:28.735017"
+    },
+    {
+      "english": "Build, beyond expectations.",
+      "spanish": "Construye, más allá de lo esperado.",
+      "category": "Creativity",
+      "generated_at": "2026-09-24T05:38:28.735018"
+    },
+    {
+      "english": "Conceive, what could be.",
+      "spanish": "Concibe, lo que podría ser.",
+      "category": "Creativity",
+      "generated_at": "2026-09-24T05:38:28.735018"
+    },
+    {
+      "english": "Envision, the impossible.",
+      "spanish": "Visualiza, lo imposible.",
+      "category": "Creativity",
+      "generated_at": "2026-09-24T05:38:28.735019"
+    },
+    {
+      "english": "Compose, something bold.",
+      "spanish": "Compón, algo audaz.",
+      "category": "Creativity",
+      "generated_at": "2026-09-24T05:38:28.735020"
+    },
+    {
+      "english": "Spark, new ideas.",
+      "spanish": "Enciende, nuevas ideas.",
+      "category": "Creativity",
+      "generated_at": "2026-09-24T05:38:28.735021"
     }
   ],
-  "last_updated": "2026-09-23T05:22:13.523397"
+  "last_updated": "2026-09-24T05:38:28.735023"
 }
