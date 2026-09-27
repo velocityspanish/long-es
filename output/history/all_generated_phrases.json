@@ -52559,7 +52559,727 @@
       "spanish": "Tranquilo, relájate un poco.",
       "category": "Patience",
       "generated_at": "2026-09-26T05:41:37.467699"
+    },
+    {
+      "english": "Tiny joys, build big smiles.",
+      "spanish": "Pequeñas alegrías, crean grandes sonrisas.",
+      "category": "Happiness",
+      "generated_at": "2026-09-27T05:58:10.299789"
+    },
+    {
+      "english": "A clean space, a clear mind.",
+      "spanish": "Un espacio limpio, una mente clara.",
+      "category": "Happiness",
+      "generated_at": "2026-09-27T05:58:10.299803"
+    },
+    {
+      "english": "Gratitude flowers, bloom freely.",
+      "spanish": "La gratitud florece, libremente.",
+      "category": "Happiness",
+      "generated_at": "2026-09-27T05:58:10.299805"
+    },
+    {
+      "english": "Kind words, cost nothing.",
+      "spanish": "Palabras amables, no cuestan nada.",
+      "category": "Happiness",
+      "generated_at": "2026-09-27T05:58:10.299806"
+    },
+    {
+      "english": "Dancing helps, the spirit sing.",
+      "spanish": "Bailar ayuda, al espíritu a cantar.",
+      "category": "Happiness",
+      "generated_at": "2026-09-27T05:58:10.299807"
+    },
+    {
+      "english": "Good sleep, fuels your day.",
+      "spanish": "Buen descanso, alimenta tu día.",
+      "category": "Happiness",
+      "generated_at": "2026-09-27T05:58:10.299809"
+    },
+    {
+      "english": "Sharing makes, life richer.",
+      "spanish": "Compartir hace, la vida más rica.",
+      "category": "Happiness",
+      "generated_at": "2026-09-27T05:58:10.299810"
+    },
+    {
+      "english": "Helping others, feels good.",
+      "spanish": "Ayudar a otros, se siente bien.",
+      "category": "Happiness",
+      "generated_at": "2026-09-27T05:58:10.299813"
+    },
+    {
+      "english": "Laughter erases, worries fast.",
+      "spanish": "La risa borra, las penas rápido.",
+      "category": "Happiness",
+      "generated_at": "2026-09-27T05:58:10.299815"
+    },
+    {
+      "english": "Sunlight lifts, your mood up.",
+      "spanish": "La luz solar, levanta tu ánimo.",
+      "category": "Happiness",
+      "generated_at": "2026-09-27T05:58:10.299816"
+    },
+    {
+      "english": "Music heals, the weary soul.",
+      "spanish": "La música cura, el alma cansada.",
+      "category": "Happiness",
+      "generated_at": "2026-09-27T05:58:10.299818"
+    },
+    {
+      "english": "A walk outside, resets you.",
+      "spanish": "Un paseo afuera, te reinicia.",
+      "category": "Happiness",
+      "generated_at": "2026-09-27T05:58:10.299819"
+    },
+    {
+      "english": "Learning something new, sparks joy.",
+      "spanish": "Aprender algo nuevo, enciende alegría.",
+      "category": "Happiness",
+      "generated_at": "2026-09-27T05:58:10.299820"
+    },
+    {
+      "english": "Simple acts, create big change.",
+      "spanish": "Actos simples, crean gran cambio.",
+      "category": "Happiness",
+      "generated_at": "2026-09-27T05:58:10.299821"
+    },
+    {
+      "english": "Forgiveness frees, your heart.",
+      "spanish": "El perdón libera, tu corazón.",
+      "category": "Happiness",
+      "generated_at": "2026-09-27T05:58:10.299822"
+    },
+    {
+      "english": "Pets bring, pure delight.",
+      "spanish": "Las mascotas traen, pura alegría.",
+      "category": "Happiness",
+      "generated_at": "2026-09-27T05:58:10.299823"
+    },
+    {
+      "english": "Nature sounds, calm the mind.",
+      "spanish": "Sonidos de naturaleza, calman la mente.",
+      "category": "Happiness",
+      "generated_at": "2026-09-27T05:58:10.299824"
+    },
+    {
+      "english": "A good book, offers escape.",
+      "spanish": "Un buen libro, ofrece escape.",
+      "category": "Happiness",
+      "generated_at": "2026-09-27T05:58:10.299825"
+    },
+    {
+      "english": "Hugging someone, feels so good.",
+      "spanish": "Abrazar a alguien, se siente muy bien.",
+      "category": "Happiness",
+      "generated_at": "2026-09-27T05:58:10.299826"
+    },
+    {
+      "english": "Creativity flows, from play.",
+      "spanish": "La creatividad fluye, del juego.",
+      "category": "Happiness",
+      "generated_at": "2026-09-27T05:58:10.299827"
+    },
+    {
+      "english": "Acceptance brings, inner peace.",
+      "spanish": "La aceptación trae, paz interior.",
+      "category": "Happiness",
+      "generated_at": "2026-09-27T05:58:10.299828"
+    },
+    {
+      "english": "Dreaming big, starts small.",
+      "spanish": "Soñar en grande, empieza pequeño.",
+      "category": "Happiness",
+      "generated_at": "2026-09-27T05:58:10.299830"
+    },
+    {
+      "english": "Every sunrise, is a new chance.",
+      "spanish": "Cada amanecer, es nueva oportunidad.",
+      "category": "Happiness",
+      "generated_at": "2026-09-27T05:58:10.299830"
+    },
+    {
+      "english": "A warm drink, comforts you.",
+      "spanish": "Una bebida caliente, te conforta.",
+      "category": "Happiness",
+      "generated_at": "2026-09-27T05:58:10.299831"
+    },
+    {
+      "english": "Kindness echoes, far and wide.",
+      "spanish": "La amabilidad resuena, lejos y cerca.",
+      "category": "Happiness",
+      "generated_at": "2026-09-27T05:58:10.299832"
+    },
+    {
+      "english": "Forgive yourself, easily.",
+      "spanish": "Perdónate a ti mismo, fácilmente.",
+      "category": "Happiness",
+      "generated_at": "2026-09-27T05:58:10.299833"
+    },
+    {
+      "english": "Small kindnesses, make days bright.",
+      "spanish": "Pequeñas bondades, hacen días brillantes.",
+      "category": "Happiness",
+      "generated_at": "2026-09-27T05:58:10.299834"
+    },
+    {
+      "english": "Breathing deeply, calms nerves.",
+      "spanish": "Respirar hondo, calma los nervios.",
+      "category": "Happiness",
+      "generated_at": "2026-09-27T05:58:10.299835"
+    },
+    {
+      "english": "Smiling at strangers, spreads joy.",
+      "spanish": "Sonreír a extraños, esparce alegría.",
+      "category": "Happiness",
+      "generated_at": "2026-09-27T05:58:10.299836"
+    },
+    {
+      "english": "Finding beauty, everywhere.",
+      "spanish": "Encontrar belleza, en todas partes.",
+      "category": "Happiness",
+      "generated_at": "2026-09-27T05:58:10.299836"
+    },
+    {
+      "english": "A warm hug, heals much.",
+      "spanish": "Un abrazo cálido, sana mucho.",
+      "category": "Happiness",
+      "generated_at": "2026-09-27T05:58:10.299837"
+    },
+    {
+      "english": "Sharing food, creates bonds.",
+      "spanish": "Compartir comida, crea lazos.",
+      "category": "Happiness",
+      "generated_at": "2026-09-27T05:58:10.299838"
+    },
+    {
+      "english": "Dancing freely, lifts spirits.",
+      "spanish": "Bailar libremente, eleva el ánimo.",
+      "category": "Happiness",
+      "generated_at": "2026-09-27T05:58:10.299839"
+    },
+    {
+      "english": "A good story, ignites wonder.",
+      "spanish": "Una buena historia, enciende la maravilla.",
+      "category": "Happiness",
+      "generated_at": "2026-09-27T05:58:10.299840"
+    },
+    {
+      "english": "Sunshine on skin, feels good.",
+      "spanish": "El sol en la piel, se siente bien.",
+      "category": "Happiness",
+      "generated_at": "2026-09-27T05:58:10.299841"
+    },
+    {
+      "english": "Helping hands, make light work.",
+      "spanish": "Manos que ayudan, aligeran la carga.",
+      "category": "Happiness",
+      "generated_at": "2026-09-27T05:58:10.299841"
+    },
+    {
+      "english": "True connection, nourishes the soul.",
+      "spanish": "Conexión verdadera, nutre el alma.",
+      "category": "Happiness",
+      "generated_at": "2026-09-27T05:58:10.299842"
+    },
+    {
+      "english": "Singing loudly, releases stress.",
+      "spanish": "Cantar fuerte, libera el estrés.",
+      "category": "Happiness",
+      "generated_at": "2026-09-27T05:58:10.299843"
+    },
+    {
+      "english": "A quiet moment, brings peace.",
+      "spanish": "Un momento tranquilo, trae paz.",
+      "category": "Happiness",
+      "generated_at": "2026-09-27T05:58:10.299844"
+    },
+    {
+      "english": "Joy is found, in simple things.",
+      "spanish": "La alegría se encuentra, en cosas simples.",
+      "category": "Happiness",
+      "generated_at": "2026-09-27T05:58:10.299845"
+    },
+    {
+      "english": "Tiny joys, build big smiles.",
+      "spanish": "Pequeñas alegrías, crean grandes sonrisas.",
+      "category": "Happiness",
+      "generated_at": "2026-09-27T05:58:10.299846"
+    },
+    {
+      "english": "A clean space, a clear mind.",
+      "spanish": "Un espacio limpio, una mente clara.",
+      "category": "Happiness",
+      "generated_at": "2026-09-27T05:58:10.299847"
+    },
+    {
+      "english": "Gratitude flowers, bloom freely.",
+      "spanish": "La gratitud florece, libremente.",
+      "category": "Happiness",
+      "generated_at": "2026-09-27T05:58:10.299849"
+    },
+    {
+      "english": "Kind words, cost nothing.",
+      "spanish": "Palabras amables, no cuestan nada.",
+      "category": "Happiness",
+      "generated_at": "2026-09-27T05:58:10.299850"
+    },
+    {
+      "english": "Dancing helps, the spirit sing.",
+      "spanish": "Bailar ayuda, al espíritu a cantar.",
+      "category": "Happiness",
+      "generated_at": "2026-09-27T05:58:10.299851"
+    },
+    {
+      "english": "Good sleep, fuels your day.",
+      "spanish": "Buen descanso, alimenta tu día.",
+      "category": "Happiness",
+      "generated_at": "2026-09-27T05:58:10.299852"
+    },
+    {
+      "english": "Sharing makes, life richer.",
+      "spanish": "Compartir hace, la vida más rica.",
+      "category": "Happiness",
+      "generated_at": "2026-09-27T05:58:10.299853"
+    },
+    {
+      "english": "Helping others, feels good.",
+      "spanish": "Ayudar a otros, se siente bien.",
+      "category": "Happiness",
+      "generated_at": "2026-09-27T05:58:10.299854"
+    },
+    {
+      "english": "Laughter erases, worries fast.",
+      "spanish": "La risa borra, las penas rápido.",
+      "category": "Happiness",
+      "generated_at": "2026-09-27T05:58:10.299855"
+    },
+    {
+      "english": "Sunlight lifts, your mood up.",
+      "spanish": "La luz solar, levanta tu ánimo.",
+      "category": "Happiness",
+      "generated_at": "2026-09-27T05:58:10.299856"
+    },
+    {
+      "english": "Music heals, the weary soul.",
+      "spanish": "La música cura, el alma cansada.",
+      "category": "Happiness",
+      "generated_at": "2026-09-27T05:58:10.299857"
+    },
+    {
+      "english": "A walk outside, resets you.",
+      "spanish": "Un paseo afuera, te reinicia.",
+      "category": "Happiness",
+      "generated_at": "2026-09-27T05:58:10.299858"
+    },
+    {
+      "english": "Learning something new, sparks joy.",
+      "spanish": "Aprender algo nuevo, enciende alegría.",
+      "category": "Happiness",
+      "generated_at": "2026-09-27T05:58:10.299859"
+    },
+    {
+      "english": "Simple acts, create big change.",
+      "spanish": "Actos simples, crean gran cambio.",
+      "category": "Happiness",
+      "generated_at": "2026-09-27T05:58:10.299860"
+    },
+    {
+      "english": "Forgiveness frees, your heart.",
+      "spanish": "El perdón libera, tu corazón.",
+      "category": "Happiness",
+      "generated_at": "2026-09-27T05:58:10.299861"
+    },
+    {
+      "english": "Pets bring, pure delight.",
+      "spanish": "Las mascotas traen, pura alegría.",
+      "category": "Happiness",
+      "generated_at": "2026-09-27T05:58:10.299862"
+    },
+    {
+      "english": "Nature sounds, calm the mind.",
+      "spanish": "Sonidos de naturaleza, calman la mente.",
+      "category": "Happiness",
+      "generated_at": "2026-09-27T05:58:10.299863"
+    },
+    {
+      "english": "A good book, offers escape.",
+      "spanish": "Un buen libro, ofrece escape.",
+      "category": "Happiness",
+      "generated_at": "2026-09-27T05:58:10.299864"
+    },
+    {
+      "english": "Hugging someone, feels so good.",
+      "spanish": "Abrazar a alguien, se siente muy bien.",
+      "category": "Happiness",
+      "generated_at": "2026-09-27T05:58:10.299865"
+    },
+    {
+      "english": "Creativity flows, from play.",
+      "spanish": "La creatividad fluye, del juego.",
+      "category": "Happiness",
+      "generated_at": "2026-09-27T05:58:10.299866"
+    },
+    {
+      "english": "Acceptance brings, inner peace.",
+      "spanish": "La aceptación trae, paz interior.",
+      "category": "Happiness",
+      "generated_at": "2026-09-27T05:58:10.299867"
+    },
+    {
+      "english": "Dreaming big, starts small.",
+      "spanish": "Soñar en grande, empieza pequeño.",
+      "category": "Happiness",
+      "generated_at": "2026-09-27T05:58:10.299868"
+    },
+    {
+      "english": "Every sunrise, is a new chance.",
+      "spanish": "Cada amanecer, es nueva oportunidad.",
+      "category": "Happiness",
+      "generated_at": "2026-09-27T05:58:10.299869"
+    },
+    {
+      "english": "A warm drink, comforts you.",
+      "spanish": "Una bebida caliente, te conforta.",
+      "category": "Happiness",
+      "generated_at": "2026-09-27T05:58:10.299870"
+    },
+    {
+      "english": "Kindness echoes, far and wide.",
+      "spanish": "La amabilidad resuena, lejos y cerca.",
+      "category": "Happiness",
+      "generated_at": "2026-09-27T05:58:10.299871"
+    },
+    {
+      "english": "Forgive yourself, easily.",
+      "spanish": "Perdónate a ti mismo, fácilmente.",
+      "category": "Happiness",
+      "generated_at": "2026-09-27T05:58:10.299872"
+    },
+    {
+      "english": "Small kindnesses, make days bright.",
+      "spanish": "Pequeñas bondades, hacen días brillantes.",
+      "category": "Happiness",
+      "generated_at": "2026-09-27T05:58:10.299873"
+    },
+    {
+      "english": "Breathing deeply, calms nerves.",
+      "spanish": "Respirar hondo, calma los nervios.",
+      "category": "Happiness",
+      "generated_at": "2026-09-27T05:58:10.299874"
+    },
+    {
+      "english": "Smiling at strangers, spreads joy.",
+      "spanish": "Sonreír a extraños, esparce alegría.",
+      "category": "Happiness",
+      "generated_at": "2026-09-27T05:58:10.299875"
+    },
+    {
+      "english": "Finding beauty, everywhere.",
+      "spanish": "Encontrar belleza, en todas partes.",
+      "category": "Happiness",
+      "generated_at": "2026-09-27T05:58:10.299875"
+    },
+    {
+      "english": "A warm hug, heals much.",
+      "spanish": "Un abrazo cálido, sana mucho.",
+      "category": "Happiness",
+      "generated_at": "2026-09-27T05:58:10.299876"
+    },
+    {
+      "english": "Sharing food, creates bonds.",
+      "spanish": "Compartir comida, crea lazos.",
+      "category": "Happiness",
+      "generated_at": "2026-09-27T05:58:10.299877"
+    },
+    {
+      "english": "Dancing freely, lifts spirits.",
+      "spanish": "Bailar libremente, eleva el ánimo.",
+      "category": "Happiness",
+      "generated_at": "2026-09-27T05:58:10.299878"
+    },
+    {
+      "english": "A good story, ignites wonder.",
+      "spanish": "Una buena historia, enciende la maravilla.",
+      "category": "Happiness",
+      "generated_at": "2026-09-27T05:58:10.299879"
+    },
+    {
+      "english": "Sunshine on skin, feels good.",
+      "spanish": "El sol en la piel, se siente bien.",
+      "category": "Happiness",
+      "generated_at": "2026-09-27T05:58:10.299880"
+    },
+    {
+      "english": "Helping hands, make light work.",
+      "spanish": "Manos que ayudan, aligeran la carga.",
+      "category": "Happiness",
+      "generated_at": "2026-09-27T05:58:10.299881"
+    },
+    {
+      "english": "True connection, nourishes the soul.",
+      "spanish": "Conexión verdadera, nutre el alma.",
+      "category": "Happiness",
+      "generated_at": "2026-09-27T05:58:10.299882"
+    },
+    {
+      "english": "Singing loudly, releases stress.",
+      "spanish": "Cantar fuerte, libera el estrés.",
+      "category": "Happiness",
+      "generated_at": "2026-09-27T05:58:10.299883"
+    },
+    {
+      "english": "A quiet moment, brings peace.",
+      "spanish": "Un momento tranquilo, trae paz.",
+      "category": "Happiness",
+      "generated_at": "2026-09-27T05:58:10.299884"
+    },
+    {
+      "english": "Joy is found, in simple things.",
+      "spanish": "La alegría se encuentra, en cosas simples.",
+      "category": "Happiness",
+      "generated_at": "2026-09-27T05:58:10.299885"
+    },
+    {
+      "english": "Tiny joys, build big smiles.",
+      "spanish": "Pequeñas alegrías, crean grandes sonrisas.",
+      "category": "Happiness",
+      "generated_at": "2026-09-27T05:58:10.299886"
+    },
+    {
+      "english": "A clean space, a clear mind.",
+      "spanish": "Un espacio limpio, una mente clara.",
+      "category": "Happiness",
+      "generated_at": "2026-09-27T05:58:10.299887"
+    },
+    {
+      "english": "Gratitude flowers, bloom freely.",
+      "spanish": "La gratitud florece, libremente.",
+      "category": "Happiness",
+      "generated_at": "2026-09-27T05:58:10.299888"
+    },
+    {
+      "english": "Kind words, cost nothing.",
+      "spanish": "Palabras amables, no cuestan nada.",
+      "category": "Happiness",
+      "generated_at": "2026-09-27T05:58:10.299889"
+    },
+    {
+      "english": "Dancing helps, the spirit sing.",
+      "spanish": "Bailar ayuda, al espíritu a cantar.",
+      "category": "Happiness",
+      "generated_at": "2026-09-27T05:58:10.299890"
+    },
+    {
+      "english": "Good sleep, fuels your day.",
+      "spanish": "Buen descanso, alimenta tu día.",
+      "category": "Happiness",
+      "generated_at": "2026-09-27T05:58:10.299892"
+    },
+    {
+      "english": "Sharing makes, life richer.",
+      "spanish": "Compartir hace, la vida más rica.",
+      "category": "Happiness",
+      "generated_at": "2026-09-27T05:58:10.299893"
+    },
+    {
+      "english": "Helping others, feels good.",
+      "spanish": "Ayudar a otros, se siente bien.",
+      "category": "Happiness",
+      "generated_at": "2026-09-27T05:58:10.299894"
+    },
+    {
+      "english": "Laughter erases, worries fast.",
+      "spanish": "La risa borra, las penas rápido.",
+      "category": "Happiness",
+      "generated_at": "2026-09-27T05:58:10.299895"
+    },
+    {
+      "english": "Sunlight lifts, your mood up.",
+      "spanish": "La luz solar, levanta tu ánimo.",
+      "category": "Happiness",
+      "generated_at": "2026-09-27T05:58:10.299896"
+    },
+    {
+      "english": "Music heals, the weary soul.",
+      "spanish": "La música cura, el alma cansada.",
+      "category": "Happiness",
+      "generated_at": "2026-09-27T05:58:10.299897"
+    },
+    {
+      "english": "A walk outside, resets you.",
+      "spanish": "Un paseo afuera, te reinicia.",
+      "category": "Happiness",
+      "generated_at": "2026-09-27T05:58:10.299898"
+    },
+    {
+      "english": "Learning something new, sparks joy.",
+      "spanish": "Aprender algo nuevo, enciende alegría.",
+      "category": "Happiness",
+      "generated_at": "2026-09-27T05:58:10.299899"
+    },
+    {
+      "english": "Simple acts, create big change.",
+      "spanish": "Actos simples, crean gran cambio.",
+      "category": "Happiness",
+      "generated_at": "2026-09-27T05:58:10.299901"
+    },
+    {
+      "english": "Forgiveness frees, your heart.",
+      "spanish": "El perdón libera, tu corazón.",
+      "category": "Happiness",
+      "generated_at": "2026-09-27T05:58:10.299902"
+    },
+    {
+      "english": "Pets bring, pure delight.",
+      "spanish": "Las mascotas traen, pura alegría.",
+      "category": "Happiness",
+      "generated_at": "2026-09-27T05:58:10.299903"
+    },
+    {
+      "english": "Nature sounds, calm the mind.",
+      "spanish": "Sonidos de naturaleza, calman la mente.",
+      "category": "Happiness",
+      "generated_at": "2026-09-27T05:58:10.299904"
+    },
+    {
+      "english": "A good book, offers escape.",
+      "spanish": "Un buen libro, ofrece escape.",
+      "category": "Happiness",
+      "generated_at": "2026-09-27T05:58:10.299905"
+    },
+    {
+      "english": "Hugging someone, feels so good.",
+      "spanish": "Abrazar a alguien, se siente muy bien.",
+      "category": "Happiness",
+      "generated_at": "2026-09-27T05:58:10.299906"
+    },
+    {
+      "english": "Creativity flows, from play.",
+      "spanish": "La creatividad fluye, del juego.",
+      "category": "Happiness",
+      "generated_at": "2026-09-27T05:58:10.299906"
+    },
+    {
+      "english": "Acceptance brings, inner peace.",
+      "spanish": "La aceptación trae, paz interior.",
+      "category": "Happiness",
+      "generated_at": "2026-09-27T05:58:10.299907"
+    },
+    {
+      "english": "Dreaming big, starts small.",
+      "spanish": "Soñar en grande, empieza pequeño.",
+      "category": "Happiness",
+      "generated_at": "2026-09-27T05:58:10.299908"
+    },
+    {
+      "english": "Every sunrise, is a new chance.",
+      "spanish": "Cada amanecer, es nueva oportunidad.",
+      "category": "Happiness",
+      "generated_at": "2026-09-27T05:58:10.299909"
+    },
+    {
+      "english": "A warm drink, comforts you.",
+      "spanish": "Una bebida caliente, te conforta.",
+      "category": "Happiness",
+      "generated_at": "2026-09-27T05:58:10.299910"
+    },
+    {
+      "english": "Kindness echoes, far and wide.",
+      "spanish": "La amabilidad resuena, lejos y cerca.",
+      "category": "Happiness",
+      "generated_at": "2026-09-27T05:58:10.299911"
+    },
+    {
+      "english": "Forgive yourself, easily.",
+      "spanish": "Perdónate a ti mismo, fácilmente.",
+      "category": "Happiness",
+      "generated_at": "2026-09-27T05:58:10.299912"
+    },
+    {
+      "english": "Small kindnesses, make days bright.",
+      "spanish": "Pequeñas bondades, hacen días brillantes.",
+      "category": "Happiness",
+      "generated_at": "2026-09-27T05:58:10.299913"
+    },
+    {
+      "english": "Breathing deeply, calms nerves.",
+      "spanish": "Respirar hondo, calma los nervios.",
+      "category": "Happiness",
+      "generated_at": "2026-09-27T05:58:10.299914"
+    },
+    {
+      "english": "Smiling at strangers, spreads joy.",
+      "spanish": "Sonreír a extraños, esparce alegría.",
+      "category": "Happiness",
+      "generated_at": "2026-09-27T05:58:10.299915"
+    },
+    {
+      "english": "Finding beauty, everywhere.",
+      "spanish": "Encontrar belleza, en todas partes.",
+      "category": "Happiness",
+      "generated_at": "2026-09-27T05:58:10.299916"
+    },
+    {
+      "english": "A warm hug, heals much.",
+      "spanish": "Un abrazo cálido, sana mucho.",
+      "category": "Happiness",
+      "generated_at": "2026-09-27T05:58:10.299916"
+    },
+    {
+      "english": "Sharing food, creates bonds.",
+      "spanish": "Compartir comida, crea lazos.",
+      "category": "Happiness",
+      "generated_at": "2026-09-27T05:58:10.299917"
+    },
+    {
+      "english": "Dancing freely, lifts spirits.",
+      "spanish": "Bailar libremente, eleva el ánimo.",
+      "category": "Happiness",
+      "generated_at": "2026-09-27T05:58:10.299918"
+    },
+    {
+      "english": "A good story, ignites wonder.",
+      "spanish": "Una buena historia, enciende la maravilla.",
+      "category": "Happiness",
+      "generated_at": "2026-09-27T05:58:10.299919"
+    },
+    {
+      "english": "Sunshine on skin, feels good.",
+      "spanish": "El sol en la piel, se siente bien.",
+      "category": "Happiness",
+      "generated_at": "2026-09-27T05:58:10.299920"
+    },
+    {
+      "english": "Helping hands, make light work.",
+      "spanish": "Manos que ayudan, aligeran la carga.",
+      "category": "Happiness",
+      "generated_at": "2026-09-27T05:58:10.299921"
+    },
+    {
+      "english": "True connection, nourishes the soul.",
+      "spanish": "Conexión verdadera, nutre el alma.",
+      "category": "Happiness",
+      "generated_at": "2026-09-27T05:58:10.299922"
+    },
+    {
+      "english": "Singing loudly, releases stress.",
+      "spanish": "Cantar fuerte, libera el estrés.",
+      "category": "Happiness",
+      "generated_at": "2026-09-27T05:58:10.299923"
+    },
+    {
+      "english": "A quiet moment, brings peace.",
+      "spanish": "Un momento tranquilo, trae paz.",
+      "category": "Happiness",
+      "generated_at": "2026-09-27T05:58:10.299924"
+    },
+    {
+      "english": "Joy is found, in simple things.",
+      "spanish": "La alegría se encuentra, en cosas simples.",
+      "category": "Happiness",
+      "generated_at": "2026-09-27T05:58:10.299924"
     }
   ],
-  "last_updated": "2026-09-26T05:41:37.467700"
+  "last_updated": "2026-09-27T05:58:10.299927"
 }
