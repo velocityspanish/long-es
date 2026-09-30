@@ -54719,7 +54719,727 @@
       "spanish": "Siente la tierra, bajo tus pies.",
       "category": "Mindfulness",
       "generated_at": "2026-09-29T06:24:20.875034"
+    },
+    {
+      "english": "Laughter is, the best medicine.",
+      "spanish": "La risa es, la mejor medicina.",
+      "category": "Joy",
+      "generated_at": "2026-09-30T06:07:52.659229"
+    },
+    {
+      "english": "Joy is, contagious. Share it!",
+      "spanish": "La alegría es, contagiosa. ¡Compártela!",
+      "category": "Joy",
+      "generated_at": "2026-09-30T06:07:52.659246"
+    },
+    {
+      "english": "A small kindness, creates ripples.",
+      "spanish": "Una pequeña bondad, crea ondas.",
+      "category": "Joy",
+      "generated_at": "2026-09-30T06:07:52.659248"
+    },
+    {
+      "english": "Music truly, lifts the spirit.",
+      "spanish": "La música de verdad, eleva el espíritu.",
+      "category": "Joy",
+      "generated_at": "2026-09-30T06:07:52.659250"
+    },
+    {
+      "english": "This moment, can be wonderful.",
+      "spanish": "Este momento, puede ser maravilloso.",
+      "category": "Joy",
+      "generated_at": "2026-09-30T06:07:52.659251"
+    },
+    {
+      "english": "A good book, is a friend.",
+      "spanish": "Un buen libro, es un amigo.",
+      "category": "Joy",
+      "generated_at": "2026-09-30T06:07:52.659252"
+    },
+    {
+      "english": "Dancing, releases tension.",
+      "spanish": "Bailar, libera la tensión.",
+      "category": "Joy",
+      "generated_at": "2026-09-30T06:07:52.659253"
+    },
+    {
+      "english": "Sunrise paints, the sky with hope.",
+      "spanish": "El amanecer pinta, el cielo con esperanza.",
+      "category": "Joy",
+      "generated_at": "2026-09-30T06:07:52.659260"
+    },
+    {
+      "english": "Gratitude, unlocks happiness.",
+      "spanish": "La gratitud, desbloquea la felicidad.",
+      "category": "Joy",
+      "generated_at": "2026-09-30T06:07:52.659262"
+    },
+    {
+      "english": "Nature's beauty, is a balm.",
+      "spanish": "La belleza de la naturaleza, es un bálsamo.",
+      "category": "Joy",
+      "generated_at": "2026-09-30T06:07:52.659263"
+    },
+    {
+      "english": "Good food, makes life better.",
+      "spanish": "La buena comida, mejora la vida.",
+      "category": "Joy",
+      "generated_at": "2026-09-30T06:07:52.659264"
+    },
+    {
+      "english": "A hug, can change everything.",
+      "spanish": "Un abrazo, puede cambiarlo todo.",
+      "category": "Joy",
+      "generated_at": "2026-09-30T06:07:52.659266"
+    },
+    {
+      "english": "Learning something new, is exciting.",
+      "spanish": "Aprender algo nuevo, es emocionante.",
+      "category": "Joy",
+      "generated_at": "2026-09-30T06:07:52.659267"
+    },
+    {
+      "english": "A sweet memory, brings a smile.",
+      "spanish": "Un dulce recuerdo, trae una sonrisa.",
+      "category": "Joy",
+      "generated_at": "2026-09-30T06:07:52.659269"
+    },
+    {
+      "english": "Children's laughter, is pure magic.",
+      "spanish": "La risa de los niños, es magia pura.",
+      "category": "Joy",
+      "generated_at": "2026-09-30T06:07:52.659270"
+    },
+    {
+      "english": "A simple 'thank you', matters.",
+      "spanish": "Un simple 'gracias', importa.",
+      "category": "Joy",
+      "generated_at": "2026-09-30T06:07:52.659271"
+    },
+    {
+      "english": "The ocean's sound, is soothing.",
+      "spanish": "El sonido del mar, es relajante.",
+      "category": "Joy",
+      "generated_at": "2026-09-30T06:07:52.659272"
+    },
+    {
+      "english": "Creating art, sparks joy.",
+      "spanish": "Crear arte, enciende la alegría.",
+      "category": "Joy",
+      "generated_at": "2026-09-30T06:07:52.659273"
+    },
+    {
+      "english": "A warm drink, is comforting.",
+      "spanish": "Una bebida caliente, es reconfortante.",
+      "category": "Joy",
+      "generated_at": "2026-09-30T06:07:52.659274"
+    },
+    {
+      "english": "Unexpected good news, is thrilling.",
+      "spanish": "Buenas noticias inesperadas, son emocionantes.",
+      "category": "Joy",
+      "generated_at": "2026-09-30T06:07:52.659275"
+    },
+    {
+      "english": "Sharing a meal, builds connection.",
+      "spanish": "Compartir una comida, crea conexión.",
+      "category": "Joy",
+      "generated_at": "2026-09-30T06:07:52.659276"
+    },
+    {
+      "english": "The smell of rain, is refreshing.",
+      "spanish": "El olor a lluvia, es refrescante.",
+      "category": "Joy",
+      "generated_at": "2026-09-30T06:07:52.659277"
+    },
+    {
+      "english": "A puppy's wagging tail, is pure joy.",
+      "spanish": "La cola de un cachorro moviéndose, es pura alegría.",
+      "category": "Joy",
+      "generated_at": "2026-09-30T06:07:52.659278"
+    },
+    {
+      "english": "Discovering a hidden gem, feels lucky.",
+      "spanish": "Descubrir una joya escondida, se siente afortunado.",
+      "category": "Joy",
+      "generated_at": "2026-09-30T06:07:52.659279"
+    },
+    {
+      "english": "Singing out loud, is liberating.",
+      "spanish": "Cantar a todo volumen, es liberador.",
+      "category": "Joy",
+      "generated_at": "2026-09-30T06:07:52.659280"
+    },
+    {
+      "english": "A compliment, brightens a day.",
+      "spanish": "Un cumplido, alegra un día.",
+      "category": "Joy",
+      "generated_at": "2026-09-30T06:07:52.659281"
+    },
+    {
+      "english": "Success, after hard work, is sweet.",
+      "spanish": "El éxito, después del trabajo duro, es dulce.",
+      "category": "Joy",
+      "generated_at": "2026-09-30T06:07:52.659282"
+    },
+    {
+      "english": "Seeing loved ones, always cheers.",
+      "spanish": "Ver a los seres queridos, siempre anima.",
+      "category": "Joy",
+      "generated_at": "2026-09-30T06:07:52.659282"
+    },
+    {
+      "english": "Finding a solution, brings relief.",
+      "spanish": "Encontrar una solución, trae alivio.",
+      "category": "Joy",
+      "generated_at": "2026-09-30T06:07:52.659283"
+    },
+    {
+      "english": "Sunshine after rain, is glorious.",
+      "spanish": "El sol después de la lluvia, es glorioso.",
+      "category": "Joy",
+      "generated_at": "2026-09-30T06:07:52.659284"
+    },
+    {
+      "english": "A quiet moment, to reflect, is golden.",
+      "spanish": "Un momento tranquilo, para reflexionar, es oro.",
+      "category": "Joy",
+      "generated_at": "2026-09-30T06:07:52.659285"
+    },
+    {
+      "english": "Receiving a thoughtful gift, feels special.",
+      "spanish": "Recibir un regalo considerado, se siente especial.",
+      "category": "Joy",
+      "generated_at": "2026-09-30T06:07:52.659286"
+    },
+    {
+      "english": "Achieving a goal, is empowering.",
+      "spanish": "Lograr una meta, es empoderador.",
+      "category": "Joy",
+      "generated_at": "2026-09-30T06:07:52.659287"
+    },
+    {
+      "english": "The smell of baking, is pure comfort.",
+      "spanish": "El olor a repostería, es puro consuelo.",
+      "category": "Joy",
+      "generated_at": "2026-09-30T06:07:52.659288"
+    },
+    {
+      "english": "Making someone smile, is rewarding.",
+      "spanish": "Hacer sonreír a alguien, es gratificante.",
+      "category": "Joy",
+      "generated_at": "2026-09-30T06:07:52.659289"
+    },
+    {
+      "english": "A deep sigh of relief, feels good.",
+      "spanish": "Un suspiro profundo de alivio, se siente bien.",
+      "category": "Joy",
+      "generated_at": "2026-09-30T06:07:52.659290"
+    },
+    {
+      "english": "The feeling of being understood, is peace.",
+      "spanish": "La sensación de ser comprendido, es paz.",
+      "category": "Joy",
+      "generated_at": "2026-09-30T06:07:52.659291"
+    },
+    {
+      "english": "Laughter is, the best medicine.",
+      "spanish": "La risa es, la mejor medicina.",
+      "category": "Joy",
+      "generated_at": "2026-09-30T06:07:52.659293"
+    },
+    {
+      "english": "Joy is, contagious. Share it!",
+      "spanish": "La alegría es, contagiosa. ¡Compártela!",
+      "category": "Joy",
+      "generated_at": "2026-09-30T06:07:52.659295"
+    },
+    {
+      "english": "A small kindness, creates ripples.",
+      "spanish": "Una pequeña bondad, crea ondas.",
+      "category": "Joy",
+      "generated_at": "2026-09-30T06:07:52.659296"
+    },
+    {
+      "english": "Music truly, lifts the spirit.",
+      "spanish": "La música de verdad, eleva el espíritu.",
+      "category": "Joy",
+      "generated_at": "2026-09-30T06:07:52.659297"
+    },
+    {
+      "english": "This moment, can be wonderful.",
+      "spanish": "Este momento, puede ser maravilloso.",
+      "category": "Joy",
+      "generated_at": "2026-09-30T06:07:52.659298"
+    },
+    {
+      "english": "A good book, is a friend.",
+      "spanish": "Un buen libro, es un amigo.",
+      "category": "Joy",
+      "generated_at": "2026-09-30T06:07:52.659299"
+    },
+    {
+      "english": "Dancing, releases tension.",
+      "spanish": "Bailar, libera la tensión.",
+      "category": "Joy",
+      "generated_at": "2026-09-30T06:07:52.659300"
+    },
+    {
+      "english": "Sunrise paints, the sky with hope.",
+      "spanish": "El amanecer pinta, el cielo con esperanza.",
+      "category": "Joy",
+      "generated_at": "2026-09-30T06:07:52.659302"
+    },
+    {
+      "english": "Gratitude, unlocks happiness.",
+      "spanish": "La gratitud, desbloquea la felicidad.",
+      "category": "Joy",
+      "generated_at": "2026-09-30T06:07:52.659303"
+    },
+    {
+      "english": "Nature's beauty, is a balm.",
+      "spanish": "La belleza de la naturaleza, es un bálsamo.",
+      "category": "Joy",
+      "generated_at": "2026-09-30T06:07:52.659304"
+    },
+    {
+      "english": "Good food, makes life better.",
+      "spanish": "La buena comida, mejora la vida.",
+      "category": "Joy",
+      "generated_at": "2026-09-30T06:07:52.659305"
+    },
+    {
+      "english": "A hug, can change everything.",
+      "spanish": "Un abrazo, puede cambiarlo todo.",
+      "category": "Joy",
+      "generated_at": "2026-09-30T06:07:52.659306"
+    },
+    {
+      "english": "Learning something new, is exciting.",
+      "spanish": "Aprender algo nuevo, es emocionante.",
+      "category": "Joy",
+      "generated_at": "2026-09-30T06:07:52.659308"
+    },
+    {
+      "english": "A sweet memory, brings a smile.",
+      "spanish": "Un dulce recuerdo, trae una sonrisa.",
+      "category": "Joy",
+      "generated_at": "2026-09-30T06:07:52.659309"
+    },
+    {
+      "english": "Children's laughter, is pure magic.",
+      "spanish": "La risa de los niños, es magia pura.",
+      "category": "Joy",
+      "generated_at": "2026-09-30T06:07:52.659310"
+    },
+    {
+      "english": "A simple 'thank you', matters.",
+      "spanish": "Un simple 'gracias', importa.",
+      "category": "Joy",
+      "generated_at": "2026-09-30T06:07:52.659311"
+    },
+    {
+      "english": "The ocean's sound, is soothing.",
+      "spanish": "El sonido del mar, es relajante.",
+      "category": "Joy",
+      "generated_at": "2026-09-30T06:07:52.659312"
+    },
+    {
+      "english": "Creating art, sparks joy.",
+      "spanish": "Crear arte, enciende la alegría.",
+      "category": "Joy",
+      "generated_at": "2026-09-30T06:07:52.659313"
+    },
+    {
+      "english": "A warm drink, is comforting.",
+      "spanish": "Una bebida caliente, es reconfortante.",
+      "category": "Joy",
+      "generated_at": "2026-09-30T06:07:52.659314"
+    },
+    {
+      "english": "Unexpected good news, is thrilling.",
+      "spanish": "Buenas noticias inesperadas, son emocionantes.",
+      "category": "Joy",
+      "generated_at": "2026-09-30T06:07:52.659315"
+    },
+    {
+      "english": "Sharing a meal, builds connection.",
+      "spanish": "Compartir una comida, crea conexión.",
+      "category": "Joy",
+      "generated_at": "2026-09-30T06:07:52.659317"
+    },
+    {
+      "english": "The smell of rain, is refreshing.",
+      "spanish": "El olor a lluvia, es refrescante.",
+      "category": "Joy",
+      "generated_at": "2026-09-30T06:07:52.659318"
+    },
+    {
+      "english": "A puppy's wagging tail, is pure joy.",
+      "spanish": "La cola de un cachorro moviéndose, es pura alegría.",
+      "category": "Joy",
+      "generated_at": "2026-09-30T06:07:52.659319"
+    },
+    {
+      "english": "Discovering a hidden gem, feels lucky.",
+      "spanish": "Descubrir una joya escondida, se siente afortunado.",
+      "category": "Joy",
+      "generated_at": "2026-09-30T06:07:52.659321"
+    },
+    {
+      "english": "Singing out loud, is liberating.",
+      "spanish": "Cantar a todo volumen, es liberador.",
+      "category": "Joy",
+      "generated_at": "2026-09-30T06:07:52.659322"
+    },
+    {
+      "english": "A compliment, brightens a day.",
+      "spanish": "Un cumplido, alegra un día.",
+      "category": "Joy",
+      "generated_at": "2026-09-30T06:07:52.659323"
+    },
+    {
+      "english": "Success, after hard work, is sweet.",
+      "spanish": "El éxito, después del trabajo duro, es dulce.",
+      "category": "Joy",
+      "generated_at": "2026-09-30T06:07:52.659324"
+    },
+    {
+      "english": "Seeing loved ones, always cheers.",
+      "spanish": "Ver a los seres queridos, siempre anima.",
+      "category": "Joy",
+      "generated_at": "2026-09-30T06:07:52.659325"
+    },
+    {
+      "english": "Finding a solution, brings relief.",
+      "spanish": "Encontrar una solución, trae alivio.",
+      "category": "Joy",
+      "generated_at": "2026-09-30T06:07:52.659327"
+    },
+    {
+      "english": "Sunshine after rain, is glorious.",
+      "spanish": "El sol después de la lluvia, es glorioso.",
+      "category": "Joy",
+      "generated_at": "2026-09-30T06:07:52.659328"
+    },
+    {
+      "english": "A quiet moment, to reflect, is golden.",
+      "spanish": "Un momento tranquilo, para reflexionar, es oro.",
+      "category": "Joy",
+      "generated_at": "2026-09-30T06:07:52.659329"
+    },
+    {
+      "english": "Receiving a thoughtful gift, feels special.",
+      "spanish": "Recibir un regalo considerado, se siente especial.",
+      "category": "Joy",
+      "generated_at": "2026-09-30T06:07:52.659330"
+    },
+    {
+      "english": "Achieving a goal, is empowering.",
+      "spanish": "Lograr una meta, es empoderador.",
+      "category": "Joy",
+      "generated_at": "2026-09-30T06:07:52.659331"
+    },
+    {
+      "english": "The smell of baking, is pure comfort.",
+      "spanish": "El olor a repostería, es puro consuelo.",
+      "category": "Joy",
+      "generated_at": "2026-09-30T06:07:52.659333"
+    },
+    {
+      "english": "Making someone smile, is rewarding.",
+      "spanish": "Hacer sonreír a alguien, es gratificante.",
+      "category": "Joy",
+      "generated_at": "2026-09-30T06:07:52.659334"
+    },
+    {
+      "english": "A deep sigh of relief, feels good.",
+      "spanish": "Un suspiro profundo de alivio, se siente bien.",
+      "category": "Joy",
+      "generated_at": "2026-09-30T06:07:52.659335"
+    },
+    {
+      "english": "The feeling of being understood, is peace.",
+      "spanish": "La sensación de ser comprendido, es paz.",
+      "category": "Joy",
+      "generated_at": "2026-09-30T06:07:52.659336"
+    },
+    {
+      "english": "Laughter is, the best medicine.",
+      "spanish": "La risa es, la mejor medicina.",
+      "category": "Joy",
+      "generated_at": "2026-09-30T06:07:52.659337"
+    },
+    {
+      "english": "Joy is, contagious. Share it!",
+      "spanish": "La alegría es, contagiosa. ¡Compártela!",
+      "category": "Joy",
+      "generated_at": "2026-09-30T06:07:52.659339"
+    },
+    {
+      "english": "A small kindness, creates ripples.",
+      "spanish": "Una pequeña bondad, crea ondas.",
+      "category": "Joy",
+      "generated_at": "2026-09-30T06:07:52.659340"
+    },
+    {
+      "english": "Music truly, lifts the spirit.",
+      "spanish": "La música de verdad, eleva el espíritu.",
+      "category": "Joy",
+      "generated_at": "2026-09-30T06:07:52.659341"
+    },
+    {
+      "english": "This moment, can be wonderful.",
+      "spanish": "Este momento, puede ser maravilloso.",
+      "category": "Joy",
+      "generated_at": "2026-09-30T06:07:52.659343"
+    },
+    {
+      "english": "A good book, is a friend.",
+      "spanish": "Un buen libro, es un amigo.",
+      "category": "Joy",
+      "generated_at": "2026-09-30T06:07:52.659344"
+    },
+    {
+      "english": "Dancing, releases tension.",
+      "spanish": "Bailar, libera la tensión.",
+      "category": "Joy",
+      "generated_at": "2026-09-30T06:07:52.659345"
+    },
+    {
+      "english": "Sunrise paints, the sky with hope.",
+      "spanish": "El amanecer pinta, el cielo con esperanza.",
+      "category": "Joy",
+      "generated_at": "2026-09-30T06:07:52.659346"
+    },
+    {
+      "english": "Gratitude, unlocks happiness.",
+      "spanish": "La gratitud, desbloquea la felicidad.",
+      "category": "Joy",
+      "generated_at": "2026-09-30T06:07:52.659347"
+    },
+    {
+      "english": "Nature's beauty, is a balm.",
+      "spanish": "La belleza de la naturaleza, es un bálsamo.",
+      "category": "Joy",
+      "generated_at": "2026-09-30T06:07:52.659349"
+    },
+    {
+      "english": "Good food, makes life better.",
+      "spanish": "La buena comida, mejora la vida.",
+      "category": "Joy",
+      "generated_at": "2026-09-30T06:07:52.659350"
+    },
+    {
+      "english": "A hug, can change everything.",
+      "spanish": "Un abrazo, puede cambiarlo todo.",
+      "category": "Joy",
+      "generated_at": "2026-09-30T06:07:52.659351"
+    },
+    {
+      "english": "Learning something new, is exciting.",
+      "spanish": "Aprender algo nuevo, es emocionante.",
+      "category": "Joy",
+      "generated_at": "2026-09-30T06:07:52.659352"
+    },
+    {
+      "english": "A sweet memory, brings a smile.",
+      "spanish": "Un dulce recuerdo, trae una sonrisa.",
+      "category": "Joy",
+      "generated_at": "2026-09-30T06:07:52.659353"
+    },
+    {
+      "english": "Children's laughter, is pure magic.",
+      "spanish": "La risa de los niños, es magia pura.",
+      "category": "Joy",
+      "generated_at": "2026-09-30T06:07:52.659355"
+    },
+    {
+      "english": "A simple 'thank you', matters.",
+      "spanish": "Un simple 'gracias', importa.",
+      "category": "Joy",
+      "generated_at": "2026-09-30T06:07:52.659356"
+    },
+    {
+      "english": "The ocean's sound, is soothing.",
+      "spanish": "El sonido del mar, es relajante.",
+      "category": "Joy",
+      "generated_at": "2026-09-30T06:07:52.659357"
+    },
+    {
+      "english": "Creating art, sparks joy.",
+      "spanish": "Crear arte, enciende la alegría.",
+      "category": "Joy",
+      "generated_at": "2026-09-30T06:07:52.659358"
+    },
+    {
+      "english": "A warm drink, is comforting.",
+      "spanish": "Una bebida caliente, es reconfortante.",
+      "category": "Joy",
+      "generated_at": "2026-09-30T06:07:52.659359"
+    },
+    {
+      "english": "Unexpected good news, is thrilling.",
+      "spanish": "Buenas noticias inesperadas, son emocionantes.",
+      "category": "Joy",
+      "generated_at": "2026-09-30T06:07:52.659360"
+    },
+    {
+      "english": "Sharing a meal, builds connection.",
+      "spanish": "Compartir una comida, crea conexión.",
+      "category": "Joy",
+      "generated_at": "2026-09-30T06:07:52.659361"
+    },
+    {
+      "english": "The smell of rain, is refreshing.",
+      "spanish": "El olor a lluvia, es refrescante.",
+      "category": "Joy",
+      "generated_at": "2026-09-30T06:07:52.659362"
+    },
+    {
+      "english": "A puppy's wagging tail, is pure joy.",
+      "spanish": "La cola de un cachorro moviéndose, es pura alegría.",
+      "category": "Joy",
+      "generated_at": "2026-09-30T06:07:52.659363"
+    },
+    {
+      "english": "Discovering a hidden gem, feels lucky.",
+      "spanish": "Descubrir una joya escondida, se siente afortunado.",
+      "category": "Joy",
+      "generated_at": "2026-09-30T06:07:52.659364"
+    },
+    {
+      "english": "Singing out loud, is liberating.",
+      "spanish": "Cantar a todo volumen, es liberador.",
+      "category": "Joy",
+      "generated_at": "2026-09-30T06:07:52.659366"
+    },
+    {
+      "english": "A compliment, brightens a day.",
+      "spanish": "Un cumplido, alegra un día.",
+      "category": "Joy",
+      "generated_at": "2026-09-30T06:07:52.659366"
+    },
+    {
+      "english": "Success, after hard work, is sweet.",
+      "spanish": "El éxito, después del trabajo duro, es dulce.",
+      "category": "Joy",
+      "generated_at": "2026-09-30T06:07:52.659368"
+    },
+    {
+      "english": "Seeing loved ones, always cheers.",
+      "spanish": "Ver a los seres queridos, siempre anima.",
+      "category": "Joy",
+      "generated_at": "2026-09-30T06:07:52.659368"
+    },
+    {
+      "english": "Finding a solution, brings relief.",
+      "spanish": "Encontrar una solución, trae alivio.",
+      "category": "Joy",
+      "generated_at": "2026-09-30T06:07:52.659369"
+    },
+    {
+      "english": "Sunshine after rain, is glorious.",
+      "spanish": "El sol después de la lluvia, es glorioso.",
+      "category": "Joy",
+      "generated_at": "2026-09-30T06:07:52.659370"
+    },
+    {
+      "english": "A quiet moment, to reflect, is golden.",
+      "spanish": "Un momento tranquilo, para reflexionar, es oro.",
+      "category": "Joy",
+      "generated_at": "2026-09-30T06:07:52.659372"
+    },
+    {
+      "english": "Receiving a thoughtful gift, feels special.",
+      "spanish": "Recibir un regalo considerado, se siente especial.",
+      "category": "Joy",
+      "generated_at": "2026-09-30T06:07:52.659373"
+    },
+    {
+      "english": "Achieving a goal, is empowering.",
+      "spanish": "Lograr una meta, es empoderador.",
+      "category": "Joy",
+      "generated_at": "2026-09-30T06:07:52.659374"
+    },
+    {
+      "english": "The smell of baking, is pure comfort.",
+      "spanish": "El olor a repostería, es puro consuelo.",
+      "category": "Joy",
+      "generated_at": "2026-09-30T06:07:52.659375"
+    },
+    {
+      "english": "Making someone smile, is rewarding.",
+      "spanish": "Hacer sonreír a alguien, es gratificante.",
+      "category": "Joy",
+      "generated_at": "2026-09-30T06:07:52.659376"
+    },
+    {
+      "english": "A deep sigh of relief, feels good.",
+      "spanish": "Un suspiro profundo de alivio, se siente bien.",
+      "category": "Joy",
+      "generated_at": "2026-09-30T06:07:52.659377"
+    },
+    {
+      "english": "The feeling of being understood, is peace.",
+      "spanish": "La sensación de ser comprendido, es paz.",
+      "category": "Joy",
+      "generated_at": "2026-09-30T06:07:52.659401"
+    },
+    {
+      "english": "Laughter is, the best medicine.",
+      "spanish": "La risa es, la mejor medicina.",
+      "category": "Joy",
+      "generated_at": "2026-09-30T06:07:52.659402"
+    },
+    {
+      "english": "Joy is, contagious. Share it!",
+      "spanish": "La alegría es, contagiosa. ¡Compártela!",
+      "category": "Joy",
+      "generated_at": "2026-09-30T06:07:52.659403"
+    },
+    {
+      "english": "A small kindness, creates ripples.",
+      "spanish": "Una pequeña bondad, crea ondas.",
+      "category": "Joy",
+      "generated_at": "2026-09-30T06:07:52.659404"
+    },
+    {
+      "english": "Music truly, lifts the spirit.",
+      "spanish": "La música de verdad, eleva el espíritu.",
+      "category": "Joy",
+      "generated_at": "2026-09-30T06:07:52.659405"
+    },
+    {
+      "english": "This moment, can be wonderful.",
+      "spanish": "Este momento, puede ser maravilloso.",
+      "category": "Joy",
+      "generated_at": "2026-09-30T06:07:52.659407"
+    },
+    {
+      "english": "A good book, is a friend.",
+      "spanish": "Un buen libro, es un amigo.",
+      "category": "Joy",
+      "generated_at": "2026-09-30T06:07:52.659408"
+    },
+    {
+      "english": "Dancing, releases tension.",
+      "spanish": "Bailar, libera la tensión.",
+      "category": "Joy",
+      "generated_at": "2026-09-30T06:07:52.659409"
+    },
+    {
+      "english": "Sunrise paints, the sky with hope.",
+      "spanish": "El amanecer pinta, el cielo con esperanza.",
+      "category": "Joy",
+      "generated_at": "2026-09-30T06:07:52.659410"
+    },
+    {
+      "english": "Gratitude, unlocks happiness.",
+      "spanish": "La gratitud, desbloquea la felicidad.",
+      "category": "Joy",
+      "generated_at": "2026-09-30T06:07:52.659411"
     }
   ],
-  "last_updated": "2026-09-29T06:24:20.875036"
+  "last_updated": "2026-09-30T06:07:52.659414"
 }
