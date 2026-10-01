@@ -55439,7 +55439,727 @@
       "spanish": "La gratitud, desbloquea la felicidad.",
       "category": "Joy",
       "generated_at": "2026-09-30T06:07:52.659411"
+    },
+    {
+      "english": "Live with passion, everyday.",
+      "spanish": "Vive con pasión, cada día.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-01T06:41:02.812516"
+    },
+    {
+      "english": "A good conversation, is gold.",
+      "spanish": "Una buena charla, es oro.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-01T06:41:02.812529"
+    },
+    {
+      "english": "Find beauty, in details.",
+      "spanish": "Encuentra belleza, en detalles.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-01T06:41:02.812531"
+    },
+    {
+      "english": "Be true, to your heart.",
+      "spanish": "Sé fiel, a tu corazón.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-01T06:41:02.812533"
+    },
+    {
+      "english": "Let go, of what weighs.",
+      "spanish": "Suelta, lo que pesa.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-01T06:41:02.812534"
+    },
+    {
+      "english": "Cherish simple joys, always.",
+      "spanish": "Valora las alegrías simples, siempre.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-01T06:41:02.812535"
+    },
+    {
+      "english": "Believe in your, dreams.",
+      "spanish": "Cree en tus, sueños.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-01T06:41:02.812537"
+    },
+    {
+      "english": "The world is, your classroom.",
+      "spanish": "El mundo es, tu aula.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-01T06:41:02.812540"
+    },
+    {
+      "english": "Open your mind, to new cultures.",
+      "spanish": "Abre tu mente, a nuevas culturas.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-01T06:41:02.812542"
+    },
+    {
+      "english": "A smile, is a universal language.",
+      "spanish": "Una sonrisa, es un lenguaje universal.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-01T06:41:02.812543"
+    },
+    {
+      "english": "Connect with people, genuinely.",
+      "spanish": "Conecta con gente, sinceramente.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-01T06:41:02.812544"
+    },
+    {
+      "english": "Be present, in conversations.",
+      "spanish": "Sé presente, en las conversaciones.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-01T06:41:02.812545"
+    },
+    {
+      "english": "Seek understanding, always.",
+      "spanish": "Busca entender, siempre.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-01T06:41:02.812546"
+    },
+    {
+      "english": "Learn a language, open worlds.",
+      "spanish": "Aprende un idioma, abre mundos.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-01T06:41:02.812547"
+    },
+    {
+      "english": "Find joy, in simple moments.",
+      "spanish": "Encuentra alegría, en momentos simples.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-01T06:41:02.812548"
+    },
+    {
+      "english": "Embrace the adventure, of learning.",
+      "spanish": "Abraza la aventura, del aprendizaje.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-01T06:41:02.812549"
+    },
+    {
+      "english": "Believe in your, ability.",
+      "spanish": "Confía en tu, habilidad.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-01T06:41:02.812550"
+    },
+    {
+      "english": "Create connections, through language.",
+      "spanish": "Crea conexiones, a través del idioma.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-01T06:41:02.812551"
+    },
+    {
+      "english": "A good attitude, changes everything.",
+      "spanish": "Una buena actitud, lo cambia todo.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-01T06:41:02.812552"
+    },
+    {
+      "english": "Embrace the process, patiently.",
+      "spanish": "Acepta el proceso, con paciencia.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-01T06:41:02.812553"
+    },
+    {
+      "english": "Life is short, learn Spanish.",
+      "spanish": "La vida es corta, aprende español.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-01T06:41:02.812554"
+    },
+    {
+      "english": "Live with passion, everyday.",
+      "spanish": "Vive con pasión, cada día.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-01T06:41:02.812555"
+    },
+    {
+      "english": "A good conversation, is gold.",
+      "spanish": "Una buena charla, es oro.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-01T06:41:02.812556"
+    },
+    {
+      "english": "Find beauty, in details.",
+      "spanish": "Encuentra belleza, en detalles.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-01T06:41:02.812557"
+    },
+    {
+      "english": "Be true, to your heart.",
+      "spanish": "Sé fiel, a tu corazón.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-01T06:41:02.812558"
+    },
+    {
+      "english": "Let go, of what weighs.",
+      "spanish": "Suelta, lo que pesa.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-01T06:41:02.812559"
+    },
+    {
+      "english": "Cherish simple joys, always.",
+      "spanish": "Valora las alegrías simples, siempre.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-01T06:41:02.812560"
+    },
+    {
+      "english": "Believe in your, dreams.",
+      "spanish": "Cree en tus, sueños.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-01T06:41:02.812561"
+    },
+    {
+      "english": "The world is, your classroom.",
+      "spanish": "El mundo es, tu aula.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-01T06:41:02.812562"
+    },
+    {
+      "english": "Open your mind, to new cultures.",
+      "spanish": "Abre tu mente, a nuevas culturas.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-01T06:41:02.812563"
+    },
+    {
+      "english": "A smile, is a universal language.",
+      "spanish": "Una sonrisa, es un lenguaje universal.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-01T06:41:02.812564"
+    },
+    {
+      "english": "Connect with people, genuinely.",
+      "spanish": "Conecta con gente, sinceramente.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-01T06:41:02.812565"
+    },
+    {
+      "english": "Be present, in conversations.",
+      "spanish": "Sé presente, en las conversaciones.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-01T06:41:02.812566"
+    },
+    {
+      "english": "Seek understanding, always.",
+      "spanish": "Busca entender, siempre.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-01T06:41:02.812567"
+    },
+    {
+      "english": "Learn a language, open worlds.",
+      "spanish": "Aprende un idioma, abre mundos.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-01T06:41:02.812568"
+    },
+    {
+      "english": "Find joy, in simple moments.",
+      "spanish": "Encuentra alegría, en momentos simples.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-01T06:41:02.812569"
+    },
+    {
+      "english": "Embrace the adventure, of learning.",
+      "spanish": "Abraza la aventura, del aprendizaje.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-01T06:41:02.812570"
+    },
+    {
+      "english": "Believe in your, ability.",
+      "spanish": "Confía en tu, habilidad.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-01T06:41:02.812571"
+    },
+    {
+      "english": "Create connections, through language.",
+      "spanish": "Crea conexiones, a través del idioma.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-01T06:41:02.812572"
+    },
+    {
+      "english": "A good attitude, changes everything.",
+      "spanish": "Una buena actitud, lo cambia todo.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-01T06:41:02.812573"
+    },
+    {
+      "english": "Embrace the process, patiently.",
+      "spanish": "Acepta el proceso, con paciencia.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-01T06:41:02.812574"
+    },
+    {
+      "english": "Life is short, learn Spanish.",
+      "spanish": "La vida es corta, aprende español.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-01T06:41:02.812575"
+    },
+    {
+      "english": "Live with passion, everyday.",
+      "spanish": "Vive con pasión, cada día.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-01T06:41:02.812576"
+    },
+    {
+      "english": "A good conversation, is gold.",
+      "spanish": "Una buena charla, es oro.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-01T06:41:02.812578"
+    },
+    {
+      "english": "Find beauty, in details.",
+      "spanish": "Encuentra belleza, en detalles.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-01T06:41:02.812579"
+    },
+    {
+      "english": "Be true, to your heart.",
+      "spanish": "Sé fiel, a tu corazón.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-01T06:41:02.812580"
+    },
+    {
+      "english": "Let go, of what weighs.",
+      "spanish": "Suelta, lo que pesa.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-01T06:41:02.812581"
+    },
+    {
+      "english": "Cherish simple joys, always.",
+      "spanish": "Valora las alegrías simples, siempre.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-01T06:41:02.812582"
+    },
+    {
+      "english": "Believe in your, dreams.",
+      "spanish": "Cree en tus, sueños.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-01T06:41:02.812583"
+    },
+    {
+      "english": "The world is, your classroom.",
+      "spanish": "El mundo es, tu aula.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-01T06:41:02.812584"
+    },
+    {
+      "english": "Open your mind, to new cultures.",
+      "spanish": "Abre tu mente, a nuevas culturas.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-01T06:41:02.812584"
+    },
+    {
+      "english": "A smile, is a universal language.",
+      "spanish": "Una sonrisa, es un lenguaje universal.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-01T06:41:02.812585"
+    },
+    {
+      "english": "Connect with people, genuinely.",
+      "spanish": "Conecta con gente, sinceramente.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-01T06:41:02.812587"
+    },
+    {
+      "english": "Be present, in conversations.",
+      "spanish": "Sé presente, en las conversaciones.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-01T06:41:02.812587"
+    },
+    {
+      "english": "Seek understanding, always.",
+      "spanish": "Busca entender, siempre.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-01T06:41:02.812588"
+    },
+    {
+      "english": "Learn a language, open worlds.",
+      "spanish": "Aprende un idioma, abre mundos.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-01T06:41:02.812589"
+    },
+    {
+      "english": "Find joy, in simple moments.",
+      "spanish": "Encuentra alegría, en momentos simples.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-01T06:41:02.812590"
+    },
+    {
+      "english": "Embrace the adventure, of learning.",
+      "spanish": "Abraza la aventura, del aprendizaje.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-01T06:41:02.812591"
+    },
+    {
+      "english": "Believe in your, ability.",
+      "spanish": "Confía en tu, habilidad.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-01T06:41:02.812592"
+    },
+    {
+      "english": "Create connections, through language.",
+      "spanish": "Crea conexiones, a través del idioma.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-01T06:41:02.812593"
+    },
+    {
+      "english": "A good attitude, changes everything.",
+      "spanish": "Una buena actitud, lo cambia todo.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-01T06:41:02.812594"
+    },
+    {
+      "english": "Embrace the process, patiently.",
+      "spanish": "Acepta el proceso, con paciencia.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-01T06:41:02.812595"
+    },
+    {
+      "english": "Life is short, learn Spanish.",
+      "spanish": "La vida es corta, aprende español.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-01T06:41:02.812596"
+    },
+    {
+      "english": "Live with passion, everyday.",
+      "spanish": "Vive con pasión, cada día.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-01T06:41:02.812597"
+    },
+    {
+      "english": "A good conversation, is gold.",
+      "spanish": "Una buena charla, es oro.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-01T06:41:02.812598"
+    },
+    {
+      "english": "Find beauty, in details.",
+      "spanish": "Encuentra belleza, en detalles.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-01T06:41:02.812600"
+    },
+    {
+      "english": "Be true, to your heart.",
+      "spanish": "Sé fiel, a tu corazón.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-01T06:41:02.812600"
+    },
+    {
+      "english": "Let go, of what weighs.",
+      "spanish": "Suelta, lo que pesa.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-01T06:41:02.812601"
+    },
+    {
+      "english": "Cherish simple joys, always.",
+      "spanish": "Valora las alegrías simples, siempre.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-01T06:41:02.812602"
+    },
+    {
+      "english": "Believe in your, dreams.",
+      "spanish": "Cree en tus, sueños.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-01T06:41:02.812603"
+    },
+    {
+      "english": "The world is, your classroom.",
+      "spanish": "El mundo es, tu aula.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-01T06:41:02.812604"
+    },
+    {
+      "english": "Open your mind, to new cultures.",
+      "spanish": "Abre tu mente, a nuevas culturas.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-01T06:41:02.812605"
+    },
+    {
+      "english": "A smile, is a universal language.",
+      "spanish": "Una sonrisa, es un lenguaje universal.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-01T06:41:02.812606"
+    },
+    {
+      "english": "Connect with people, genuinely.",
+      "spanish": "Conecta con gente, sinceramente.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-01T06:41:02.812607"
+    },
+    {
+      "english": "Be present, in conversations.",
+      "spanish": "Sé presente, en las conversaciones.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-01T06:41:02.812608"
+    },
+    {
+      "english": "Seek understanding, always.",
+      "spanish": "Busca entender, siempre.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-01T06:41:02.812608"
+    },
+    {
+      "english": "Learn a language, open worlds.",
+      "spanish": "Aprende un idioma, abre mundos.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-01T06:41:02.812609"
+    },
+    {
+      "english": "Find joy, in simple moments.",
+      "spanish": "Encuentra alegría, en momentos simples.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-01T06:41:02.812610"
+    },
+    {
+      "english": "Embrace the adventure, of learning.",
+      "spanish": "Abraza la aventura, del aprendizaje.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-01T06:41:02.812611"
+    },
+    {
+      "english": "Believe in your, ability.",
+      "spanish": "Confía en tu, habilidad.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-01T06:41:02.812612"
+    },
+    {
+      "english": "Create connections, through language.",
+      "spanish": "Crea conexiones, a través del idioma.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-01T06:41:02.812613"
+    },
+    {
+      "english": "A good attitude, changes everything.",
+      "spanish": "Una buena actitud, lo cambia todo.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-01T06:41:02.812627"
+    },
+    {
+      "english": "Embrace the process, patiently.",
+      "spanish": "Acepta el proceso, con paciencia.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-01T06:41:02.812628"
+    },
+    {
+      "english": "Life is short, learn Spanish.",
+      "spanish": "La vida es corta, aprende español.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-01T06:41:02.812629"
+    },
+    {
+      "english": "Live with passion, everyday.",
+      "spanish": "Vive con pasión, cada día.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-01T06:41:02.812631"
+    },
+    {
+      "english": "A good conversation, is gold.",
+      "spanish": "Una buena charla, es oro.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-01T06:41:02.812632"
+    },
+    {
+      "english": "Find beauty, in details.",
+      "spanish": "Encuentra belleza, en detalles.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-01T06:41:02.812633"
+    },
+    {
+      "english": "Be true, to your heart.",
+      "spanish": "Sé fiel, a tu corazón.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-01T06:41:02.812634"
+    },
+    {
+      "english": "Let go, of what weighs.",
+      "spanish": "Suelta, lo que pesa.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-01T06:41:02.812635"
+    },
+    {
+      "english": "Cherish simple joys, always.",
+      "spanish": "Valora las alegrías simples, siempre.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-01T06:41:02.812636"
+    },
+    {
+      "english": "Believe in your, dreams.",
+      "spanish": "Cree en tus, sueños.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-01T06:41:02.812637"
+    },
+    {
+      "english": "The world is, your classroom.",
+      "spanish": "El mundo es, tu aula.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-01T06:41:02.812638"
+    },
+    {
+      "english": "Open your mind, to new cultures.",
+      "spanish": "Abre tu mente, a nuevas culturas.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-01T06:41:02.812639"
+    },
+    {
+      "english": "A smile, is a universal language.",
+      "spanish": "Una sonrisa, es un lenguaje universal.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-01T06:41:02.812640"
+    },
+    {
+      "english": "Connect with people, genuinely.",
+      "spanish": "Conecta con gente, sinceramente.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-01T06:41:02.812641"
+    },
+    {
+      "english": "Be present, in conversations.",
+      "spanish": "Sé presente, en las conversaciones.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-01T06:41:02.812642"
+    },
+    {
+      "english": "Seek understanding, always.",
+      "spanish": "Busca entender, siempre.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-01T06:41:02.812643"
+    },
+    {
+      "english": "Learn a language, open worlds.",
+      "spanish": "Aprende un idioma, abre mundos.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-01T06:41:02.812644"
+    },
+    {
+      "english": "Find joy, in simple moments.",
+      "spanish": "Encuentra alegría, en momentos simples.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-01T06:41:02.812645"
+    },
+    {
+      "english": "Embrace the adventure, of learning.",
+      "spanish": "Abraza la aventura, del aprendizaje.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-01T06:41:02.812645"
+    },
+    {
+      "english": "Believe in your, ability.",
+      "spanish": "Confía en tu, habilidad.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-01T06:41:02.812646"
+    },
+    {
+      "english": "Create connections, through language.",
+      "spanish": "Crea conexiones, a través del idioma.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-01T06:41:02.812647"
+    },
+    {
+      "english": "A good attitude, changes everything.",
+      "spanish": "Una buena actitud, lo cambia todo.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-01T06:41:02.812648"
+    },
+    {
+      "english": "Embrace the process, patiently.",
+      "spanish": "Acepta el proceso, con paciencia.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-01T06:41:02.812649"
+    },
+    {
+      "english": "Life is short, learn Spanish.",
+      "spanish": "La vida es corta, aprende español.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-01T06:41:02.812650"
+    },
+    {
+      "english": "Open your mind, to new words.",
+      "spanish": "Abre tu mente, a palabras nuevas.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-01T06:41:02.812651"
+    },
+    {
+      "english": "Every word, is a small adventure.",
+      "spanish": "Cada palabra, es una pequeña aventura.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-01T06:41:02.812652"
+    },
+    {
+      "english": "Speak slow, speak clear, speak often.",
+      "spanish": "Habla despacio, habla claro, habla a menudo.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-01T06:41:02.812653"
+    },
+    {
+      "english": "Patience, is a language skill.",
+      "spanish": "La paciencia, es una habilidad de idioma.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-01T06:41:02.812654"
+    },
+    {
+      "english": "Find joy, in the small phrases.",
+      "spanish": "Encuentra alegría, en las frases pequeñas.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-01T06:41:02.812655"
+    },
+    {
+      "english": "Connect with others, through words.",
+      "spanish": "Conecta con otros, por medio de palabras.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-01T06:41:02.812656"
+    },
+    {
+      "english": "The world opens, when you speak.",
+      "spanish": "El mundo se abre, cuando hablas.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-01T06:41:02.812657"
+    },
+    {
+      "english": "Culture is, in every verb.",
+      "spanish": "La cultura está, en cada verbo.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-01T06:41:02.812659"
+    },
+    {
+      "english": "Be brave, try a new sound.",
+      "spanish": "Sé valiente, prueba un sonido nuevo.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-01T06:41:02.812660"
+    },
+    {
+      "english": "Consistency, builds fluency.",
+      "spanish": "La constancia, construye fluidez.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-01T06:41:02.812661"
+    },
+    {
+      "english": "Dreams are spoken, into reality.",
+      "spanish": "Los sueños se hablan, en realidad.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-01T06:41:02.812662"
+    },
+    {
+      "english": "Your accent, tells your story.",
+      "spanish": "Tu acento, cuenta tu historia.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-01T06:41:02.812663"
+    },
+    {
+      "english": "Curiosity, is your best teacher.",
+      "spanish": "La curiosidad, es tu mejor maestro.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-01T06:41:02.812664"
+    },
+    {
+      "english": "Let your words, travel.",
+      "spanish": "Deja que tus palabras, viajen.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-01T06:41:02.812665"
+    },
+    {
+      "english": "Celebrate each, little victory.",
+      "spanish": "Celebra cada, pequeña victoria.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-01T06:41:02.812666"
     }
   ],
-  "last_updated": "2026-09-30T06:07:52.659414"
+  "last_updated": "2026-10-01T06:41:02.812668"
 }
