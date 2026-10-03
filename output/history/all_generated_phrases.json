@@ -56879,7 +56879,727 @@
       "spanish": "Tu espíritu, es un guerrero.",
       "category": "Strength",
       "generated_at": "2026-10-02T06:25:17.340998"
+    },
+    {
+      "english": "Learn today, shine tomorrow.",
+      "spanish": "Aprende hoy, brilla mañana.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-03T05:54:00.393828"
+    },
+    {
+      "english": "Mistakes, are just lessons.",
+      "spanish": "Los errores, son solo lecciones.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-03T05:54:00.393840"
+    },
+    {
+      "english": "Laugh often, worry less.",
+      "spanish": "Ríe mucho, preocúpate menos.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-03T05:54:00.393842"
+    },
+    {
+      "english": "Grow where, you are planted.",
+      "spanish": "Crece donde, estés plantado.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-03T05:54:00.393844"
+    },
+    {
+      "english": "Don't quit, just rest.",
+      "spanish": "No renuncies, solo descansa.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-03T05:54:00.393845"
+    },
+    {
+      "english": "Find joy, in the simple.",
+      "spanish": "Encuentra gozo, en lo simple.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-03T05:54:00.393846"
+    },
+    {
+      "english": "Breathe deep, start over.",
+      "spanish": "Respira hondo, empieza de nuevo.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-03T05:54:00.393847"
+    },
+    {
+      "english": "Small wins, count a lot.",
+      "spanish": "Pequeñas victorias, cuentan mucho.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-03T05:54:00.393851"
+    },
+    {
+      "english": "Seek peace, find calm.",
+      "spanish": "Busca paz, encuentra calma.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-03T05:54:00.393852"
+    },
+    {
+      "english": "Take a break, recharge.",
+      "spanish": "Toma un descanso, recarga.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-03T05:54:00.393853"
+    },
+    {
+      "english": "Help others, feel good.",
+      "spanish": "Ayuda a otros, siéntete bien.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-03T05:54:00.393855"
+    },
+    {
+      "english": "Challenge yourself, daily.",
+      "spanish": "Desafíate, a diario.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-03T05:54:00.393856"
+    },
+    {
+      "english": "Learn from, yesterday.",
+      "spanish": "Aprende de, ayer.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-03T05:54:00.393857"
+    },
+    {
+      "english": "Be your own, hero.",
+      "spanish": "Sé tu propio, héroe.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-03T05:54:00.393858"
+    },
+    {
+      "english": "Never stop, dreaming.",
+      "spanish": "Nunca dejes, de soñar.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-03T05:54:00.393859"
+    },
+    {
+      "english": "Create your, own luck.",
+      "spanish": "Crea tu, propia suerte.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-03T05:54:00.393860"
+    },
+    {
+      "english": "Kindness, always wins.",
+      "spanish": "La amabilidad, siempre gana.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-03T05:54:00.393861"
+    },
+    {
+      "english": "Learn today, shine tomorrow.",
+      "spanish": "Aprende hoy, brilla mañana.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-03T05:54:00.393862"
+    },
+    {
+      "english": "Mistakes, are just lessons.",
+      "spanish": "Los errores, son solo lecciones.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-03T05:54:00.393863"
+    },
+    {
+      "english": "Laugh often, worry less.",
+      "spanish": "Ríe mucho, preocúpate menos.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-03T05:54:00.393864"
+    },
+    {
+      "english": "Grow where, you are planted.",
+      "spanish": "Crece donde, estés plantado.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-03T05:54:00.393865"
+    },
+    {
+      "english": "Don't quit, just rest.",
+      "spanish": "No renuncies, solo descansa.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-03T05:54:00.393866"
+    },
+    {
+      "english": "Find joy, in the simple.",
+      "spanish": "Encuentra gozo, en lo simple.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-03T05:54:00.393867"
+    },
+    {
+      "english": "Breathe deep, start over.",
+      "spanish": "Respira hondo, empieza de nuevo.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-03T05:54:00.393868"
+    },
+    {
+      "english": "Small wins, count a lot.",
+      "spanish": "Pequeñas victorias, cuentan mucho.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-03T05:54:00.393869"
+    },
+    {
+      "english": "Seek peace, find calm.",
+      "spanish": "Busca paz, encuentra calma.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-03T05:54:00.393870"
+    },
+    {
+      "english": "Take a break, recharge.",
+      "spanish": "Toma un descanso, recarga.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-03T05:54:00.393871"
+    },
+    {
+      "english": "Help others, feel good.",
+      "spanish": "Ayuda a otros, siéntete bien.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-03T05:54:00.393872"
+    },
+    {
+      "english": "Challenge yourself, daily.",
+      "spanish": "Desafíate, a diario.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-03T05:54:00.393873"
+    },
+    {
+      "english": "Learn from, yesterday.",
+      "spanish": "Aprende de, ayer.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-03T05:54:00.393874"
+    },
+    {
+      "english": "Be your own, hero.",
+      "spanish": "Sé tu propio, héroe.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-03T05:54:00.393875"
+    },
+    {
+      "english": "Never stop, dreaming.",
+      "spanish": "Nunca dejes, de soñar.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-03T05:54:00.393876"
+    },
+    {
+      "english": "Create your, own luck.",
+      "spanish": "Crea tu, propia suerte.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-03T05:54:00.393878"
+    },
+    {
+      "english": "Kindness, always wins.",
+      "spanish": "La amabilidad, siempre gana.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-03T05:54:00.393879"
+    },
+    {
+      "english": "Learn today, shine tomorrow.",
+      "spanish": "Aprende hoy, brilla mañana.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-03T05:54:00.393880"
+    },
+    {
+      "english": "Mistakes, are just lessons.",
+      "spanish": "Los errores, son solo lecciones.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-03T05:54:00.393881"
+    },
+    {
+      "english": "Laugh often, worry less.",
+      "spanish": "Ríe mucho, preocúpate menos.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-03T05:54:00.393882"
+    },
+    {
+      "english": "Grow where, you are planted.",
+      "spanish": "Crece donde, estés plantado.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-03T05:54:00.393883"
+    },
+    {
+      "english": "Don't quit, just rest.",
+      "spanish": "No renuncies, solo descansa.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-03T05:54:00.393884"
+    },
+    {
+      "english": "Find joy, in the simple.",
+      "spanish": "Encuentra gozo, en lo simple.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-03T05:54:00.393885"
+    },
+    {
+      "english": "Breathe deep, start over.",
+      "spanish": "Respira hondo, empieza de nuevo.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-03T05:54:00.393886"
+    },
+    {
+      "english": "Small wins, count a lot.",
+      "spanish": "Pequeñas victorias, cuentan mucho.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-03T05:54:00.393887"
+    },
+    {
+      "english": "Seek peace, find calm.",
+      "spanish": "Busca paz, encuentra calma.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-03T05:54:00.393888"
+    },
+    {
+      "english": "Take a break, recharge.",
+      "spanish": "Toma un descanso, recarga.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-03T05:54:00.393889"
+    },
+    {
+      "english": "Help others, feel good.",
+      "spanish": "Ayuda a otros, siéntete bien.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-03T05:54:00.393890"
+    },
+    {
+      "english": "Challenge yourself, daily.",
+      "spanish": "Desafíate, a diario.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-03T05:54:00.393891"
+    },
+    {
+      "english": "Learn from, yesterday.",
+      "spanish": "Aprende de, ayer.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-03T05:54:00.393892"
+    },
+    {
+      "english": "Be your own, hero.",
+      "spanish": "Sé tu propio, héroe.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-03T05:54:00.393893"
+    },
+    {
+      "english": "Never stop, dreaming.",
+      "spanish": "Nunca dejes, de soñar.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-03T05:54:00.393894"
+    },
+    {
+      "english": "Create your, own luck.",
+      "spanish": "Crea tu, propia suerte.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-03T05:54:00.393895"
+    },
+    {
+      "english": "Kindness, always wins.",
+      "spanish": "La amabilidad, siempre gana.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-03T05:54:00.393896"
+    },
+    {
+      "english": "Learn today, shine tomorrow.",
+      "spanish": "Aprende hoy, brilla mañana.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-03T05:54:00.393897"
+    },
+    {
+      "english": "Mistakes, are just lessons.",
+      "spanish": "Los errores, son solo lecciones.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-03T05:54:00.393898"
+    },
+    {
+      "english": "Laugh often, worry less.",
+      "spanish": "Ríe mucho, preocúpate menos.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-03T05:54:00.393899"
+    },
+    {
+      "english": "Grow where, you are planted.",
+      "spanish": "Crece donde, estés plantado.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-03T05:54:00.393900"
+    },
+    {
+      "english": "Don't quit, just rest.",
+      "spanish": "No renuncies, solo descansa.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-03T05:54:00.393901"
+    },
+    {
+      "english": "Find joy, in the simple.",
+      "spanish": "Encuentra gozo, en lo simple.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-03T05:54:00.393902"
+    },
+    {
+      "english": "Breathe deep, start over.",
+      "spanish": "Respira hondo, empieza de nuevo.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-03T05:54:00.393903"
+    },
+    {
+      "english": "Small wins, count a lot.",
+      "spanish": "Pequeñas victorias, cuentan mucho.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-03T05:54:00.393904"
+    },
+    {
+      "english": "Seek peace, find calm.",
+      "spanish": "Busca paz, encuentra calma.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-03T05:54:00.393905"
+    },
+    {
+      "english": "Take a break, recharge.",
+      "spanish": "Toma un descanso, recarga.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-03T05:54:00.393907"
+    },
+    {
+      "english": "Help others, feel good.",
+      "spanish": "Ayuda a otros, siéntete bien.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-03T05:54:00.393908"
+    },
+    {
+      "english": "Challenge yourself, daily.",
+      "spanish": "Desafíate, a diario.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-03T05:54:00.393909"
+    },
+    {
+      "english": "Learn from, yesterday.",
+      "spanish": "Aprende de, ayer.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-03T05:54:00.393910"
+    },
+    {
+      "english": "Be your own, hero.",
+      "spanish": "Sé tu propio, héroe.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-03T05:54:00.393911"
+    },
+    {
+      "english": "Never stop, dreaming.",
+      "spanish": "Nunca dejes, de soñar.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-03T05:54:00.393912"
+    },
+    {
+      "english": "Create your, own luck.",
+      "spanish": "Crea tu, propia suerte.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-03T05:54:00.393913"
+    },
+    {
+      "english": "Kindness, always wins.",
+      "spanish": "La amabilidad, siempre gana.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-03T05:54:00.393914"
+    },
+    {
+      "english": "Learn today, shine tomorrow.",
+      "spanish": "Aprende hoy, brilla mañana.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-03T05:54:00.393915"
+    },
+    {
+      "english": "Mistakes, are just lessons.",
+      "spanish": "Los errores, son solo lecciones.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-03T05:54:00.393916"
+    },
+    {
+      "english": "Laugh often, worry less.",
+      "spanish": "Ríe mucho, preocúpate menos.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-03T05:54:00.393917"
+    },
+    {
+      "english": "Grow where, you are planted.",
+      "spanish": "Crece donde, estés plantado.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-03T05:54:00.393918"
+    },
+    {
+      "english": "Don't quit, just rest.",
+      "spanish": "No renuncies, solo descansa.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-03T05:54:00.393919"
+    },
+    {
+      "english": "Find joy, in the simple.",
+      "spanish": "Encuentra gozo, en lo simple.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-03T05:54:00.393920"
+    },
+    {
+      "english": "Breathe deep, start over.",
+      "spanish": "Respira hondo, empieza de nuevo.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-03T05:54:00.393921"
+    },
+    {
+      "english": "Small wins, count a lot.",
+      "spanish": "Pequeñas victorias, cuentan mucho.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-03T05:54:00.393922"
+    },
+    {
+      "english": "Seek peace, find calm.",
+      "spanish": "Busca paz, encuentra calma.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-03T05:54:00.393923"
+    },
+    {
+      "english": "Take a break, recharge.",
+      "spanish": "Toma un descanso, recarga.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-03T05:54:00.393924"
+    },
+    {
+      "english": "Help others, feel good.",
+      "spanish": "Ayuda a otros, siéntete bien.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-03T05:54:00.393925"
+    },
+    {
+      "english": "Challenge yourself, daily.",
+      "spanish": "Desafíate, a diario.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-03T05:54:00.393926"
+    },
+    {
+      "english": "Learn from, yesterday.",
+      "spanish": "Aprende de, ayer.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-03T05:54:00.393927"
+    },
+    {
+      "english": "Be your own, hero.",
+      "spanish": "Sé tu propio, héroe.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-03T05:54:00.393928"
+    },
+    {
+      "english": "Never stop, dreaming.",
+      "spanish": "Nunca dejes, de soñar.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-03T05:54:00.393929"
+    },
+    {
+      "english": "Create your, own luck.",
+      "spanish": "Crea tu, propia suerte.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-03T05:54:00.393930"
+    },
+    {
+      "english": "Kindness, always wins.",
+      "spanish": "La amabilidad, siempre gana.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-03T05:54:00.393931"
+    },
+    {
+      "english": "Learn today, shine tomorrow.",
+      "spanish": "Aprende hoy, brilla mañana.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-03T05:54:00.393932"
+    },
+    {
+      "english": "Mistakes, are just lessons.",
+      "spanish": "Los errores, son solo lecciones.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-03T05:54:00.393933"
+    },
+    {
+      "english": "Laugh often, worry less.",
+      "spanish": "Ríe mucho, preocúpate menos.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-03T05:54:00.393934"
+    },
+    {
+      "english": "Grow where, you are planted.",
+      "spanish": "Crece donde, estés plantado.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-03T05:54:00.393935"
+    },
+    {
+      "english": "Don't quit, just rest.",
+      "spanish": "No renuncies, solo descansa.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-03T05:54:00.393936"
+    },
+    {
+      "english": "Find joy, in the simple.",
+      "spanish": "Encuentra gozo, en lo simple.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-03T05:54:00.393937"
+    },
+    {
+      "english": "Breathe deep, start over.",
+      "spanish": "Respira hondo, empieza de nuevo.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-03T05:54:00.393938"
+    },
+    {
+      "english": "Small wins, count a lot.",
+      "spanish": "Pequeñas victorias, cuentan mucho.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-03T05:54:00.393939"
+    },
+    {
+      "english": "Seek peace, find calm.",
+      "spanish": "Busca paz, encuentra calma.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-03T05:54:00.393940"
+    },
+    {
+      "english": "Take a break, recharge.",
+      "spanish": "Toma un descanso, recarga.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-03T05:54:00.393941"
+    },
+    {
+      "english": "Help others, feel good.",
+      "spanish": "Ayuda a otros, siéntete bien.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-03T05:54:00.393942"
+    },
+    {
+      "english": "Challenge yourself, daily.",
+      "spanish": "Desafíate, a diario.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-03T05:54:00.393944"
+    },
+    {
+      "english": "Learn from, yesterday.",
+      "spanish": "Aprende de, ayer.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-03T05:54:00.393944"
+    },
+    {
+      "english": "Be your own, hero.",
+      "spanish": "Sé tu propio, héroe.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-03T05:54:00.393945"
+    },
+    {
+      "english": "Never stop, dreaming.",
+      "spanish": "Nunca dejes, de soñar.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-03T05:54:00.393946"
+    },
+    {
+      "english": "Create your, own luck.",
+      "spanish": "Crea tu, propia suerte.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-03T05:54:00.393948"
+    },
+    {
+      "english": "Kindness, always wins.",
+      "spanish": "La amabilidad, siempre gana.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-03T05:54:00.393949"
+    },
+    {
+      "english": "Learn today, shine tomorrow.",
+      "spanish": "Aprende hoy, brilla mañana.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-03T05:54:00.393950"
+    },
+    {
+      "english": "Mistakes, are just lessons.",
+      "spanish": "Los errores, son solo lecciones.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-03T05:54:00.393951"
+    },
+    {
+      "english": "Laugh often, worry less.",
+      "spanish": "Ríe mucho, preocúpate menos.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-03T05:54:00.393952"
+    },
+    {
+      "english": "Grow where, you are planted.",
+      "spanish": "Crece donde, estés plantado.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-03T05:54:00.393953"
+    },
+    {
+      "english": "Don't quit, just rest.",
+      "spanish": "No renuncies, solo descansa.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-03T05:54:00.393954"
+    },
+    {
+      "english": "Find joy, in the simple.",
+      "spanish": "Encuentra gozo, en lo simple.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-03T05:54:00.393955"
+    },
+    {
+      "english": "Breathe deep, start over.",
+      "spanish": "Respira hondo, empieza de nuevo.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-03T05:54:00.393955"
+    },
+    {
+      "english": "Small wins, count a lot.",
+      "spanish": "Pequeñas victorias, cuentan mucho.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-03T05:54:00.393956"
+    },
+    {
+      "english": "Seek peace, find calm.",
+      "spanish": "Busca paz, encuentra calma.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-03T05:54:00.393957"
+    },
+    {
+      "english": "Take a break, recharge.",
+      "spanish": "Toma un descanso, recarga.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-03T05:54:00.393958"
+    },
+    {
+      "english": "Help others, feel good.",
+      "spanish": "Ayuda a otros, siéntete bien.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-03T05:54:00.393959"
+    },
+    {
+      "english": "Challenge yourself, daily.",
+      "spanish": "Desafíate, a diario.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-03T05:54:00.393960"
+    },
+    {
+      "english": "Learn from, yesterday.",
+      "spanish": "Aprende de, ayer.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-03T05:54:00.393961"
+    },
+    {
+      "english": "Be your own, hero.",
+      "spanish": "Sé tu propio, héroe.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-03T05:54:00.393962"
+    },
+    {
+      "english": "Never stop, dreaming.",
+      "spanish": "Nunca dejes, de soñar.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-03T05:54:00.393963"
+    },
+    {
+      "english": "Create your, own luck.",
+      "spanish": "Crea tu, propia suerte.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-03T05:54:00.393964"
+    },
+    {
+      "english": "Kindness, always wins.",
+      "spanish": "La amabilidad, siempre gana.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-03T05:54:00.393965"
+    },
+    {
+      "english": "Learn today, shine tomorrow.",
+      "spanish": "Aprende hoy, brilla mañana.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-03T05:54:00.393966"
     }
   ],
-  "last_updated": "2026-10-02T06:25:17.341000"
+  "last_updated": "2026-10-03T05:54:00.393968"
 }
