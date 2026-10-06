@@ -59039,7 +59039,727 @@
       "spanish": "El coraje todo, lo vence.",
       "category": "Courage",
       "generated_at": "2026-10-05T06:24:38.830805"
+    },
+    {
+      "english": "Friends share, good and bad.",
+      "spanish": "Los amigos comparten, lo bueno y lo malo.",
+      "category": "Friendship",
+      "generated_at": "2026-10-06T07:00:39.034188"
+    },
+    {
+      "english": "Your best friend, knows you well.",
+      "spanish": "Tu mejor amigo, te conoce bien.",
+      "category": "Friendship",
+      "generated_at": "2026-10-06T07:00:39.034200"
+    },
+    {
+      "english": "We laugh, together always.",
+      "spanish": "Reímos, juntos siempre.",
+      "category": "Friendship",
+      "generated_at": "2026-10-06T07:00:39.034202"
+    },
+    {
+      "english": "Loyalty, is important, right?",
+      "spanish": "La lealtad, es importante, ¿verdad?",
+      "category": "Friendship",
+      "generated_at": "2026-10-06T07:00:39.034204"
+    },
+    {
+      "english": "Friends support, each other.",
+      "spanish": "Los amigos se apoyan, mutuamente.",
+      "category": "Friendship",
+      "generated_at": "2026-10-06T07:00:39.034205"
+    },
+    {
+      "english": "Good times, with good people.",
+      "spanish": "Buenos momentos, con buena gente.",
+      "category": "Friendship",
+      "generated_at": "2026-10-06T07:00:39.034207"
+    },
+    {
+      "english": "A friend's advice, is gold.",
+      "spanish": "El consejo de un amigo, es oro.",
+      "category": "Friendship",
+      "generated_at": "2026-10-06T07:00:39.034208"
+    },
+    {
+      "english": "We grow, with our friends.",
+      "spanish": "Crecemos, con nuestros amigos.",
+      "category": "Friendship",
+      "generated_at": "2026-10-06T07:00:39.034211"
+    },
+    {
+      "english": "Thanks for being, my friend.",
+      "spanish": "Gracias por ser, mi amigo.",
+      "category": "Friendship",
+      "generated_at": "2026-10-06T07:00:39.034213"
+    },
+    {
+      "english": "Friendship lasts, a lifetime.",
+      "spanish": "La amistad dura, toda la vida.",
+      "category": "Friendship",
+      "generated_at": "2026-10-06T07:00:39.034214"
+    },
+    {
+      "english": "Shared memories, are precious.",
+      "spanish": "Los recuerdos compartidos, son valiosos.",
+      "category": "Friendship",
+      "generated_at": "2026-10-06T07:00:39.034216"
+    },
+    {
+      "english": "A friend's shoulder, to cry on.",
+      "spanish": "El hombro de un amigo, para llorar.",
+      "category": "Friendship",
+      "generated_at": "2026-10-06T07:00:39.034217"
+    },
+    {
+      "english": "True friends, are rare gems.",
+      "spanish": "Los amigos verdaderos, son gemas raras.",
+      "category": "Friendship",
+      "generated_at": "2026-10-06T07:00:39.034219"
+    },
+    {
+      "english": "Friendship is, a gift.",
+      "spanish": "La amistad es, un regalo.",
+      "category": "Friendship",
+      "generated_at": "2026-10-06T07:00:39.034220"
+    },
+    {
+      "english": "You are, a great friend.",
+      "spanish": "Eres, un gran amigo.",
+      "category": "Friendship",
+      "generated_at": "2026-10-06T07:00:39.034221"
+    },
+    {
+      "english": "My friends, my world.",
+      "spanish": "Mis amigos, mi mundo.",
+      "category": "Friendship",
+      "generated_at": "2026-10-06T07:00:39.034222"
+    },
+    {
+      "english": "Together, we are stronger.",
+      "spanish": "Juntos, somos más fuertes.",
+      "category": "Friendship",
+      "generated_at": "2026-10-06T07:00:39.034223"
+    },
+    {
+      "english": "A friend's smile, brightens days.",
+      "spanish": "La sonrisa de un amigo, alegra días.",
+      "category": "Friendship",
+      "generated_at": "2026-10-06T07:00:39.034225"
+    },
+    {
+      "english": "Always there, for each other.",
+      "spanish": "Siempre ahí, el uno para el otro.",
+      "category": "Friendship",
+      "generated_at": "2026-10-06T07:00:39.034226"
+    },
+    {
+      "english": "Friendship is, understanding.",
+      "spanish": "La amistad es, comprensión.",
+      "category": "Friendship",
+      "generated_at": "2026-10-06T07:00:39.034227"
+    },
+    {
+      "english": "We celebrate, every victory.",
+      "spanish": "Celebramos, cada victoria.",
+      "category": "Friendship",
+      "generated_at": "2026-10-06T07:00:39.034228"
+    },
+    {
+      "english": "A bond, that never breaks.",
+      "spanish": "Un vínculo, que nunca se rompe.",
+      "category": "Friendship",
+      "generated_at": "2026-10-06T07:00:39.034229"
+    },
+    {
+      "english": "My friend, my confidant.",
+      "spanish": "Mi amigo, mi confidente.",
+      "category": "Friendship",
+      "generated_at": "2026-10-06T07:00:39.034230"
+    },
+    {
+      "english": "We share secrets, safely.",
+      "spanish": "Compartimos secretos, con seguridad.",
+      "category": "Friendship",
+      "generated_at": "2026-10-06T07:00:39.034231"
+    },
+    {
+      "english": "Friendship is, a journey.",
+      "spanish": "La amistad es, un viaje.",
+      "category": "Friendship",
+      "generated_at": "2026-10-06T07:00:39.034232"
+    },
+    {
+      "english": "We have, fun times.",
+      "spanish": "Tenemos, momentos divertidos.",
+      "category": "Friendship",
+      "generated_at": "2026-10-06T07:00:39.034233"
+    },
+    {
+      "english": "We help each other, grow.",
+      "spanish": "Nos ayudamos, a crecer.",
+      "category": "Friendship",
+      "generated_at": "2026-10-06T07:00:39.034235"
+    },
+    {
+      "english": "Friendship is, mutual respect.",
+      "spanish": "La amistad es, respeto mutuo.",
+      "category": "Friendship",
+      "generated_at": "2026-10-06T07:00:39.034236"
+    },
+    {
+      "english": "Best friends, forever.",
+      "spanish": "Mejores amigos, para siempre.",
+      "category": "Friendship",
+      "generated_at": "2026-10-06T07:00:39.034237"
+    },
+    {
+      "english": "I value, our friendship.",
+      "spanish": "Valoro, nuestra amistad.",
+      "category": "Friendship",
+      "generated_at": "2026-10-06T07:00:39.034238"
+    },
+    {
+      "english": "Friends understand, without words.",
+      "spanish": "Los amigos entienden, sin palabras.",
+      "category": "Friendship",
+      "generated_at": "2026-10-06T07:00:39.034239"
+    },
+    {
+      "english": "Friends share, good and bad.",
+      "spanish": "Los amigos comparten, lo bueno y lo malo.",
+      "category": "Friendship",
+      "generated_at": "2026-10-06T07:00:39.034240"
+    },
+    {
+      "english": "Your best friend, knows you well.",
+      "spanish": "Tu mejor amigo, te conoce bien.",
+      "category": "Friendship",
+      "generated_at": "2026-10-06T07:00:39.034241"
+    },
+    {
+      "english": "We laugh, together always.",
+      "spanish": "Reímos, juntos siempre.",
+      "category": "Friendship",
+      "generated_at": "2026-10-06T07:00:39.034243"
+    },
+    {
+      "english": "Loyalty, is important, right?",
+      "spanish": "La lealtad, es importante, ¿verdad?",
+      "category": "Friendship",
+      "generated_at": "2026-10-06T07:00:39.034244"
+    },
+    {
+      "english": "Friends support, each other.",
+      "spanish": "Los amigos se apoyan, mutuamente.",
+      "category": "Friendship",
+      "generated_at": "2026-10-06T07:00:39.034245"
+    },
+    {
+      "english": "Good times, with good people.",
+      "spanish": "Buenos momentos, con buena gente.",
+      "category": "Friendship",
+      "generated_at": "2026-10-06T07:00:39.034246"
+    },
+    {
+      "english": "A friend's advice, is gold.",
+      "spanish": "El consejo de un amigo, es oro.",
+      "category": "Friendship",
+      "generated_at": "2026-10-06T07:00:39.034248"
+    },
+    {
+      "english": "We grow, with our friends.",
+      "spanish": "Crecemos, con nuestros amigos.",
+      "category": "Friendship",
+      "generated_at": "2026-10-06T07:00:39.034249"
+    },
+    {
+      "english": "Thanks for being, my friend.",
+      "spanish": "Gracias por ser, mi amigo.",
+      "category": "Friendship",
+      "generated_at": "2026-10-06T07:00:39.034250"
+    },
+    {
+      "english": "Friendship lasts, a lifetime.",
+      "spanish": "La amistad dura, toda la vida.",
+      "category": "Friendship",
+      "generated_at": "2026-10-06T07:00:39.034251"
+    },
+    {
+      "english": "Shared memories, are precious.",
+      "spanish": "Los recuerdos compartidos, son valiosos.",
+      "category": "Friendship",
+      "generated_at": "2026-10-06T07:00:39.034252"
+    },
+    {
+      "english": "A friend's shoulder, to cry on.",
+      "spanish": "El hombro de un amigo, para llorar.",
+      "category": "Friendship",
+      "generated_at": "2026-10-06T07:00:39.034254"
+    },
+    {
+      "english": "True friends, are rare gems.",
+      "spanish": "Los amigos verdaderos, son gemas raras.",
+      "category": "Friendship",
+      "generated_at": "2026-10-06T07:00:39.034255"
+    },
+    {
+      "english": "Friendship is, a gift.",
+      "spanish": "La amistad es, un regalo.",
+      "category": "Friendship",
+      "generated_at": "2026-10-06T07:00:39.034256"
+    },
+    {
+      "english": "You are, a great friend.",
+      "spanish": "Eres, un gran amigo.",
+      "category": "Friendship",
+      "generated_at": "2026-10-06T07:00:39.034257"
+    },
+    {
+      "english": "My friends, my world.",
+      "spanish": "Mis amigos, mi mundo.",
+      "category": "Friendship",
+      "generated_at": "2026-10-06T07:00:39.034258"
+    },
+    {
+      "english": "Together, we are stronger.",
+      "spanish": "Juntos, somos más fuertes.",
+      "category": "Friendship",
+      "generated_at": "2026-10-06T07:00:39.034259"
+    },
+    {
+      "english": "A friend's smile, brightens days.",
+      "spanish": "La sonrisa de un amigo, alegra días.",
+      "category": "Friendship",
+      "generated_at": "2026-10-06T07:00:39.034260"
+    },
+    {
+      "english": "Always there, for each other.",
+      "spanish": "Siempre ahí, el uno para el otro.",
+      "category": "Friendship",
+      "generated_at": "2026-10-06T07:00:39.034261"
+    },
+    {
+      "english": "Friendship is, understanding.",
+      "spanish": "La amistad es, comprensión.",
+      "category": "Friendship",
+      "generated_at": "2026-10-06T07:00:39.034263"
+    },
+    {
+      "english": "We celebrate, every victory.",
+      "spanish": "Celebramos, cada victoria.",
+      "category": "Friendship",
+      "generated_at": "2026-10-06T07:00:39.034264"
+    },
+    {
+      "english": "A bond, that never breaks.",
+      "spanish": "Un vínculo, que nunca se rompe.",
+      "category": "Friendship",
+      "generated_at": "2026-10-06T07:00:39.034266"
+    },
+    {
+      "english": "My friend, my confidant.",
+      "spanish": "Mi amigo, mi confidente.",
+      "category": "Friendship",
+      "generated_at": "2026-10-06T07:00:39.034267"
+    },
+    {
+      "english": "We share secrets, safely.",
+      "spanish": "Compartimos secretos, con seguridad.",
+      "category": "Friendship",
+      "generated_at": "2026-10-06T07:00:39.034268"
+    },
+    {
+      "english": "Friendship is, a journey.",
+      "spanish": "La amistad es, un viaje.",
+      "category": "Friendship",
+      "generated_at": "2026-10-06T07:00:39.034269"
+    },
+    {
+      "english": "We have, fun times.",
+      "spanish": "Tenemos, momentos divertidos.",
+      "category": "Friendship",
+      "generated_at": "2026-10-06T07:00:39.034270"
+    },
+    {
+      "english": "We help each other, grow.",
+      "spanish": "Nos ayudamos, a crecer.",
+      "category": "Friendship",
+      "generated_at": "2026-10-06T07:00:39.034271"
+    },
+    {
+      "english": "Friendship is, mutual respect.",
+      "spanish": "La amistad es, respeto mutuo.",
+      "category": "Friendship",
+      "generated_at": "2026-10-06T07:00:39.034272"
+    },
+    {
+      "english": "Best friends, forever.",
+      "spanish": "Mejores amigos, para siempre.",
+      "category": "Friendship",
+      "generated_at": "2026-10-06T07:00:39.034274"
+    },
+    {
+      "english": "I value, our friendship.",
+      "spanish": "Valoro, nuestra amistad.",
+      "category": "Friendship",
+      "generated_at": "2026-10-06T07:00:39.034275"
+    },
+    {
+      "english": "Friends understand, without words.",
+      "spanish": "Los amigos entienden, sin palabras.",
+      "category": "Friendship",
+      "generated_at": "2026-10-06T07:00:39.034276"
+    },
+    {
+      "english": "Friends share, good and bad.",
+      "spanish": "Los amigos comparten, lo bueno y lo malo.",
+      "category": "Friendship",
+      "generated_at": "2026-10-06T07:00:39.034277"
+    },
+    {
+      "english": "Your best friend, knows you well.",
+      "spanish": "Tu mejor amigo, te conoce bien.",
+      "category": "Friendship",
+      "generated_at": "2026-10-06T07:00:39.034278"
+    },
+    {
+      "english": "We laugh, together always.",
+      "spanish": "Reímos, juntos siempre.",
+      "category": "Friendship",
+      "generated_at": "2026-10-06T07:00:39.034280"
+    },
+    {
+      "english": "Loyalty, is important, right?",
+      "spanish": "La lealtad, es importante, ¿verdad?",
+      "category": "Friendship",
+      "generated_at": "2026-10-06T07:00:39.034281"
+    },
+    {
+      "english": "Friends support, each other.",
+      "spanish": "Los amigos se apoyan, mutuamente.",
+      "category": "Friendship",
+      "generated_at": "2026-10-06T07:00:39.034282"
+    },
+    {
+      "english": "Good times, with good people.",
+      "spanish": "Buenos momentos, con buena gente.",
+      "category": "Friendship",
+      "generated_at": "2026-10-06T07:00:39.034283"
+    },
+    {
+      "english": "A friend's advice, is gold.",
+      "spanish": "El consejo de un amigo, es oro.",
+      "category": "Friendship",
+      "generated_at": "2026-10-06T07:00:39.034285"
+    },
+    {
+      "english": "We grow, with our friends.",
+      "spanish": "Crecemos, con nuestros amigos.",
+      "category": "Friendship",
+      "generated_at": "2026-10-06T07:00:39.034286"
+    },
+    {
+      "english": "Thanks for being, my friend.",
+      "spanish": "Gracias por ser, mi amigo.",
+      "category": "Friendship",
+      "generated_at": "2026-10-06T07:00:39.034287"
+    },
+    {
+      "english": "Friendship lasts, a lifetime.",
+      "spanish": "La amistad dura, toda la vida.",
+      "category": "Friendship",
+      "generated_at": "2026-10-06T07:00:39.034288"
+    },
+    {
+      "english": "Shared memories, are precious.",
+      "spanish": "Los recuerdos compartidos, son valiosos.",
+      "category": "Friendship",
+      "generated_at": "2026-10-06T07:00:39.034290"
+    },
+    {
+      "english": "A friend's shoulder, to cry on.",
+      "spanish": "El hombro de un amigo, para llorar.",
+      "category": "Friendship",
+      "generated_at": "2026-10-06T07:00:39.034291"
+    },
+    {
+      "english": "True friends, are rare gems.",
+      "spanish": "Los amigos verdaderos, son gemas raras.",
+      "category": "Friendship",
+      "generated_at": "2026-10-06T07:00:39.034292"
+    },
+    {
+      "english": "Friendship is, a gift.",
+      "spanish": "La amistad es, un regalo.",
+      "category": "Friendship",
+      "generated_at": "2026-10-06T07:00:39.034293"
+    },
+    {
+      "english": "You are, a great friend.",
+      "spanish": "Eres, un gran amigo.",
+      "category": "Friendship",
+      "generated_at": "2026-10-06T07:00:39.034294"
+    },
+    {
+      "english": "My friends, my world.",
+      "spanish": "Mis amigos, mi mundo.",
+      "category": "Friendship",
+      "generated_at": "2026-10-06T07:00:39.034295"
+    },
+    {
+      "english": "Together, we are stronger.",
+      "spanish": "Juntos, somos más fuertes.",
+      "category": "Friendship",
+      "generated_at": "2026-10-06T07:00:39.034297"
+    },
+    {
+      "english": "A friend's smile, brightens days.",
+      "spanish": "La sonrisa de un amigo, alegra días.",
+      "category": "Friendship",
+      "generated_at": "2026-10-06T07:00:39.034298"
+    },
+    {
+      "english": "Always there, for each other.",
+      "spanish": "Siempre ahí, el uno para el otro.",
+      "category": "Friendship",
+      "generated_at": "2026-10-06T07:00:39.034299"
+    },
+    {
+      "english": "Friendship is, understanding.",
+      "spanish": "La amistad es, comprensión.",
+      "category": "Friendship",
+      "generated_at": "2026-10-06T07:00:39.034300"
+    },
+    {
+      "english": "We celebrate, every victory.",
+      "spanish": "Celebramos, cada victoria.",
+      "category": "Friendship",
+      "generated_at": "2026-10-06T07:00:39.034301"
+    },
+    {
+      "english": "A bond, that never breaks.",
+      "spanish": "Un vínculo, que nunca se rompe.",
+      "category": "Friendship",
+      "generated_at": "2026-10-06T07:00:39.034302"
+    },
+    {
+      "english": "My friend, my confidant.",
+      "spanish": "Mi amigo, mi confidente.",
+      "category": "Friendship",
+      "generated_at": "2026-10-06T07:00:39.034304"
+    },
+    {
+      "english": "We share secrets, safely.",
+      "spanish": "Compartimos secretos, con seguridad.",
+      "category": "Friendship",
+      "generated_at": "2026-10-06T07:00:39.034305"
+    },
+    {
+      "english": "Friendship is, a journey.",
+      "spanish": "La amistad es, un viaje.",
+      "category": "Friendship",
+      "generated_at": "2026-10-06T07:00:39.034306"
+    },
+    {
+      "english": "We have, fun times.",
+      "spanish": "Tenemos, momentos divertidos.",
+      "category": "Friendship",
+      "generated_at": "2026-10-06T07:00:39.034307"
+    },
+    {
+      "english": "We help each other, grow.",
+      "spanish": "Nos ayudamos, a crecer.",
+      "category": "Friendship",
+      "generated_at": "2026-10-06T07:00:39.034308"
+    },
+    {
+      "english": "Friendship is, mutual respect.",
+      "spanish": "La amistad es, respeto mutuo.",
+      "category": "Friendship",
+      "generated_at": "2026-10-06T07:00:39.034309"
+    },
+    {
+      "english": "Best friends, forever.",
+      "spanish": "Mejores amigos, para siempre.",
+      "category": "Friendship",
+      "generated_at": "2026-10-06T07:00:39.034311"
+    },
+    {
+      "english": "I value, our friendship.",
+      "spanish": "Valoro, nuestra amistad.",
+      "category": "Friendship",
+      "generated_at": "2026-10-06T07:00:39.034312"
+    },
+    {
+      "english": "Friends understand, without words.",
+      "spanish": "Los amigos entienden, sin palabras.",
+      "category": "Friendship",
+      "generated_at": "2026-10-06T07:00:39.034313"
+    },
+    {
+      "english": "Friends share, good and bad.",
+      "spanish": "Los amigos comparten, lo bueno y lo malo.",
+      "category": "Friendship",
+      "generated_at": "2026-10-06T07:00:39.034314"
+    },
+    {
+      "english": "Your best friend, knows you well.",
+      "spanish": "Tu mejor amigo, te conoce bien.",
+      "category": "Friendship",
+      "generated_at": "2026-10-06T07:00:39.034316"
+    },
+    {
+      "english": "We laugh, together always.",
+      "spanish": "Reímos, juntos siempre.",
+      "category": "Friendship",
+      "generated_at": "2026-10-06T07:00:39.034317"
+    },
+    {
+      "english": "Loyalty, is important, right?",
+      "spanish": "La lealtad, es importante, ¿verdad?",
+      "category": "Friendship",
+      "generated_at": "2026-10-06T07:00:39.034318"
+    },
+    {
+      "english": "Friends support, each other.",
+      "spanish": "Los amigos se apoyan, mutuamente.",
+      "category": "Friendship",
+      "generated_at": "2026-10-06T07:00:39.034319"
+    },
+    {
+      "english": "Good times, with good people.",
+      "spanish": "Buenos momentos, con buena gente.",
+      "category": "Friendship",
+      "generated_at": "2026-10-06T07:00:39.034321"
+    },
+    {
+      "english": "A friend's advice, is gold.",
+      "spanish": "El consejo de un amigo, es oro.",
+      "category": "Friendship",
+      "generated_at": "2026-10-06T07:00:39.034322"
+    },
+    {
+      "english": "We grow, with our friends.",
+      "spanish": "Crecemos, con nuestros amigos.",
+      "category": "Friendship",
+      "generated_at": "2026-10-06T07:00:39.034323"
+    },
+    {
+      "english": "Thanks for being, my friend.",
+      "spanish": "Gracias por ser, mi amigo.",
+      "category": "Friendship",
+      "generated_at": "2026-10-06T07:00:39.034324"
+    },
+    {
+      "english": "Friendship lasts, a lifetime.",
+      "spanish": "La amistad dura, toda la vida.",
+      "category": "Friendship",
+      "generated_at": "2026-10-06T07:00:39.034325"
+    },
+    {
+      "english": "Shared memories, are precious.",
+      "spanish": "Los recuerdos compartidos, son valiosos.",
+      "category": "Friendship",
+      "generated_at": "2026-10-06T07:00:39.034327"
+    },
+    {
+      "english": "A friend's shoulder, to cry on.",
+      "spanish": "El hombro de un amigo, para llorar.",
+      "category": "Friendship",
+      "generated_at": "2026-10-06T07:00:39.034328"
+    },
+    {
+      "english": "True friends, are rare gems.",
+      "spanish": "Los amigos verdaderos, son gemas raras.",
+      "category": "Friendship",
+      "generated_at": "2026-10-06T07:00:39.034329"
+    },
+    {
+      "english": "Friendship is, a gift.",
+      "spanish": "La amistad es, un regalo.",
+      "category": "Friendship",
+      "generated_at": "2026-10-06T07:00:39.034330"
+    },
+    {
+      "english": "You are, a great friend.",
+      "spanish": "Eres, un gran amigo.",
+      "category": "Friendship",
+      "generated_at": "2026-10-06T07:00:39.034331"
+    },
+    {
+      "english": "My friends, my world.",
+      "spanish": "Mis amigos, mi mundo.",
+      "category": "Friendship",
+      "generated_at": "2026-10-06T07:00:39.034333"
+    },
+    {
+      "english": "Together, we are stronger.",
+      "spanish": "Juntos, somos más fuertes.",
+      "category": "Friendship",
+      "generated_at": "2026-10-06T07:00:39.034334"
+    },
+    {
+      "english": "A friend's smile, brightens days.",
+      "spanish": "La sonrisa de un amigo, alegra días.",
+      "category": "Friendship",
+      "generated_at": "2026-10-06T07:00:39.034335"
+    },
+    {
+      "english": "Always there, for each other.",
+      "spanish": "Siempre ahí, el uno para el otro.",
+      "category": "Friendship",
+      "generated_at": "2026-10-06T07:00:39.034336"
+    },
+    {
+      "english": "Friendship is, understanding.",
+      "spanish": "La amistad es, comprensión.",
+      "category": "Friendship",
+      "generated_at": "2026-10-06T07:00:39.034337"
+    },
+    {
+      "english": "We celebrate, every victory.",
+      "spanish": "Celebramos, cada victoria.",
+      "category": "Friendship",
+      "generated_at": "2026-10-06T07:00:39.034338"
+    },
+    {
+      "english": "A bond, that never breaks.",
+      "spanish": "Un vínculo, que nunca se rompe.",
+      "category": "Friendship",
+      "generated_at": "2026-10-06T07:00:39.034339"
+    },
+    {
+      "english": "My friend, my confidant.",
+      "spanish": "Mi amigo, mi confidente.",
+      "category": "Friendship",
+      "generated_at": "2026-10-06T07:00:39.034341"
+    },
+    {
+      "english": "We share secrets, safely.",
+      "spanish": "Compartimos secretos, con seguridad.",
+      "category": "Friendship",
+      "generated_at": "2026-10-06T07:00:39.034342"
+    },
+    {
+      "english": "Friendship is, a journey.",
+      "spanish": "La amistad es, un viaje.",
+      "category": "Friendship",
+      "generated_at": "2026-10-06T07:00:39.034343"
+    },
+    {
+      "english": "We have, fun times.",
+      "spanish": "Tenemos, momentos divertidos.",
+      "category": "Friendship",
+      "generated_at": "2026-10-06T07:00:39.034344"
+    },
+    {
+      "english": "We help each other, grow.",
+      "spanish": "Nos ayudamos, a crecer.",
+      "category": "Friendship",
+      "generated_at": "2026-10-06T07:00:39.034346"
     }
   ],
-  "last_updated": "2026-10-05T06:24:38.830808"
+  "last_updated": "2026-10-06T07:00:39.034348"
 }
