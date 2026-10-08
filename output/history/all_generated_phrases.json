@@ -60479,7 +60479,727 @@
       "spanish": "Encuentra belleza, por doquier.",
       "category": "Positive Life",
       "generated_at": "2026-10-07T06:41:10.057301"
+    },
+    {
+      "english": "Sparkle brightly, catch the light.",
+      "spanish": "Brilla fuerte, atrapa la luz.",
+      "category": "Success",
+      "generated_at": "2026-10-08T06:57:12.060899"
+    },
+    {
+      "english": "Shine on, like a star.",
+      "spanish": "Sigue brillando, como estrella.",
+      "category": "Success",
+      "generated_at": "2026-10-08T06:57:12.060910"
+    },
+    {
+      "english": "Dream bigger, reach higher.",
+      "spanish": "Sueña más grande, llega más alto.",
+      "category": "Success",
+      "generated_at": "2026-10-08T06:57:12.060912"
+    },
+    {
+      "english": "Dare boldly, live truly.",
+      "spanish": "Atrévete audaz, vive real.",
+      "category": "Success",
+      "generated_at": "2026-10-08T06:57:12.060913"
+    },
+    {
+      "english": "Bloom beautifully, show your colors.",
+      "spanish": "Florece hermosa, muestra tus colores.",
+      "category": "Success",
+      "generated_at": "2026-10-08T06:57:12.060915"
+    },
+    {
+      "english": "Grow boldly, own your space.",
+      "spanish": "Crece audaz, toma tu espacio.",
+      "category": "Success",
+      "generated_at": "2026-10-08T06:57:12.060916"
+    },
+    {
+      "english": "Flow freely, like water.",
+      "spanish": "Fluye libre, como el agua.",
+      "category": "Success",
+      "generated_at": "2026-10-08T06:57:12.060917"
+    },
+    {
+      "english": "Connect deeply, feel everything.",
+      "spanish": "Conecta hondo, siente todo.",
+      "category": "Success",
+      "generated_at": "2026-10-08T06:57:12.060921"
+    },
+    {
+      "english": "Rise up, strong and ready.",
+      "spanish": "Levántate, fuerte y lista.",
+      "category": "Success",
+      "generated_at": "2026-10-08T06:57:12.060923"
+    },
+    {
+      "english": "Sing your song, loud and clear.",
+      "spanish": "Canta tu canción, fuerte y clara.",
+      "category": "Success",
+      "generated_at": "2026-10-08T06:57:12.060924"
+    },
+    {
+      "english": "Explore bravely, find wonders.",
+      "spanish": "Explora valiente, encuentra maravillas.",
+      "category": "Success",
+      "generated_at": "2026-10-08T06:57:12.060925"
+    },
+    {
+      "english": "Create magic, with your hands.",
+      "spanish": "Crea magia, con tus manos.",
+      "category": "Success",
+      "generated_at": "2026-10-08T06:57:12.060927"
+    },
+    {
+      "english": "Listen closely, hear the whispers.",
+      "spanish": "Escucha atento, oye los susurros.",
+      "category": "Success",
+      "generated_at": "2026-10-08T06:57:12.060928"
+    },
+    {
+      "english": "Lead with heart, inspire change.",
+      "spanish": "Lidera con corazón, inspira cambio.",
+      "category": "Success",
+      "generated_at": "2026-10-08T06:57:12.060930"
+    },
+    {
+      "english": "Walk your path, with joy.",
+      "spanish": "Camina tu senda, con gozo.",
+      "category": "Success",
+      "generated_at": "2026-10-08T06:57:12.060931"
+    },
+    {
+      "english": "Paint your dreams, in color.",
+      "spanish": "Pinta tus sueños, en color.",
+      "category": "Success",
+      "generated_at": "2026-10-08T06:57:12.060932"
+    },
+    {
+      "english": "Feel the rhythm, dance freely.",
+      "spanish": "Siente el ritmo, baila libre.",
+      "category": "Success",
+      "generated_at": "2026-10-08T06:57:12.060933"
+    },
+    {
+      "english": "Taste the adventure, life's sweet.",
+      "spanish": "Prueba la aventura, la vida es dulce.",
+      "category": "Success",
+      "generated_at": "2026-10-08T06:57:12.060935"
+    },
+    {
+      "english": "Unleash your power, now.",
+      "spanish": "Libera tu poder, ahora.",
+      "category": "Success",
+      "generated_at": "2026-10-08T06:57:12.060936"
+    },
+    {
+      "english": "Let go, and fly high.",
+      "spanish": "Suelta, y vuela alto.",
+      "category": "Success",
+      "generated_at": "2026-10-08T06:57:12.060937"
+    },
+    {
+      "english": "Find your fire, burn bright.",
+      "spanish": "Encuentra tu fuego, arde brillante.",
+      "category": "Success",
+      "generated_at": "2026-10-08T06:57:12.060938"
+    },
+    {
+      "english": "Embrace the journey, enjoy it.",
+      "spanish": "Abraza el camino, disfrútalo.",
+      "category": "Success",
+      "generated_at": "2026-10-08T06:57:12.060939"
+    },
+    {
+      "english": "Shine from within, truly.",
+      "spanish": "Brilla desde adentro, de verdad.",
+      "category": "Success",
+      "generated_at": "2026-10-08T06:57:12.060940"
+    },
+    {
+      "english": "Make waves, make noise.",
+      "spanish": "Haz olas, haz ruido.",
+      "category": "Success",
+      "generated_at": "2026-10-08T06:57:12.060941"
+    },
+    {
+      "english": "Open doors, with a smile.",
+      "spanish": "Abre puertas, con una sonrisa.",
+      "category": "Success",
+      "generated_at": "2026-10-08T06:57:12.060943"
+    },
+    {
+      "english": "Seize the day, with passion.",
+      "spanish": "Aprovecha el día, con pasión.",
+      "category": "Success",
+      "generated_at": "2026-10-08T06:57:12.060944"
+    },
+    {
+      "english": "Chase your bliss, always.",
+      "spanish": "Persigue tu dicha, siempre.",
+      "category": "Success",
+      "generated_at": "2026-10-08T06:57:12.060945"
+    },
+    {
+      "english": "Soar high, like an eagle.",
+      "spanish": "Vuela alto, como un águila.",
+      "category": "Success",
+      "generated_at": "2026-10-08T06:57:12.060946"
+    },
+    {
+      "english": "Embrace joy, let it radiate.",
+      "spanish": "Abraza la alegría, deja que irradie.",
+      "category": "Success",
+      "generated_at": "2026-10-08T06:57:12.060947"
+    },
+    {
+      "english": "Ignite your spirit, with fire.",
+      "spanish": "Enciende tu espíritu, con fuego.",
+      "category": "Success",
+      "generated_at": "2026-10-08T06:57:12.060948"
+    },
+    {
+      "english": "Dare to dream, then do it.",
+      "spanish": "Atrévete a soñar, luego hazlo.",
+      "category": "Success",
+      "generated_at": "2026-10-08T06:57:12.060949"
+    },
+    {
+      "english": "Sparkle brightly, catch the light.",
+      "spanish": "Brilla fuerte, atrapa la luz.",
+      "category": "Success",
+      "generated_at": "2026-10-08T06:57:12.060950"
+    },
+    {
+      "english": "Shine on, like a star.",
+      "spanish": "Sigue brillando, como estrella.",
+      "category": "Success",
+      "generated_at": "2026-10-08T06:57:12.060952"
+    },
+    {
+      "english": "Dream bigger, reach higher.",
+      "spanish": "Sueña más grande, llega más alto.",
+      "category": "Success",
+      "generated_at": "2026-10-08T06:57:12.060953"
+    },
+    {
+      "english": "Dare boldly, live truly.",
+      "spanish": "Atrévete audaz, vive real.",
+      "category": "Success",
+      "generated_at": "2026-10-08T06:57:12.060954"
+    },
+    {
+      "english": "Bloom beautifully, show your colors.",
+      "spanish": "Florece hermosa, muestra tus colores.",
+      "category": "Success",
+      "generated_at": "2026-10-08T06:57:12.060955"
+    },
+    {
+      "english": "Grow boldly, own your space.",
+      "spanish": "Crece audaz, toma tu espacio.",
+      "category": "Success",
+      "generated_at": "2026-10-08T06:57:12.060957"
+    },
+    {
+      "english": "Flow freely, like water.",
+      "spanish": "Fluye libre, como el agua.",
+      "category": "Success",
+      "generated_at": "2026-10-08T06:57:12.060962"
+    },
+    {
+      "english": "Connect deeply, feel everything.",
+      "spanish": "Conecta hondo, siente todo.",
+      "category": "Success",
+      "generated_at": "2026-10-08T06:57:12.060963"
+    },
+    {
+      "english": "Rise up, strong and ready.",
+      "spanish": "Levántate, fuerte y lista.",
+      "category": "Success",
+      "generated_at": "2026-10-08T06:57:12.060964"
+    },
+    {
+      "english": "Sing your song, loud and clear.",
+      "spanish": "Canta tu canción, fuerte y clara.",
+      "category": "Success",
+      "generated_at": "2026-10-08T06:57:12.060965"
+    },
+    {
+      "english": "Explore bravely, find wonders.",
+      "spanish": "Explora valiente, encuentra maravillas.",
+      "category": "Success",
+      "generated_at": "2026-10-08T06:57:12.060968"
+    },
+    {
+      "english": "Create magic, with your hands.",
+      "spanish": "Crea magia, con tus manos.",
+      "category": "Success",
+      "generated_at": "2026-10-08T06:57:12.060970"
+    },
+    {
+      "english": "Listen closely, hear the whispers.",
+      "spanish": "Escucha atento, oye los susurros.",
+      "category": "Success",
+      "generated_at": "2026-10-08T06:57:12.060971"
+    },
+    {
+      "english": "Lead with heart, inspire change.",
+      "spanish": "Lidera con corazón, inspira cambio.",
+      "category": "Success",
+      "generated_at": "2026-10-08T06:57:12.060972"
+    },
+    {
+      "english": "Walk your path, with joy.",
+      "spanish": "Camina tu senda, con gozo.",
+      "category": "Success",
+      "generated_at": "2026-10-08T06:57:12.060974"
+    },
+    {
+      "english": "Paint your dreams, in color.",
+      "spanish": "Pinta tus sueños, en color.",
+      "category": "Success",
+      "generated_at": "2026-10-08T06:57:12.060975"
+    },
+    {
+      "english": "Feel the rhythm, dance freely.",
+      "spanish": "Siente el ritmo, baila libre.",
+      "category": "Success",
+      "generated_at": "2026-10-08T06:57:12.060976"
+    },
+    {
+      "english": "Taste the adventure, life's sweet.",
+      "spanish": "Prueba la aventura, la vida es dulce.",
+      "category": "Success",
+      "generated_at": "2026-10-08T06:57:12.060977"
+    },
+    {
+      "english": "Unleash your power, now.",
+      "spanish": "Libera tu poder, ahora.",
+      "category": "Success",
+      "generated_at": "2026-10-08T06:57:12.060978"
+    },
+    {
+      "english": "Let go, and fly high.",
+      "spanish": "Suelta, y vuela alto.",
+      "category": "Success",
+      "generated_at": "2026-10-08T06:57:12.060979"
+    },
+    {
+      "english": "Find your fire, burn bright.",
+      "spanish": "Encuentra tu fuego, arde brillante.",
+      "category": "Success",
+      "generated_at": "2026-10-08T06:57:12.060981"
+    },
+    {
+      "english": "Embrace the journey, enjoy it.",
+      "spanish": "Abraza el camino, disfrútalo.",
+      "category": "Success",
+      "generated_at": "2026-10-08T06:57:12.060982"
+    },
+    {
+      "english": "Shine from within, truly.",
+      "spanish": "Brilla desde adentro, de verdad.",
+      "category": "Success",
+      "generated_at": "2026-10-08T06:57:12.060983"
+    },
+    {
+      "english": "Make waves, make noise.",
+      "spanish": "Haz olas, haz ruido.",
+      "category": "Success",
+      "generated_at": "2026-10-08T06:57:12.060984"
+    },
+    {
+      "english": "Open doors, with a smile.",
+      "spanish": "Abre puertas, con una sonrisa.",
+      "category": "Success",
+      "generated_at": "2026-10-08T06:57:12.060985"
+    },
+    {
+      "english": "Seize the day, with passion.",
+      "spanish": "Aprovecha el día, con pasión.",
+      "category": "Success",
+      "generated_at": "2026-10-08T06:57:12.060986"
+    },
+    {
+      "english": "Chase your bliss, always.",
+      "spanish": "Persigue tu dicha, siempre.",
+      "category": "Success",
+      "generated_at": "2026-10-08T06:57:12.060987"
+    },
+    {
+      "english": "Soar high, like an eagle.",
+      "spanish": "Vuela alto, como un águila.",
+      "category": "Success",
+      "generated_at": "2026-10-08T06:57:12.060989"
+    },
+    {
+      "english": "Embrace joy, let it radiate.",
+      "spanish": "Abraza la alegría, deja que irradie.",
+      "category": "Success",
+      "generated_at": "2026-10-08T06:57:12.060990"
+    },
+    {
+      "english": "Ignite your spirit, with fire.",
+      "spanish": "Enciende tu espíritu, con fuego.",
+      "category": "Success",
+      "generated_at": "2026-10-08T06:57:12.060991"
+    },
+    {
+      "english": "Dare to dream, then do it.",
+      "spanish": "Atrévete a soñar, luego hazlo.",
+      "category": "Success",
+      "generated_at": "2026-10-08T06:57:12.060992"
+    },
+    {
+      "english": "Sparkle brightly, catch the light.",
+      "spanish": "Brilla fuerte, atrapa la luz.",
+      "category": "Success",
+      "generated_at": "2026-10-08T06:57:12.060993"
+    },
+    {
+      "english": "Shine on, like a star.",
+      "spanish": "Sigue brillando, como estrella.",
+      "category": "Success",
+      "generated_at": "2026-10-08T06:57:12.060995"
+    },
+    {
+      "english": "Dream bigger, reach higher.",
+      "spanish": "Sueña más grande, llega más alto.",
+      "category": "Success",
+      "generated_at": "2026-10-08T06:57:12.060996"
+    },
+    {
+      "english": "Dare boldly, live truly.",
+      "spanish": "Atrévete audaz, vive real.",
+      "category": "Success",
+      "generated_at": "2026-10-08T06:57:12.060997"
+    },
+    {
+      "english": "Bloom beautifully, show your colors.",
+      "spanish": "Florece hermosa, muestra tus colores.",
+      "category": "Success",
+      "generated_at": "2026-10-08T06:57:12.060998"
+    },
+    {
+      "english": "Grow boldly, own your space.",
+      "spanish": "Crece audaz, toma tu espacio.",
+      "category": "Success",
+      "generated_at": "2026-10-08T06:57:12.060999"
+    },
+    {
+      "english": "Flow freely, like water.",
+      "spanish": "Fluye libre, como el agua.",
+      "category": "Success",
+      "generated_at": "2026-10-08T06:57:12.061002"
+    },
+    {
+      "english": "Connect deeply, feel everything.",
+      "spanish": "Conecta hondo, siente todo.",
+      "category": "Success",
+      "generated_at": "2026-10-08T06:57:12.061003"
+    },
+    {
+      "english": "Rise up, strong and ready.",
+      "spanish": "Levántate, fuerte y lista.",
+      "category": "Success",
+      "generated_at": "2026-10-08T06:57:12.061005"
+    },
+    {
+      "english": "Sing your song, loud and clear.",
+      "spanish": "Canta tu canción, fuerte y clara.",
+      "category": "Success",
+      "generated_at": "2026-10-08T06:57:12.061006"
+    },
+    {
+      "english": "Explore bravely, find wonders.",
+      "spanish": "Explora valiente, encuentra maravillas.",
+      "category": "Success",
+      "generated_at": "2026-10-08T06:57:12.061007"
+    },
+    {
+      "english": "Create magic, with your hands.",
+      "spanish": "Crea magia, con tus manos.",
+      "category": "Success",
+      "generated_at": "2026-10-08T06:57:12.061008"
+    },
+    {
+      "english": "Listen closely, hear the whispers.",
+      "spanish": "Escucha atento, oye los susurros.",
+      "category": "Success",
+      "generated_at": "2026-10-08T06:57:12.061010"
+    },
+    {
+      "english": "Lead with heart, inspire change.",
+      "spanish": "Lidera con corazón, inspira cambio.",
+      "category": "Success",
+      "generated_at": "2026-10-08T06:57:12.061011"
+    },
+    {
+      "english": "Walk your path, with joy.",
+      "spanish": "Camina tu senda, con gozo.",
+      "category": "Success",
+      "generated_at": "2026-10-08T06:57:12.061012"
+    },
+    {
+      "english": "Paint your dreams, in color.",
+      "spanish": "Pinta tus sueños, en color.",
+      "category": "Success",
+      "generated_at": "2026-10-08T06:57:12.061013"
+    },
+    {
+      "english": "Feel the rhythm, dance freely.",
+      "spanish": "Siente el ritmo, baila libre.",
+      "category": "Success",
+      "generated_at": "2026-10-08T06:57:12.061014"
+    },
+    {
+      "english": "Taste the adventure, life's sweet.",
+      "spanish": "Prueba la aventura, la vida es dulce.",
+      "category": "Success",
+      "generated_at": "2026-10-08T06:57:12.061015"
+    },
+    {
+      "english": "Unleash your power, now.",
+      "spanish": "Libera tu poder, ahora.",
+      "category": "Success",
+      "generated_at": "2026-10-08T06:57:12.061016"
+    },
+    {
+      "english": "Let go, and fly high.",
+      "spanish": "Suelta, y vuela alto.",
+      "category": "Success",
+      "generated_at": "2026-10-08T06:57:12.061017"
+    },
+    {
+      "english": "Find your fire, burn bright.",
+      "spanish": "Encuentra tu fuego, arde brillante.",
+      "category": "Success",
+      "generated_at": "2026-10-08T06:57:12.061019"
+    },
+    {
+      "english": "Embrace the journey, enjoy it.",
+      "spanish": "Abraza el camino, disfrútalo.",
+      "category": "Success",
+      "generated_at": "2026-10-08T06:57:12.061020"
+    },
+    {
+      "english": "Shine from within, truly.",
+      "spanish": "Brilla desde adentro, de verdad.",
+      "category": "Success",
+      "generated_at": "2026-10-08T06:57:12.061021"
+    },
+    {
+      "english": "Make waves, make noise.",
+      "spanish": "Haz olas, haz ruido.",
+      "category": "Success",
+      "generated_at": "2026-10-08T06:57:12.061022"
+    },
+    {
+      "english": "Open doors, with a smile.",
+      "spanish": "Abre puertas, con una sonrisa.",
+      "category": "Success",
+      "generated_at": "2026-10-08T06:57:12.061023"
+    },
+    {
+      "english": "Seize the day, with passion.",
+      "spanish": "Aprovecha el día, con pasión.",
+      "category": "Success",
+      "generated_at": "2026-10-08T06:57:12.061024"
+    },
+    {
+      "english": "Chase your bliss, always.",
+      "spanish": "Persigue tu dicha, siempre.",
+      "category": "Success",
+      "generated_at": "2026-10-08T06:57:12.061025"
+    },
+    {
+      "english": "Soar high, like an eagle.",
+      "spanish": "Vuela alto, como un águila.",
+      "category": "Success",
+      "generated_at": "2026-10-08T06:57:12.061026"
+    },
+    {
+      "english": "Embrace joy, let it radiate.",
+      "spanish": "Abraza la alegría, deja que irradie.",
+      "category": "Success",
+      "generated_at": "2026-10-08T06:57:12.061027"
+    },
+    {
+      "english": "Ignite your spirit, with fire.",
+      "spanish": "Enciende tu espíritu, con fuego.",
+      "category": "Success",
+      "generated_at": "2026-10-08T06:57:12.061028"
+    },
+    {
+      "english": "Dare to dream, then do it.",
+      "spanish": "Atrévete a soñar, luego hazlo.",
+      "category": "Success",
+      "generated_at": "2026-10-08T06:57:12.061031"
+    },
+    {
+      "english": "Sparkle brightly, catch the light.",
+      "spanish": "Brilla fuerte, atrapa la luz.",
+      "category": "Success",
+      "generated_at": "2026-10-08T06:57:12.061032"
+    },
+    {
+      "english": "Shine on, like a star.",
+      "spanish": "Sigue brillando, como estrella.",
+      "category": "Success",
+      "generated_at": "2026-10-08T06:57:12.061034"
+    },
+    {
+      "english": "Dream bigger, reach higher.",
+      "spanish": "Sueña más grande, llega más alto.",
+      "category": "Success",
+      "generated_at": "2026-10-08T06:57:12.061035"
+    },
+    {
+      "english": "Dare boldly, live truly.",
+      "spanish": "Atrévete audaz, vive real.",
+      "category": "Success",
+      "generated_at": "2026-10-08T06:57:12.061036"
+    },
+    {
+      "english": "Bloom beautifully, show your colors.",
+      "spanish": "Florece hermosa, muestra tus colores.",
+      "category": "Success",
+      "generated_at": "2026-10-08T06:57:12.061037"
+    },
+    {
+      "english": "Grow boldly, own your space.",
+      "spanish": "Crece audaz, toma tu espacio.",
+      "category": "Success",
+      "generated_at": "2026-10-08T06:57:12.061038"
+    },
+    {
+      "english": "Flow freely, like water.",
+      "spanish": "Fluye libre, como el agua.",
+      "category": "Success",
+      "generated_at": "2026-10-08T06:57:12.061039"
+    },
+    {
+      "english": "Connect deeply, feel everything.",
+      "spanish": "Conecta hondo, siente todo.",
+      "category": "Success",
+      "generated_at": "2026-10-08T06:57:12.061042"
+    },
+    {
+      "english": "Rise up, strong and ready.",
+      "spanish": "Levántate, fuerte y lista.",
+      "category": "Success",
+      "generated_at": "2026-10-08T06:57:12.061044"
+    },
+    {
+      "english": "Sing your song, loud and clear.",
+      "spanish": "Canta tu canción, fuerte y clara.",
+      "category": "Success",
+      "generated_at": "2026-10-08T06:57:12.061045"
+    },
+    {
+      "english": "Explore bravely, find wonders.",
+      "spanish": "Explora valiente, encuentra maravillas.",
+      "category": "Success",
+      "generated_at": "2026-10-08T06:57:12.061046"
+    },
+    {
+      "english": "Create magic, with your hands.",
+      "spanish": "Crea magia, con tus manos.",
+      "category": "Success",
+      "generated_at": "2026-10-08T06:57:12.061047"
+    },
+    {
+      "english": "Listen closely, hear the whispers.",
+      "spanish": "Escucha atento, oye los susurros.",
+      "category": "Success",
+      "generated_at": "2026-10-08T06:57:12.061048"
+    },
+    {
+      "english": "Lead with heart, inspire change.",
+      "spanish": "Lidera con corazón, inspira cambio.",
+      "category": "Success",
+      "generated_at": "2026-10-08T06:57:12.061049"
+    },
+    {
+      "english": "Walk your path, with joy.",
+      "spanish": "Camina tu senda, con gozo.",
+      "category": "Success",
+      "generated_at": "2026-10-08T06:57:12.061051"
+    },
+    {
+      "english": "Paint your dreams, in color.",
+      "spanish": "Pinta tus sueños, en color.",
+      "category": "Success",
+      "generated_at": "2026-10-08T06:57:12.061052"
+    },
+    {
+      "english": "Feel the rhythm, dance freely.",
+      "spanish": "Siente el ritmo, baila libre.",
+      "category": "Success",
+      "generated_at": "2026-10-08T06:57:12.061055"
+    },
+    {
+      "english": "Taste the adventure, life's sweet.",
+      "spanish": "Prueba la aventura, la vida es dulce.",
+      "category": "Success",
+      "generated_at": "2026-10-08T06:57:12.061056"
+    },
+    {
+      "english": "Unleash your power, now.",
+      "spanish": "Libera tu poder, ahora.",
+      "category": "Success",
+      "generated_at": "2026-10-08T06:57:12.061057"
+    },
+    {
+      "english": "Let go, and fly high.",
+      "spanish": "Suelta, y vuela alto.",
+      "category": "Success",
+      "generated_at": "2026-10-08T06:57:12.061058"
+    },
+    {
+      "english": "Find your fire, burn bright.",
+      "spanish": "Encuentra tu fuego, arde brillante.",
+      "category": "Success",
+      "generated_at": "2026-10-08T06:57:12.061060"
+    },
+    {
+      "english": "Embrace the journey, enjoy it.",
+      "spanish": "Abraza el camino, disfrútalo.",
+      "category": "Success",
+      "generated_at": "2026-10-08T06:57:12.061061"
+    },
+    {
+      "english": "Shine from within, truly.",
+      "spanish": "Brilla desde adentro, de verdad.",
+      "category": "Success",
+      "generated_at": "2026-10-08T06:57:12.061062"
+    },
+    {
+      "english": "Make waves, make noise.",
+      "spanish": "Haz olas, haz ruido.",
+      "category": "Success",
+      "generated_at": "2026-10-08T06:57:12.061063"
+    },
+    {
+      "english": "Open doors, with a smile.",
+      "spanish": "Abre puertas, con una sonrisa.",
+      "category": "Success",
+      "generated_at": "2026-10-08T06:57:12.061064"
+    },
+    {
+      "english": "Seize the day, with passion.",
+      "spanish": "Aprovecha el día, con pasión.",
+      "category": "Success",
+      "generated_at": "2026-10-08T06:57:12.061065"
+    },
+    {
+      "english": "Chase your bliss, always.",
+      "spanish": "Persigue tu dicha, siempre.",
+      "category": "Success",
+      "generated_at": "2026-10-08T06:57:12.061067"
     }
   ],
-  "last_updated": "2026-10-07T06:41:10.057303"
+  "last_updated": "2026-10-08T06:57:12.061069"
 }
