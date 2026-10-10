@@ -61919,7 +61919,727 @@
       "spanish": "Sé considerado, de verdad.",
       "category": "Kindness",
       "generated_at": "2026-10-09T06:56:25.904238"
+    },
+    {
+      "english": "Embrace change, bravely.",
+      "spanish": "Abraza el cambio, con valentía.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-10T06:31:40.135983"
+    },
+    {
+      "english": "Learn much, grow more.",
+      "spanish": "Aprende mucho, crece más.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-10T06:31:40.135996"
+    },
+    {
+      "english": "Dream bigger, try harder.",
+      "spanish": "Sueña más grande, intenta más.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-10T06:31:40.135998"
+    },
+    {
+      "english": "Cherish moments, always.",
+      "spanish": "Valora los momentos, siempre.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-10T06:31:40.135999"
+    },
+    {
+      "english": "Create your path, boldly.",
+      "spanish": "Crea tu camino, audazmente.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-10T06:31:40.136001"
+    },
+    {
+      "english": "Inspire others, gently.",
+      "spanish": "Inspira a otros, suavemente.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-10T06:31:40.136002"
+    },
+    {
+      "english": "Make memories, lasting.",
+      "spanish": "Haz recuerdos, duraderos.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-10T06:31:40.136003"
+    },
+    {
+      "english": "Embrace simplicity, always.",
+      "spanish": "Abraza la sencillez, siempre.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-10T06:31:40.136007"
+    },
+    {
+      "english": "Choose happiness, daily.",
+      "spanish": "Elige la felicidad, a diario.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-10T06:31:40.136009"
+    },
+    {
+      "english": "Seek adventure, nearby.",
+      "spanish": "Busca aventura, cerca.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-10T06:31:40.136010"
+    },
+    {
+      "english": "Trust the journey, it's yours.",
+      "spanish": "Confía en el viaje, es tuyo.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-10T06:31:40.136012"
+    },
+    {
+      "english": "Grow through challenges.",
+      "spanish": "Crece a través de desafíos.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-10T06:31:40.136013"
+    },
+    {
+      "english": "Share your unique gifts.",
+      "spanish": "Comparte tus dones únicos.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-10T06:31:40.136014"
+    },
+    {
+      "english": "Create a life, you love.",
+      "spanish": "Crea una vida, que ames.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-10T06:31:40.136016"
+    },
+    {
+      "english": "Spread good energy.",
+      "spanish": "Esparce buena energía.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-10T06:31:40.136017"
+    },
+    {
+      "english": "Embrace your true self.",
+      "spanish": "Abraza tu verdadero yo.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-10T06:31:40.136018"
+    },
+    {
+      "english": "Dream with open eyes.",
+      "spanish": "Sueña con los ojos abiertos.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-10T06:31:40.136019"
+    },
+    {
+      "english": "Nurture your friendships.",
+      "spanish": "Cuida tus amistades.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-10T06:31:40.136020"
+    },
+    {
+      "english": "Seek peace, in quiet.",
+      "spanish": "Busca paz, en el silencio.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-10T06:31:40.136021"
+    },
+    {
+      "english": "Embrace change, bravely.",
+      "spanish": "Abraza el cambio, con valentía.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-10T06:31:40.136023"
+    },
+    {
+      "english": "Learn much, grow more.",
+      "spanish": "Aprende mucho, crece más.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-10T06:31:40.136024"
+    },
+    {
+      "english": "Dream bigger, try harder.",
+      "spanish": "Sueña más grande, intenta más.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-10T06:31:40.136026"
+    },
+    {
+      "english": "Cherish moments, always.",
+      "spanish": "Valora los momentos, siempre.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-10T06:31:40.136027"
+    },
+    {
+      "english": "Create your path, boldly.",
+      "spanish": "Crea tu camino, audazmente.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-10T06:31:40.136028"
+    },
+    {
+      "english": "Inspire others, gently.",
+      "spanish": "Inspira a otros, suavemente.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-10T06:31:40.136030"
+    },
+    {
+      "english": "Make memories, lasting.",
+      "spanish": "Haz recuerdos, duraderos.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-10T06:31:40.136031"
+    },
+    {
+      "english": "Embrace simplicity, always.",
+      "spanish": "Abraza la sencillez, siempre.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-10T06:31:40.136032"
+    },
+    {
+      "english": "Choose happiness, daily.",
+      "spanish": "Elige la felicidad, a diario.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-10T06:31:40.136033"
+    },
+    {
+      "english": "Seek adventure, nearby.",
+      "spanish": "Busca aventura, cerca.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-10T06:31:40.136035"
+    },
+    {
+      "english": "Trust the journey, it's yours.",
+      "spanish": "Confía en el viaje, es tuyo.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-10T06:31:40.136036"
+    },
+    {
+      "english": "Grow through challenges.",
+      "spanish": "Crece a través de desafíos.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-10T06:31:40.136038"
+    },
+    {
+      "english": "Share your unique gifts.",
+      "spanish": "Comparte tus dones únicos.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-10T06:31:40.136039"
+    },
+    {
+      "english": "Create a life, you love.",
+      "spanish": "Crea una vida, que ames.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-10T06:31:40.136040"
+    },
+    {
+      "english": "Spread good energy.",
+      "spanish": "Esparce buena energía.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-10T06:31:40.136041"
+    },
+    {
+      "english": "Embrace your true self.",
+      "spanish": "Abraza tu verdadero yo.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-10T06:31:40.136043"
+    },
+    {
+      "english": "Dream with open eyes.",
+      "spanish": "Sueña con los ojos abiertos.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-10T06:31:40.136044"
+    },
+    {
+      "english": "Nurture your friendships.",
+      "spanish": "Cuida tus amistades.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-10T06:31:40.136045"
+    },
+    {
+      "english": "Seek peace, in quiet.",
+      "spanish": "Busca paz, en el silencio.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-10T06:31:40.136047"
+    },
+    {
+      "english": "Embrace change, bravely.",
+      "spanish": "Abraza el cambio, con valentía.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-10T06:31:40.136048"
+    },
+    {
+      "english": "Learn much, grow more.",
+      "spanish": "Aprende mucho, crece más.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-10T06:31:40.136049"
+    },
+    {
+      "english": "Dream bigger, try harder.",
+      "spanish": "Sueña más grande, intenta más.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-10T06:31:40.136051"
+    },
+    {
+      "english": "Cherish moments, always.",
+      "spanish": "Valora los momentos, siempre.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-10T06:31:40.136052"
+    },
+    {
+      "english": "Create your path, boldly.",
+      "spanish": "Crea tu camino, audazmente.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-10T06:31:40.136053"
+    },
+    {
+      "english": "Inspire others, gently.",
+      "spanish": "Inspira a otros, suavemente.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-10T06:31:40.136055"
+    },
+    {
+      "english": "Make memories, lasting.",
+      "spanish": "Haz recuerdos, duraderos.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-10T06:31:40.136056"
+    },
+    {
+      "english": "Embrace simplicity, always.",
+      "spanish": "Abraza la sencillez, siempre.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-10T06:31:40.136057"
+    },
+    {
+      "english": "Choose happiness, daily.",
+      "spanish": "Elige la felicidad, a diario.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-10T06:31:40.136058"
+    },
+    {
+      "english": "Seek adventure, nearby.",
+      "spanish": "Busca aventura, cerca.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-10T06:31:40.136060"
+    },
+    {
+      "english": "Trust the journey, it's yours.",
+      "spanish": "Confía en el viaje, es tuyo.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-10T06:31:40.136061"
+    },
+    {
+      "english": "Grow through challenges.",
+      "spanish": "Crece a través de desafíos.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-10T06:31:40.136063"
+    },
+    {
+      "english": "Share your unique gifts.",
+      "spanish": "Comparte tus dones únicos.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-10T06:31:40.136064"
+    },
+    {
+      "english": "Create a life, you love.",
+      "spanish": "Crea una vida, que ames.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-10T06:31:40.136065"
+    },
+    {
+      "english": "Spread good energy.",
+      "spanish": "Esparce buena energía.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-10T06:31:40.136066"
+    },
+    {
+      "english": "Embrace your true self.",
+      "spanish": "Abraza tu verdadero yo.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-10T06:31:40.136067"
+    },
+    {
+      "english": "Dream with open eyes.",
+      "spanish": "Sueña con los ojos abiertos.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-10T06:31:40.136069"
+    },
+    {
+      "english": "Nurture your friendships.",
+      "spanish": "Cuida tus amistades.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-10T06:31:40.136070"
+    },
+    {
+      "english": "Seek peace, in quiet.",
+      "spanish": "Busca paz, en el silencio.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-10T06:31:40.136071"
+    },
+    {
+      "english": "Embrace change, bravely.",
+      "spanish": "Abraza el cambio, con valentía.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-10T06:31:40.136073"
+    },
+    {
+      "english": "Learn much, grow more.",
+      "spanish": "Aprende mucho, crece más.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-10T06:31:40.136074"
+    },
+    {
+      "english": "Dream bigger, try harder.",
+      "spanish": "Sueña más grande, intenta más.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-10T06:31:40.136075"
+    },
+    {
+      "english": "Cherish moments, always.",
+      "spanish": "Valora los momentos, siempre.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-10T06:31:40.136077"
+    },
+    {
+      "english": "Create your path, boldly.",
+      "spanish": "Crea tu camino, audazmente.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-10T06:31:40.136078"
+    },
+    {
+      "english": "Inspire others, gently.",
+      "spanish": "Inspira a otros, suavemente.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-10T06:31:40.136080"
+    },
+    {
+      "english": "Make memories, lasting.",
+      "spanish": "Haz recuerdos, duraderos.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-10T06:31:40.136081"
+    },
+    {
+      "english": "Embrace simplicity, always.",
+      "spanish": "Abraza la sencillez, siempre.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-10T06:31:40.136083"
+    },
+    {
+      "english": "Choose happiness, daily.",
+      "spanish": "Elige la felicidad, a diario.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-10T06:31:40.136084"
+    },
+    {
+      "english": "Seek adventure, nearby.",
+      "spanish": "Busca aventura, cerca.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-10T06:31:40.136085"
+    },
+    {
+      "english": "Trust the journey, it's yours.",
+      "spanish": "Confía en el viaje, es tuyo.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-10T06:31:40.136087"
+    },
+    {
+      "english": "Grow through challenges.",
+      "spanish": "Crece a través de desafíos.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-10T06:31:40.136088"
+    },
+    {
+      "english": "Share your unique gifts.",
+      "spanish": "Comparte tus dones únicos.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-10T06:31:40.136089"
+    },
+    {
+      "english": "Create a life, you love.",
+      "spanish": "Crea una vida, que ames.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-10T06:31:40.136090"
+    },
+    {
+      "english": "Spread good energy.",
+      "spanish": "Esparce buena energía.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-10T06:31:40.136092"
+    },
+    {
+      "english": "Embrace your true self.",
+      "spanish": "Abraza tu verdadero yo.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-10T06:31:40.136093"
+    },
+    {
+      "english": "Dream with open eyes.",
+      "spanish": "Sueña con los ojos abiertos.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-10T06:31:40.136094"
+    },
+    {
+      "english": "Nurture your friendships.",
+      "spanish": "Cuida tus amistades.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-10T06:31:40.136095"
+    },
+    {
+      "english": "Seek peace, in quiet.",
+      "spanish": "Busca paz, en el silencio.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-10T06:31:40.136096"
+    },
+    {
+      "english": "Embrace change, bravely.",
+      "spanish": "Abraza el cambio, con valentía.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-10T06:31:40.136098"
+    },
+    {
+      "english": "Learn much, grow more.",
+      "spanish": "Aprende mucho, crece más.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-10T06:31:40.136099"
+    },
+    {
+      "english": "Dream bigger, try harder.",
+      "spanish": "Sueña más grande, intenta más.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-10T06:31:40.136101"
+    },
+    {
+      "english": "Cherish moments, always.",
+      "spanish": "Valora los momentos, siempre.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-10T06:31:40.136102"
+    },
+    {
+      "english": "Create your path, boldly.",
+      "spanish": "Crea tu camino, audazmente.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-10T06:31:40.136103"
+    },
+    {
+      "english": "Inspire others, gently.",
+      "spanish": "Inspira a otros, suavemente.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-10T06:31:40.136104"
+    },
+    {
+      "english": "Make memories, lasting.",
+      "spanish": "Haz recuerdos, duraderos.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-10T06:31:40.136106"
+    },
+    {
+      "english": "Embrace simplicity, always.",
+      "spanish": "Abraza la sencillez, siempre.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-10T06:31:40.136107"
+    },
+    {
+      "english": "Choose happiness, daily.",
+      "spanish": "Elige la felicidad, a diario.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-10T06:31:40.136108"
+    },
+    {
+      "english": "Seek adventure, nearby.",
+      "spanish": "Busca aventura, cerca.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-10T06:31:40.136109"
+    },
+    {
+      "english": "Trust the journey, it's yours.",
+      "spanish": "Confía en el viaje, es tuyo.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-10T06:31:40.136111"
+    },
+    {
+      "english": "Grow through challenges.",
+      "spanish": "Crece a través de desafíos.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-10T06:31:40.136112"
+    },
+    {
+      "english": "Share your unique gifts.",
+      "spanish": "Comparte tus dones únicos.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-10T06:31:40.136113"
+    },
+    {
+      "english": "Create a life, you love.",
+      "spanish": "Crea una vida, que ames.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-10T06:31:40.136114"
+    },
+    {
+      "english": "Spread good energy.",
+      "spanish": "Esparce buena energía.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-10T06:31:40.136116"
+    },
+    {
+      "english": "Embrace your true self.",
+      "spanish": "Abraza tu verdadero yo.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-10T06:31:40.136118"
+    },
+    {
+      "english": "Dream with open eyes.",
+      "spanish": "Sueña con los ojos abiertos.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-10T06:31:40.136119"
+    },
+    {
+      "english": "Nurture your friendships.",
+      "spanish": "Cuida tus amistades.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-10T06:31:40.136120"
+    },
+    {
+      "english": "Seek peace, in quiet.",
+      "spanish": "Busca paz, en el silencio.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-10T06:31:40.136126"
+    },
+    {
+      "english": "Embrace change, bravely.",
+      "spanish": "Abraza el cambio, con valentía.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-10T06:31:40.136127"
+    },
+    {
+      "english": "Learn much, grow more.",
+      "spanish": "Aprende mucho, crece más.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-10T06:31:40.136129"
+    },
+    {
+      "english": "Dream bigger, try harder.",
+      "spanish": "Sueña más grande, intenta más.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-10T06:31:40.136130"
+    },
+    {
+      "english": "Cherish moments, always.",
+      "spanish": "Valora los momentos, siempre.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-10T06:31:40.136131"
+    },
+    {
+      "english": "Create your path, boldly.",
+      "spanish": "Crea tu camino, audazmente.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-10T06:31:40.136155"
+    },
+    {
+      "english": "Inspire others, gently.",
+      "spanish": "Inspira a otros, suavemente.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-10T06:31:40.136158"
+    },
+    {
+      "english": "Make memories, lasting.",
+      "spanish": "Haz recuerdos, duraderos.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-10T06:31:40.136161"
+    },
+    {
+      "english": "Embrace simplicity, always.",
+      "spanish": "Abraza la sencillez, siempre.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-10T06:31:40.136163"
+    },
+    {
+      "english": "Choose happiness, daily.",
+      "spanish": "Elige la felicidad, a diario.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-10T06:31:40.136165"
+    },
+    {
+      "english": "Seek adventure, nearby.",
+      "spanish": "Busca aventura, cerca.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-10T06:31:40.136167"
+    },
+    {
+      "english": "Trust the journey, it's yours.",
+      "spanish": "Confía en el viaje, es tuyo.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-10T06:31:40.136170"
+    },
+    {
+      "english": "Grow through challenges.",
+      "spanish": "Crece a través de desafíos.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-10T06:31:40.136173"
+    },
+    {
+      "english": "Share your unique gifts.",
+      "spanish": "Comparte tus dones únicos.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-10T06:31:40.136175"
+    },
+    {
+      "english": "Create a life, you love.",
+      "spanish": "Crea una vida, que ames.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-10T06:31:40.136177"
+    },
+    {
+      "english": "Spread good energy.",
+      "spanish": "Esparce buena energía.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-10T06:31:40.136180"
+    },
+    {
+      "english": "Embrace your true self.",
+      "spanish": "Abraza tu verdadero yo.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-10T06:31:40.136183"
+    },
+    {
+      "english": "Dream with open eyes.",
+      "spanish": "Sueña con los ojos abiertos.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-10T06:31:40.136185"
+    },
+    {
+      "english": "Nurture your friendships.",
+      "spanish": "Cuida tus amistades.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-10T06:31:40.136187"
+    },
+    {
+      "english": "Seek peace, in quiet.",
+      "spanish": "Busca paz, en el silencio.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-10T06:31:40.136189"
+    },
+    {
+      "english": "Embrace change, bravely.",
+      "spanish": "Abraza el cambio, con valentía.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-10T06:31:40.136191"
+    },
+    {
+      "english": "Learn much, grow more.",
+      "spanish": "Aprende mucho, crece más.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-10T06:31:40.136192"
+    },
+    {
+      "english": "Dream bigger, try harder.",
+      "spanish": "Sueña más grande, intenta más.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-10T06:31:40.136193"
+    },
+    {
+      "english": "Cherish moments, always.",
+      "spanish": "Valora los momentos, siempre.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-10T06:31:40.136195"
+    },
+    {
+      "english": "Create your path, boldly.",
+      "spanish": "Crea tu camino, audazmente.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-10T06:31:40.136196"
+    },
+    {
+      "english": "Inspire others, gently.",
+      "spanish": "Inspira a otros, suavemente.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-10T06:31:40.136197"
     }
   ],
-  "last_updated": "2026-10-09T06:56:25.904240"
+  "last_updated": "2026-10-10T06:31:40.136199"
 }
