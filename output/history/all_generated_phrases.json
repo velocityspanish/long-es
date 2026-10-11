@@ -62639,7 +62639,727 @@
       "spanish": "Inspira a otros, suavemente.",
       "category": "Positive Life",
       "generated_at": "2026-10-10T06:31:40.136197"
+    },
+    {
+      "english": "Thank you for this moment.",
+      "spanish": "Gracias por este momento.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:37:13.633499"
+    },
+    {
+      "english": "Kindness, it matters greatly.",
+      "spanish": "La amabilidad, importa mucho.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:37:13.633513"
+    },
+    {
+      "english": "Grateful for small joys.",
+      "spanish": "Agradecido por alegrías pequeñas.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:37:13.633514"
+    },
+    {
+      "english": "A quiet, thankful heart.",
+      "spanish": "Un corazón tranquilo, agradecido.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:37:13.633516"
+    },
+    {
+      "english": "Today, I appreciate you.",
+      "spanish": "Hoy, te aprecio mucho.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:37:13.633517"
+    },
+    {
+      "english": "Simple things, bring me peace.",
+      "spanish": "Cosas simples, me dan paz.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:37:13.633519"
+    },
+    {
+      "english": "Thankful for new beginnings.",
+      "spanish": "Agradecido por nuevos comienzos.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:37:13.633520"
+    },
+    {
+      "english": "This experience, I value.",
+      "spanish": "Esta experiencia, la valoro.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:37:13.633525"
+    },
+    {
+      "english": "Feeling blessed, right now.",
+      "spanish": "Me siento bendecido, ahora.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:37:13.633526"
+    },
+    {
+      "english": "Your smile, a bright light.",
+      "spanish": "Tu sonrisa, una luz brillante.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:37:13.633528"
+    },
+    {
+      "english": "Deep thanks, from my soul.",
+      "spanish": "Gracias profundas, de mi alma.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:37:13.633529"
+    },
+    {
+      "english": "Grateful for the sunshine.",
+      "spanish": "Agradecido por el sol.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:37:13.633530"
+    },
+    {
+      "english": "Appreciate this quiet time.",
+      "spanish": "Aprecio este tiempo quieto.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:37:13.633532"
+    },
+    {
+      "english": "Thank you, for everything.",
+      "spanish": "Gracias, por todo.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:37:13.633533"
+    },
+    {
+      "english": "Blessed by your friendship.",
+      "spanish": "Bendecido por tu amistad.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:37:13.633533"
+    },
+    {
+      "english": "Thankful for lessons learned.",
+      "spanish": "Agradecido por lecciones aprendidas.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:37:13.633535"
+    },
+    {
+      "english": "This view, I cherish.",
+      "spanish": "Esta vista, la aprecio.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:37:13.633536"
+    },
+    {
+      "english": "Gratitude, my daily habit.",
+      "spanish": "Gratitud, mi hábito diario.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:37:13.633537"
+    },
+    {
+      "english": "Feeling thankful, truly.",
+      "spanish": "Me siento agradecido, de verdad.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:37:13.633538"
+    },
+    {
+      "english": "Appreciating nature's beauty.",
+      "spanish": "Apreciando la belleza natural.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:37:13.633539"
+    },
+    {
+      "english": "Your kindness, means a lot.",
+      "spanish": "Tu amabilidad, significa mucho.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:37:13.633540"
+    },
+    {
+      "english": "Grateful for this chance.",
+      "spanish": "Agradecido por esta oportunidad.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:37:13.633541"
+    },
+    {
+      "english": "A thankful, happy soul.",
+      "spanish": "Un alma agradecida, feliz.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:37:13.633542"
+    },
+    {
+      "english": "Thank you, for being you.",
+      "spanish": "Gracias, por ser tú.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:37:13.633543"
+    },
+    {
+      "english": "This kindness, I remember.",
+      "spanish": "Esta bondad, la recuerdo.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:37:13.633544"
+    },
+    {
+      "english": "Grateful for simple blessings.",
+      "spanish": "Agradecido por bendiciones simples.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:37:13.633545"
+    },
+    {
+      "english": "Enjoying this quiet moment.",
+      "spanish": "Disfrutando este momento tranquilo.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:37:13.633546"
+    },
+    {
+      "english": "Thankful for the journey.",
+      "spanish": "Agradecido por el camino.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:37:13.633548"
+    },
+    {
+      "english": "Your guidance, I appreciate.",
+      "spanish": "Tu guía, la aprecio.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:37:13.633549"
+    },
+    {
+      "english": "A grateful mind, finds joy.",
+      "spanish": "Una mente agradecida, halla alegría.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:37:13.633550"
+    },
+    {
+      "english": "Grateful for this food.",
+      "spanish": "Agradecido por esta comida.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:37:13.633551"
+    },
+    {
+      "english": "Feeling thankful, today.",
+      "spanish": "Me siento agradecido, hoy.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:37:13.633552"
+    },
+    {
+      "english": "Your help, I value much.",
+      "spanish": "Tu ayuda, la valoro mucho.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:37:13.633553"
+    },
+    {
+      "english": "A moment, of pure thanks.",
+      "spanish": "Un momento, de pura gratitud.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:37:13.633554"
+    },
+    {
+      "english": "Grateful for this day.",
+      "spanish": "Agradecido por este día.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:37:13.633555"
+    },
+    {
+      "english": "Thank you, for listening.",
+      "spanish": "Gracias, por escuchar.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:37:13.633557"
+    },
+    {
+      "english": "Thank you for this moment.",
+      "spanish": "Gracias por este momento.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:37:13.633558"
+    },
+    {
+      "english": "Kindness, it matters greatly.",
+      "spanish": "La amabilidad, importa mucho.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:37:13.633559"
+    },
+    {
+      "english": "Grateful for small joys.",
+      "spanish": "Agradecido por alegrías pequeñas.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:37:13.633561"
+    },
+    {
+      "english": "A quiet, thankful heart.",
+      "spanish": "Un corazón tranquilo, agradecido.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:37:13.633562"
+    },
+    {
+      "english": "Today, I appreciate you.",
+      "spanish": "Hoy, te aprecio mucho.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:37:13.633563"
+    },
+    {
+      "english": "Simple things, bring me peace.",
+      "spanish": "Cosas simples, me dan paz.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:37:13.633564"
+    },
+    {
+      "english": "Thankful for new beginnings.",
+      "spanish": "Agradecido por nuevos comienzos.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:37:13.633565"
+    },
+    {
+      "english": "This experience, I value.",
+      "spanish": "Esta experiencia, la valoro.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:37:13.633567"
+    },
+    {
+      "english": "Feeling blessed, right now.",
+      "spanish": "Me siento bendecido, ahora.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:37:13.633568"
+    },
+    {
+      "english": "Your smile, a bright light.",
+      "spanish": "Tu sonrisa, una luz brillante.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:37:13.633569"
+    },
+    {
+      "english": "Deep thanks, from my soul.",
+      "spanish": "Gracias profundas, de mi alma.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:37:13.633570"
+    },
+    {
+      "english": "Grateful for the sunshine.",
+      "spanish": "Agradecido por el sol.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:37:13.633571"
+    },
+    {
+      "english": "Appreciate this quiet time.",
+      "spanish": "Aprecio este tiempo quieto.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:37:13.633572"
+    },
+    {
+      "english": "Thank you, for everything.",
+      "spanish": "Gracias, por todo.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:37:13.633574"
+    },
+    {
+      "english": "Blessed by your friendship.",
+      "spanish": "Bendecido por tu amistad.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:37:13.633575"
+    },
+    {
+      "english": "Thankful for lessons learned.",
+      "spanish": "Agradecido por lecciones aprendidas.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:37:13.633576"
+    },
+    {
+      "english": "This view, I cherish.",
+      "spanish": "Esta vista, la aprecio.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:37:13.633577"
+    },
+    {
+      "english": "Gratitude, my daily habit.",
+      "spanish": "Gratitud, mi hábito diario.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:37:13.633578"
+    },
+    {
+      "english": "Feeling thankful, truly.",
+      "spanish": "Me siento agradecido, de verdad.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:37:13.633579"
+    },
+    {
+      "english": "Appreciating nature's beauty.",
+      "spanish": "Apreciando la belleza natural.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:37:13.633580"
+    },
+    {
+      "english": "Your kindness, means a lot.",
+      "spanish": "Tu amabilidad, significa mucho.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:37:13.633581"
+    },
+    {
+      "english": "Grateful for this chance.",
+      "spanish": "Agradecido por esta oportunidad.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:37:13.633583"
+    },
+    {
+      "english": "A thankful, happy soul.",
+      "spanish": "Un alma agradecida, feliz.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:37:13.633584"
+    },
+    {
+      "english": "Thank you, for being you.",
+      "spanish": "Gracias, por ser tú.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:37:13.633585"
+    },
+    {
+      "english": "This kindness, I remember.",
+      "spanish": "Esta bondad, la recuerdo.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:37:13.633586"
+    },
+    {
+      "english": "Grateful for simple blessings.",
+      "spanish": "Agradecido por bendiciones simples.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:37:13.633587"
+    },
+    {
+      "english": "Enjoying this quiet moment.",
+      "spanish": "Disfrutando este momento tranquilo.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:37:13.633588"
+    },
+    {
+      "english": "Thankful for the journey.",
+      "spanish": "Agradecido por el camino.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:37:13.633589"
+    },
+    {
+      "english": "Your guidance, I appreciate.",
+      "spanish": "Tu guía, la aprecio.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:37:13.633591"
+    },
+    {
+      "english": "A grateful mind, finds joy.",
+      "spanish": "Una mente agradecida, halla alegría.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:37:13.633592"
+    },
+    {
+      "english": "Grateful for this food.",
+      "spanish": "Agradecido por esta comida.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:37:13.633593"
+    },
+    {
+      "english": "Feeling thankful, today.",
+      "spanish": "Me siento agradecido, hoy.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:37:13.633594"
+    },
+    {
+      "english": "Your help, I value much.",
+      "spanish": "Tu ayuda, la valoro mucho.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:37:13.633595"
+    },
+    {
+      "english": "A moment, of pure thanks.",
+      "spanish": "Un momento, de pura gratitud.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:37:13.633596"
+    },
+    {
+      "english": "Grateful for this day.",
+      "spanish": "Agradecido por este día.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:37:13.633597"
+    },
+    {
+      "english": "Thank you, for listening.",
+      "spanish": "Gracias, por escuchar.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:37:13.633599"
+    },
+    {
+      "english": "Thank you for this moment.",
+      "spanish": "Gracias por este momento.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:37:13.633600"
+    },
+    {
+      "english": "Kindness, it matters greatly.",
+      "spanish": "La amabilidad, importa mucho.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:37:13.633601"
+    },
+    {
+      "english": "Grateful for small joys.",
+      "spanish": "Agradecido por alegrías pequeñas.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:37:13.633602"
+    },
+    {
+      "english": "A quiet, thankful heart.",
+      "spanish": "Un corazón tranquilo, agradecido.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:37:13.633604"
+    },
+    {
+      "english": "Today, I appreciate you.",
+      "spanish": "Hoy, te aprecio mucho.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:37:13.633605"
+    },
+    {
+      "english": "Simple things, bring me peace.",
+      "spanish": "Cosas simples, me dan paz.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:37:13.633606"
+    },
+    {
+      "english": "Thankful for new beginnings.",
+      "spanish": "Agradecido por nuevos comienzos.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:37:13.633607"
+    },
+    {
+      "english": "This experience, I value.",
+      "spanish": "Esta experiencia, la valoro.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:37:13.633608"
+    },
+    {
+      "english": "Feeling blessed, right now.",
+      "spanish": "Me siento bendecido, ahora.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:37:13.633610"
+    },
+    {
+      "english": "Your smile, a bright light.",
+      "spanish": "Tu sonrisa, una luz brillante.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:37:13.633611"
+    },
+    {
+      "english": "Deep thanks, from my soul.",
+      "spanish": "Gracias profundas, de mi alma.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:37:13.633612"
+    },
+    {
+      "english": "Grateful for the sunshine.",
+      "spanish": "Agradecido por el sol.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:37:13.633613"
+    },
+    {
+      "english": "Appreciate this quiet time.",
+      "spanish": "Aprecio este tiempo quieto.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:37:13.633614"
+    },
+    {
+      "english": "Thank you, for everything.",
+      "spanish": "Gracias, por todo.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:37:13.633616"
+    },
+    {
+      "english": "Blessed by your friendship.",
+      "spanish": "Bendecido por tu amistad.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:37:13.633617"
+    },
+    {
+      "english": "Thankful for lessons learned.",
+      "spanish": "Agradecido por lecciones aprendidas.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:37:13.633618"
+    },
+    {
+      "english": "This view, I cherish.",
+      "spanish": "Esta vista, la aprecio.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:37:13.633619"
+    },
+    {
+      "english": "Gratitude, my daily habit.",
+      "spanish": "Gratitud, mi hábito diario.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:37:13.633621"
+    },
+    {
+      "english": "Feeling thankful, truly.",
+      "spanish": "Me siento agradecido, de verdad.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:37:13.633622"
+    },
+    {
+      "english": "Appreciating nature's beauty.",
+      "spanish": "Apreciando la belleza natural.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:37:13.633623"
+    },
+    {
+      "english": "Your kindness, means a lot.",
+      "spanish": "Tu amabilidad, significa mucho.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:37:13.633624"
+    },
+    {
+      "english": "Grateful for this chance.",
+      "spanish": "Agradecido por esta oportunidad.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:37:13.633625"
+    },
+    {
+      "english": "A thankful, happy soul.",
+      "spanish": "Un alma agradecida, feliz.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:37:13.633626"
+    },
+    {
+      "english": "Thank you, for being you.",
+      "spanish": "Gracias, por ser tú.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:37:13.633627"
+    },
+    {
+      "english": "This kindness, I remember.",
+      "spanish": "Esta bondad, la recuerdo.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:37:13.633629"
+    },
+    {
+      "english": "Grateful for simple blessings.",
+      "spanish": "Agradecido por bendiciones simples.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:37:13.633630"
+    },
+    {
+      "english": "Enjoying this quiet moment.",
+      "spanish": "Disfrutando este momento tranquilo.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:37:13.633631"
+    },
+    {
+      "english": "Thankful for the journey.",
+      "spanish": "Agradecido por el camino.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:37:13.633632"
+    },
+    {
+      "english": "Your guidance, I appreciate.",
+      "spanish": "Tu guía, la aprecio.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:37:13.633633"
+    },
+    {
+      "english": "A grateful mind, finds joy.",
+      "spanish": "Una mente agradecida, halla alegría.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:37:13.633634"
+    },
+    {
+      "english": "Grateful for this food.",
+      "spanish": "Agradecido por esta comida.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:37:13.633635"
+    },
+    {
+      "english": "Feeling thankful, today.",
+      "spanish": "Me siento agradecido, hoy.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:37:13.633636"
+    },
+    {
+      "english": "Your help, I value much.",
+      "spanish": "Tu ayuda, la valoro mucho.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:37:13.633638"
+    },
+    {
+      "english": "A moment, of pure thanks.",
+      "spanish": "Un momento, de pura gratitud.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:37:13.633639"
+    },
+    {
+      "english": "Grateful for this day.",
+      "spanish": "Agradecido por este día.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:37:13.633640"
+    },
+    {
+      "english": "Thank you, for listening.",
+      "spanish": "Gracias, por escuchar.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:37:13.633641"
+    },
+    {
+      "english": "Thank you for this moment.",
+      "spanish": "Gracias por este momento.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:37:13.633642"
+    },
+    {
+      "english": "Kindness, it matters greatly.",
+      "spanish": "La amabilidad, importa mucho.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:37:13.633643"
+    },
+    {
+      "english": "Grateful for small joys.",
+      "spanish": "Agradecido por alegrías pequeñas.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:37:13.633644"
+    },
+    {
+      "english": "A quiet, thankful heart.",
+      "spanish": "Un corazón tranquilo, agradecido.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:37:13.633646"
+    },
+    {
+      "english": "Today, I appreciate you.",
+      "spanish": "Hoy, te aprecio mucho.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:37:13.633647"
+    },
+    {
+      "english": "Simple things, bring me peace.",
+      "spanish": "Cosas simples, me dan paz.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:37:13.633648"
+    },
+    {
+      "english": "Thankful for new beginnings.",
+      "spanish": "Agradecido por nuevos comienzos.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:37:13.633650"
+    },
+    {
+      "english": "This experience, I value.",
+      "spanish": "Esta experiencia, la valoro.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:37:13.633651"
+    },
+    {
+      "english": "Feeling blessed, right now.",
+      "spanish": "Me siento bendecido, ahora.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:37:13.633652"
+    },
+    {
+      "english": "Your smile, a bright light.",
+      "spanish": "Tu sonrisa, una luz brillante.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:37:13.633653"
+    },
+    {
+      "english": "Deep thanks, from my soul.",
+      "spanish": "Gracias profundas, de mi alma.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:37:13.633655"
+    },
+    {
+      "english": "Grateful for the sunshine.",
+      "spanish": "Agradecido por el sol.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:37:13.633656"
     }
   ],
-  "last_updated": "2026-10-10T06:31:40.136199"
+  "last_updated": "2026-10-11T06:37:13.633658"
 }
