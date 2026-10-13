@@ -64079,7 +64079,727 @@
       "spanish": "Pintemos, la ciudad.",
       "category": "Inspiration",
       "generated_at": "2026-10-12T06:44:11.925831"
+    },
+    {
+      "english": "Truth, like a river, finds its way.",
+      "spanish": "La verdad, como río, halla su cauce.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-13T07:13:06.099964"
+    },
+    {
+      "english": "Listen, truly listen, to your heart.",
+      "spanish": "Escucha, oye de verdad, a tu corazón.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-13T07:13:06.099979"
+    },
+    {
+      "english": "Small steps, build tall mountains.",
+      "spanish": "Pequeños pasos, levantan altas cumbres.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-13T07:13:06.099980"
+    },
+    {
+      "english": "Patience, a quiet seed, grows strong.",
+      "spanish": "La paciencia, semilla callada, se hace fuerte.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-13T07:13:06.099981"
+    },
+    {
+      "english": "Kindness, a gentle rain, nurtures all.",
+      "spanish": "La bondad, lluvia suave, nutre lo todo.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-13T07:13:06.099982"
+    },
+    {
+      "english": "Wisdom, a quiet knowing, within you.",
+      "spanish": "La sabiduría, saber quieto, en ti está.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-13T07:13:06.099983"
+    },
+    {
+      "english": "Learn from mistakes, they teach the most.",
+      "spanish": "Aprende de errores, enseñan lo mucho.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-13T07:13:06.099985"
+    },
+    {
+      "english": "Be present, this moment is all.",
+      "spanish": "Estate aquí, este instante es todo.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-13T07:13:06.099988"
+    },
+    {
+      "english": "Change, an unfolding flower, is natural.",
+      "spanish": "El cambio, flor que se abre, es natural.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-13T07:13:06.099990"
+    },
+    {
+      "english": "Gratitude, a bright sunbeam, warms the soul.",
+      "spanish": "Gratitud, rayo de sol, calienta el alma.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-13T07:13:06.099991"
+    },
+    {
+      "english": "Courage, a small flame, can light the dark.",
+      "spanish": "El coraje, llama pequeña, ilumina la sombra.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-13T07:13:06.099992"
+    },
+    {
+      "english": "Simplicity, a clear sky, brings peace.",
+      "spanish": "La sencillez, cielo claro, trae calma.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-13T07:13:06.099993"
+    },
+    {
+      "english": "Forgiveness, a letting go, sets you free.",
+      "spanish": "El perdón, un soltar, te libera.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-13T07:13:06.099994"
+    },
+    {
+      "english": "Curiosity, a wide-open door, leads to discovery.",
+      "spanish": "La curiosidad, puerta abierta, lleva al hallazgo.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-13T07:13:06.099995"
+    },
+    {
+      "english": "Humility, a deep root, makes you grow.",
+      "spanish": "La humildad, raíz profunda, te hace crecer.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-13T07:13:06.099996"
+    },
+    {
+      "english": "Joy, in small things, is true wealth.",
+      "spanish": "La alegría, en lo chico, es riqueza real.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-13T07:13:06.099997"
+    },
+    {
+      "english": "Silence, a wise space, for thought.",
+      "spanish": "El silencio, espacio sabio, para pensar.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-13T07:13:06.099998"
+    },
+    {
+      "english": "Hope, a guiding star, shines in night.",
+      "spanish": "La esperanza, estrella guía, brilla en noche.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-13T07:13:06.099998"
+    },
+    {
+      "english": "Acceptance, a calm sea, finds its shore.",
+      "spanish": "La aceptación, mar tranquilo, halla su orilla.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-13T07:13:06.099999"
+    },
+    {
+      "english": "Focus, a sharp tool, carves your path.",
+      "spanish": "El enfoque, herramienta aguda, talla tu camino.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-13T07:13:06.100000"
+    },
+    {
+      "english": "Doubt, a fleeting cloud, will pass.",
+      "spanish": "La duda, nube fugaz, se irá.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-13T07:13:06.100001"
+    },
+    {
+      "english": "Reflection, a clear mirror, shows yourself.",
+      "spanish": "La reflexión, espejo claro, te muestra.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-13T07:13:06.100002"
+    },
+    {
+      "english": "Effort, a steady hand, builds strong walls.",
+      "spanish": "El esfuerzo, mano firme, construye muros.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-13T07:13:06.100002"
+    },
+    {
+      "english": "Truth, in simple words, shines brightest.",
+      "spanish": "La verdad, en palabras simples, brilla más.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-13T07:13:06.100003"
+    },
+    {
+      "english": "Action, the truest speech, speaks for you.",
+      "spanish": "La acción, habla más real, habla por ti.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-13T07:13:06.100003"
+    },
+    {
+      "english": "Balance, a steady walk, keeps you upright.",
+      "spanish": "El equilibrio, andar firme, te mantiene erguido.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-13T07:13:06.100004"
+    },
+    {
+      "english": "Purpose, a guiding light, shows the way.",
+      "spanish": "El propósito, luz guía, muestra el norte.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-13T07:13:06.100006"
+    },
+    {
+      "english": "Growth, like a tree, needs sun and rain.",
+      "spanish": "El crecimiento, como árbol, necesita sol y lluvia.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-13T07:13:06.100007"
+    },
+    {
+      "english": "Awareness, a gentle pause, before acting.",
+      "spanish": "La consciencia, pausa suave, antes de actuar.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-13T07:13:06.100007"
+    },
+    {
+      "english": "Patience, a quiet strength, overcomes all.",
+      "spanish": "La paciencia, fuerza callada, todo vence.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-13T07:13:06.100008"
+    },
+    {
+      "english": "Imagination, a fertile field, grows wonders.",
+      "spanish": "La imaginación, campo fértil, da maravillas.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-13T07:13:06.100009"
+    },
+    {
+      "english": "Contentment, a full cup, needs no more.",
+      "spanish": "El contento, taza llena, nada pide.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-13T07:13:06.100009"
+    },
+    {
+      "english": "Openness, a welcoming hearth, gathers friends.",
+      "spanish": "La apertura, hogar abierto, junta amigos.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-13T07:13:06.100010"
+    },
+    {
+      "english": "Self-belief, a strong anchor, holds you steady.",
+      "spanish": "La fe en ti, ancla fuerte, te mantiene firme.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-13T07:13:06.100011"
+    },
+    {
+      "english": "Perseverance, a constant drip, wears down stone.",
+      "spanish": "La constancia, gota a gota, pule la piedra.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-13T07:13:06.100012"
+    },
+    {
+      "english": "Kindness, a soft whisper, echoes far.",
+      "spanish": "La amabilidad, susurro leve, resuena lejos.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-13T07:13:06.100012"
+    },
+    {
+      "english": "Truth, a clear lens, shows reality.",
+      "spanish": "La verdad, lente clara, muestra la vida.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-13T07:13:06.100013"
+    },
+    {
+      "english": "Listening, a quiet gift, deeply valued.",
+      "spanish": "El oír, regalo quieto, muy valioso.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-13T07:13:06.100014"
+    },
+    {
+      "english": "Simplicity, a calm breath, brings clarity.",
+      "spanish": "La sencillez, respiro calmo, trae luz.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-13T07:13:06.100014"
+    },
+    {
+      "english": "Forgiveness, a warm embrace, heals the heart.",
+      "spanish": "El perdón, abrazo tibio, sana el pecho.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-13T07:13:06.100015"
+    },
+    {
+      "english": "Joy, in the journey, not just arrival.",
+      "spanish": "El gozo, en el camino, no el final.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-13T07:13:06.100016"
+    },
+    {
+      "english": "Truth, like a river, finds its way.",
+      "spanish": "La verdad, como río, halla su cauce.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-13T07:13:06.100017"
+    },
+    {
+      "english": "Listen, truly listen, to your heart.",
+      "spanish": "Escucha, oye de verdad, a tu corazón.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-13T07:13:06.100018"
+    },
+    {
+      "english": "Small steps, build tall mountains.",
+      "spanish": "Pequeños pasos, levantan altas cumbres.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-13T07:13:06.100019"
+    },
+    {
+      "english": "Patience, a quiet seed, grows strong.",
+      "spanish": "La paciencia, semilla callada, se hace fuerte.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-13T07:13:06.100020"
+    },
+    {
+      "english": "Kindness, a gentle rain, nurtures all.",
+      "spanish": "La bondad, lluvia suave, nutre lo todo.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-13T07:13:06.100021"
+    },
+    {
+      "english": "Wisdom, a quiet knowing, within you.",
+      "spanish": "La sabiduría, saber quieto, en ti está.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-13T07:13:06.100022"
+    },
+    {
+      "english": "Learn from mistakes, they teach the most.",
+      "spanish": "Aprende de errores, enseñan lo mucho.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-13T07:13:06.100023"
+    },
+    {
+      "english": "Be present, this moment is all.",
+      "spanish": "Estate aquí, este instante es todo.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-13T07:13:06.100024"
+    },
+    {
+      "english": "Change, an unfolding flower, is natural.",
+      "spanish": "El cambio, flor que se abre, es natural.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-13T07:13:06.100025"
+    },
+    {
+      "english": "Gratitude, a bright sunbeam, warms the soul.",
+      "spanish": "Gratitud, rayo de sol, calienta el alma.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-13T07:13:06.100026"
+    },
+    {
+      "english": "Courage, a small flame, can light the dark.",
+      "spanish": "El coraje, llama pequeña, ilumina la sombra.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-13T07:13:06.100027"
+    },
+    {
+      "english": "Simplicity, a clear sky, brings peace.",
+      "spanish": "La sencillez, cielo claro, trae calma.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-13T07:13:06.100028"
+    },
+    {
+      "english": "Forgiveness, a letting go, sets you free.",
+      "spanish": "El perdón, un soltar, te libera.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-13T07:13:06.100029"
+    },
+    {
+      "english": "Curiosity, a wide-open door, leads to discovery.",
+      "spanish": "La curiosidad, puerta abierta, lleva al hallazgo.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-13T07:13:06.100030"
+    },
+    {
+      "english": "Humility, a deep root, makes you grow.",
+      "spanish": "La humildad, raíz profunda, te hace crecer.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-13T07:13:06.100031"
+    },
+    {
+      "english": "Joy, in small things, is true wealth.",
+      "spanish": "La alegría, en lo chico, es riqueza real.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-13T07:13:06.100032"
+    },
+    {
+      "english": "Silence, a wise space, for thought.",
+      "spanish": "El silencio, espacio sabio, para pensar.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-13T07:13:06.100032"
+    },
+    {
+      "english": "Hope, a guiding star, shines in night.",
+      "spanish": "La esperanza, estrella guía, brilla en noche.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-13T07:13:06.100033"
+    },
+    {
+      "english": "Acceptance, a calm sea, finds its shore.",
+      "spanish": "La aceptación, mar tranquilo, halla su orilla.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-13T07:13:06.100034"
+    },
+    {
+      "english": "Focus, a sharp tool, carves your path.",
+      "spanish": "El enfoque, herramienta aguda, talla tu camino.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-13T07:13:06.100035"
+    },
+    {
+      "english": "Doubt, a fleeting cloud, will pass.",
+      "spanish": "La duda, nube fugaz, se irá.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-13T07:13:06.100036"
+    },
+    {
+      "english": "Reflection, a clear mirror, shows yourself.",
+      "spanish": "La reflexión, espejo claro, te muestra.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-13T07:13:06.100036"
+    },
+    {
+      "english": "Effort, a steady hand, builds strong walls.",
+      "spanish": "El esfuerzo, mano firme, construye muros.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-13T07:13:06.100037"
+    },
+    {
+      "english": "Truth, in simple words, shines brightest.",
+      "spanish": "La verdad, en palabras simples, brilla más.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-13T07:13:06.100038"
+    },
+    {
+      "english": "Action, the truest speech, speaks for you.",
+      "spanish": "La acción, habla más real, habla por ti.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-13T07:13:06.100039"
+    },
+    {
+      "english": "Balance, a steady walk, keeps you upright.",
+      "spanish": "El equilibrio, andar firme, te mantiene erguido.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-13T07:13:06.100040"
+    },
+    {
+      "english": "Purpose, a guiding light, shows the way.",
+      "spanish": "El propósito, luz guía, muestra el norte.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-13T07:13:06.100041"
+    },
+    {
+      "english": "Growth, like a tree, needs sun and rain.",
+      "spanish": "El crecimiento, como árbol, necesita sol y lluvia.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-13T07:13:06.100041"
+    },
+    {
+      "english": "Awareness, a gentle pause, before acting.",
+      "spanish": "La consciencia, pausa suave, antes de actuar.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-13T07:13:06.100042"
+    },
+    {
+      "english": "Patience, a quiet strength, overcomes all.",
+      "spanish": "La paciencia, fuerza callada, todo vence.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-13T07:13:06.100043"
+    },
+    {
+      "english": "Imagination, a fertile field, grows wonders.",
+      "spanish": "La imaginación, campo fértil, da maravillas.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-13T07:13:06.100044"
+    },
+    {
+      "english": "Contentment, a full cup, needs no more.",
+      "spanish": "El contento, taza llena, nada pide.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-13T07:13:06.100044"
+    },
+    {
+      "english": "Openness, a welcoming hearth, gathers friends.",
+      "spanish": "La apertura, hogar abierto, junta amigos.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-13T07:13:06.100045"
+    },
+    {
+      "english": "Self-belief, a strong anchor, holds you steady.",
+      "spanish": "La fe en ti, ancla fuerte, te mantiene firme.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-13T07:13:06.100046"
+    },
+    {
+      "english": "Perseverance, a constant drip, wears down stone.",
+      "spanish": "La constancia, gota a gota, pule la piedra.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-13T07:13:06.100046"
+    },
+    {
+      "english": "Kindness, a soft whisper, echoes far.",
+      "spanish": "La amabilidad, susurro leve, resuena lejos.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-13T07:13:06.100047"
+    },
+    {
+      "english": "Truth, a clear lens, shows reality.",
+      "spanish": "La verdad, lente clara, muestra la vida.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-13T07:13:06.100048"
+    },
+    {
+      "english": "Listening, a quiet gift, deeply valued.",
+      "spanish": "El oír, regalo quieto, muy valioso.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-13T07:13:06.100048"
+    },
+    {
+      "english": "Simplicity, a calm breath, brings clarity.",
+      "spanish": "La sencillez, respiro calmo, trae luz.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-13T07:13:06.100049"
+    },
+    {
+      "english": "Forgiveness, a warm embrace, heals the heart.",
+      "spanish": "El perdón, abrazo tibio, sana el pecho.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-13T07:13:06.100050"
+    },
+    {
+      "english": "Joy, in the journey, not just arrival.",
+      "spanish": "El gozo, en el camino, no el final.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-13T07:13:06.100051"
+    },
+    {
+      "english": "Truth, like a river, finds its way.",
+      "spanish": "La verdad, como río, halla su cauce.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-13T07:13:06.100051"
+    },
+    {
+      "english": "Listen, truly listen, to your heart.",
+      "spanish": "Escucha, oye de verdad, a tu corazón.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-13T07:13:06.100052"
+    },
+    {
+      "english": "Small steps, build tall mountains.",
+      "spanish": "Pequeños pasos, levantan altas cumbres.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-13T07:13:06.100053"
+    },
+    {
+      "english": "Patience, a quiet seed, grows strong.",
+      "spanish": "La paciencia, semilla callada, se hace fuerte.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-13T07:13:06.100054"
+    },
+    {
+      "english": "Kindness, a gentle rain, nurtures all.",
+      "spanish": "La bondad, lluvia suave, nutre lo todo.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-13T07:13:06.100054"
+    },
+    {
+      "english": "Wisdom, a quiet knowing, within you.",
+      "spanish": "La sabiduría, saber quieto, en ti está.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-13T07:13:06.100055"
+    },
+    {
+      "english": "Learn from mistakes, they teach the most.",
+      "spanish": "Aprende de errores, enseñan lo mucho.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-13T07:13:06.100056"
+    },
+    {
+      "english": "Be present, this moment is all.",
+      "spanish": "Estate aquí, este instante es todo.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-13T07:13:06.100057"
+    },
+    {
+      "english": "Change, an unfolding flower, is natural.",
+      "spanish": "El cambio, flor que se abre, es natural.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-13T07:13:06.100058"
+    },
+    {
+      "english": "Gratitude, a bright sunbeam, warms the soul.",
+      "spanish": "Gratitud, rayo de sol, calienta el alma.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-13T07:13:06.100059"
+    },
+    {
+      "english": "Courage, a small flame, can light the dark.",
+      "spanish": "El coraje, llama pequeña, ilumina la sombra.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-13T07:13:06.100060"
+    },
+    {
+      "english": "Simplicity, a clear sky, brings peace.",
+      "spanish": "La sencillez, cielo claro, trae calma.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-13T07:13:06.100060"
+    },
+    {
+      "english": "Forgiveness, a letting go, sets you free.",
+      "spanish": "El perdón, un soltar, te libera.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-13T07:13:06.100061"
+    },
+    {
+      "english": "Curiosity, a wide-open door, leads to discovery.",
+      "spanish": "La curiosidad, puerta abierta, lleva al hallazgo.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-13T07:13:06.100062"
+    },
+    {
+      "english": "Humility, a deep root, makes you grow.",
+      "spanish": "La humildad, raíz profunda, te hace crecer.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-13T07:13:06.100063"
+    },
+    {
+      "english": "Joy, in small things, is true wealth.",
+      "spanish": "La alegría, en lo chico, es riqueza real.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-13T07:13:06.100064"
+    },
+    {
+      "english": "Silence, a wise space, for thought.",
+      "spanish": "El silencio, espacio sabio, para pensar.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-13T07:13:06.100064"
+    },
+    {
+      "english": "Hope, a guiding star, shines in night.",
+      "spanish": "La esperanza, estrella guía, brilla en noche.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-13T07:13:06.100065"
+    },
+    {
+      "english": "Acceptance, a calm sea, finds its shore.",
+      "spanish": "La aceptación, mar tranquilo, halla su orilla.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-13T07:13:06.100066"
+    },
+    {
+      "english": "Focus, a sharp tool, carves your path.",
+      "spanish": "El enfoque, herramienta aguda, talla tu camino.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-13T07:13:06.100066"
+    },
+    {
+      "english": "Doubt, a fleeting cloud, will pass.",
+      "spanish": "La duda, nube fugaz, se irá.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-13T07:13:06.100067"
+    },
+    {
+      "english": "Reflection, a clear mirror, shows yourself.",
+      "spanish": "La reflexión, espejo claro, te muestra.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-13T07:13:06.100068"
+    },
+    {
+      "english": "Effort, a steady hand, builds strong walls.",
+      "spanish": "El esfuerzo, mano firme, construye muros.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-13T07:13:06.100069"
+    },
+    {
+      "english": "Truth, in simple words, shines brightest.",
+      "spanish": "La verdad, en palabras simples, brilla más.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-13T07:13:06.100069"
+    },
+    {
+      "english": "Action, the truest speech, speaks for you.",
+      "spanish": "La acción, habla más real, habla por ti.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-13T07:13:06.100070"
+    },
+    {
+      "english": "Balance, a steady walk, keeps you upright.",
+      "spanish": "El equilibrio, andar firme, te mantiene erguido.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-13T07:13:06.100070"
+    },
+    {
+      "english": "Purpose, a guiding light, shows the way.",
+      "spanish": "El propósito, luz guía, muestra el norte.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-13T07:13:06.100071"
+    },
+    {
+      "english": "Growth, like a tree, needs sun and rain.",
+      "spanish": "El crecimiento, como árbol, necesita sol y lluvia.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-13T07:13:06.100072"
+    },
+    {
+      "english": "Awareness, a gentle pause, before acting.",
+      "spanish": "La consciencia, pausa suave, antes de actuar.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-13T07:13:06.100073"
+    },
+    {
+      "english": "Patience, a quiet strength, overcomes all.",
+      "spanish": "La paciencia, fuerza callada, todo vence.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-13T07:13:06.100073"
+    },
+    {
+      "english": "Imagination, a fertile field, grows wonders.",
+      "spanish": "La imaginación, campo fértil, da maravillas.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-13T07:13:06.100074"
+    },
+    {
+      "english": "Contentment, a full cup, needs no more.",
+      "spanish": "El contento, taza llena, nada pide.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-13T07:13:06.100075"
+    },
+    {
+      "english": "Openness, a welcoming hearth, gathers friends.",
+      "spanish": "La apertura, hogar abierto, junta amigos.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-13T07:13:06.100076"
+    },
+    {
+      "english": "Self-belief, a strong anchor, holds you steady.",
+      "spanish": "La fe en ti, ancla fuerte, te mantiene firme.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-13T07:13:06.100076"
+    },
+    {
+      "english": "Perseverance, a constant drip, wears down stone.",
+      "spanish": "La constancia, gota a gota, pule la piedra.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-13T07:13:06.100077"
+    },
+    {
+      "english": "Kindness, a soft whisper, echoes far.",
+      "spanish": "La amabilidad, susurro leve, resuena lejos.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-13T07:13:06.100078"
+    },
+    {
+      "english": "Truth, a clear lens, shows reality.",
+      "spanish": "La verdad, lente clara, muestra la vida.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-13T07:13:06.100078"
+    },
+    {
+      "english": "Listening, a quiet gift, deeply valued.",
+      "spanish": "El oír, regalo quieto, muy valioso.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-13T07:13:06.100079"
     }
   ],
-  "last_updated": "2026-10-12T06:44:11.925833"
+  "last_updated": "2026-10-13T07:13:06.100081"
 }
