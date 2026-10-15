@@ -65519,7 +65519,727 @@
       "spanish": "Sé raro, es más divertido.",
       "category": "Wisdom",
       "generated_at": "2026-10-14T05:36:42.059054"
+    },
+    {
+      "english": "Wait for it, it's coming.",
+      "spanish": "Espera, ya viene.",
+      "category": "Patience",
+      "generated_at": "2026-10-15T05:25:01.298761"
+    },
+    {
+      "english": "Don't rush, it's worth it.",
+      "spanish": "No corras, vale la pena.",
+      "category": "Patience",
+      "generated_at": "2026-10-15T05:25:01.298775"
+    },
+    {
+      "english": "Be patient, good things bloom.",
+      "spanish": "Sé paciente, florecen cosas buenas.",
+      "category": "Patience",
+      "generated_at": "2026-10-15T05:25:01.298776"
+    },
+    {
+      "english": "Still waters, run deep.",
+      "spanish": "Aguas tranquilas, corren profundo.",
+      "category": "Patience",
+      "generated_at": "2026-10-15T05:25:01.298778"
+    },
+    {
+      "english": "Take your time, explore more.",
+      "spanish": "Tómate tu tiempo, explora más.",
+      "category": "Patience",
+      "generated_at": "2026-10-15T05:25:01.298779"
+    },
+    {
+      "english": "The wait, is part of the fun.",
+      "spanish": "La espera, es parte de la diversión.",
+      "category": "Patience",
+      "generated_at": "2026-10-15T05:25:01.298780"
+    },
+    {
+      "english": "Give it time, to unfold.",
+      "spanish": "Dale tiempo, a desplegarse.",
+      "category": "Patience",
+      "generated_at": "2026-10-15T05:25:01.298780"
+    },
+    {
+      "english": "Patience, a valuable skill.",
+      "spanish": "Paciencia, una habilidad valiosa.",
+      "category": "Patience",
+      "generated_at": "2026-10-15T05:25:01.298784"
+    },
+    {
+      "english": "Let things, happen naturally.",
+      "spanish": "Deja que las cosas, pasen solas.",
+      "category": "Patience",
+      "generated_at": "2026-10-15T05:25:01.298785"
+    },
+    {
+      "english": "Good things, come to those who wait.",
+      "spanish": "Lo bueno, llega a quien espera.",
+      "category": "Patience",
+      "generated_at": "2026-10-15T05:25:01.298786"
+    },
+    {
+      "english": "Hold on, it's almost here.",
+      "spanish": "Aguanta, ya casi llega.",
+      "category": "Patience",
+      "generated_at": "2026-10-15T05:25:01.298787"
+    },
+    {
+      "english": "Don't hurry, savor the moments.",
+      "spanish": "No te apures, saborea los momentos.",
+      "category": "Patience",
+      "generated_at": "2026-10-15T05:25:01.298789"
+    },
+    {
+      "english": "Sit back, and relax now.",
+      "spanish": "Siéntate, y relájate ahora.",
+      "category": "Patience",
+      "generated_at": "2026-10-15T05:25:01.298790"
+    },
+    {
+      "english": "What's meant to be, will come.",
+      "spanish": "Lo que será, vendrá.",
+      "category": "Patience",
+      "generated_at": "2026-10-15T05:25:01.298791"
+    },
+    {
+      "english": "Patience is a virtue, remember.",
+      "spanish": "La paciencia es virtud, recuerda.",
+      "category": "Patience",
+      "generated_at": "2026-10-15T05:25:01.298791"
+    },
+    {
+      "english": "Just keep going, you'll get there.",
+      "spanish": "Solo sigue, llegarás.",
+      "category": "Patience",
+      "generated_at": "2026-10-15T05:25:01.298792"
+    },
+    {
+      "english": "Let the dust, settle down.",
+      "spanish": "Deja que el polvo, se asiente.",
+      "category": "Patience",
+      "generated_at": "2026-10-15T05:25:01.298793"
+    },
+    {
+      "english": "This too, shall pass.",
+      "spanish": "Esto también, pasará.",
+      "category": "Patience",
+      "generated_at": "2026-10-15T05:25:01.298794"
+    },
+    {
+      "english": "Take a breath, before reacting.",
+      "spanish": "Respira, antes de reaccionar.",
+      "category": "Patience",
+      "generated_at": "2026-10-15T05:25:01.298795"
+    },
+    {
+      "english": "Nature takes its time.",
+      "spanish": "La naturaleza, se toma su tiempo.",
+      "category": "Patience",
+      "generated_at": "2026-10-15T05:25:01.298796"
+    },
+    {
+      "english": "Soon, very soon now.",
+      "spanish": "Pronto, muy pronto ahora.",
+      "category": "Patience",
+      "generated_at": "2026-10-15T05:25:01.298796"
+    },
+    {
+      "english": "Keep your cool, stay steady.",
+      "spanish": "Mantén la calma, sigue firme.",
+      "category": "Patience",
+      "generated_at": "2026-10-15T05:25:01.298797"
+    },
+    {
+      "english": "The best things, take time.",
+      "spanish": "Las mejores cosas, tardan.",
+      "category": "Patience",
+      "generated_at": "2026-10-15T05:25:01.298798"
+    },
+    {
+      "english": "Wait for the right moment.",
+      "spanish": "Espera el momento justo.",
+      "category": "Patience",
+      "generated_at": "2026-10-15T05:25:01.298798"
+    },
+    {
+      "english": "Gentle persuasion, wins.",
+      "spanish": "La dulzura, convence.",
+      "category": "Patience",
+      "generated_at": "2026-10-15T05:25:01.298799"
+    },
+    {
+      "english": "Patience, a key ingredient.",
+      "spanish": "Paciencia, un ingrediente clave.",
+      "category": "Patience",
+      "generated_at": "2026-10-15T05:25:01.298800"
+    },
+    {
+      "english": "Let it brew, a bit longer.",
+      "spanish": "Deja que hierva, un poco más.",
+      "category": "Patience",
+      "generated_at": "2026-10-15T05:25:01.298801"
+    },
+    {
+      "english": "Give yourself, some grace.",
+      "spanish": "Date a ti mismo, gracia.",
+      "category": "Patience",
+      "generated_at": "2026-10-15T05:25:01.298801"
+    },
+    {
+      "english": "The harvest, will come.",
+      "spanish": "La cosecha, llegará.",
+      "category": "Patience",
+      "generated_at": "2026-10-15T05:25:01.298802"
+    },
+    {
+      "english": "Hold tight, we're close.",
+      "spanish": "Agárrate fuerte, estamos cerca.",
+      "category": "Patience",
+      "generated_at": "2026-10-15T05:25:01.298803"
+    },
+    {
+      "english": "Wait for it, it's coming.",
+      "spanish": "Espera, ya viene.",
+      "category": "Patience",
+      "generated_at": "2026-10-15T05:25:01.298804"
+    },
+    {
+      "english": "Don't rush, it's worth it.",
+      "spanish": "No corras, vale la pena.",
+      "category": "Patience",
+      "generated_at": "2026-10-15T05:25:01.298805"
+    },
+    {
+      "english": "Be patient, good things bloom.",
+      "spanish": "Sé paciente, florecen cosas buenas.",
+      "category": "Patience",
+      "generated_at": "2026-10-15T05:25:01.298806"
+    },
+    {
+      "english": "Still waters, run deep.",
+      "spanish": "Aguas tranquilas, corren profundo.",
+      "category": "Patience",
+      "generated_at": "2026-10-15T05:25:01.298807"
+    },
+    {
+      "english": "Take your time, explore more.",
+      "spanish": "Tómate tu tiempo, explora más.",
+      "category": "Patience",
+      "generated_at": "2026-10-15T05:25:01.298808"
+    },
+    {
+      "english": "The wait, is part of the fun.",
+      "spanish": "La espera, es parte de la diversión.",
+      "category": "Patience",
+      "generated_at": "2026-10-15T05:25:01.298809"
+    },
+    {
+      "english": "Give it time, to unfold.",
+      "spanish": "Dale tiempo, a desplegarse.",
+      "category": "Patience",
+      "generated_at": "2026-10-15T05:25:01.298810"
+    },
+    {
+      "english": "Patience, a valuable skill.",
+      "spanish": "Paciencia, una habilidad valiosa.",
+      "category": "Patience",
+      "generated_at": "2026-10-15T05:25:01.298811"
+    },
+    {
+      "english": "Let things, happen naturally.",
+      "spanish": "Deja que las cosas, pasen solas.",
+      "category": "Patience",
+      "generated_at": "2026-10-15T05:25:01.298811"
+    },
+    {
+      "english": "Good things, come to those who wait.",
+      "spanish": "Lo bueno, llega a quien espera.",
+      "category": "Patience",
+      "generated_at": "2026-10-15T05:25:01.298812"
+    },
+    {
+      "english": "Hold on, it's almost here.",
+      "spanish": "Aguanta, ya casi llega.",
+      "category": "Patience",
+      "generated_at": "2026-10-15T05:25:01.298813"
+    },
+    {
+      "english": "Don't hurry, savor the moments.",
+      "spanish": "No te apures, saborea los momentos.",
+      "category": "Patience",
+      "generated_at": "2026-10-15T05:25:01.298814"
+    },
+    {
+      "english": "Sit back, and relax now.",
+      "spanish": "Siéntate, y relájate ahora.",
+      "category": "Patience",
+      "generated_at": "2026-10-15T05:25:01.298815"
+    },
+    {
+      "english": "What's meant to be, will come.",
+      "spanish": "Lo que será, vendrá.",
+      "category": "Patience",
+      "generated_at": "2026-10-15T05:25:01.298816"
+    },
+    {
+      "english": "Patience is a virtue, remember.",
+      "spanish": "La paciencia es virtud, recuerda.",
+      "category": "Patience",
+      "generated_at": "2026-10-15T05:25:01.298817"
+    },
+    {
+      "english": "Just keep going, you'll get there.",
+      "spanish": "Solo sigue, llegarás.",
+      "category": "Patience",
+      "generated_at": "2026-10-15T05:25:01.298818"
+    },
+    {
+      "english": "Let the dust, settle down.",
+      "spanish": "Deja que el polvo, se asiente.",
+      "category": "Patience",
+      "generated_at": "2026-10-15T05:25:01.298818"
+    },
+    {
+      "english": "This too, shall pass.",
+      "spanish": "Esto también, pasará.",
+      "category": "Patience",
+      "generated_at": "2026-10-15T05:25:01.298819"
+    },
+    {
+      "english": "Take a breath, before reacting.",
+      "spanish": "Respira, antes de reaccionar.",
+      "category": "Patience",
+      "generated_at": "2026-10-15T05:25:01.298820"
+    },
+    {
+      "english": "Nature takes its time.",
+      "spanish": "La naturaleza, se toma su tiempo.",
+      "category": "Patience",
+      "generated_at": "2026-10-15T05:25:01.298821"
+    },
+    {
+      "english": "Soon, very soon now.",
+      "spanish": "Pronto, muy pronto ahora.",
+      "category": "Patience",
+      "generated_at": "2026-10-15T05:25:01.298822"
+    },
+    {
+      "english": "Keep your cool, stay steady.",
+      "spanish": "Mantén la calma, sigue firme.",
+      "category": "Patience",
+      "generated_at": "2026-10-15T05:25:01.298822"
+    },
+    {
+      "english": "The best things, take time.",
+      "spanish": "Las mejores cosas, tardan.",
+      "category": "Patience",
+      "generated_at": "2026-10-15T05:25:01.298823"
+    },
+    {
+      "english": "Wait for the right moment.",
+      "spanish": "Espera el momento justo.",
+      "category": "Patience",
+      "generated_at": "2026-10-15T05:25:01.298824"
+    },
+    {
+      "english": "Gentle persuasion, wins.",
+      "spanish": "La dulzura, convence.",
+      "category": "Patience",
+      "generated_at": "2026-10-15T05:25:01.298825"
+    },
+    {
+      "english": "Patience, a key ingredient.",
+      "spanish": "Paciencia, un ingrediente clave.",
+      "category": "Patience",
+      "generated_at": "2026-10-15T05:25:01.298826"
+    },
+    {
+      "english": "Let it brew, a bit longer.",
+      "spanish": "Deja que hierva, un poco más.",
+      "category": "Patience",
+      "generated_at": "2026-10-15T05:25:01.298826"
+    },
+    {
+      "english": "Give yourself, some grace.",
+      "spanish": "Date a ti mismo, gracia.",
+      "category": "Patience",
+      "generated_at": "2026-10-15T05:25:01.298827"
+    },
+    {
+      "english": "The harvest, will come.",
+      "spanish": "La cosecha, llegará.",
+      "category": "Patience",
+      "generated_at": "2026-10-15T05:25:01.298828"
+    },
+    {
+      "english": "Hold tight, we're close.",
+      "spanish": "Agárrate fuerte, estamos cerca.",
+      "category": "Patience",
+      "generated_at": "2026-10-15T05:25:01.298829"
+    },
+    {
+      "english": "Wait for it, it's coming.",
+      "spanish": "Espera, ya viene.",
+      "category": "Patience",
+      "generated_at": "2026-10-15T05:25:01.298830"
+    },
+    {
+      "english": "Don't rush, it's worth it.",
+      "spanish": "No corras, vale la pena.",
+      "category": "Patience",
+      "generated_at": "2026-10-15T05:25:01.298831"
+    },
+    {
+      "english": "Be patient, good things bloom.",
+      "spanish": "Sé paciente, florecen cosas buenas.",
+      "category": "Patience",
+      "generated_at": "2026-10-15T05:25:01.298832"
+    },
+    {
+      "english": "Still waters, run deep.",
+      "spanish": "Aguas tranquilas, corren profundo.",
+      "category": "Patience",
+      "generated_at": "2026-10-15T05:25:01.298833"
+    },
+    {
+      "english": "Take your time, explore more.",
+      "spanish": "Tómate tu tiempo, explora más.",
+      "category": "Patience",
+      "generated_at": "2026-10-15T05:25:01.298835"
+    },
+    {
+      "english": "The wait, is part of the fun.",
+      "spanish": "La espera, es parte de la diversión.",
+      "category": "Patience",
+      "generated_at": "2026-10-15T05:25:01.298835"
+    },
+    {
+      "english": "Give it time, to unfold.",
+      "spanish": "Dale tiempo, a desplegarse.",
+      "category": "Patience",
+      "generated_at": "2026-10-15T05:25:01.298836"
+    },
+    {
+      "english": "Patience, a valuable skill.",
+      "spanish": "Paciencia, una habilidad valiosa.",
+      "category": "Patience",
+      "generated_at": "2026-10-15T05:25:01.298837"
+    },
+    {
+      "english": "Let things, happen naturally.",
+      "spanish": "Deja que las cosas, pasen solas.",
+      "category": "Patience",
+      "generated_at": "2026-10-15T05:25:01.298838"
+    },
+    {
+      "english": "Good things, come to those who wait.",
+      "spanish": "Lo bueno, llega a quien espera.",
+      "category": "Patience",
+      "generated_at": "2026-10-15T05:25:01.298839"
+    },
+    {
+      "english": "Hold on, it's almost here.",
+      "spanish": "Aguanta, ya casi llega.",
+      "category": "Patience",
+      "generated_at": "2026-10-15T05:25:01.298840"
+    },
+    {
+      "english": "Don't hurry, savor the moments.",
+      "spanish": "No te apures, saborea los momentos.",
+      "category": "Patience",
+      "generated_at": "2026-10-15T05:25:01.298841"
+    },
+    {
+      "english": "Sit back, and relax now.",
+      "spanish": "Siéntate, y relájate ahora.",
+      "category": "Patience",
+      "generated_at": "2026-10-15T05:25:01.298842"
+    },
+    {
+      "english": "What's meant to be, will come.",
+      "spanish": "Lo que será, vendrá.",
+      "category": "Patience",
+      "generated_at": "2026-10-15T05:25:01.298842"
+    },
+    {
+      "english": "Patience is a virtue, remember.",
+      "spanish": "La paciencia es virtud, recuerda.",
+      "category": "Patience",
+      "generated_at": "2026-10-15T05:25:01.298843"
+    },
+    {
+      "english": "Just keep going, you'll get there.",
+      "spanish": "Solo sigue, llegarás.",
+      "category": "Patience",
+      "generated_at": "2026-10-15T05:25:01.298844"
+    },
+    {
+      "english": "Let the dust, settle down.",
+      "spanish": "Deja que el polvo, se asiente.",
+      "category": "Patience",
+      "generated_at": "2026-10-15T05:25:01.298845"
+    },
+    {
+      "english": "This too, shall pass.",
+      "spanish": "Esto también, pasará.",
+      "category": "Patience",
+      "generated_at": "2026-10-15T05:25:01.298846"
+    },
+    {
+      "english": "Take a breath, before reacting.",
+      "spanish": "Respira, antes de reaccionar.",
+      "category": "Patience",
+      "generated_at": "2026-10-15T05:25:01.298847"
+    },
+    {
+      "english": "Nature takes its time.",
+      "spanish": "La naturaleza, se toma su tiempo.",
+      "category": "Patience",
+      "generated_at": "2026-10-15T05:25:01.298847"
+    },
+    {
+      "english": "Soon, very soon now.",
+      "spanish": "Pronto, muy pronto ahora.",
+      "category": "Patience",
+      "generated_at": "2026-10-15T05:25:01.298848"
+    },
+    {
+      "english": "Keep your cool, stay steady.",
+      "spanish": "Mantén la calma, sigue firme.",
+      "category": "Patience",
+      "generated_at": "2026-10-15T05:25:01.298849"
+    },
+    {
+      "english": "The best things, take time.",
+      "spanish": "Las mejores cosas, tardan.",
+      "category": "Patience",
+      "generated_at": "2026-10-15T05:25:01.298850"
+    },
+    {
+      "english": "Wait for the right moment.",
+      "spanish": "Espera el momento justo.",
+      "category": "Patience",
+      "generated_at": "2026-10-15T05:25:01.298851"
+    },
+    {
+      "english": "Gentle persuasion, wins.",
+      "spanish": "La dulzura, convence.",
+      "category": "Patience",
+      "generated_at": "2026-10-15T05:25:01.298852"
+    },
+    {
+      "english": "Patience, a key ingredient.",
+      "spanish": "Paciencia, un ingrediente clave.",
+      "category": "Patience",
+      "generated_at": "2026-10-15T05:25:01.298853"
+    },
+    {
+      "english": "Let it brew, a bit longer.",
+      "spanish": "Deja que hierva, un poco más.",
+      "category": "Patience",
+      "generated_at": "2026-10-15T05:25:01.298853"
+    },
+    {
+      "english": "Give yourself, some grace.",
+      "spanish": "Date a ti mismo, gracia.",
+      "category": "Patience",
+      "generated_at": "2026-10-15T05:25:01.298854"
+    },
+    {
+      "english": "The harvest, will come.",
+      "spanish": "La cosecha, llegará.",
+      "category": "Patience",
+      "generated_at": "2026-10-15T05:25:01.298855"
+    },
+    {
+      "english": "Hold tight, we're close.",
+      "spanish": "Agárrate fuerte, estamos cerca.",
+      "category": "Patience",
+      "generated_at": "2026-10-15T05:25:01.298856"
+    },
+    {
+      "english": "Wait for it, it's coming.",
+      "spanish": "Espera, ya viene.",
+      "category": "Patience",
+      "generated_at": "2026-10-15T05:25:01.298857"
+    },
+    {
+      "english": "Don't rush, it's worth it.",
+      "spanish": "No corras, vale la pena.",
+      "category": "Patience",
+      "generated_at": "2026-10-15T05:25:01.298858"
+    },
+    {
+      "english": "Be patient, good things bloom.",
+      "spanish": "Sé paciente, florecen cosas buenas.",
+      "category": "Patience",
+      "generated_at": "2026-10-15T05:25:01.298859"
+    },
+    {
+      "english": "Still waters, run deep.",
+      "spanish": "Aguas tranquilas, corren profundo.",
+      "category": "Patience",
+      "generated_at": "2026-10-15T05:25:01.298860"
+    },
+    {
+      "english": "Take your time, explore more.",
+      "spanish": "Tómate tu tiempo, explora más.",
+      "category": "Patience",
+      "generated_at": "2026-10-15T05:25:01.298861"
+    },
+    {
+      "english": "The wait, is part of the fun.",
+      "spanish": "La espera, es parte de la diversión.",
+      "category": "Patience",
+      "generated_at": "2026-10-15T05:25:01.298862"
+    },
+    {
+      "english": "Give it time, to unfold.",
+      "spanish": "Dale tiempo, a desplegarse.",
+      "category": "Patience",
+      "generated_at": "2026-10-15T05:25:01.298863"
+    },
+    {
+      "english": "Patience, a valuable skill.",
+      "spanish": "Paciencia, una habilidad valiosa.",
+      "category": "Patience",
+      "generated_at": "2026-10-15T05:25:01.298864"
+    },
+    {
+      "english": "Let things, happen naturally.",
+      "spanish": "Deja que las cosas, pasen solas.",
+      "category": "Patience",
+      "generated_at": "2026-10-15T05:25:01.298865"
+    },
+    {
+      "english": "Good things, come to those who wait.",
+      "spanish": "Lo bueno, llega a quien espera.",
+      "category": "Patience",
+      "generated_at": "2026-10-15T05:25:01.298866"
+    },
+    {
+      "english": "Hold on, it's almost here.",
+      "spanish": "Aguanta, ya casi llega.",
+      "category": "Patience",
+      "generated_at": "2026-10-15T05:25:01.298866"
+    },
+    {
+      "english": "Don't hurry, savor the moments.",
+      "spanish": "No te apures, saborea los momentos.",
+      "category": "Patience",
+      "generated_at": "2026-10-15T05:25:01.298867"
+    },
+    {
+      "english": "Sit back, and relax now.",
+      "spanish": "Siéntate, y relájate ahora.",
+      "category": "Patience",
+      "generated_at": "2026-10-15T05:25:01.298868"
+    },
+    {
+      "english": "What's meant to be, will come.",
+      "spanish": "Lo que será, vendrá.",
+      "category": "Patience",
+      "generated_at": "2026-10-15T05:25:01.298869"
+    },
+    {
+      "english": "Patience is a virtue, remember.",
+      "spanish": "La paciencia es virtud, recuerda.",
+      "category": "Patience",
+      "generated_at": "2026-10-15T05:25:01.298870"
+    },
+    {
+      "english": "Just keep going, you'll get there.",
+      "spanish": "Solo sigue, llegarás.",
+      "category": "Patience",
+      "generated_at": "2026-10-15T05:25:01.298871"
+    },
+    {
+      "english": "Let the dust, settle down.",
+      "spanish": "Deja que el polvo, se asiente.",
+      "category": "Patience",
+      "generated_at": "2026-10-15T05:25:01.298871"
+    },
+    {
+      "english": "This too, shall pass.",
+      "spanish": "Esto también, pasará.",
+      "category": "Patience",
+      "generated_at": "2026-10-15T05:25:01.298872"
+    },
+    {
+      "english": "Take a breath, before reacting.",
+      "spanish": "Respira, antes de reaccionar.",
+      "category": "Patience",
+      "generated_at": "2026-10-15T05:25:01.298873"
+    },
+    {
+      "english": "Nature takes its time.",
+      "spanish": "La naturaleza, se toma su tiempo.",
+      "category": "Patience",
+      "generated_at": "2026-10-15T05:25:01.298874"
+    },
+    {
+      "english": "Soon, very soon now.",
+      "spanish": "Pronto, muy pronto ahora.",
+      "category": "Patience",
+      "generated_at": "2026-10-15T05:25:01.298875"
+    },
+    {
+      "english": "Keep your cool, stay steady.",
+      "spanish": "Mantén la calma, sigue firme.",
+      "category": "Patience",
+      "generated_at": "2026-10-15T05:25:01.298876"
+    },
+    {
+      "english": "The best things, take time.",
+      "spanish": "Las mejores cosas, tardan.",
+      "category": "Patience",
+      "generated_at": "2026-10-15T05:25:01.298876"
+    },
+    {
+      "english": "Wait for the right moment.",
+      "spanish": "Espera el momento justo.",
+      "category": "Patience",
+      "generated_at": "2026-10-15T05:25:01.298877"
+    },
+    {
+      "english": "Gentle persuasion, wins.",
+      "spanish": "La dulzura, convence.",
+      "category": "Patience",
+      "generated_at": "2026-10-15T05:25:01.298878"
+    },
+    {
+      "english": "Patience, a key ingredient.",
+      "spanish": "Paciencia, un ingrediente clave.",
+      "category": "Patience",
+      "generated_at": "2026-10-15T05:25:01.298879"
+    },
+    {
+      "english": "Let it brew, a bit longer.",
+      "spanish": "Deja que hierva, un poco más.",
+      "category": "Patience",
+      "generated_at": "2026-10-15T05:25:01.298880"
+    },
+    {
+      "english": "Give yourself, some grace.",
+      "spanish": "Date a ti mismo, gracia.",
+      "category": "Patience",
+      "generated_at": "2026-10-15T05:25:01.298880"
+    },
+    {
+      "english": "The harvest, will come.",
+      "spanish": "La cosecha, llegará.",
+      "category": "Patience",
+      "generated_at": "2026-10-15T05:25:01.298881"
+    },
+    {
+      "english": "Hold tight, we're close.",
+      "spanish": "Agárrate fuerte, estamos cerca.",
+      "category": "Patience",
+      "generated_at": "2026-10-15T05:25:01.298882"
     }
   ],
-  "last_updated": "2026-10-14T05:36:42.059056"
+  "last_updated": "2026-10-15T05:25:01.298884"
 }
