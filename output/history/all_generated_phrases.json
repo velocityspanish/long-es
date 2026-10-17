@@ -1079,7 +1079,727 @@
       "spanish": "Contigo, es hogar.",
       "category": "Love",
       "generated_at": "2026-05-12T22:13:03.276217"
+    },
+    {
+      "english": "Sorry, I didn't mean it.",
+      "spanish": "Perdón, no quise.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T05:12:10.921974"
+    },
+    {
+      "english": "My apologies, please forgive me.",
+      "spanish": "Mis disculpas, perdóname.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T05:12:10.921988"
+    },
+    {
+      "english": "I messed up, sorry.",
+      "spanish": "La regué, disculpa.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T05:12:10.921991"
+    },
+    {
+      "english": "Can you overlook this?",
+      "spanish": "¿Puedes pasar esto por alto?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T05:12:10.921994"
+    },
+    {
+      "english": "It was my fault, sorry.",
+      "spanish": "Fue mi culpa, lo siento.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T05:12:10.921996"
+    },
+    {
+      "english": "Please excuse my behavior.",
+      "spanish": "Disculpa mi comportamiento.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T05:12:10.921999"
+    },
+    {
+      "english": "I hope you can forgive me.",
+      "spanish": "Espero que puedas perdonarme.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T05:12:10.922001"
+    },
+    {
+      "english": "Don't be mad, please.",
+      "spanish": "No te enojes, por favor.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T05:12:10.922005"
+    },
+    {
+      "english": "I regret it, truly.",
+      "spanish": "Me arrepiento, de verdad.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T05:12:10.922008"
+    },
+    {
+      "english": "Let's move past this.",
+      "spanish": "Superemos esto.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T05:12:10.922010"
+    },
+    {
+      "english": "I ask for your forgiveness.",
+      "spanish": "Pido tu perdón.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T05:12:10.922012"
+    },
+    {
+      "english": "It won't happen again.",
+      "spanish": "No volverá a pasar.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T05:12:10.922014"
+    },
+    {
+      "english": "Can we forget this?",
+      "spanish": "¿Podemos olvidar esto?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T05:12:10.922016"
+    },
+    {
+      "english": "I feel bad about it.",
+      "spanish": "Me siento mal por eso.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T05:12:10.922018"
+    },
+    {
+      "english": "Forgive my little mistake.",
+      "spanish": "Perdona mi pequeño error.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T05:12:10.922020"
+    },
+    {
+      "english": "I am so sorry.",
+      "spanish": "Lo siento muchísimo.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T05:12:10.922022"
+    },
+    {
+      "english": "Please accept my apology.",
+      "spanish": "Acepta mis disculpas.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T05:12:10.922024"
+    },
+    {
+      "english": "I was wrong, sorry.",
+      "spanish": "Me equivoqué, lo lamento.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T05:12:10.922026"
+    },
+    {
+      "english": "Can you give me a break?",
+      "spanish": "¿Me das un respiro?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T05:12:10.922028"
+    },
+    {
+      "english": "I truly regret my actions.",
+      "spanish": "Lamento mis acciones de veras.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T05:12:10.922030"
+    },
+    {
+      "english": "Please don't hold it against me.",
+      "spanish": "No me lo tomes a mal.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T05:12:10.922032"
+    },
+    {
+      "english": "I owe you an apology.",
+      "spanish": "Te debo una disculpa.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T05:12:10.922037"
+    },
+    {
+      "english": "Consider it forgotten.",
+      "spanish": "Considéralo olvidado.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T05:12:10.922039"
+    },
+    {
+      "english": "I hope you understand.",
+      "spanish": "Espero que comprendas.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T05:12:10.922041"
+    },
+    {
+      "english": "Let's call it even.",
+      "spanish": "Pongamos las cosas en paz.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T05:12:10.922043"
+    },
+    {
+      "english": "My bad, seriously.",
+      "spanish": "Fue mi error, en serio.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T05:12:10.922045"
+    },
+    {
+      "english": "Can you forgive my outburst?",
+      "spanish": "¿Perdonas mi arranque?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T05:12:10.922047"
+    },
+    {
+      "english": "I'm really sorry about that.",
+      "spanish": "De verdad, lo siento por eso.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T05:12:10.922049"
+    },
+    {
+      "english": "Please excuse my interruption.",
+      "spanish": "Disculpa mi interrupción.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T05:12:10.922051"
+    },
+    {
+      "english": "Can we start over?",
+      "spanish": "¿Podemos empezar de nuevo?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T05:12:10.922053"
+    },
+    {
+      "english": "Can we talk about this?",
+      "spanish": "¿Podemos hablar de esto?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T05:12:10.922058"
+    },
+    {
+      "english": "What do you think, really?",
+      "spanish": "¿Qué piensas, de verdad?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T05:12:10.922060"
+    },
+    {
+      "english": "How can I make it right?",
+      "spanish": "¿Cómo puedo arreglarlo?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T05:12:10.922062"
+    },
+    {
+      "english": "Your opinion matters, tell me.",
+      "spanish": "Tu opinión importa, dime.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T05:12:10.922065"
+    },
+    {
+      "english": "Should I apologize again?",
+      "spanish": "¿Debo disculparme otra vez?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T05:12:10.922067"
+    },
+    {
+      "english": "What would you do, in my place?",
+      "spanish": "¿Qué harías tú, en mi lugar?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T05:12:10.922069"
+    },
+    {
+      "english": "Can you explain your feelings?",
+      "spanish": "¿Puedes explicar tus sentimientos?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T05:12:10.922073"
+    },
+    {
+      "english": "Is there anything else I should know?",
+      "spanish": "¿Hay algo más que deba saber?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T05:12:10.922075"
+    },
+    {
+      "english": "Did I offend you, accidentally?",
+      "spanish": "¿Te ofendí, sin querer?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T05:12:10.922078"
+    },
+    {
+      "english": "How can we avoid this next time?",
+      "spanish": "¿Cómo evitamos esto la próxima vez?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T05:12:10.922080"
+    },
+    {
+      "english": "Are you still upset with me?",
+      "spanish": "¿Sigues enojado/a conmigo?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T05:12:10.922082"
+    },
+    {
+      "english": "What advice do you have?",
+      "spanish": "¿Qué consejo me das?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T05:12:10.922084"
+    },
+    {
+      "english": "Is everything okay between us?",
+      "spanish": "¿Está todo bien entre nosotros?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T05:12:10.922086"
+    },
+    {
+      "english": "Can you help me understand?",
+      "spanish": "¿Me ayudas a entender?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T05:12:10.922088"
+    },
+    {
+      "english": "What's your perspective on this?",
+      "spanish": "¿Cuál es tu perspectiva sobre esto?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T05:12:10.922090"
+    },
+    {
+      "english": "Do you accept my explanation?",
+      "spanish": "¿Aceptas mi explicación?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T05:12:10.922092"
+    },
+    {
+      "english": "How do you feel about it now?",
+      "spanish": "¿Cómo te sientes ahora al respecto?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T05:12:10.922094"
+    },
+    {
+      "english": "Can we discuss solutions?",
+      "spanish": "¿Podemos discutir soluciones?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T05:12:10.922098"
+    },
+    {
+      "english": "What needs to happen next?",
+      "spanish": "¿Qué necesita pasar ahora?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T05:12:10.922100"
+    },
+    {
+      "english": "Are we good now?",
+      "spanish": "¿Estamos bien ahora?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T05:12:10.922102"
+    },
+    {
+      "english": "Should I try again, differently?",
+      "spanish": "¿Debería intentarlo de nuevo, diferente?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T05:12:10.922104"
+    },
+    {
+      "english": "Can you tell me honestly?",
+      "spanish": "¿Puedes decirme honestamente?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T05:12:10.922106"
+    },
+    {
+      "english": "What’s your final thought?",
+      "spanish": "¿Cuál es tu pensamiento final?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T05:12:10.922111"
+    },
+    {
+      "english": "Did I hurt your feelings?",
+      "spanish": "¿Lastimé tus sentimientos?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T05:12:10.922114"
+    },
+    {
+      "english": "How can I regain your trust?",
+      "spanish": "¿Cómo recupero tu confianza?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T05:12:10.922116"
+    },
+    {
+      "english": "Is there a way forward?",
+      "spanish": "¿Hay una forma de seguir adelante?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T05:12:10.922117"
+    },
+    {
+      "english": "Can you accept my gratitude?",
+      "spanish": "¿Aceptas mi gratitud?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T05:12:10.922119"
+    },
+    {
+      "english": "What do you need from me?",
+      "spanish": "¿Qué necesitas de mí?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T05:12:10.922121"
+    },
+    {
+      "english": "Should we just let it go?",
+      "spanish": "¿Deberíamos simplemente dejarlo ir?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T05:12:10.922123"
+    },
+    {
+      "english": "Is this conversation helpful?",
+      "spanish": "¿Es útil esta conversación?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T05:12:10.922125"
+    },
+    {
+      "english": "Let bygones be bygones, okay?",
+      "spanish": "Deja el pasado atrás, ¿vale?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T05:12:10.922127"
+    },
+    {
+      "english": "Water under the bridge, friend.",
+      "spanish": "Agua pasada, amigo.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T05:12:10.922130"
+    },
+    {
+      "english": "I messed up, my fault.",
+      "spanish": "Metí la pata, es mi culpa.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T05:12:10.922132"
+    },
+    {
+      "english": "Can we clear the air now?",
+      "spanish": "¿Podemos aclarar el ambiente ahora?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T05:12:10.922134"
+    },
+    {
+      "english": "I swallow my pride, for peace.",
+      "spanish": "Trago mi orgullo, por la paz.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T05:12:10.922136"
+    },
+    {
+      "english": "Let's not dwell on it anymore.",
+      "spanish": "No le demos más vueltas a esto.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T05:12:10.922138"
+    },
+    {
+      "english": "I take responsibility, for real.",
+      "spanish": "Asumo la responsabilidad, de verdad.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T05:12:10.922141"
+    },
+    {
+      "english": "Forget it, I was wrong.",
+      "spanish": "Olvídalo, me equivoqué.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T05:12:10.922143"
+    },
+    {
+      "english": "My intentions were good, truly.",
+      "spanish": "Mis intenciones eran buenas, de veras.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T05:12:10.922147"
+    },
+    {
+      "english": "Can we turn the page, please?",
+      "spanish": "¿Podemos pasar la página, por favor?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T05:12:10.922149"
+    },
+    {
+      "english": "No hard feelings, alright?",
+      "spanish": "Sin rencores, ¿de acuerdo?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T05:12:10.922151"
+    },
+    {
+      "english": "I hope we can move past this.",
+      "spanish": "Espero que podamos superar esto.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T05:12:10.922153"
+    },
+    {
+      "english": "I throw myself at your feet.",
+      "spanish": "Me tiro a tus pies.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T05:12:10.922155"
+    },
+    {
+      "english": "Let's bury the hatchet, now.",
+      "spanish": "Enterremos el hacha, ahora.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T05:12:10.922160"
+    },
+    {
+      "english": "I'm eating humble pie.",
+      "spanish": "Me como el orgullo.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T05:12:10.922162"
+    },
+    {
+      "english": "Can we have a clean slate?",
+      "spanish": "¿Podemos empezar de cero?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T05:12:10.922165"
+    },
+    {
+      "english": "I extend an olive branch.",
+      "spanish": "Extiendo la rama de olivo.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T05:12:10.922166"
+    },
+    {
+      "english": "We all make mistakes, right?",
+      "spanish": "Todos cometemos errores, ¿verdad?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T05:12:10.922169"
+    },
+    {
+      "english": "Let's forget the whole thing.",
+      "spanish": "Olvidémonos de todo el asunto.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T05:12:10.922171"
+    },
+    {
+      "english": "I concede my error.",
+      "spanish": "Concedo mi error.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T05:12:10.922172"
+    },
+    {
+      "english": "Can we just move on?",
+      "spanish": "¿Podemos simplemente seguir adelante?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T05:12:10.922174"
+    },
+    {
+      "english": "I apologize with all my heart.",
+      "spanish": "Pido disculpas con todo mi corazón.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T05:12:10.922176"
+    },
+    {
+      "english": "Let's make peace, friend.",
+      "spanish": "Hagamos las paces, amigo.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T05:12:10.922179"
+    },
+    {
+      "english": "I offer my sincerest regrets.",
+      "spanish": "Ofrezco mi más sincero arrepentimiento.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T05:12:10.922181"
+    },
+    {
+      "english": "I'm putting it behind me.",
+      "spanish": "Lo estoy dejando atrás.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T05:12:10.922183"
+    },
+    {
+      "english": "Can we agree to disagree?",
+      "spanish": "¿Podemos estar en desacuerdo?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T05:12:10.922185"
+    },
+    {
+      "english": "I accept the blame.",
+      "spanish": "Acepto la culpa.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T05:12:10.922186"
+    },
+    {
+      "english": "Let's start fresh, please.",
+      "spanish": "Empecemos de nuevo, por favor.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T05:12:10.922188"
+    },
+    {
+      "english": "I hope for your pardon.",
+      "spanish": "Espero tu perdón.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T05:12:10.922190"
+    },
+    {
+      "english": "All is forgiven, right?",
+      "spanish": "Todo está perdonado, ¿verdad?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T05:12:10.922193"
+    },
+    {
+      "english": "I feel a change, inside me.",
+      "spanish": "Siento un cambio, en mi interior.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T05:12:10.922196"
+    },
+    {
+      "english": "This hurts, but I forgive.",
+      "spanish": "Esto duele, pero perdono.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T05:12:10.922200"
+    },
+    {
+      "english": "My heart is lighter now.",
+      "spanish": "Mi corazón, está más ligero.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T05:12:10.922202"
+    },
+    {
+      "english": "I'm learning to let go.",
+      "spanish": "Aprendo, a soltar.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T05:12:10.922204"
+    },
+    {
+      "english": "Peace feels more important.",
+      "spanish": "La paz, es más importante.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T05:12:10.922206"
+    },
+    {
+      "english": "Can we be patient, please?",
+      "spanish": "¿Podemos ser pacientes, por favor?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T05:12:10.922208"
+    },
+    {
+      "english": "I choose understanding, over anger.",
+      "spanish": "Elijo entender, en vez de enojarme.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T05:12:10.922210"
+    },
+    {
+      "english": "This is a process, for me.",
+      "spanish": "Es un proceso, para mí.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T05:12:10.922213"
+    },
+    {
+      "english": "I'm reflecting, on everything.",
+      "spanish": "Estoy reflexionando, sobre todo.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T05:12:10.922215"
+    },
+    {
+      "english": "Kindness feels like the way.",
+      "spanish": "La amabilidad, parece el camino.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T05:12:10.922220"
+    },
+    {
+      "english": "I'm letting go, of the pain.",
+      "spanish": "Me desprendo, del dolor.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T05:12:10.922223"
+    },
+    {
+      "english": "What truly matters, is healing.",
+      "spanish": "Lo que importa, es sanar.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T05:12:10.922225"
+    },
+    {
+      "english": "I need time, to heal.",
+      "spanish": "Necesito tiempo, para sanar.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T05:12:10.922227"
+    },
+    {
+      "english": "My feelings are real, too.",
+      "spanish": "Mis sentimientos, también son reales.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T05:12:10.922230"
+    },
+    {
+      "english": "I'm choosing peace, right now.",
+      "spanish": "Elijo la paz, ahora mismo.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T05:12:10.922232"
+    },
+    {
+      "english": "This is a sincere apology.",
+      "spanish": "Es una disculpa sincera.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T05:12:10.922234"
+    },
+    {
+      "english": "I'm working on myself.",
+      "spanish": "Estoy trabajando, en mí.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T05:12:10.922236"
+    },
+    {
+      "english": "Can we start fresh, together?",
+      "spanish": "¿Empezamos de cero, juntos?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T05:12:10.922239"
+    },
+    {
+      "english": "I'm releasing, this burden.",
+      "spanish": "Libero, esta carga.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T05:12:10.922241"
+    },
+    {
+      "english": "My perspective has changed.",
+      "spanish": "Mi perspectiva, ha cambiado.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T05:12:10.922243"
+    },
+    {
+      "english": "I accept what happened.",
+      "spanish": "Acepto, lo que pasó.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T05:12:10.922246"
+    },
+    {
+      "english": "This is for my own good.",
+      "spanish": "Esto es, por mi propio bien.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T05:12:10.922248"
+    },
+    {
+      "english": "I'm choosing empathy, now.",
+      "spanish": "Elijo la empatía, ahora.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T05:12:10.922250"
+    },
+    {
+      "english": "Forgiveness is a gift, to me.",
+      "spanish": "El perdón es un regalo, para mí.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T05:12:10.922252"
+    },
+    {
+      "english": "I value our connection.",
+      "spanish": "Valoro, nuestra conexión.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T05:12:10.922254"
+    },
+    {
+      "english": "Let me show you, my change.",
+      "spanish": "Déjame mostrarte, mi cambio.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T05:12:10.922288"
+    },
+    {
+      "english": "I'm trying to understand.",
+      "spanish": "Intento comprender.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T05:12:10.922292"
+    },
+    {
+      "english": "This means a lot, truly.",
+      "spanish": "Esto significa mucho, de verdad.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T05:12:10.922295"
+    },
+    {
+      "english": "I wish you peace, always.",
+      "spanish": "Te deseo paz, siempre.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T05:12:10.922298"
+    },
+    {
+      "english": "I'm letting go, of resentment.",
+      "spanish": "Me libero, del rencor.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T05:12:10.922300"
     }
   ],
-  "last_updated": "2026-05-12T22:13:03.276249"
+  "last_updated": "2026-10-17T05:12:10.922302"
 }
