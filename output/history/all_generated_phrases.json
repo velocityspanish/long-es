@@ -1799,7 +1799,727 @@
       "spanish": "Me libero, del rencor.",
       "category": "Forgiveness",
       "generated_at": "2026-10-17T05:12:10.922300"
+    },
+    {
+      "english": "Everything's going great, thanks!",
+      "spanish": "¡Todo va genial, gracias!",
+      "category": "Positive Life",
+      "generated_at": "2026-10-18T05:16:38.867594"
+    },
+    {
+      "english": "That's fantastic news!",
+      "spanish": "¡Qué noticia tan fantástica!",
+      "category": "Positive Life",
+      "generated_at": "2026-10-18T05:16:38.867608"
+    },
+    {
+      "english": "I'm feeling really good today.",
+      "spanish": "Me siento muy bien hoy.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-18T05:16:38.867612"
+    },
+    {
+      "english": "What a wonderful day!",
+      "spanish": "¡Qué día tan maravilloso!",
+      "category": "Positive Life",
+      "generated_at": "2026-10-18T05:16:38.867614"
+    },
+    {
+      "english": "This is perfect, truly.",
+      "spanish": "Esto es perfecto, de verdad.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-18T05:16:38.867617"
+    },
+    {
+      "english": "Life is beautiful, isn't it?",
+      "spanish": "La vida es hermosa, ¿verdad?",
+      "category": "Positive Life",
+      "generated_at": "2026-10-18T05:16:38.867620"
+    },
+    {
+      "english": "I love this moment.",
+      "spanish": "Amo este momento.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-18T05:16:38.867627"
+    },
+    {
+      "english": "Keep shining brightly, always.",
+      "spanish": "Sigue brillando fuerte, siempre.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-18T05:16:38.867634"
+    },
+    {
+      "english": "You're doing an amazing job.",
+      "spanish": "Estás haciendo un trabajo increíble.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-18T05:16:38.867638"
+    },
+    {
+      "english": "This makes me so happy.",
+      "spanish": "Esto me hace muy feliz.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-18T05:16:38.867642"
+    },
+    {
+      "english": "Enjoy every little thing.",
+      "spanish": "Disfruta cada pequeña cosa.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-18T05:16:38.867650"
+    },
+    {
+      "english": "That's a brilliant idea!",
+      "spanish": "¡Esa es una idea brillante!",
+      "category": "Positive Life",
+      "generated_at": "2026-10-18T05:16:38.867653"
+    },
+    {
+      "english": "Feeling grateful for this.",
+      "spanish": "Me siento agradecido/a por esto.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-18T05:16:38.867656"
+    },
+    {
+      "english": "What a lovely surprise!",
+      "spanish": "¡Qué sorpresa tan encantadora!",
+      "category": "Positive Life",
+      "generated_at": "2026-10-18T05:16:38.867658"
+    },
+    {
+      "english": "Everything will be alright.",
+      "spanish": "Todo saldrá bien.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-18T05:16:38.867661"
+    },
+    {
+      "english": "This is truly inspiring.",
+      "spanish": "Esto es verdaderamente inspirador.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-18T05:16:38.867663"
+    },
+    {
+      "english": "Let's make it happen!",
+      "spanish": "¡Hagámoslo realidad!",
+      "category": "Positive Life",
+      "generated_at": "2026-10-18T05:16:38.867666"
+    },
+    {
+      "english": "You deserve all the best.",
+      "spanish": "Mereces todo lo mejor.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-18T05:16:38.867668"
+    },
+    {
+      "english": "This is pure joy.",
+      "spanish": "Esto es pura alegría.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-18T05:16:38.867671"
+    },
+    {
+      "english": "Wishing you much success.",
+      "spanish": "Te deseo mucho éxito.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-18T05:16:38.867673"
+    },
+    {
+      "english": "That brightens my day.",
+      "spanish": "Eso alegra mi día.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-18T05:16:38.867676"
+    },
+    {
+      "english": "Couldn't be better, honestly.",
+      "spanish": "No podría estar mejor, sinceramente.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-18T05:16:38.867679"
+    },
+    {
+      "english": "Always look for the good.",
+      "spanish": "Siempre busca lo bueno.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-18T05:16:38.867681"
+    },
+    {
+      "english": "What an awesome experience!",
+      "spanish": "¡Qué experiencia tan genial!",
+      "category": "Positive Life",
+      "generated_at": "2026-10-18T05:16:38.867684"
+    },
+    {
+      "english": "This is exactly what I needed.",
+      "spanish": "Esto es justo lo que necesitaba.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-18T05:16:38.867686"
+    },
+    {
+      "english": "You make things happen.",
+      "spanish": "Tú haces que las cosas pasen.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-18T05:16:38.867689"
+    },
+    {
+      "english": "This is a true blessing.",
+      "spanish": "Esto es una verdadera bendición.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-18T05:16:38.867691"
+    },
+    {
+      "english": "So much positive energy!",
+      "spanish": "¡Tanta energía positiva!",
+      "category": "Positive Life",
+      "generated_at": "2026-10-18T05:16:38.867693"
+    },
+    {
+      "english": "Feeling fantastic, thank you!",
+      "spanish": "¡Me siento fantástico/a, gracias!",
+      "category": "Positive Life",
+      "generated_at": "2026-10-18T05:16:38.867698"
+    },
+    {
+      "english": "This is pure magic.",
+      "spanish": "Esto es pura magia.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-18T05:16:38.867701"
+    },
+    {
+      "english": "How are you feeling, really?",
+      "spanish": "¿Cómo te sientes, de verdad?",
+      "category": "Positive Life",
+      "generated_at": "2026-10-18T05:16:38.867703"
+    },
+    {
+      "english": "What are you looking forward to?",
+      "spanish": "¿Qué esperas con ilusión?",
+      "category": "Positive Life",
+      "generated_at": "2026-10-18T05:16:38.867706"
+    },
+    {
+      "english": "What makes you smile daily?",
+      "spanish": "¿Qué te saca una sonrisa diaria?",
+      "category": "Positive Life",
+      "generated_at": "2026-10-18T05:16:38.867711"
+    },
+    {
+      "english": "Can you share some good news?",
+      "spanish": "¿Me puedes compartir algo bueno?",
+      "category": "Positive Life",
+      "generated_at": "2026-10-18T05:16:38.867713"
+    },
+    {
+      "english": "How can I be more positive?",
+      "spanish": "¿Cómo puedo ser más positivo?",
+      "category": "Positive Life",
+      "generated_at": "2026-10-18T05:16:38.867717"
+    },
+    {
+      "english": "What's your biggest dream right now?",
+      "spanish": "¿Cuál es tu mayor sueño ahora?",
+      "category": "Positive Life",
+      "generated_at": "2026-10-18T05:16:38.867720"
+    },
+    {
+      "english": "What did you learn today?",
+      "spanish": "¿Qué aprendiste hoy?",
+      "category": "Positive Life",
+      "generated_at": "2026-10-18T05:16:38.867723"
+    },
+    {
+      "english": "Are you happy with your progress?",
+      "spanish": "¿Estás contento con tu avance?",
+      "category": "Positive Life",
+      "generated_at": "2026-10-18T05:16:38.867725"
+    },
+    {
+      "english": "What are you grateful for today?",
+      "spanish": "¿Por qué estás agradecido hoy?",
+      "category": "Positive Life",
+      "generated_at": "2026-10-18T05:16:38.867728"
+    },
+    {
+      "english": "What's one small joy you found?",
+      "spanish": "¿Cuál es una pequeña alegría encontrada?",
+      "category": "Positive Life",
+      "generated_at": "2026-10-18T05:16:38.867731"
+    },
+    {
+      "english": "How do you stay motivated?",
+      "spanish": "¿Cómo te mantienes motivado?",
+      "category": "Positive Life",
+      "generated_at": "2026-10-18T05:16:38.867734"
+    },
+    {
+      "english": "What's a positive habit you have?",
+      "spanish": "¿Cuál es un hábito positivo tuyo?",
+      "category": "Positive Life",
+      "generated_at": "2026-10-18T05:16:38.867736"
+    },
+    {
+      "english": "What are you proud of accomplishing?",
+      "spanish": "¿De qué te sientes orgulloso logrado?",
+      "category": "Positive Life",
+      "generated_at": "2026-10-18T05:16:38.867741"
+    },
+    {
+      "english": "What brings you peace?",
+      "spanish": "¿Qué te da paz?",
+      "category": "Positive Life",
+      "generated_at": "2026-10-18T05:16:38.867743"
+    },
+    {
+      "english": "What's your favorite part of the day?",
+      "spanish": "¿Cuál es tu parte favorita del día?",
+      "category": "Positive Life",
+      "generated_at": "2026-10-18T05:16:38.867746"
+    },
+    {
+      "english": "How can we spread more kindness?",
+      "spanish": "¿Cómo podemos esparcir más amabilidad?",
+      "category": "Positive Life",
+      "generated_at": "2026-10-18T05:16:38.867749"
+    },
+    {
+      "english": "What's a positive change you've made?",
+      "spanish": "¿Cuál es un cambio positivo que hiciste?",
+      "category": "Positive Life",
+      "generated_at": "2026-10-18T05:16:38.867751"
+    },
+    {
+      "english": "What inspires you to keep going?",
+      "spanish": "¿Qué te inspira a seguir adelante?",
+      "category": "Positive Life",
+      "generated_at": "2026-10-18T05:16:38.867754"
+    },
+    {
+      "english": "Do you believe in yourself?",
+      "spanish": "¿Crees en ti mismo?",
+      "category": "Positive Life",
+      "generated_at": "2026-10-18T05:16:38.867757"
+    },
+    {
+      "english": "What's a hopeful thought for tomorrow?",
+      "spanish": "¿Cuál es un pensamiento esperanzador para mañana?",
+      "category": "Positive Life",
+      "generated_at": "2026-10-18T05:16:38.867759"
+    },
+    {
+      "english": "How do you handle challenges positively?",
+      "spanish": "¿Cómo manejas los retos positivamente?",
+      "category": "Positive Life",
+      "generated_at": "2026-10-18T05:16:38.867762"
+    },
+    {
+      "english": "What's one thing you appreciate?",
+      "spanish": "¿Qué es una cosa que aprecias?",
+      "category": "Positive Life",
+      "generated_at": "2026-10-18T05:16:38.867765"
+    },
+    {
+      "english": "What makes you feel alive?",
+      "spanish": "¿Qué te hace sentir vivo?",
+      "category": "Positive Life",
+      "generated_at": "2026-10-18T05:16:38.867767"
+    },
+    {
+      "english": "What's a simple pleasure you enjoy?",
+      "spanish": "¿Cuál es un placer simple que disfrutas?",
+      "category": "Positive Life",
+      "generated_at": "2026-10-18T05:16:38.867771"
+    },
+    {
+      "english": "What's your favorite positive quote?",
+      "spanish": "¿Cuál es tu cita positiva favorita?",
+      "category": "Positive Life",
+      "generated_at": "2026-10-18T05:16:38.867773"
+    },
+    {
+      "english": "How do you find strength within?",
+      "spanish": "¿Cómo encuentras fuerza interior?",
+      "category": "Positive Life",
+      "generated_at": "2026-10-18T05:16:38.867776"
+    },
+    {
+      "english": "What are you creating in your life?",
+      "spanish": "¿Qué estás creando en tu vida?",
+      "category": "Positive Life",
+      "generated_at": "2026-10-18T05:16:38.867779"
+    },
+    {
+      "english": "What's a dream you're pursuing?",
+      "spanish": "¿Cuál es un sueño que persigues?",
+      "category": "Positive Life",
+      "generated_at": "2026-10-18T05:16:38.867782"
+    },
+    {
+      "english": "What makes today special for you?",
+      "spanish": "¿Qué hace este día especial para ti?",
+      "category": "Positive Life",
+      "generated_at": "2026-10-18T05:16:38.867784"
+    },
+    {
+      "english": "You've got this, believe it!",
+      "spanish": "Tú puedes, ¡créelo!",
+      "category": "Positive Life",
+      "generated_at": "2026-10-18T05:16:38.867787"
+    },
+    {
+      "english": "Keep shining, like you do.",
+      "spanish": "Sigue brillando, como tú.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-18T05:16:38.867790"
+    },
+    {
+      "english": "Every day, a new chance.",
+      "spanish": "Cada día, una nueva oportunidad.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-18T05:16:38.867793"
+    },
+    {
+      "english": "Your effort, is admirable.",
+      "spanish": "Tu esfuerzo, es admirable.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-18T05:16:38.867795"
+    },
+    {
+      "english": "Stay strong, stay hopeful.",
+      "spanish": "Mantente fuerte, mantente esperanzado.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-18T05:16:38.867798"
+    },
+    {
+      "english": "Good vibes, only, always.",
+      "spanish": "Buenas vibras, solo, siempre.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-18T05:16:38.867803"
+    },
+    {
+      "english": "You are doing great, really.",
+      "spanish": "Lo estás haciendo genial, de verdad.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-18T05:16:38.867806"
+    },
+    {
+      "english": "Focus on what matters.",
+      "spanish": "Enfócate en lo que importa.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-18T05:16:38.867808"
+    },
+    {
+      "english": "Your potential, is huge.",
+      "spanish": "Tu potencial, es enorme.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-18T05:16:38.867811"
+    },
+    {
+      "english": "You inspire me a lot.",
+      "spanish": "Me inspiras mucho.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-18T05:16:38.867813"
+    },
+    {
+      "english": "Positive thoughts, win life.",
+      "spanish": "Pensamientos positivos, ganan la vida.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-18T05:16:38.867816"
+    },
+    {
+      "english": "What a great attitude, wow!",
+      "spanish": "¡Qué gran actitud, wow!",
+      "category": "Positive Life",
+      "generated_at": "2026-10-18T05:16:38.867819"
+    },
+    {
+      "english": "Your energy, is contagious.",
+      "spanish": "Tu energía, es contagiosa.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-18T05:16:38.867822"
+    },
+    {
+      "english": "Believe in your journey.",
+      "spanish": "Cree en tu camino.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-18T05:16:38.867824"
+    },
+    {
+      "english": "Embrace the good moments.",
+      "spanish": "Acepta los buenos momentos.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-18T05:16:38.867827"
+    },
+    {
+      "english": "You are capable, remember that.",
+      "spanish": "Eres capaz, recuerda eso.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-18T05:16:38.867832"
+    },
+    {
+      "english": "Let your light shine out.",
+      "spanish": "Deja que tu luz brille.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-18T05:16:38.867834"
+    },
+    {
+      "english": "Small steps, big results.",
+      "spanish": "Pasos pequeños, grandes resultados.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-18T05:16:38.867837"
+    },
+    {
+      "english": "You make a difference, truly.",
+      "spanish": "Haces la diferencia, de verdad.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-18T05:16:38.867840"
+    },
+    {
+      "english": "Keep that positive spirit!",
+      "spanish": "¡Mantén ese espíritu positivo!",
+      "category": "Positive Life",
+      "generated_at": "2026-10-18T05:16:38.867842"
+    },
+    {
+      "english": "You are stronger than you think.",
+      "spanish": "Eres más fuerte de lo que crees.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-18T05:16:38.867845"
+    },
+    {
+      "english": "Success is coming your way.",
+      "spanish": "El éxito viene en camino.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-18T05:16:38.867848"
+    },
+    {
+      "english": "Trust the process, slowly.",
+      "spanish": "Confía en el proceso, despacio.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-18T05:16:38.867850"
+    },
+    {
+      "english": "Your growth, is inspiring.",
+      "spanish": "Tu crecimiento, es inspirador.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-18T05:16:38.867853"
+    },
+    {
+      "english": "Keep your head up high.",
+      "spanish": "Mantén la cabeza en alto.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-18T05:16:38.867855"
+    },
+    {
+      "english": "You're doing your best, great!",
+      "spanish": "Estás dando lo mejor, ¡genial!",
+      "category": "Positive Life",
+      "generated_at": "2026-10-18T05:16:38.867858"
+    },
+    {
+      "english": "Focus on the next step.",
+      "spanish": "Enfócate en el siguiente paso.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-18T05:16:38.867860"
+    },
+    {
+      "english": "Be proud of yourself, always.",
+      "spanish": "Siéntete orgulloso de ti, siempre.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-18T05:16:38.867863"
+    },
+    {
+      "english": "My feelings, are valid, always.",
+      "spanish": "Mis sentimientos, son válidos, siempre.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-18T05:16:38.867866"
+    },
+    {
+      "english": "Patience, is a virtue, I practice.",
+      "spanish": "La paciencia, es una virtud, que practico.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-18T05:16:38.867869"
+    },
+    {
+      "english": "I am learning, to accept myself.",
+      "spanish": "Estoy aprendiendo, a aceptarme.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-18T05:16:38.867873"
+    },
+    {
+      "english": "My heart, feels full, right now.",
+      "spanish": "Mi corazón, se siente lleno, ahora.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-18T05:16:38.867878"
+    },
+    {
+      "english": "Honesty, with myself, is key.",
+      "spanish": "La honestidad, conmigo, es clave.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-18T05:16:38.867882"
+    },
+    {
+      "english": "I trust, my inner voice.",
+      "spanish": "Confío, en mi voz interior.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-18T05:16:38.867884"
+    },
+    {
+      "english": "This moment, is all I have.",
+      "spanish": "Este momento, es todo lo que tengo.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-18T05:16:38.867887"
+    },
+    {
+      "english": "My emotions, are a guide.",
+      "spanish": "Mis emociones, son una guía.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-18T05:16:38.867890"
+    },
+    {
+      "english": "I breathe deeply, and reflect.",
+      "spanish": "Respiro profundo, y reflexiono.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-18T05:16:38.867893"
+    },
+    {
+      "english": "I am at peace, with my path.",
+      "spanish": "Estoy en paz, con mi camino.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-18T05:16:38.867895"
+    },
+    {
+      "english": "Vulnerability, is my strength.",
+      "spanish": "La vulnerabilidad, es mi fuerza.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-18T05:16:38.867898"
+    },
+    {
+      "english": "I allow myself, to feel.",
+      "spanish": "Me permito, sentir.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-18T05:16:38.867901"
+    },
+    {
+      "english": "Gratitude, fills my soul.",
+      "spanish": "La gratitud, llena mi alma.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-18T05:16:38.867903"
+    },
+    {
+      "english": "I listen, to my intuition.",
+      "spanish": "Escucho, a mi intuición.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-18T05:16:38.867906"
+    },
+    {
+      "english": "My truth, is beautiful.",
+      "spanish": "Mi verdad, es hermosa.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-18T05:16:38.867909"
+    },
+    {
+      "english": "I am patient, with growth.",
+      "spanish": "Soy paciente, con el crecimiento.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-18T05:16:38.867912"
+    },
+    {
+      "english": "Understanding, comes with time.",
+      "spanish": "La comprensión, viene con tiempo.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-18T05:16:38.867915"
+    },
+    {
+      "english": "My feelings, are a map.",
+      "spanish": "Mis emociones, son un mapa.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-18T05:16:38.867917"
+    },
+    {
+      "english": "I accept, what is.",
+      "spanish": "Acepto, lo que es.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-18T05:16:38.867922"
+    },
+    {
+      "english": "Self-compassion, is vital.",
+      "spanish": "La autocompasión, es vital.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-18T05:16:38.867925"
+    },
+    {
+      "english": "I honor, my journey.",
+      "spanish": "Honro, mi viaje.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-18T05:16:38.867927"
+    },
+    {
+      "english": "Inner peace, is my goal.",
+      "spanish": "La paz interior, es mi meta.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-18T05:16:38.867930"
+    },
+    {
+      "english": "I am becoming, who I should be.",
+      "spanish": "Me estoy convirtiendo, en quien debo ser.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-18T05:16:38.867933"
+    },
+    {
+      "english": "My reflections, guide me.",
+      "spanish": "Mis reflexiones, me guían.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-18T05:16:38.867935"
+    },
+    {
+      "english": "I embrace, the unfolding.",
+      "spanish": "Abrazo, el desarrollo.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-18T05:16:38.867938"
+    },
+    {
+      "english": "Sincerity, is my language.",
+      "spanish": "La sinceridad, es mi idioma.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-18T05:16:38.867940"
+    },
+    {
+      "english": "I allow, gentle progress.",
+      "spanish": "Permito, un progreso suave.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-18T05:16:38.867943"
+    },
+    {
+      "english": "My feelings, are respected.",
+      "spanish": "Mis sentimientos, son respetados.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-18T05:16:38.867946"
+    },
+    {
+      "english": "I feel, deeply, and openly.",
+      "spanish": "Siento, profundamente, y abiertamente.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-18T05:16:38.867951"
+    },
+    {
+      "english": "Trusting myself, is learning.",
+      "spanish": "Confiar en mí, es aprender.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-18T05:16:38.867953"
+    },
+    {
+      "english": "Smile more, worry less.",
+      "spanish": "Sonríe más, preocúpate menos.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-18T05:16:38.867956"
+    },
+    {
+      "english": "Help others, feel good.",
+      "spanish": "Ayuda a otros, siéntete bien.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-18T05:16:38.867959"
+    },
+    {
+      "english": "Share your joy, generously.",
+      "spanish": "Comparte tu alegría, con generosidad.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-18T05:16:38.867961"
     }
   ],
-  "last_updated": "2026-10-17T05:12:10.922302"
+  "last_updated": "2026-10-18T05:16:38.867963"
 }
