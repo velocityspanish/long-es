@@ -2519,7 +2519,727 @@
       "spanish": "Comparte tu alegría, con generosidad.",
       "category": "Positive Life",
       "generated_at": "2026-10-18T05:16:38.867961"
+    },
+    {
+      "english": "Totally, I agree.",
+      "spanish": "Totalmente, estoy de acuerdo.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-19T05:28:37.300547"
+    },
+    {
+      "english": "Yes, of course.",
+      "spanish": "Sí, por supuesto.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-19T05:28:37.300562"
+    },
+    {
+      "english": "That's right, exactly.",
+      "spanish": "Así es, exacto.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-19T05:28:37.300566"
+    },
+    {
+      "english": "I think so too.",
+      "spanish": "Yo también lo creo.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-19T05:28:37.300569"
+    },
+    {
+      "english": "Good point, I see.",
+      "spanish": "Buen punto, entiendo.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-19T05:28:37.300571"
+    },
+    {
+      "english": "You got it.",
+      "spanish": "Lo tienes.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-19T05:28:37.300574"
+    },
+    {
+      "english": "Makes sense, totally.",
+      "spanish": "Tiene sentido, totalmente.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-19T05:28:37.300577"
+    },
+    {
+      "english": "Couldn't agree more.",
+      "spanish": "No podría estar más de acuerdo.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-19T05:28:37.300582"
+    },
+    {
+      "english": "I'm with you on that.",
+      "spanish": "Estoy contigo en eso.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-19T05:28:37.300586"
+    },
+    {
+      "english": "Exactly my thought.",
+      "spanish": "Exactamente mi pensamiento.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-19T05:28:37.300589"
+    },
+    {
+      "english": "No, I don't think so.",
+      "spanish": "No, no creo.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-19T05:28:37.300592"
+    },
+    {
+      "english": "I disagree, actually.",
+      "spanish": "En realidad, no estoy de acuerdo.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-19T05:28:37.300594"
+    },
+    {
+      "english": "Not really, no.",
+      "spanish": "La verdad es que no.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-19T05:28:37.300597"
+    },
+    {
+      "english": "I'm not so sure.",
+      "spanish": "No estoy tan seguro.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-19T05:28:37.300599"
+    },
+    {
+      "english": "That's not it.",
+      "spanish": "Eso no es.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-19T05:28:37.300602"
+    },
+    {
+      "english": "I have a different view.",
+      "spanish": "Tengo una perspectiva diferente.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-19T05:28:37.300604"
+    },
+    {
+      "english": "I don't see it that way.",
+      "spanish": "Yo no lo veo así.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-19T05:28:37.300607"
+    },
+    {
+      "english": "Hmm, I'm not convinced.",
+      "spanish": "Mmm, no me convence.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-19T05:28:37.300610"
+    },
+    {
+      "english": "On the contrary.",
+      "spanish": "Al contrario.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-19T05:28:37.300613"
+    },
+    {
+      "english": "That’s debatable.",
+      "spanish": "Eso es discutible.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-19T05:28:37.300616"
+    },
+    {
+      "english": "Are you sure about that?",
+      "spanish": "¿Estás seguro de eso?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-19T05:28:37.300619"
+    },
+    {
+      "english": "What if it's not?",
+      "spanish": "¿Y si no lo es?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-19T05:28:37.300622"
+    },
+    {
+      "english": "I don't think that's true.",
+      "spanish": "No creo que eso sea verdad.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-19T05:28:37.300624"
+    },
+    {
+      "english": "That’s not quite right.",
+      "spanish": "Eso no está del todo bien.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-19T05:28:37.300628"
+    },
+    {
+      "english": "I respectfully disagree.",
+      "spanish": "Respetuosamente, no estoy de acuerdo.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-19T05:28:37.300631"
+    },
+    {
+      "english": "We see things differently.",
+      "spanish": "Vemos las cosas de forma diferente.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-19T05:28:37.300633"
+    },
+    {
+      "english": "I have reservations.",
+      "spanish": "Tengo mis reservas.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-19T05:28:37.300635"
+    },
+    {
+      "english": "Let me offer another view.",
+      "spanish": "Déjame ofrecerte otra visión.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-19T05:28:37.300638"
+    },
+    {
+      "english": "I beg to differ.",
+      "spanish": "Me permito disentir.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-19T05:28:37.300640"
+    },
+    {
+      "english": "That's one way to look at it.",
+      "spanish": "Esa es una forma de verlo.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-19T05:28:37.300643"
+    },
+    {
+      "english": "What do you think, actually?",
+      "spanish": "¿Tú qué opinas, en realidad?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-19T05:28:37.300648"
+    },
+    {
+      "english": "Tell me, what's your take?",
+      "spanish": "Dime, ¿cuál es tu punto?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-19T05:28:37.300653"
+    },
+    {
+      "english": "How do you see this, then?",
+      "spanish": "¿Cómo ves esto, entonces?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-19T05:28:37.300656"
+    },
+    {
+      "english": "Does that make sense to you?",
+      "spanish": "¿Tiene sentido para ti?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-19T05:28:37.300659"
+    },
+    {
+      "english": "Am I wrong about this?",
+      "spanish": "¿Estoy equivocado/a en esto?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-19T05:28:37.300691"
+    },
+    {
+      "english": "Could you explain that further?",
+      "spanish": "¿Podrías explicar eso más?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-19T05:28:37.300700"
+    },
+    {
+      "english": "What if we tried something else?",
+      "spanish": "¿Y si probamos otra cosa?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-19T05:28:37.300706"
+    },
+    {
+      "english": "Is there another way to look?",
+      "spanish": "¿Hay otra forma de ver?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-19T05:28:37.300714"
+    },
+    {
+      "english": "What's your opinion on this?",
+      "spanish": "¿Cuál es tu opinión sobre esto?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-19T05:28:37.300719"
+    },
+    {
+      "english": "Do you agree with that idea?",
+      "spanish": "¿Estás de acuerdo con esa idea?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-19T05:28:37.300726"
+    },
+    {
+      "english": "So, you're saying that...?",
+      "spanish": "Entonces, ¿tú dices que...?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-19T05:28:37.300731"
+    },
+    {
+      "english": "What's your perspective on it?",
+      "spanish": "¿Cuál es tu perspectiva?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-19T05:28:37.300734"
+    },
+    {
+      "english": "Can you elaborate on that point?",
+      "spanish": "¿Puedes detallar ese punto?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-19T05:28:37.300737"
+    },
+    {
+      "english": "Help me understand your thinking.",
+      "spanish": "Ayúdame a entender tu pensar.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-19T05:28:37.300739"
+    },
+    {
+      "english": "What makes you think that way?",
+      "spanish": "¿Qué te hace pensar así?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-19T05:28:37.300742"
+    },
+    {
+      "english": "Are we on the same page here?",
+      "spanish": "¿Estamos en la misma página?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-19T05:28:37.300744"
+    },
+    {
+      "english": "I need your input on this.",
+      "spanish": "Necesito tu opinión sobre esto.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-19T05:28:37.300747"
+    },
+    {
+      "english": "What are your thoughts, really?",
+      "spanish": "¿Cuáles son tus pensamientos, de verdad?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-19T05:28:37.300750"
+    },
+    {
+      "english": "Let's discuss this openly.",
+      "spanish": "Hablemos de esto abiertamente.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-19T05:28:37.300753"
+    },
+    {
+      "english": "Can you give me your advice?",
+      "spanish": "¿Me puedes dar tu consejo?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-19T05:28:37.300756"
+    },
+    {
+      "english": "I'm curious about your view.",
+      "spanish": "Tengo curiosidad por tu punto de vista.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-19T05:28:37.300759"
+    },
+    {
+      "english": "What's the reasoning behind it?",
+      "spanish": "¿Cuál es el razonamiento detrás?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-19T05:28:37.300761"
+    },
+    {
+      "english": "How do you feel about this?",
+      "spanish": "¿Cómo te sientes al respecto?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-19T05:28:37.300763"
+    },
+    {
+      "english": "Would you reconsider that option?",
+      "spanish": "¿Reconsiderarías esa opción?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-19T05:28:37.300766"
+    },
+    {
+      "english": "Tell me your concerns, please.",
+      "spanish": "Dime tus preocupaciones, por favor.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-19T05:28:37.300769"
+    },
+    {
+      "english": "What are your objections?",
+      "spanish": "¿Cuáles son tus objeciones?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-19T05:28:37.300771"
+    },
+    {
+      "english": "Is there anything I'm missing?",
+      "spanish": "¿Hay algo que me esté perdiendo?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-19T05:28:37.300774"
+    },
+    {
+      "english": "Let's hear your side of it.",
+      "spanish": "Escuchemos tu versión del asunto.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-19T05:28:37.300777"
+    },
+    {
+      "english": "What's your honest opinion, then?",
+      "spanish": "¿Cuál es tu opinión honesta, entonces?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-19T05:28:37.300783"
+    },
+    {
+      "english": "I'm open to your ideas.",
+      "spanish": "Estoy abierto/a a tus ideas.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-19T05:28:37.300786"
+    },
+    {
+      "english": "You nailed it, totally.",
+      "spanish": "Lo clavaste, totalmente.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-19T05:28:37.300789"
+    },
+    {
+      "english": "That's spot on, my friend.",
+      "spanish": "Eso es justo lo que pienso, amigo.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-19T05:28:37.300792"
+    },
+    {
+      "english": "I'm with you on this.",
+      "spanish": "Estoy contigo en esto.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-19T05:28:37.300795"
+    },
+    {
+      "english": "Exactly, that's the point.",
+      "spanish": "Exacto, ese es el punto.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-19T05:28:37.300798"
+    },
+    {
+      "english": "You read my mind, wow.",
+      "spanish": "Leíste mi mente, vaya.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-19T05:28:37.300801"
+    },
+    {
+      "english": "Makes perfect sense, yeah.",
+      "spanish": "Tiene todo el sentido, sí.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-19T05:28:37.300804"
+    },
+    {
+      "english": "That's right on the money.",
+      "spanish": "Eso es dar en el clavo.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-19T05:28:37.300808"
+    },
+    {
+      "english": "I'm singing your tune.",
+      "spanish": "Canto tu misma canción.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-19T05:28:37.300811"
+    },
+    {
+      "english": "Couldn't have said it better.",
+      "spanish": "No lo podría haber dicho mejor.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-19T05:28:37.300814"
+    },
+    {
+      "english": "Totally see your point.",
+      "spanish": "Veo tu punto totalmente.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-19T05:28:37.300817"
+    },
+    {
+      "english": "That resonates with me.",
+      "spanish": "Eso resuena conmigo.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-19T05:28:37.300819"
+    },
+    {
+      "english": "You've got it, no doubt.",
+      "spanish": "Lo tienes, sin duda.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-19T05:28:37.300822"
+    },
+    {
+      "english": "I'm on board with that.",
+      "spanish": "Estoy de acuerdo con eso.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-19T05:28:37.300825"
+    },
+    {
+      "english": "That's exactly how I feel.",
+      "spanish": "Así es como me siento exactamente.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-19T05:28:37.300828"
+    },
+    {
+      "english": "I'm not so sure about that.",
+      "spanish": "No estoy tan seguro de eso.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-19T05:28:37.300830"
+    },
+    {
+      "english": "That's not quite the picture.",
+      "spanish": "Esa no es la imagen completa.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-19T05:28:37.300833"
+    },
+    {
+      "english": "I see it differently.",
+      "spanish": "Yo lo veo diferente.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-19T05:28:37.300836"
+    },
+    {
+      "english": "Hold on a second, maybe not.",
+      "spanish": "Espera un segundo, quizás no.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-19T05:28:37.300839"
+    },
+    {
+      "english": "That doesn't quite add up.",
+      "spanish": "Eso no cuadra del todo.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-19T05:28:37.300842"
+    },
+    {
+      "english": "I'm not buying that, sorry.",
+      "spanish": "No me trago eso, lo siento.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-19T05:28:37.300845"
+    },
+    {
+      "english": "That sounds a bit off.",
+      "spanish": "Eso suena un poco raro.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-19T05:28:37.300847"
+    },
+    {
+      "english": "I have my doubts, honestly.",
+      "spanish": "Tengo mis dudas, de verdad.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-19T05:28:37.300850"
+    },
+    {
+      "english": "That's not how I see it.",
+      "spanish": "No es así como yo lo veo.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-19T05:28:37.300852"
+    },
+    {
+      "english": "Let me play devil's advocate.",
+      "spanish": "Déjame jugar al abogado del diablo.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-19T05:28:37.300857"
+    },
+    {
+      "english": "I'm not entirely convinced.",
+      "spanish": "No estoy completamente convencido.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-19T05:28:37.300860"
+    },
+    {
+      "english": "We might be missing something.",
+      "spanish": "Podríamos estar pasando algo por alto.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-19T05:28:37.300862"
+    },
+    {
+      "english": "That's a stretch, no?",
+      "spanish": "Eso es un poco exagerado, ¿no?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-19T05:28:37.300866"
+    },
+    {
+      "english": "I can't quite get behind that.",
+      "spanish": "No puedo apoyarlo del todo.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-19T05:28:37.300868"
+    },
+    {
+      "english": "I'm not feeling that one.",
+      "spanish": "Esa no me convence.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-19T05:28:37.300871"
+    },
+    {
+      "english": "It touches me deeply, yes.",
+      "spanish": "Me llega muy hondo, sí.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-19T05:28:37.300874"
+    },
+    {
+      "english": "I reflect on that a lot.",
+      "spanish": "Reflexiono mucho sobre eso.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-19T05:28:37.300876"
+    },
+    {
+      "english": "It makes me ponder, truly.",
+      "spanish": "Me hace meditar, de verdad.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-19T05:28:37.300879"
+    },
+    {
+      "english": "My heart agrees with you.",
+      "spanish": "Mi corazón está de acuerdo.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-19T05:28:37.300881"
+    },
+    {
+      "english": "I feel a genuine connection.",
+      "spanish": "Siento una conexión genuina.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-19T05:28:37.300884"
+    },
+    {
+      "english": "Patience, let's see it through.",
+      "spanish": "Paciencia, veamos esto.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-19T05:28:37.300889"
+    },
+    {
+      "english": "That insight is quite profound.",
+      "spanish": "Esa perspicacia es muy profunda.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-19T05:28:37.300892"
+    },
+    {
+      "english": "I feel the truth in your words.",
+      "spanish": "Siento la verdad en tus palabras.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-19T05:28:37.300894"
+    },
+    {
+      "english": "This resonates with my soul.",
+      "spanish": "Esto resuena con mi alma.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-19T05:28:37.300897"
+    },
+    {
+      "english": "I find common ground here.",
+      "spanish": "Encuentro terreno común aquí.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-19T05:28:37.300901"
+    },
+    {
+      "english": "My inner voice says yes.",
+      "spanish": "Mi voz interior dice que sí.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-19T05:28:37.300904"
+    },
+    {
+      "english": "That feeling is mutual, for sure.",
+      "spanish": "Ese sentimiento es mutuo, seguro.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-19T05:28:37.300907"
+    },
+    {
+      "english": "I understand your deep motive.",
+      "spanish": "Entiendo tu motivo profundo.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-19T05:28:37.300911"
+    },
+    {
+      "english": "We are aligned on this.",
+      "spanish": "Estamos alineados en esto.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-19T05:28:37.300914"
+    },
+    {
+      "english": "That speaks to my heart.",
+      "spanish": "Eso me llega al corazón.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-19T05:28:37.300916"
+    },
+    {
+      "english": "I embrace this sentiment.",
+      "spanish": "Abrazo este sentimiento.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-19T05:28:37.300919"
+    },
+    {
+      "english": "Let's proceed with calm reflection.",
+      "spanish": "Avancemos con calma y reflexión.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-19T05:28:37.300922"
+    },
+    {
+      "english": "My spirit finds peace here.",
+      "spanish": "Mi espíritu encuentra paz aquí.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-19T05:28:37.300925"
+    },
+    {
+      "english": "I feel a sincere understanding.",
+      "spanish": "Siento una comprensión sincera.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-19T05:28:37.300927"
+    },
+    {
+      "english": "That thought really moves me.",
+      "spanish": "Ese pensamiento me conmueve.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-19T05:28:37.300930"
+    },
+    {
+      "english": "I'm glad we see eye to eye.",
+      "spanish": "Me alegra que veamos igual.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-19T05:28:37.300934"
+    },
+    {
+      "english": "My gut feeling agrees.",
+      "spanish": "Mi instinto está de acuerdo.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-19T05:28:37.300937"
+    },
+    {
+      "english": "I have faith in this direction.",
+      "spanish": "Tengo fe en esta dirección.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-19T05:28:37.300940"
+    },
+    {
+      "english": "We share a deep sentiment.",
+      "spanish": "Compartimos un sentimiento profundo.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-19T05:28:37.300942"
+    },
+    {
+      "english": "That's a comforting thought.",
+      "spanish": "Es un pensamiento reconfortante.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-19T05:28:37.300945"
+    },
+    {
+      "english": "My emotional core vibrates.",
+      "spanish": "Mi núcleo emocional vibra.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-19T05:28:37.300948"
+    },
+    {
+      "english": "I'm truly aligned with this.",
+      "spanish": "Estoy verdaderamente alineado con esto.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-19T05:28:37.300950"
+    },
+    {
+      "english": "This touches my spirit, yes.",
+      "spanish": "Esto toca mi espíritu, sí.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-19T05:28:37.300953"
+    },
+    {
+      "english": "I feel a peaceful agreement.",
+      "spanish": "Siento un acuerdo pacífico.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-19T05:28:37.300955"
+    },
+    {
+      "english": "Yes, I see your point, of course.",
+      "spanish": "Sí, entiendo tu punto, claro.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-19T05:28:37.300958"
+    },
+    {
+      "english": "That makes sense, let's do it.",
+      "spanish": "Tiene sentido, hagámoslo.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-19T05:28:37.300961"
     }
   ],
-  "last_updated": "2026-10-18T05:16:38.867963"
+  "last_updated": "2026-10-19T05:28:37.300963"
 }
