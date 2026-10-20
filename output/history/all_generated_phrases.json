@@ -3239,7 +3239,727 @@
       "spanish": "Tiene sentido, hagámoslo.",
       "category": "Agreeing & Disagreeing",
       "generated_at": "2026-10-19T05:28:37.300961"
+    },
+    {
+      "english": "Fingers crossed, for good luck",
+      "spanish": "Crucemos los dedos, por buena suerte",
+      "category": "Hope",
+      "generated_at": "2026-10-20T05:31:24.713913"
+    },
+    {
+      "english": "Let's hope for the best",
+      "spanish": "Esperemos lo mejor",
+      "category": "Hope",
+      "generated_at": "2026-10-20T05:31:24.713928"
+    },
+    {
+      "english": "I'm counting on a miracle",
+      "spanish": "Cuento con un milagro",
+      "category": "Hope",
+      "generated_at": "2026-10-20T05:31:24.713931"
+    },
+    {
+      "english": "Maybe it will work out",
+      "spanish": "Quizás salga bien",
+      "category": "Hope",
+      "generated_at": "2026-10-20T05:31:24.713934"
+    },
+    {
+      "english": "There's still a chance",
+      "spanish": "Todavía hay una oportunidad",
+      "category": "Hope",
+      "generated_at": "2026-10-20T05:31:24.713937"
+    },
+    {
+      "english": "Keep your chin up, always",
+      "spanish": "Mantén la cabeza alta, siempre",
+      "category": "Hope",
+      "generated_at": "2026-10-20T05:31:24.713940"
+    },
+    {
+      "english": "Don't lose hope, ever",
+      "spanish": "No pierdas la esperanza, nunca",
+      "category": "Hope",
+      "generated_at": "2026-10-20T05:31:24.713943"
+    },
+    {
+      "english": "A little bit of faith helps",
+      "spanish": "Un poco de fe ayuda",
+      "category": "Hope",
+      "generated_at": "2026-10-20T05:31:24.713948"
+    },
+    {
+      "english": "Let's see what happens",
+      "spanish": "A ver qué pasa",
+      "category": "Hope",
+      "generated_at": "2026-10-20T05:31:24.713954"
+    },
+    {
+      "english": "I'm optimistic about this",
+      "spanish": "Soy optimista al respecto",
+      "category": "Hope",
+      "generated_at": "2026-10-20T05:31:24.713957"
+    },
+    {
+      "english": "It could be worse, right?",
+      "spanish": "Podría ser peor, ¿verdad?",
+      "category": "Hope",
+      "generated_at": "2026-10-20T05:31:24.713960"
+    },
+    {
+      "english": "Hang in there, buddy",
+      "spanish": "Aguanta un poco, amigo",
+      "category": "Hope",
+      "generated_at": "2026-10-20T05:31:24.713962"
+    },
+    {
+      "english": "Let's stay positive, always",
+      "spanish": "Mantengamos una actitud positiva, siempre",
+      "category": "Hope",
+      "generated_at": "2026-10-20T05:31:24.713965"
+    },
+    {
+      "english": "Wishing you good luck",
+      "spanish": "Te deseo buena suerte",
+      "category": "Hope",
+      "generated_at": "2026-10-20T05:31:24.713968"
+    },
+    {
+      "english": "Hope is a good thing",
+      "spanish": "La esperanza es algo bueno",
+      "category": "Hope",
+      "generated_at": "2026-10-20T05:31:24.713972"
+    },
+    {
+      "english": "Maybe tomorrow is better",
+      "spanish": "Quizás mañana sea mejor",
+      "category": "Hope",
+      "generated_at": "2026-10-20T05:31:24.713974"
+    },
+    {
+      "english": "I have a good feeling",
+      "spanish": "Tengo un buen presentimiento",
+      "category": "Hope",
+      "generated_at": "2026-10-20T05:31:24.713976"
+    },
+    {
+      "english": "Let's remain hopeful",
+      "spanish": "Mantengámonos esperanzados",
+      "category": "Hope",
+      "generated_at": "2026-10-20T05:31:24.713979"
+    },
+    {
+      "english": "It's not over yet",
+      "spanish": "Aún no ha terminado",
+      "category": "Hope",
+      "generated_at": "2026-10-20T05:31:24.713983"
+    },
+    {
+      "english": "We can still do this",
+      "spanish": "Todavía podemos hacerlo",
+      "category": "Hope",
+      "generated_at": "2026-10-20T05:31:24.713986"
+    },
+    {
+      "english": "Keep the faith, you will",
+      "spanish": "Ten fe, lo harás",
+      "category": "Hope",
+      "generated_at": "2026-10-20T05:31:24.713988"
+    },
+    {
+      "english": "Sending positive vibes",
+      "spanish": "Enviando vibras positivas",
+      "category": "Hope",
+      "generated_at": "2026-10-20T05:31:24.713990"
+    },
+    {
+      "english": "I'm hoping for a solution",
+      "spanish": "Espero una solución",
+      "category": "Hope",
+      "generated_at": "2026-10-20T05:31:24.713993"
+    },
+    {
+      "english": "There's light at the end",
+      "spanish": "Hay luz al final",
+      "category": "Hope",
+      "generated_at": "2026-10-20T05:31:24.713995"
+    },
+    {
+      "english": "Let's keep our spirits up",
+      "spanish": "Mantengamos el ánimo alto",
+      "category": "Hope",
+      "generated_at": "2026-10-20T05:31:24.713998"
+    },
+    {
+      "english": "Maybe a happy ending",
+      "spanish": "Quizás un final feliz",
+      "category": "Hope",
+      "generated_at": "2026-10-20T05:31:24.714000"
+    },
+    {
+      "english": "I believe it's possible",
+      "spanish": "Creo que es posible",
+      "category": "Hope",
+      "generated_at": "2026-10-20T05:31:24.714003"
+    },
+    {
+      "english": "Let's wait and see",
+      "spanish": "Esperemos a ver",
+      "category": "Hope",
+      "generated_at": "2026-10-20T05:31:24.714005"
+    },
+    {
+      "english": "Things will get better",
+      "spanish": "Las cosas mejorarán",
+      "category": "Hope",
+      "generated_at": "2026-10-20T05:31:24.714007"
+    },
+    {
+      "english": "Keep hoping, don't give up",
+      "spanish": "Sigue esperando, no te rindas",
+      "category": "Hope",
+      "generated_at": "2026-10-20T05:31:24.714010"
+    },
+    {
+      "english": "What are your dreams, really?",
+      "spanish": "¿Cuáles son tus sueños, en serio?",
+      "category": "Hope",
+      "generated_at": "2026-10-20T05:31:24.714013"
+    },
+    {
+      "english": "Do you think it's possible?",
+      "spanish": "¿Crees que es posible?",
+      "category": "Hope",
+      "generated_at": "2026-10-20T05:31:24.714016"
+    },
+    {
+      "english": "Can we achieve this goal?",
+      "spanish": "¿Podemos alcanzar esta meta?",
+      "category": "Hope",
+      "generated_at": "2026-10-20T05:31:24.714019"
+    },
+    {
+      "english": "How can I help you succeed?",
+      "spanish": "¿Cómo puedo ayudarte a triunfar?",
+      "category": "Hope",
+      "generated_at": "2026-10-20T05:31:24.714021"
+    },
+    {
+      "english": "Where do you see yourself then?",
+      "spanish": "¿Dónde te ves entonces?",
+      "category": "Hope",
+      "generated_at": "2026-10-20T05:31:24.714024"
+    },
+    {
+      "english": "Is there another way, perhaps?",
+      "spanish": "¿Hay otra manera, quizás?",
+      "category": "Hope",
+      "generated_at": "2026-10-20T05:31:24.714027"
+    },
+    {
+      "english": "What's your biggest aspiration?",
+      "spanish": "¿Cuál es tu aspiración más grande?",
+      "category": "Hope",
+      "generated_at": "2026-10-20T05:31:24.714030"
+    },
+    {
+      "english": "Shall we make a plan for this?",
+      "spanish": "¿Hacemos un plan para esto?",
+      "category": "Hope",
+      "generated_at": "2026-10-20T05:31:24.714032"
+    },
+    {
+      "english": "What do you need to move forward?",
+      "spanish": "¿Qué necesitas para avanzar?",
+      "category": "Hope",
+      "generated_at": "2026-10-20T05:31:24.714035"
+    },
+    {
+      "english": "Are you ready for this challenge?",
+      "spanish": "¿Estás listo/a para este reto?",
+      "category": "Hope",
+      "generated_at": "2026-10-20T05:31:24.714037"
+    },
+    {
+      "english": "Can we make a difference together?",
+      "spanish": "¿Podemos hacer una diferencia juntos?",
+      "category": "Hope",
+      "generated_at": "2026-10-20T05:31:24.714042"
+    },
+    {
+      "english": "What inspires your optimism?",
+      "spanish": "¿Qué inspira tu optimismo?",
+      "category": "Hope",
+      "generated_at": "2026-10-20T05:31:24.714046"
+    },
+    {
+      "english": "Do you believe in positive outcomes?",
+      "spanish": "¿Crees en los resultados positivos?",
+      "category": "Hope",
+      "generated_at": "2026-10-20T05:31:24.714048"
+    },
+    {
+      "english": "What's your vision for the future?",
+      "spanish": "¿Cuál es tu visión para el futuro?",
+      "category": "Hope",
+      "generated_at": "2026-10-20T05:31:24.714051"
+    },
+    {
+      "english": "How do we stay motivated?",
+      "spanish": "¿Cómo nos mantenemos motivados?",
+      "category": "Hope",
+      "generated_at": "2026-10-20T05:31:24.714054"
+    },
+    {
+      "english": "Can we count on your support?",
+      "spanish": "¿Podemos contar con tu apoyo?",
+      "category": "Hope",
+      "generated_at": "2026-10-20T05:31:24.714056"
+    },
+    {
+      "english": "What gives you strength daily?",
+      "spanish": "¿Qué te da fuerza a diario?",
+      "category": "Hope",
+      "generated_at": "2026-10-20T05:31:24.714059"
+    },
+    {
+      "english": "Is there anything I can do?",
+      "spanish": "¿Hay algo que pueda hacer?",
+      "category": "Hope",
+      "generated_at": "2026-10-20T05:31:24.714061"
+    },
+    {
+      "english": "What's your best guess on this?",
+      "spanish": "¿Cuál es tu mejor suposición?",
+      "category": "Hope",
+      "generated_at": "2026-10-20T05:31:24.714064"
+    },
+    {
+      "english": "Do you feel hopeful about it?",
+      "spanish": "¿Te sientes esperanzado/a al respecto?",
+      "category": "Hope",
+      "generated_at": "2026-10-20T05:31:24.714066"
+    },
+    {
+      "english": "What's the next step, then?",
+      "spanish": "¿Cuál es el próximo paso, entonces?",
+      "category": "Hope",
+      "generated_at": "2026-10-20T05:31:24.714069"
+    },
+    {
+      "english": "Can we make it happen together?",
+      "spanish": "¿Podemos hacerlo realidad juntos?",
+      "category": "Hope",
+      "generated_at": "2026-10-20T05:31:24.714072"
+    },
+    {
+      "english": "What are we hoping for most?",
+      "spanish": "¿Qué es lo que más esperamos?",
+      "category": "Hope",
+      "generated_at": "2026-10-20T05:31:24.714074"
+    },
+    {
+      "english": "Do you have a positive outlook?",
+      "spanish": "¿Tienes una perspectiva positiva?",
+      "category": "Hope",
+      "generated_at": "2026-10-20T05:31:24.714077"
+    },
+    {
+      "english": "What if we aimed higher?",
+      "spanish": "¿Y si apuntamos más alto?",
+      "category": "Hope",
+      "generated_at": "2026-10-20T05:31:24.714081"
+    },
+    {
+      "english": "Can we trust this opportunity?",
+      "spanish": "¿Podemos confiar en esta oportunidad?",
+      "category": "Hope",
+      "generated_at": "2026-10-20T05:31:24.714083"
+    },
+    {
+      "english": "What's your strategy for success?",
+      "spanish": "¿Cuál es tu estrategia para el éxito?",
+      "category": "Hope",
+      "generated_at": "2026-10-20T05:31:24.714086"
+    },
+    {
+      "english": "Are you open to new ideas?",
+      "spanish": "¿Estás abierto/a a nuevas ideas?",
+      "category": "Hope",
+      "generated_at": "2026-10-20T05:31:24.714088"
+    },
+    {
+      "english": "What outcome do you anticipate?",
+      "spanish": "¿Qué resultado anticipas?",
+      "category": "Hope",
+      "generated_at": "2026-10-20T05:31:24.714091"
+    },
+    {
+      "english": "Keep pushing forward, don't stop now.",
+      "spanish": "Sigue adelante, no te detengas.",
+      "category": "Hope",
+      "generated_at": "2026-10-20T05:31:24.714094"
+    },
+    {
+      "english": "Your strength is amazing, truly.",
+      "spanish": "Tu fuerza es increíble, de verdad.",
+      "category": "Hope",
+      "generated_at": "2026-10-20T05:31:24.714097"
+    },
+    {
+      "english": "I see your potential, it's huge.",
+      "spanish": "Veo tu potencial, es enorme.",
+      "category": "Hope",
+      "generated_at": "2026-10-20T05:31:24.714100"
+    },
+    {
+      "english": "Stay focused, you're almost there.",
+      "spanish": "Mantente enfocado, ya casi llegas.",
+      "category": "Hope",
+      "generated_at": "2026-10-20T05:31:24.714103"
+    },
+    {
+      "english": "You've got this, I know you do.",
+      "spanish": "Tú puedes con esto, lo sé.",
+      "category": "Hope",
+      "generated_at": "2026-10-20T05:31:24.714106"
+    },
+    {
+      "english": "Every step counts, keep going.",
+      "spanish": "Cada paso cuenta, sigue así.",
+      "category": "Hope",
+      "generated_at": "2026-10-20T05:31:24.714109"
+    },
+    {
+      "english": "Your effort is showing, nicely done.",
+      "spanish": "Tu esfuerzo se nota, bien hecho.",
+      "category": "Hope",
+      "generated_at": "2026-10-20T05:31:24.714112"
+    },
+    {
+      "english": "Don't doubt your abilities, ever.",
+      "spanish": "No dudes de tus habilidades, nunca.",
+      "category": "Hope",
+      "generated_at": "2026-10-20T05:31:24.714115"
+    },
+    {
+      "english": "Let's celebrate your progress, yes!",
+      "spanish": "¡Celebremos tu progreso, sí!",
+      "category": "Hope",
+      "generated_at": "2026-10-20T05:31:24.714118"
+    },
+    {
+      "english": "You are capable of great things.",
+      "spanish": "Eres capaz de grandes cosas.",
+      "category": "Hope",
+      "generated_at": "2026-10-20T05:31:24.714120"
+    },
+    {
+      "english": "Hang in there, you're doing great.",
+      "spanish": "Aguanta, lo estás haciendo genial.",
+      "category": "Hope",
+      "generated_at": "2026-10-20T05:31:24.714125"
+    },
+    {
+      "english": "This is your moment, shine bright.",
+      "spanish": "Este es tu momento, brilla.",
+      "category": "Hope",
+      "generated_at": "2026-10-20T05:31:24.714128"
+    },
+    {
+      "english": "You inspire me with your drive.",
+      "spanish": "Me inspiras con tu impulso.",
+      "category": "Hope",
+      "generated_at": "2026-10-20T05:31:24.714130"
+    },
+    {
+      "english": "Keep that positive energy flowing.",
+      "spanish": "Mantén esa energía positiva fluyendo.",
+      "category": "Hope",
+      "generated_at": "2026-10-20T05:31:24.714135"
+    },
+    {
+      "english": "You're stronger than you think, really.",
+      "spanish": "Eres más fuerte de lo que crees, de verdad.",
+      "category": "Hope",
+      "generated_at": "2026-10-20T05:31:24.714138"
+    },
+    {
+      "english": "Success is within reach for you.",
+      "spanish": "El éxito está a tu alcance.",
+      "category": "Hope",
+      "generated_at": "2026-10-20T05:31:24.714141"
+    },
+    {
+      "english": "Your resilience is admirable, wow.",
+      "spanish": "Tu resiliencia es admirable, guau.",
+      "category": "Hope",
+      "generated_at": "2026-10-20T05:31:24.714143"
+    },
+    {
+      "english": "Give it your all, you can win.",
+      "spanish": "Dalo todo, puedes ganar.",
+      "category": "Hope",
+      "generated_at": "2026-10-20T05:31:24.714146"
+    },
+    {
+      "english": "Keep the faith, the best is coming.",
+      "spanish": "Mantén la fe, lo mejor viene.",
+      "category": "Hope",
+      "generated_at": "2026-10-20T05:31:24.714149"
+    },
+    {
+      "english": "You have the power to achieve this.",
+      "spanish": "Tienes el poder de lograr esto.",
+      "category": "Hope",
+      "generated_at": "2026-10-20T05:31:24.714151"
+    },
+    {
+      "english": "Your determination is impressive.",
+      "spanish": "Tu determinación es impresionante.",
+      "category": "Hope",
+      "generated_at": "2026-10-20T05:31:24.714154"
+    },
+    {
+      "english": "Never underestimate your own grit.",
+      "spanish": "Nunca subestimes tu propia garra.",
+      "category": "Hope",
+      "generated_at": "2026-10-20T05:31:24.714158"
+    },
+    {
+      "english": "Look how far you've come, amazing!",
+      "spanish": "¡Mira lo lejos que has llegado, asombroso!",
+      "category": "Hope",
+      "generated_at": "2026-10-20T05:31:24.714163"
+    },
+    {
+      "english": "You're on the right path, continue.",
+      "spanish": "Estás en el camino correcto, sigue.",
+      "category": "Hope",
+      "generated_at": "2026-10-20T05:31:24.714166"
+    },
+    {
+      "english": "Embrace challenges with courage.",
+      "spanish": "Afronta los desafíos con coraje.",
+      "category": "Hope",
+      "generated_at": "2026-10-20T05:31:24.714169"
+    },
+    {
+      "english": "Your spirit is unbreakable, truly.",
+      "spanish": "Tu espíritu es irrompible, de verdad.",
+      "category": "Hope",
+      "generated_at": "2026-10-20T05:31:24.714172"
+    },
+    {
+      "english": "Keep that fire burning inside.",
+      "spanish": "Mantén ese fuego encendido dentro.",
+      "category": "Hope",
+      "generated_at": "2026-10-20T05:31:24.714174"
+    },
+    {
+      "english": "You're capable of surprising yourself.",
+      "spanish": "Eres capaz de sorprenderte a ti mismo.",
+      "category": "Hope",
+      "generated_at": "2026-10-20T05:31:24.714177"
+    },
+    {
+      "english": "Today is a new chance to win.",
+      "spanish": "Hoy es una nueva oportunidad de ganar.",
+      "category": "Hope",
+      "generated_at": "2026-10-20T05:31:24.714180"
+    },
+    {
+      "english": "Thinking positive, honestly.",
+      "spanish": "Pensando positivo, honestamente.",
+      "category": "Hope",
+      "generated_at": "2026-10-20T05:31:24.714182"
+    },
+    {
+      "english": "I believe in what's coming.",
+      "spanish": "Creo en lo que viene.",
+      "category": "Hope",
+      "generated_at": "2026-10-20T05:31:24.714185"
+    },
+    {
+      "english": "My gut says it'll work out.",
+      "spanish": "Mi instinto dice que saldrá bien.",
+      "category": "Hope",
+      "generated_at": "2026-10-20T05:31:24.714188"
+    },
+    {
+      "english": "This feels right, deep down.",
+      "spanish": "Esto se siente bien, muy adentro.",
+      "category": "Hope",
+      "generated_at": "2026-10-20T05:31:24.714190"
+    },
+    {
+      "english": "Waiting patiently, with a smile.",
+      "spanish": "Esperando pacientemente, con una sonrisa.",
+      "category": "Hope",
+      "generated_at": "2026-10-20T05:31:24.714193"
+    },
+    {
+      "english": "Hoping for the best, always.",
+      "spanish": "Esperando lo mejor, siempre.",
+      "category": "Hope",
+      "generated_at": "2026-10-20T05:31:24.714196"
+    },
+    {
+      "english": "Dreaming big, feeling hopeful.",
+      "spanish": "Soñando en grande, sintiéndome esperanzado.",
+      "category": "Hope",
+      "generated_at": "2026-10-20T05:31:24.714199"
+    },
+    {
+      "english": "It will unfold beautifully.",
+      "spanish": "Se desplegará maravillosamente.",
+      "category": "Hope",
+      "generated_at": "2026-10-20T05:31:24.714201"
+    },
+    {
+      "english": "I'm sensing good things ahead.",
+      "spanish": "Presiento cosas buenas por delante.",
+      "category": "Hope",
+      "generated_at": "2026-10-20T05:31:24.714204"
+    },
+    {
+      "english": "Trusting the process, truly.",
+      "spanish": "Confiando en el proceso, de verdad.",
+      "category": "Hope",
+      "generated_at": "2026-10-20T05:31:24.714207"
+    },
+    {
+      "english": "A calm heart, full of hope.",
+      "spanish": "Un corazón tranquilo, lleno de esperanza.",
+      "category": "Hope",
+      "generated_at": "2026-10-20T05:31:24.714210"
+    },
+    {
+      "english": "This feeling, it's promising.",
+      "spanish": "Esta sensación, es prometedora.",
+      "category": "Hope",
+      "generated_at": "2026-10-20T05:31:24.714212"
+    },
+    {
+      "english": "We are getting closer, I feel.",
+      "spanish": "Nos estamos acercando, lo siento.",
+      "category": "Hope",
+      "generated_at": "2026-10-20T05:31:24.714217"
+    },
+    {
+      "english": "A spark of hope, ignites.",
+      "spanish": "Una chispa de esperanza, se enciende.",
+      "category": "Hope",
+      "generated_at": "2026-10-20T05:31:24.714220"
+    },
+    {
+      "english": "My spirit is lifting, see?",
+      "spanish": "Mi espíritu se eleva, ¿ves?",
+      "category": "Hope",
+      "generated_at": "2026-10-20T05:31:24.714223"
+    },
+    {
+      "english": "Believing without seeing yet.",
+      "spanish": "Creyendo sin ver aún.",
+      "category": "Hope",
+      "generated_at": "2026-10-20T05:31:24.714225"
+    },
+    {
+      "english": "I'm optimistic, for real.",
+      "spanish": "Soy optimista, de verdad.",
+      "category": "Hope",
+      "generated_at": "2026-10-20T05:31:24.714230"
+    },
+    {
+      "english": "Future looks bright, you think?",
+      "spanish": "El futuro se ve brillante, ¿tú crees?",
+      "category": "Hope",
+      "generated_at": "2026-10-20T05:31:24.714233"
+    },
+    {
+      "english": "A deep sense of peace, now.",
+      "spanish": "Una profunda paz, ahora.",
+      "category": "Hope",
+      "generated_at": "2026-10-20T05:31:24.714235"
+    },
+    {
+      "english": "Hoping it blossoms soon.",
+      "spanish": "Esperando que florezca pronto.",
+      "category": "Hope",
+      "generated_at": "2026-10-20T05:31:24.714238"
+    },
+    {
+      "english": "Letting go of doubts, finally.",
+      "spanish": "Dejando ir las dudas, por fin.",
+      "category": "Hope",
+      "generated_at": "2026-10-20T05:31:24.714240"
+    },
+    {
+      "english": "This path leads somewhere good.",
+      "spanish": "Este camino lleva a algo bueno.",
+      "category": "Hope",
+      "generated_at": "2026-10-20T05:31:24.714243"
+    },
+    {
+      "english": "My heart feels a warmth.",
+      "spanish": "Mi corazón siente una calidez.",
+      "category": "Hope",
+      "generated_at": "2026-10-20T05:31:24.714245"
+    },
+    {
+      "english": "Positive energy, flowing through.",
+      "spanish": "Energía positiva, fluyendo.",
+      "category": "Hope",
+      "generated_at": "2026-10-20T05:31:24.714248"
+    },
+    {
+      "english": "Tomorrow holds promise.",
+      "spanish": "Mañana guarda promesas.",
+      "category": "Hope",
+      "generated_at": "2026-10-20T05:31:24.714251"
+    },
+    {
+      "english": "I'm choosing to believe.",
+      "spanish": "Elijo creer.",
+      "category": "Hope",
+      "generated_at": "2026-10-20T05:31:24.714253"
+    },
+    {
+      "english": "Good vibes only, right?",
+      "spanish": "Solo buenas vibras, ¿verdad?",
+      "category": "Hope",
+      "generated_at": "2026-10-20T05:31:24.714256"
+    },
+    {
+      "english": "Things are looking up.",
+      "spanish": "Las cosas están mejorando.",
+      "category": "Hope",
+      "generated_at": "2026-10-20T05:31:24.714258"
+    },
+    {
+      "english": "A gentle hope, inside me.",
+      "spanish": "Una esperanza gentil, dentro de mí.",
+      "category": "Hope",
+      "generated_at": "2026-10-20T05:31:24.714261"
+    },
+    {
+      "english": "Take it step by step, you'll get there.",
+      "spanish": "Paso a paso, llegarás.",
+      "category": "Hope",
+      "generated_at": "2026-10-20T05:31:24.714264"
+    },
+    {
+      "english": "Even small progress counts, see?",
+      "spanish": "Hasta el avance pequeño cuenta, ¿ves?",
+      "category": "Hope",
+      "generated_at": "2026-10-20T05:31:24.714267"
+    },
+    {
+      "english": "Focus on today, the rest will follow.",
+      "spanish": "Concéntrate en hoy, lo demás vendrá.",
+      "category": "Hope",
+      "generated_at": "2026-10-20T05:31:24.714270"
     }
   ],
-  "last_updated": "2026-10-19T05:28:37.300963"
+  "last_updated": "2026-10-20T05:31:24.714272"
 }
