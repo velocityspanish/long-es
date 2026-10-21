@@ -3959,7 +3959,727 @@
       "spanish": "Concéntrate en hoy, lo demás vendrá.",
       "category": "Hope",
       "generated_at": "2026-10-20T05:31:24.714270"
+    },
+    {
+      "english": "Hey, what's up, friend?",
+      "spanish": "Hola, ¿qué tal, amigo/a?",
+      "category": "Friendship",
+      "generated_at": "2026-10-21T05:31:49.847815"
+    },
+    {
+      "english": "How are you doing, buddy?",
+      "spanish": "¿Cómo te va, compañero/a?",
+      "category": "Friendship",
+      "generated_at": "2026-10-21T05:31:49.847828"
+    },
+    {
+      "english": "Good to see you again!",
+      "spanish": "¡Qué bueno verte de nuevo!",
+      "category": "Friendship",
+      "generated_at": "2026-10-21T05:31:49.847831"
+    },
+    {
+      "english": "Long time no see, pal.",
+      "spanish": "¡Cuánto tiempo sin verte, colega!",
+      "category": "Friendship",
+      "generated_at": "2026-10-21T05:31:49.847834"
+    },
+    {
+      "english": "How have you been?",
+      "spanish": "¿Cómo has estado?",
+      "category": "Friendship",
+      "generated_at": "2026-10-21T05:31:49.847837"
+    },
+    {
+      "english": "What are you up to?",
+      "spanish": "¿En qué andas?",
+      "category": "Friendship",
+      "generated_at": "2026-10-21T05:31:49.847839"
+    },
+    {
+      "english": "Let's hang out soon.",
+      "spanish": "Vamos a vernos pronto.",
+      "category": "Friendship",
+      "generated_at": "2026-10-21T05:31:49.847842"
+    },
+    {
+      "english": "Can we meet up later?",
+      "spanish": "¿Podemos quedar más tarde?",
+      "category": "Friendship",
+      "generated_at": "2026-10-21T05:31:49.847847"
+    },
+    {
+      "english": "I'm glad we're friends.",
+      "spanish": "Me alegra que seamos amigos/as.",
+      "category": "Friendship",
+      "generated_at": "2026-10-21T05:31:49.847851"
+    },
+    {
+      "english": "You're a great friend.",
+      "spanish": "Eres un gran amigo/a.",
+      "category": "Friendship",
+      "generated_at": "2026-10-21T05:31:49.847854"
+    },
+    {
+      "english": "Thanks for being there.",
+      "spanish": "Gracias por estar ahí.",
+      "category": "Friendship",
+      "generated_at": "2026-10-21T05:31:49.847856"
+    },
+    {
+      "english": "I really appreciate you.",
+      "spanish": "Te valoro mucho.",
+      "category": "Friendship",
+      "generated_at": "2026-10-21T05:31:49.847860"
+    },
+    {
+      "english": "That's so kind of you.",
+      "spanish": "Qué amable de tu parte.",
+      "category": "Friendship",
+      "generated_at": "2026-10-21T05:31:49.847862"
+    },
+    {
+      "english": "You always make me laugh.",
+      "spanish": "Siempre me haces reír.",
+      "category": "Friendship",
+      "generated_at": "2026-10-21T05:31:49.847867"
+    },
+    {
+      "english": "I can count on you.",
+      "spanish": "Puedo contar contigo.",
+      "category": "Friendship",
+      "generated_at": "2026-10-21T05:31:49.847869"
+    },
+    {
+      "english": "We have so much fun.",
+      "spanish": "Nos divertimos mucho.",
+      "category": "Friendship",
+      "generated_at": "2026-10-21T05:31:49.847871"
+    },
+    {
+      "english": "You're the best, seriously.",
+      "spanish": "Eres el/la mejor, en serio.",
+      "category": "Friendship",
+      "generated_at": "2026-10-21T05:31:49.847874"
+    },
+    {
+      "english": "Tell me everything!",
+      "spanish": "¡Cuéntame todo!",
+      "category": "Friendship",
+      "generated_at": "2026-10-21T05:31:49.847876"
+    },
+    {
+      "english": "What's new with you?",
+      "spanish": "¿Qué hay de nuevo?",
+      "category": "Friendship",
+      "generated_at": "2026-10-21T05:31:49.847879"
+    },
+    {
+      "english": "Are you free this weekend?",
+      "spanish": "¿Estás libre este fin de semana?",
+      "category": "Friendship",
+      "generated_at": "2026-10-21T05:31:49.847881"
+    },
+    {
+      "english": "Let's grab a coffee.",
+      "spanish": "Vamos por un café.",
+      "category": "Friendship",
+      "generated_at": "2026-10-21T05:31:49.847883"
+    },
+    {
+      "english": "You're a lifesaver!",
+      "spanish": "¡Me salvaste la vida!",
+      "category": "Friendship",
+      "generated_at": "2026-10-21T05:31:49.847885"
+    },
+    {
+      "english": "I miss our talks.",
+      "spanish": "Extraño nuestras charlas.",
+      "category": "Friendship",
+      "generated_at": "2026-10-21T05:31:49.847887"
+    },
+    {
+      "english": "We should do this more often.",
+      "spanish": "Deberíamos hacer esto más seguido.",
+      "category": "Friendship",
+      "generated_at": "2026-10-21T05:31:49.847889"
+    },
+    {
+      "english": "You always know what to say.",
+      "spanish": "Siempre sabes qué decir.",
+      "category": "Friendship",
+      "generated_at": "2026-10-21T05:31:49.847891"
+    },
+    {
+      "english": "My friend, you're awesome.",
+      "spanish": "Mi amigo/a, eres genial.",
+      "category": "Friendship",
+      "generated_at": "2026-10-21T05:31:49.847895"
+    },
+    {
+      "english": "Thanks for the support.",
+      "spanish": "Gracias por el apoyo.",
+      "category": "Friendship",
+      "generated_at": "2026-10-21T05:31:49.847897"
+    },
+    {
+      "english": "You're stuck with me!",
+      "spanish": "¡Me aguantas para siempre!",
+      "category": "Friendship",
+      "generated_at": "2026-10-21T05:31:49.847900"
+    },
+    {
+      "english": "Let's catch up soon.",
+      "spanish": "Ponte al día pronto.",
+      "category": "Friendship",
+      "generated_at": "2026-10-21T05:31:49.847902"
+    },
+    {
+      "english": "You're one of a kind.",
+      "spanish": "Eres único/a en tu clase.",
+      "category": "Friendship",
+      "generated_at": "2026-10-21T05:31:49.847905"
+    },
+    {
+      "english": "What's on your mind, compa?",
+      "spanish": "¿Qué tienes en mente, compa?",
+      "category": "Friendship",
+      "generated_at": "2026-10-21T05:31:49.847908"
+    },
+    {
+      "english": "Need some advice, amigo?",
+      "spanish": "¿Necesitas un consejo, amigo?",
+      "category": "Friendship",
+      "generated_at": "2026-10-21T05:31:49.847911"
+    },
+    {
+      "english": "Tell me your plans, please?",
+      "spanish": "Cuéntame tus planes, por favor?",
+      "category": "Friendship",
+      "generated_at": "2026-10-21T05:31:49.847913"
+    },
+    {
+      "english": "What's bothering you, dude?",
+      "spanish": "¿Qué te preocupa, tío?",
+      "category": "Friendship",
+      "generated_at": "2026-10-21T05:31:49.847916"
+    },
+    {
+      "english": "Got a minute, pal?",
+      "spanish": "¿Tienes un minuto, pana?",
+      "category": "Friendship",
+      "generated_at": "2026-10-21T05:31:49.847918"
+    },
+    {
+      "english": "What's the latest news?",
+      "spanish": "¿Cuáles son las últimas noticias?",
+      "category": "Friendship",
+      "generated_at": "2026-10-21T05:31:49.847921"
+    },
+    {
+      "english": "Share your thoughts with me?",
+      "spanish": "Comparte tus pensamientos conmigo?",
+      "category": "Friendship",
+      "generated_at": "2026-10-21T05:31:49.847924"
+    },
+    {
+      "english": "How's your day going?",
+      "spanish": "¿Cómo va tu día?",
+      "category": "Friendship",
+      "generated_at": "2026-10-21T05:31:49.847928"
+    },
+    {
+      "english": "What do you recommend, chaval?",
+      "spanish": "¿Qué recomiendas, chaval?",
+      "category": "Friendship",
+      "generated_at": "2026-10-21T05:31:49.847931"
+    },
+    {
+      "english": "Got any big ideas?",
+      "spanish": "¿Tienes grandes ideas?",
+      "category": "Friendship",
+      "generated_at": "2026-10-21T05:31:49.847933"
+    },
+    {
+      "english": "What are we doing tonight?",
+      "spanish": "¿Qué hacemos esta noche?",
+      "category": "Friendship",
+      "generated_at": "2026-10-21T05:31:49.847936"
+    },
+    {
+      "english": "Need a second opinion?",
+      "spanish": "¿Necesitas una segunda opinión?",
+      "category": "Friendship",
+      "generated_at": "2026-10-21T05:31:49.847938"
+    },
+    {
+      "english": "What's new, my friend?",
+      "spanish": "¿Qué hay de nuevo, mi amigo?",
+      "category": "Friendship",
+      "generated_at": "2026-10-21T05:31:49.847940"
+    },
+    {
+      "english": "Can you help me out?",
+      "spanish": "¿Me puedes echar una mano?",
+      "category": "Friendship",
+      "generated_at": "2026-10-21T05:31:49.847942"
+    },
+    {
+      "english": "Got time to chat?",
+      "spanish": "¿Tienes tiempo para charlar?",
+      "category": "Friendship",
+      "generated_at": "2026-10-21T05:31:49.847944"
+    },
+    {
+      "english": "What's the situation?",
+      "spanish": "¿Cuál es la situación?",
+      "category": "Friendship",
+      "generated_at": "2026-10-21T05:31:49.847946"
+    },
+    {
+      "english": "Want to share something?",
+      "spanish": "¿Quieres compartir algo?",
+      "category": "Friendship",
+      "generated_at": "2026-10-21T05:31:49.847948"
+    },
+    {
+      "english": "Any exciting plans?",
+      "spanish": "¿Algún plan emocionante?",
+      "category": "Friendship",
+      "generated_at": "2026-10-21T05:31:49.847950"
+    },
+    {
+      "english": "What's your take on this?",
+      "spanish": "¿Cuál es tu opinión sobre esto?",
+      "category": "Friendship",
+      "generated_at": "2026-10-21T05:31:49.847953"
+    },
+    {
+      "english": "Need a listening ear?",
+      "spanish": "¿Necesitas alguien que te escuche?",
+      "category": "Friendship",
+      "generated_at": "2026-10-21T05:31:49.847955"
+    },
+    {
+      "english": "How's everything going?",
+      "spanish": "¿Cómo va todo?",
+      "category": "Friendship",
+      "generated_at": "2026-10-21T05:31:49.847957"
+    },
+    {
+      "english": "Tell me what happened?",
+      "spanish": "Cuéntame qué pasó?",
+      "category": "Friendship",
+      "generated_at": "2026-10-21T05:31:49.847959"
+    },
+    {
+      "english": "What's on your agenda?",
+      "spanish": "¿Qué tienes en tu agenda?",
+      "category": "Friendship",
+      "generated_at": "2026-10-21T05:31:49.847961"
+    },
+    {
+      "english": "Fancy a quick chat?",
+      "spanish": "¿Te apetece una charla rápida?",
+      "category": "Friendship",
+      "generated_at": "2026-10-21T05:31:49.847963"
+    },
+    {
+      "english": "What do you think about it?",
+      "spanish": "¿Qué piensas al respecto?",
+      "category": "Friendship",
+      "generated_at": "2026-10-21T05:31:49.847965"
+    },
+    {
+      "english": "Got any good ideas?",
+      "spanish": "¿Tienes buenas ideas?",
+      "category": "Friendship",
+      "generated_at": "2026-10-21T05:31:49.847967"
+    },
+    {
+      "english": "Need to vent, pal?",
+      "spanish": "¿Necesitas desahogarte, colega?",
+      "category": "Friendship",
+      "generated_at": "2026-10-21T05:31:49.847969"
+    },
+    {
+      "english": "Believe in yourself, friend.",
+      "spanish": "Cree en ti, amigo.",
+      "category": "Friendship",
+      "generated_at": "2026-10-21T05:31:49.847971"
+    },
+    {
+      "english": "Your strength inspires me.",
+      "spanish": "Tu fuerza me inspira.",
+      "category": "Friendship",
+      "generated_at": "2026-10-21T05:31:49.847974"
+    },
+    {
+      "english": "You shine so brightly.",
+      "spanish": "Brillas con mucha luz.",
+      "category": "Friendship",
+      "generated_at": "2026-10-21T05:31:49.847976"
+    },
+    {
+      "english": "Keep going, you've got this.",
+      "spanish": "Sigue, tú puedes.",
+      "category": "Friendship",
+      "generated_at": "2026-10-21T05:31:49.847979"
+    },
+    {
+      "english": "I admire your courage.",
+      "spanish": "Admiro tu valentía.",
+      "category": "Friendship",
+      "generated_at": "2026-10-21T05:31:49.847981"
+    },
+    {
+      "english": "You make things better.",
+      "spanish": "Haces todo mejor.",
+      "category": "Friendship",
+      "generated_at": "2026-10-21T05:31:49.847984"
+    },
+    {
+      "english": "Your perspective is valuable.",
+      "spanish": "Tu punto de vista vale.",
+      "category": "Friendship",
+      "generated_at": "2026-10-21T05:31:49.847987"
+    },
+    {
+      "english": "You're a true inspiration.",
+      "spanish": "Eres una gran inspiración.",
+      "category": "Friendship",
+      "generated_at": "2026-10-21T05:31:49.847990"
+    },
+    {
+      "english": "Focus on your goals.",
+      "spanish": "Concéntrate en tus metas.",
+      "category": "Friendship",
+      "generated_at": "2026-10-21T05:31:49.847992"
+    },
+    {
+      "english": "You are capable of anything.",
+      "spanish": "Eres capaz de todo.",
+      "category": "Friendship",
+      "generated_at": "2026-10-21T05:31:49.847994"
+    },
+    {
+      "english": "Your kindness makes a difference.",
+      "spanish": "Tu amabilidad marca la diferencia.",
+      "category": "Friendship",
+      "generated_at": "2026-10-21T05:31:49.847996"
+    },
+    {
+      "english": "I believe in your dreams.",
+      "spanish": "Creo en tus sueños.",
+      "category": "Friendship",
+      "generated_at": "2026-10-21T05:31:49.848000"
+    },
+    {
+      "english": "You have so much potential.",
+      "spanish": "Tienes mucho potencial.",
+      "category": "Friendship",
+      "generated_at": "2026-10-21T05:31:49.848003"
+    },
+    {
+      "english": "Stay true to yourself.",
+      "spanish": "Sé fiel a ti mismo.",
+      "category": "Friendship",
+      "generated_at": "2026-10-21T05:31:49.848005"
+    },
+    {
+      "english": "Your efforts are commendable.",
+      "spanish": "Tus esfuerzos son dignos de elogio.",
+      "category": "Friendship",
+      "generated_at": "2026-10-21T05:31:49.848007"
+    },
+    {
+      "english": "You inspire growth in others.",
+      "spanish": "Inspiras crecimiento en otros.",
+      "category": "Friendship",
+      "generated_at": "2026-10-21T05:31:49.848009"
+    },
+    {
+      "english": "Think positive, achieve big.",
+      "spanish": "Piensa positivo, logra grande.",
+      "category": "Friendship",
+      "generated_at": "2026-10-21T05:31:49.848012"
+    },
+    {
+      "english": "Your determination is admirable.",
+      "spanish": "Tu determinación es admirable.",
+      "category": "Friendship",
+      "generated_at": "2026-10-21T05:31:49.848014"
+    },
+    {
+      "english": "You have a good heart.",
+      "spanish": "Tienes un gran corazón.",
+      "category": "Friendship",
+      "generated_at": "2026-10-21T05:31:49.848016"
+    },
+    {
+      "english": "Your wisdom guides me.",
+      "spanish": "Tu sabiduría me guía.",
+      "category": "Friendship",
+      "generated_at": "2026-10-21T05:31:49.848018"
+    },
+    {
+      "english": "You are a blessing.",
+      "spanish": "Eres una bendición.",
+      "category": "Friendship",
+      "generated_at": "2026-10-21T05:31:49.848020"
+    },
+    {
+      "english": "Embrace every opportunity.",
+      "spanish": "Aprovecha cada oportunidad.",
+      "category": "Friendship",
+      "generated_at": "2026-10-21T05:31:49.848022"
+    },
+    {
+      "english": "You achieve amazing things.",
+      "spanish": "Logras cosas increíbles.",
+      "category": "Friendship",
+      "generated_at": "2026-10-21T05:31:49.848024"
+    },
+    {
+      "english": "Let's lift each other up.",
+      "spanish": "Apoyémonos mutuamente.",
+      "category": "Friendship",
+      "generated_at": "2026-10-21T05:31:49.848027"
+    },
+    {
+      "english": "Your presence enriches life.",
+      "spanish": "Tu presencia enriquece la vida.",
+      "category": "Friendship",
+      "generated_at": "2026-10-21T05:31:49.848064"
+    },
+    {
+      "english": "You make the world brighter.",
+      "spanish": "Haces el mundo más brillante.",
+      "category": "Friendship",
+      "generated_at": "2026-10-21T05:31:49.848066"
+    },
+    {
+      "english": "True friends, understand silence.",
+      "spanish": "Los amigos de verdad, entienden el silencio.",
+      "category": "Friendship",
+      "generated_at": "2026-10-21T05:31:49.848069"
+    },
+    {
+      "english": "Patience, builds stronger bonds.",
+      "spanish": "La paciencia, crea lazos más fuertes.",
+      "category": "Friendship",
+      "generated_at": "2026-10-21T05:31:49.848071"
+    },
+    {
+      "english": "Sharing hurts, lessens the load.",
+      "spanish": "Compartir las penas, alivia la carga.",
+      "category": "Friendship",
+      "generated_at": "2026-10-21T05:31:49.848073"
+    },
+    {
+      "english": "Honesty, the best foundation.",
+      "spanish": "La honestidad, la mejor base.",
+      "category": "Friendship",
+      "generated_at": "2026-10-21T05:31:49.848076"
+    },
+    {
+      "english": "Empathy, connects our hearts.",
+      "spanish": "La empatía, une nuestros corazones.",
+      "category": "Friendship",
+      "generated_at": "2026-10-21T05:31:49.848078"
+    },
+    {
+      "english": "Listening deeply, shows you care.",
+      "spanish": "Escuchar atentamente, demuestra que importas.",
+      "category": "Friendship",
+      "generated_at": "2026-10-21T05:31:49.848080"
+    },
+    {
+      "english": "Vulnerability, brings us closer.",
+      "spanish": "La vulnerabilidad, nos acerca más.",
+      "category": "Friendship",
+      "generated_at": "2026-10-21T05:31:49.848084"
+    },
+    {
+      "english": "Understanding, is a gift.",
+      "spanish": "La comprensión, es un regalo.",
+      "category": "Friendship",
+      "generated_at": "2026-10-21T05:31:49.848087"
+    },
+    {
+      "english": "Forgiveness, heals old wounds.",
+      "spanish": "El perdón, sana viejas heridas.",
+      "category": "Friendship",
+      "generated_at": "2026-10-21T05:31:49.848089"
+    },
+    {
+      "english": "Trust, takes time to grow.",
+      "spanish": "La confianza, tarda en crecer.",
+      "category": "Friendship",
+      "generated_at": "2026-10-21T05:31:49.848093"
+    },
+    {
+      "english": "Support, in good times and bad.",
+      "spanish": "Apoyo, en las buenas y en las malas.",
+      "category": "Friendship",
+      "generated_at": "2026-10-21T05:31:49.848095"
+    },
+    {
+      "english": "Acceptance, without judgment.",
+      "spanish": "Aceptación, sin juzgar.",
+      "category": "Friendship",
+      "generated_at": "2026-10-21T05:31:49.848098"
+    },
+    {
+      "english": "True connection, feels peaceful.",
+      "spanish": "La conexión real, se siente tranquila.",
+      "category": "Friendship",
+      "generated_at": "2026-10-21T05:31:49.848100"
+    },
+    {
+      "english": "We learn, from each other.",
+      "spanish": "Aprendemos, el uno del otro.",
+      "category": "Friendship",
+      "generated_at": "2026-10-21T05:31:49.848102"
+    },
+    {
+      "english": "Sharing laughter, is precious.",
+      "spanish": "Compartir risas, es valioso.",
+      "category": "Friendship",
+      "generated_at": "2026-10-21T05:31:49.848105"
+    },
+    {
+      "english": "My feelings, matter to you.",
+      "spanish": "Mis sentimientos, te importan a ti.",
+      "category": "Friendship",
+      "generated_at": "2026-10-21T05:31:49.848107"
+    },
+    {
+      "english": "Your worries, I will carry.",
+      "spanish": "Tus preocupaciones, yo las llevaré.",
+      "category": "Friendship",
+      "generated_at": "2026-10-21T05:31:49.848109"
+    },
+    {
+      "english": "Let's be honest, always.",
+      "spanish": "Seamos sinceros, siempre.",
+      "category": "Friendship",
+      "generated_at": "2026-10-21T05:31:49.848113"
+    },
+    {
+      "english": "This friendship, is my anchor.",
+      "spanish": "Esta amistad, es mi ancla.",
+      "category": "Friendship",
+      "generated_at": "2026-10-21T05:31:49.848117"
+    },
+    {
+      "english": "Your presence, brings me calm.",
+      "spanish": "Tu presencia, me da calma.",
+      "category": "Friendship",
+      "generated_at": "2026-10-21T05:31:49.848120"
+    },
+    {
+      "english": "Real friends, feel like home.",
+      "spanish": "Los amigos reales, se sienten como hogar.",
+      "category": "Friendship",
+      "generated_at": "2026-10-21T05:31:49.848122"
+    },
+    {
+      "english": "Let's talk, from the heart.",
+      "spanish": "Hablemos, desde el corazón.",
+      "category": "Friendship",
+      "generated_at": "2026-10-21T05:31:49.848124"
+    },
+    {
+      "english": "I value, your sincerity.",
+      "spanish": "Valoro, tu sinceridad.",
+      "category": "Friendship",
+      "generated_at": "2026-10-21T05:31:49.848127"
+    },
+    {
+      "english": "We grow, together always.",
+      "spanish": "Crecemos, juntos siempre.",
+      "category": "Friendship",
+      "generated_at": "2026-10-21T05:31:49.848129"
+    },
+    {
+      "english": "Your peace, is my peace.",
+      "spanish": "Tu paz, es mi paz.",
+      "category": "Friendship",
+      "generated_at": "2026-10-21T05:31:49.848131"
+    },
+    {
+      "english": "Let's be patient, with us.",
+      "spanish": "Seamos pacientes, con nosotros.",
+      "category": "Friendship",
+      "generated_at": "2026-10-21T05:31:49.848134"
+    },
+    {
+      "english": "This bond, feels so right.",
+      "spanish": "Este vínculo, se siente tan correcto.",
+      "category": "Friendship",
+      "generated_at": "2026-10-21T05:31:49.848137"
+    },
+    {
+      "english": "A true friend, understands flaws.",
+      "spanish": "Un amigo fiel, entiende los defectos.",
+      "category": "Friendship",
+      "generated_at": "2026-10-21T05:31:49.848139"
+    },
+    {
+      "english": "Your thoughts, are welcome here.",
+      "spanish": "Tus pensamientos, son bienvenidos aquí.",
+      "category": "Friendship",
+      "generated_at": "2026-10-21T05:31:49.848141"
+    },
+    {
+      "english": "Feeling heard, means everything.",
+      "spanish": "Sentirse escuchado, lo significa todo.",
+      "category": "Friendship",
+      "generated_at": "2026-10-21T05:31:49.848144"
+    },
+    {
+      "english": "Need help, just ask me.",
+      "spanish": "Necesitas ayuda, solo dime.",
+      "category": "Friendship",
+      "generated_at": "2026-10-21T05:31:49.848146"
+    },
+    {
+      "english": "Let's plan something fun soon.",
+      "spanish": "Planeemos algo divertido pronto.",
+      "category": "Friendship",
+      "generated_at": "2026-10-21T05:31:49.848149"
+    },
+    {
+      "english": "What are your plans for tonight?",
+      "spanish": "¿Qué planes tienes para hoy?",
+      "category": "Friendship",
+      "generated_at": "2026-10-21T05:31:49.848151"
+    },
+    {
+      "english": "I'm here if you need to vent.",
+      "spanish": "Estoy aquí si necesitas desahogarte.",
+      "category": "Friendship",
+      "generated_at": "2026-10-21T05:31:49.848154"
+    },
+    {
+      "english": "We should definitely do this again.",
+      "spanish": "Definitivamente debemos hacer esto otra vez.",
+      "category": "Friendship",
+      "generated_at": "2026-10-21T05:31:49.848156"
+    },
+    {
+      "english": "How was your day, really?",
+      "spanish": "¿Cómo te fue el día, en serio?",
+      "category": "Friendship",
+      "generated_at": "2026-10-21T05:31:49.848158"
+    },
+    {
+      "english": "Want to grab a quick coffee?",
+      "spanish": "¿Quieres tomar un café rápido?",
+      "category": "Friendship",
+      "generated_at": "2026-10-21T05:31:49.848161"
     }
   ],
-  "last_updated": "2026-10-20T05:31:24.714272"
+  "last_updated": "2026-10-21T05:31:49.848163"
 }
