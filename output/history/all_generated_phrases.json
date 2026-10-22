@@ -4679,7 +4679,727 @@
       "spanish": "¿Quieres tomar un café rápido?",
       "category": "Friendship",
       "generated_at": "2026-10-21T05:31:49.848161"
+    },
+    {
+      "english": "Have courage, friend, you can do it.",
+      "spanish": "Ten valor, amigo, puedes hacerlo.",
+      "category": "Courage",
+      "generated_at": "2026-10-22T05:35:53.684285"
+    },
+    {
+      "english": "Be brave, don't be afraid.",
+      "spanish": "Sé valiente, no tengas miedo.",
+      "category": "Courage",
+      "generated_at": "2026-10-22T05:35:53.684297"
+    },
+    {
+      "english": "It takes courage to try.",
+      "spanish": "Se necesita coraje para intentar.",
+      "category": "Courage",
+      "generated_at": "2026-10-22T05:35:53.684301"
+    },
+    {
+      "english": "Show some guts, come on!",
+      "spanish": "Pon agallas, ¡vamos!",
+      "category": "Courage",
+      "generated_at": "2026-10-22T05:35:53.684304"
+    },
+    {
+      "english": "Don't lose heart, keep going.",
+      "spanish": "No te desanimes, sigue adelante.",
+      "category": "Courage",
+      "generated_at": "2026-10-22T05:35:53.684307"
+    },
+    {
+      "english": "He has a brave heart.",
+      "spanish": "Él tiene un corazón valiente.",
+      "category": "Courage",
+      "generated_at": "2026-10-22T05:35:53.684309"
+    },
+    {
+      "english": "What courage, truly amazing!",
+      "spanish": "¡Qué coraje, realmente asombroso!",
+      "category": "Courage",
+      "generated_at": "2026-10-22T05:35:53.684312"
+    },
+    {
+      "english": "Let's face it bravely.",
+      "spanish": "Afrontémoslo con valentía.",
+      "category": "Courage",
+      "generated_at": "2026-10-22T05:35:53.684317"
+    },
+    {
+      "english": "That was a courageous act.",
+      "spanish": "Ese fue un acto de coraje.",
+      "category": "Courage",
+      "generated_at": "2026-10-22T05:35:53.684321"
+    },
+    {
+      "english": "Be bold, take the leap.",
+      "spanish": "Sé audaz, da el salto.",
+      "category": "Courage",
+      "generated_at": "2026-10-22T05:35:53.684324"
+    },
+    {
+      "english": "Are you brave enough?",
+      "spanish": "¿Eres lo suficientemente valiente?",
+      "category": "Courage",
+      "generated_at": "2026-10-22T05:35:53.684327"
+    },
+    {
+      "english": "We need to be courageous now.",
+      "spanish": "Necesitamos ser valientes ahora.",
+      "category": "Courage",
+      "generated_at": "2026-10-22T05:35:53.684329"
+    },
+    {
+      "english": "Don't let fear stop you.",
+      "spanish": "No dejes que el miedo te detenga.",
+      "category": "Courage",
+      "generated_at": "2026-10-22T05:35:53.684332"
+    },
+    {
+      "english": "You have the courage within.",
+      "spanish": "Tienes el coraje dentro de ti.",
+      "category": "Courage",
+      "generated_at": "2026-10-22T05:35:53.684334"
+    },
+    {
+      "english": "Stand up, be strong.",
+      "spanish": "Levántate, sé fuerte.",
+      "category": "Courage",
+      "generated_at": "2026-10-22T05:35:53.684337"
+    },
+    {
+      "english": "It takes guts to admit it.",
+      "spanish": "Se necesitan agallas para admitirlo.",
+      "category": "Courage",
+      "generated_at": "2026-10-22T05:35:53.684339"
+    },
+    {
+      "english": "She showed great bravery.",
+      "spanish": "Ella mostró gran valentía.",
+      "category": "Courage",
+      "generated_at": "2026-10-22T05:35:53.684342"
+    },
+    {
+      "english": "Let your courage shine.",
+      "spanish": "Deja que tu coraje brille.",
+      "category": "Courage",
+      "generated_at": "2026-10-22T05:35:53.684344"
+    },
+    {
+      "english": "He's a man of courage.",
+      "spanish": "Es un hombre de coraje.",
+      "category": "Courage",
+      "generated_at": "2026-10-22T05:35:53.684346"
+    },
+    {
+      "english": "Dare to dream big.",
+      "spanish": "Atrévete a soñar en grande.",
+      "category": "Courage",
+      "generated_at": "2026-10-22T05:35:53.684349"
+    },
+    {
+      "english": "Face challenges head-on.",
+      "spanish": "Enfrenta los desafíos de frente.",
+      "category": "Courage",
+      "generated_at": "2026-10-22T05:35:53.684351"
+    },
+    {
+      "english": "Be courageous, speak up.",
+      "spanish": "Sé valiente, habla.",
+      "category": "Courage",
+      "generated_at": "2026-10-22T05:35:53.684356"
+    },
+    {
+      "english": "That required real nerve.",
+      "spanish": "Eso requirió nervios de acero.",
+      "category": "Courage",
+      "generated_at": "2026-10-22T05:35:53.684358"
+    },
+    {
+      "english": "Don't back down now.",
+      "spanish": "No te eches atrás ahora.",
+      "category": "Courage",
+      "generated_at": "2026-10-22T05:35:53.684363"
+    },
+    {
+      "english": "His courage is inspiring.",
+      "spanish": "Su coraje es inspirador.",
+      "category": "Courage",
+      "generated_at": "2026-10-22T05:35:53.684365"
+    },
+    {
+      "english": "We must have fortitude.",
+      "spanish": "Debemos tener fortaleza.",
+      "category": "Courage",
+      "generated_at": "2026-10-22T05:35:53.684367"
+    },
+    {
+      "english": "Try it, be daring.",
+      "spanish": "Inténtalo, sé atrevido.",
+      "category": "Courage",
+      "generated_at": "2026-10-22T05:35:53.684370"
+    },
+    {
+      "english": "She has nerves of steel.",
+      "spanish": "Ella tiene nervios de acero.",
+      "category": "Courage",
+      "generated_at": "2026-10-22T05:35:53.684372"
+    },
+    {
+      "english": "Gather your courage, go!",
+      "spanish": "Reúne tu coraje, ¡ve!",
+      "category": "Courage",
+      "generated_at": "2026-10-22T05:35:53.684375"
+    },
+    {
+      "english": "Be bold in your choices.",
+      "spanish": "Sé audaz en tus decisiones.",
+      "category": "Courage",
+      "generated_at": "2026-10-22T05:35:53.684377"
+    },
+    {
+      "english": "What makes you feel brave?",
+      "spanish": "¿Qué te hace sentir valiente?",
+      "category": "Courage",
+      "generated_at": "2026-10-22T05:35:53.684380"
+    },
+    {
+      "english": "How do you find your courage?",
+      "spanish": "¿Cómo encuentras tu coraje?",
+      "category": "Courage",
+      "generated_at": "2026-10-22T05:35:53.684382"
+    },
+    {
+      "english": "Can we ask for help bravely?",
+      "spanish": "¿Podemos pedir ayuda con valentía?",
+      "category": "Courage",
+      "generated_at": "2026-10-22T05:35:53.684385"
+    },
+    {
+      "english": "Do you believe in your strength?",
+      "spanish": "¿Crees en tu fuerza?",
+      "category": "Courage",
+      "generated_at": "2026-10-22T05:35:53.684388"
+    },
+    {
+      "english": "Is it hard to be brave sometimes?",
+      "spanish": "¿Es difícil ser valiente a veces?",
+      "category": "Courage",
+      "generated_at": "2026-10-22T05:35:53.684390"
+    },
+    {
+      "english": "Who inspires your bravery?",
+      "spanish": "¿Quién inspira tu valentía?",
+      "category": "Courage",
+      "generated_at": "2026-10-22T05:35:53.684393"
+    },
+    {
+      "english": "What if we're not feeling bold?",
+      "spanish": "¿Y si no nos sentimos audaces?",
+      "category": "Courage",
+      "generated_at": "2026-10-22T05:35:53.684396"
+    },
+    {
+      "english": "Should we tell them our fears?",
+      "spanish": "¿Deberíamos contarles nuestros miedos?",
+      "category": "Courage",
+      "generated_at": "2026-10-22T05:35:53.684398"
+    },
+    {
+      "english": "How did you overcome that challenge?",
+      "spanish": "¿Cómo superaste ese desafío?",
+      "category": "Courage",
+      "generated_at": "2026-10-22T05:35:53.684401"
+    },
+    {
+      "english": "Can you encourage me a little?",
+      "spanish": "¿Puedes animarme un poco?",
+      "category": "Courage",
+      "generated_at": "2026-10-22T05:35:53.684403"
+    },
+    {
+      "english": "What's the first step to bravery?",
+      "spanish": "¿Cuál es el primer paso a la valentía?",
+      "category": "Courage",
+      "generated_at": "2026-10-22T05:35:53.684406"
+    },
+    {
+      "english": "Are we ready to try something new?",
+      "spanish": "¿Estamos listos para intentar algo nuevo?",
+      "category": "Courage",
+      "generated_at": "2026-10-22T05:35:53.684408"
+    },
+    {
+      "english": "What does 'courageous' mean to you?",
+      "spanish": "¿Qué significa 'valiente' para ti?",
+      "category": "Courage",
+      "generated_at": "2026-10-22T05:35:53.684411"
+    },
+    {
+      "english": "Did you hesitate before acting?",
+      "spanish": "¿Dudaste antes de actuar?",
+      "category": "Courage",
+      "generated_at": "2026-10-22T05:35:53.684414"
+    },
+    {
+      "english": "How much inner strength do you have?",
+      "spanish": "¿Cuánta fuerza interior tienes?",
+      "category": "Courage",
+      "generated_at": "2026-10-22T05:35:53.684416"
+    },
+    {
+      "english": "What if nobody supports us?",
+      "spanish": "¿Y si nadie nos apoya?",
+      "category": "Courage",
+      "generated_at": "2026-10-22T05:35:53.684419"
+    },
+    {
+      "english": "Can we learn to be bolder?",
+      "spanish": "¿Podemos aprender a ser más audaces?",
+      "category": "Courage",
+      "generated_at": "2026-10-22T05:35:53.684421"
+    },
+    {
+      "english": "Is it okay to feel scared?",
+      "spanish": "¿Está bien sentir miedo?",
+      "category": "Courage",
+      "generated_at": "2026-10-22T05:35:53.684423"
+    },
+    {
+      "english": "What helps you stay resilient?",
+      "spanish": "¿Qué te ayuda a mantenerte resiliente?",
+      "category": "Courage",
+      "generated_at": "2026-10-22T05:35:53.684426"
+    },
+    {
+      "english": "Should we take this risk together?",
+      "spanish": "¿Deberíamos tomar este riesgo juntos?",
+      "category": "Courage",
+      "generated_at": "2026-10-22T05:35:53.684428"
+    },
+    {
+      "english": "What's your secret to confidence?",
+      "spanish": "¿Cuál es tu secreto para la confianza?",
+      "category": "Courage",
+      "generated_at": "2026-10-22T05:35:53.684433"
+    },
+    {
+      "english": "Are you willing to face adversity?",
+      "spanish": "¿Estás dispuesto a enfrentar la adversidad?",
+      "category": "Courage",
+      "generated_at": "2026-10-22T05:35:53.684435"
+    },
+    {
+      "english": "How do we build our fortitude?",
+      "spanish": "¿Cómo construimos nuestra fortaleza?",
+      "category": "Courage",
+      "generated_at": "2026-10-22T05:35:53.684437"
+    },
+    {
+      "english": "What if we fail the first time?",
+      "spanish": "¿Y si fallamos la primera vez?",
+      "category": "Courage",
+      "generated_at": "2026-10-22T05:35:53.684440"
+    },
+    {
+      "english": "Can you show me how it's done?",
+      "spanish": "¿Puedes mostrarme cómo se hace?",
+      "category": "Courage",
+      "generated_at": "2026-10-22T05:35:53.684442"
+    },
+    {
+      "english": "What's the most courageous thing?",
+      "spanish": "¿Cuál es la cosa más valiente?",
+      "category": "Courage",
+      "generated_at": "2026-10-22T05:35:53.684447"
+    },
+    {
+      "english": "Do you think we can achieve this?",
+      "spanish": "¿Crees que podemos lograr esto?",
+      "category": "Courage",
+      "generated_at": "2026-10-22T05:35:53.684449"
+    },
+    {
+      "english": "What helps you decide quickly?",
+      "spanish": "¿Qué te ayuda a decidir rápido?",
+      "category": "Courage",
+      "generated_at": "2026-10-22T05:35:53.684451"
+    },
+    {
+      "english": "Let's talk about our doubts.",
+      "spanish": "Hablemos de nuestras dudas.",
+      "category": "Courage",
+      "generated_at": "2026-10-22T05:35:53.684454"
+    },
+    {
+      "english": "Stay strong, keep pushing.",
+      "spanish": "Mantente fuerte, sigue empujando.",
+      "category": "Courage",
+      "generated_at": "2026-10-22T05:35:53.684457"
+    },
+    {
+      "english": "Your bravery shines through.",
+      "spanish": "Tu valentía se nota.",
+      "category": "Courage",
+      "generated_at": "2026-10-22T05:35:53.684460"
+    },
+    {
+      "english": "Embrace the unknown, friend.",
+      "spanish": "Abraza lo desconocido, amigo.",
+      "category": "Courage",
+      "generated_at": "2026-10-22T05:35:53.684463"
+    },
+    {
+      "english": "Take a deep breath, act.",
+      "spanish": "Respira profundo, actúa.",
+      "category": "Courage",
+      "generated_at": "2026-10-22T05:35:53.684465"
+    },
+    {
+      "english": "Go for it, with heart.",
+      "spanish": "Ve por ello, con corazón.",
+      "category": "Courage",
+      "generated_at": "2026-10-22T05:35:53.684470"
+    },
+    {
+      "english": "Don't let fear win.",
+      "spanish": "No dejes que el miedo gane.",
+      "category": "Courage",
+      "generated_at": "2026-10-22T05:35:53.684473"
+    },
+    {
+      "english": "This is your moment, seize it.",
+      "spanish": "Este es tu momento, aprovéchalo.",
+      "category": "Courage",
+      "generated_at": "2026-10-22T05:35:53.684476"
+    },
+    {
+      "english": "Trust your instincts, move.",
+      "spanish": "Confía en tu instinto, muévete.",
+      "category": "Courage",
+      "generated_at": "2026-10-22T05:35:53.684478"
+    },
+    {
+      "english": "Show them what you're made of.",
+      "spanish": "Demuéstrales de qué estás hecho.",
+      "category": "Courage",
+      "generated_at": "2026-10-22T05:35:53.684481"
+    },
+    {
+      "english": "Courage is a muscle, train it.",
+      "spanish": "El coraje es un músculo, entrénalo.",
+      "category": "Courage",
+      "generated_at": "2026-10-22T05:35:53.684483"
+    },
+    {
+      "english": "You can handle this, I know.",
+      "spanish": "Puedes manejar esto, lo sé.",
+      "category": "Courage",
+      "generated_at": "2026-10-22T05:35:53.684486"
+    },
+    {
+      "english": "Be brave, even when scared.",
+      "spanish": "Sé valiente, aun con miedo.",
+      "category": "Courage",
+      "generated_at": "2026-10-22T05:35:53.684489"
+    },
+    {
+      "english": "Your inner strength is real.",
+      "spanish": "Tu fuerza interior es real.",
+      "category": "Courage",
+      "generated_at": "2026-10-22T05:35:53.684491"
+    },
+    {
+      "english": "Step out of your comfort zone.",
+      "spanish": "Sal de tu zona de confort.",
+      "category": "Courage",
+      "generated_at": "2026-10-22T05:35:53.684493"
+    },
+    {
+      "english": "Believe in your potential, fly.",
+      "spanish": "Cree en tu potencial, vuela.",
+      "category": "Courage",
+      "generated_at": "2026-10-22T05:35:53.684496"
+    },
+    {
+      "english": "This takes guts, you have them.",
+      "spanish": "Esto requiere agallas, tú las tienes.",
+      "category": "Courage",
+      "generated_at": "2026-10-22T05:35:53.684498"
+    },
+    {
+      "english": "Keep your spirit high.",
+      "spanish": "Mantén tu espíritu en alto.",
+      "category": "Courage",
+      "generated_at": "2026-10-22T05:35:53.684500"
+    },
+    {
+      "english": "Let your courage lead the way.",
+      "spanish": "Deja que tu coraje guíe el camino.",
+      "category": "Courage",
+      "generated_at": "2026-10-22T05:35:53.684505"
+    },
+    {
+      "english": "Don't be afraid to start.",
+      "spanish": "No temas empezar.",
+      "category": "Courage",
+      "generated_at": "2026-10-22T05:35:53.684507"
+    },
+    {
+      "english": "Your conviction is powerful.",
+      "spanish": "Tu convicción es poderosa.",
+      "category": "Courage",
+      "generated_at": "2026-10-22T05:35:53.684510"
+    },
+    {
+      "english": "Rise above the difficulties.",
+      "spanish": "Supérate sobre las dificultades.",
+      "category": "Courage",
+      "generated_at": "2026-10-22T05:35:53.684512"
+    },
+    {
+      "english": "You possess great inner resolve.",
+      "spanish": "Posees gran determinación interior.",
+      "category": "Courage",
+      "generated_at": "2026-10-22T05:35:53.684514"
+    },
+    {
+      "english": "Be daring, be unstoppable.",
+      "spanish": "Sé audaz, sé imparable.",
+      "category": "Courage",
+      "generated_at": "2026-10-22T05:35:53.684518"
+    },
+    {
+      "english": "Face the music, bravely.",
+      "spanish": "Acepta las consecuencias, valientemente.",
+      "category": "Courage",
+      "generated_at": "2026-10-22T05:35:53.684521"
+    },
+    {
+      "english": "Keep going, don't quit.",
+      "spanish": "Sigue adelante, no renuncies.",
+      "category": "Courage",
+      "generated_at": "2026-10-22T05:35:53.684523"
+    },
+    {
+      "english": "Let your spirit soar.",
+      "spanish": "Deja que tu espíritu vuele.",
+      "category": "Courage",
+      "generated_at": "2026-10-22T05:35:53.684526"
+    },
+    {
+      "english": "It's okay to be afraid, honestly.",
+      "spanish": "Está bien sentir miedo, de verdad.",
+      "category": "Courage",
+      "generated_at": "2026-10-22T05:35:53.684529"
+    },
+    {
+      "english": "We need to be patient with ourselves.",
+      "spanish": "Necesitamos ser pacientes con nosotros.",
+      "category": "Courage",
+      "generated_at": "2026-10-22T05:35:53.684532"
+    },
+    {
+      "english": "True strength is in vulnerability.",
+      "spanish": "La fuerza real está en ser vulnerable.",
+      "category": "Courage",
+      "generated_at": "2026-10-22T05:35:53.684536"
+    },
+    {
+      "english": "Let's reflect on what matters most.",
+      "spanish": "Reflexionemos sobre lo más importante.",
+      "category": "Courage",
+      "generated_at": "2026-10-22T05:35:53.684538"
+    },
+    {
+      "english": "It takes courage to be open.",
+      "spanish": "Se necesita coraje para ser abierto.",
+      "category": "Courage",
+      "generated_at": "2026-10-22T05:35:53.684553"
+    },
+    {
+      "english": "Accepting mistakes builds resilience.",
+      "spanish": "Aceptar errores crea resiliencia.",
+      "category": "Courage",
+      "generated_at": "2026-10-22T05:35:53.684558"
+    },
+    {
+      "english": "Can we find peace in uncertainty?",
+      "spanish": "¿Podemos hallar paz en la incertidumbre?",
+      "category": "Courage",
+      "generated_at": "2026-10-22T05:35:53.684561"
+    },
+    {
+      "english": "Expressing feelings shows great courage.",
+      "spanish": "Expresar sentimientos muestra gran valor.",
+      "category": "Courage",
+      "generated_at": "2026-10-22T05:35:53.684564"
+    },
+    {
+      "english": "Be kind to yourself, always.",
+      "spanish": "Sé amable contigo mismo, siempre.",
+      "category": "Courage",
+      "generated_at": "2026-10-22T05:35:53.684566"
+    },
+    {
+      "english": "Inner peace requires bravery.",
+      "spanish": "La paz interior requiere valentía.",
+      "category": "Courage",
+      "generated_at": "2026-10-22T05:35:53.684569"
+    },
+    {
+      "english": "Let your honest thoughts emerge.",
+      "spanish": "Deja que tus pensamientos honestos salgan.",
+      "category": "Courage",
+      "generated_at": "2026-10-22T05:35:53.684572"
+    },
+    {
+      "english": "Forgiveness is a courageous act.",
+      "spanish": "El perdón es un acto valiente.",
+      "category": "Courage",
+      "generated_at": "2026-10-22T05:35:53.684574"
+    },
+    {
+      "english": "Empathy requires open hearts.",
+      "spanish": "La empatía requiere corazones abiertos.",
+      "category": "Courage",
+      "generated_at": "2026-10-22T05:35:53.684577"
+    },
+    {
+      "english": "We can grow through reflection.",
+      "spanish": "Podemos crecer mediante la reflexión.",
+      "category": "Courage",
+      "generated_at": "2026-10-22T05:35:53.684579"
+    },
+    {
+      "english": "What wisdom have you gained?",
+      "spanish": "¿Qué sabiduría has ganado?",
+      "category": "Courage",
+      "generated_at": "2026-10-22T05:35:53.684581"
+    },
+    {
+      "english": "Be present, be mindful.",
+      "spanish": "Está presente, sé consciente.",
+      "category": "Courage",
+      "generated_at": "2026-10-22T05:35:53.684584"
+    },
+    {
+      "english": "Accepting limitations is strength.",
+      "spanish": "Aceptar límites es fortaleza.",
+      "category": "Courage",
+      "generated_at": "2026-10-22T05:35:53.684586"
+    },
+    {
+      "english": "Our feelings are valid, always.",
+      "spanish": "Nuestros sentimientos son válidos, siempre.",
+      "category": "Courage",
+      "generated_at": "2026-10-22T05:35:53.684589"
+    },
+    {
+      "english": "Courage is also about waiting.",
+      "spanish": "El coraje también es esperar.",
+      "category": "Courage",
+      "generated_at": "2026-10-22T05:35:53.684591"
+    },
+    {
+      "english": "Let yourself feel deeply.",
+      "spanish": "Permítete sentir profundamente.",
+      "category": "Courage",
+      "generated_at": "2026-10-22T05:35:53.684593"
+    },
+    {
+      "english": "Honesty builds trust, slowly.",
+      "spanish": "La honestidad construye confianza, despacio.",
+      "category": "Courage",
+      "generated_at": "2026-10-22T05:35:53.684598"
+    },
+    {
+      "english": "What inspires your inner peace?",
+      "spanish": "¿Qué inspira tu paz interior?",
+      "category": "Courage",
+      "generated_at": "2026-10-22T05:35:53.684600"
+    },
+    {
+      "english": "Patience unlocks many doors.",
+      "spanish": "La paciencia abre muchas puertas.",
+      "category": "Courage",
+      "generated_at": "2026-10-22T05:35:53.684603"
+    },
+    {
+      "english": "Reflect on your journey's lessons.",
+      "spanish": "Reflexiona sobre las lecciones de tu viaje.",
+      "category": "Courage",
+      "generated_at": "2026-10-22T05:35:53.684605"
+    },
+    {
+      "english": "Emotional honesty is powerful.",
+      "spanish": "La honestidad emocional es poderosa.",
+      "category": "Courage",
+      "generated_at": "2026-10-22T05:35:53.684608"
+    },
+    {
+      "english": "What brings you serenity?",
+      "spanish": "¿Qué te trae serenidad?",
+      "category": "Courage",
+      "generated_at": "2026-10-22T05:35:53.684610"
+    },
+    {
+      "english": "Be gentle with your process.",
+      "spanish": "Sé gentil con tu proceso.",
+      "category": "Courage",
+      "generated_at": "2026-10-22T05:35:53.684612"
+    },
+    {
+      "english": "Understanding takes time, friends.",
+      "spanish": "El entendimiento toma tiempo, amigos.",
+      "category": "Courage",
+      "generated_at": "2026-10-22T05:35:53.684615"
+    },
+    {
+      "english": "Try new foods, be adventurous.",
+      "spanish": "Prueba comidas nuevas, sé aventurero.",
+      "category": "Courage",
+      "generated_at": "2026-10-22T05:35:53.684618"
+    },
+    {
+      "english": "Ask for help, it's not weak.",
+      "spanish": "Pide ayuda, no es de débiles.",
+      "category": "Courage",
+      "generated_at": "2026-10-22T05:35:53.684620"
+    },
+    {
+      "english": "Get lost on purpose, explore.",
+      "spanish": "Piérdete a propósito, explora.",
+      "category": "Courage",
+      "generated_at": "2026-10-22T05:35:53.684623"
+    },
+    {
+      "english": "Speak up, your voice matters.",
+      "spanish": "Alza la voz, importa.",
+      "category": "Courage",
+      "generated_at": "2026-10-22T05:35:53.684625"
+    },
+    {
+      "english": "Dare to be different, truly.",
+      "spanish": "Atrévete a ser distinto, de verdad.",
+      "category": "Courage",
+      "generated_at": "2026-10-22T05:35:53.684628"
+    },
+    {
+      "english": "Travel solo, find yourself.",
+      "spanish": "Viaja solo, encuéntrate.",
+      "category": "Courage",
+      "generated_at": "2026-10-22T05:35:53.684630"
+    },
+    {
+      "english": "Approach strangers, make friends.",
+      "spanish": "Acércate a desconocidos, haz amigos.",
+      "category": "Courage",
+      "generated_at": "2026-10-22T05:35:53.684634"
     }
   ],
-  "last_updated": "2026-10-21T05:31:49.848163"
+  "last_updated": "2026-10-22T05:35:53.684636"
 }
