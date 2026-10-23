@@ -5399,7 +5399,727 @@
       "spanish": "Acércate a desconocidos, haz amigos.",
       "category": "Courage",
       "generated_at": "2026-10-22T05:35:53.684634"
+    },
+    {
+      "english": "Hello, how are you?",
+      "spanish": "Hola, ¿cómo estás?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-23T05:34:21.483517"
+    },
+    {
+      "english": "Good morning, what can I get?",
+      "spanish": "Buenos días, ¿qué te sirvo?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-23T05:34:21.483535"
+    },
+    {
+      "english": "I'd like a coffee, please.",
+      "spanish": "Quisiera un café, por favor.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-23T05:34:21.483541"
+    },
+    {
+      "english": "One coffee, coming right up.",
+      "spanish": "Un café, ahora mismo.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-23T05:34:21.483546"
+    },
+    {
+      "english": "What kind of coffee do you have?",
+      "spanish": "¿Qué tipo de café tienen?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-23T05:34:21.483551"
+    },
+    {
+      "english": "I'll take a pastry, too.",
+      "spanish": "Me llevo una bollería, también.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-23T05:34:21.483556"
+    },
+    {
+      "english": "Do you have croissants?",
+      "spanish": "¿Tenéis cruasanes?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-23T05:34:21.483561"
+    },
+    {
+      "english": "This looks delicious!",
+      "spanish": "¡Esto tiene muy buena pinta!",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-23T05:34:21.483569"
+    },
+    {
+      "english": "To go, please.",
+      "spanish": "Para llevar, por favor.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-23T05:34:21.483574"
+    },
+    {
+      "english": "For here, thank you.",
+      "spanish": "Aquí mismo, gracias.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-23T05:34:21.483579"
+    },
+    {
+      "english": "How much is it?",
+      "spanish": "¿Cuánto es?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-23T05:34:21.483584"
+    },
+    {
+      "english": "Can I pay with card?",
+      "spanish": "¿Puedo pagar con tarjeta?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-23T05:34:21.483588"
+    },
+    {
+      "english": "Here is your change.",
+      "spanish": "Aquí tiene su cambio.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-23T05:34:21.483592"
+    },
+    {
+      "english": "Enjoy your coffee!",
+      "spanish": "¡Que disfrutes tu café!",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-23T05:34:21.483596"
+    },
+    {
+      "english": "Thank you very much.",
+      "spanish": "Muchas gracias.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-23T05:34:21.483600"
+    },
+    {
+      "english": "See you later!",
+      "spanish": "¡Hasta luego!",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-23T05:34:21.483604"
+    },
+    {
+      "english": "What's the special today?",
+      "spanish": "¿Cuál es el especial de hoy?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-23T05:34:21.483608"
+    },
+    {
+      "english": "I need a quick caffeine boost.",
+      "spanish": "Necesito un chute de cafeína rápido.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-23T05:34:21.483612"
+    },
+    {
+      "english": "Is there sugar and milk?",
+      "spanish": "¿Hay azúcar y leche?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-23T05:34:21.483616"
+    },
+    {
+      "english": "Can I have a napkin?",
+      "spanish": "¿Me das una servilleta?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-23T05:34:21.483623"
+    },
+    {
+      "english": "This is my favorite spot.",
+      "spanish": "Este es mi lugar favorito.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-23T05:34:21.483628"
+    },
+    {
+      "english": "The Wi-Fi password, please?",
+      "spanish": "¿La contraseña del Wi-Fi, por favor?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-23T05:34:21.483632"
+    },
+    {
+      "english": "It's a bit crowded today.",
+      "spanish": "Hay bastante gente hoy.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-23T05:34:21.483637"
+    },
+    {
+      "english": "I'll just have a water.",
+      "spanish": "Solo tomaré un agua.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-23T05:34:21.483641"
+    },
+    {
+      "english": "This smells amazing!",
+      "spanish": "¡Esto huele genial!",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-23T05:34:21.483645"
+    },
+    {
+      "english": "Do you have almond milk?",
+      "spanish": "¿Tenéis leche de almendras?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-23T05:34:21.483649"
+    },
+    {
+      "english": "Just browsing for now.",
+      "spanish": "Solo estoy mirando por ahora.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-23T05:34:21.483653"
+    },
+    {
+      "english": "Can I get a receipt?",
+      "spanish": "¿Me puedes dar el ticket?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-23T05:34:21.483657"
+    },
+    {
+      "english": "This is perfect, thanks.",
+      "spanish": "Esto está perfecto, gracias.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-23T05:34:21.483661"
+    },
+    {
+      "english": "Have a great day!",
+      "spanish": "¡Que tengas un buen día!",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-23T05:34:21.483665"
+    },
+    {
+      "english": "What's new, today?",
+      "spanish": "¿Qué hay de nuevo, hoy?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-23T05:34:21.483670"
+    },
+    {
+      "english": "Could you recommend something sweet?",
+      "spanish": "¿Me recomiendas algo dulce?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-23T05:34:21.483675"
+    },
+    {
+      "english": "Is this pastry fresh?",
+      "spanish": "¿Está recién hecha esta masa?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-23T05:34:21.483679"
+    },
+    {
+      "english": "What's popular here?",
+      "spanish": "¿Qué es lo más popular aquí?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-23T05:34:21.483683"
+    },
+    {
+      "english": "Can I try a sample?",
+      "spanish": "¿Puedo probar una muestra?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-23T05:34:21.483690"
+    },
+    {
+      "english": "What's in this drink?",
+      "spanish": "¿Qué lleva esta bebida?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-23T05:34:21.483695"
+    },
+    {
+      "english": "Is there a quiet corner?",
+      "spanish": "¿Hay algún rincón tranquilo?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-23T05:34:21.483699"
+    },
+    {
+      "english": "Do you have decaf options?",
+      "spanish": "¿Tienen opciones descafeinadas?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-23T05:34:21.483703"
+    },
+    {
+      "english": "Could I have it with oat milk?",
+      "spanish": "¿Me lo puedes dar con leche de avena?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-23T05:34:21.483707"
+    },
+    {
+      "english": "What time do you close?",
+      "spanish": "¿A qué hora cierran?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-23T05:34:21.483712"
+    },
+    {
+      "english": "Can I get a loyalty card?",
+      "spanish": "¿Me das una tarjeta de fidelidad?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-23T05:34:21.483716"
+    },
+    {
+      "english": "What's the wifi password?",
+      "spanish": "¿Cuál es la clave del wifi?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-23T05:34:21.483720"
+    },
+    {
+      "english": "Is there a bathroom nearby?",
+      "spanish": "¿Hay un baño cerca?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-23T05:34:21.483745"
+    },
+    {
+      "english": "Can I ask a quick question?",
+      "spanish": "¿Puedo hacer una pregunta rápida?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-23T05:34:21.483750"
+    },
+    {
+      "english": "What makes this cake special?",
+      "spanish": "¿Qué hace especial este pastel?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-23T05:34:21.483754"
+    },
+    {
+      "english": "I'm looking for something light.",
+      "spanish": "Busco algo ligero.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-23T05:34:21.483759"
+    },
+    {
+      "english": "Do you have sugar-free syrup?",
+      "spanish": "¿Tienes jarabe sin azúcar?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-23T05:34:21.483767"
+    },
+    {
+      "english": "How do you spell that?",
+      "spanish": "¿Cómo se deletrea eso?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-23T05:34:21.483771"
+    },
+    {
+      "english": "Is this a local recipe?",
+      "spanish": "¿Es una receta local?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-23T05:34:21.483775"
+    },
+    {
+      "english": "Can I have a lid for this?",
+      "spanish": "¿Me pones una tapa para esto?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-23T05:34:21.483780"
+    },
+    {
+      "english": "What's your favorite item?",
+      "spanish": "¿Cuál es tu artículo favorito?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-23T05:34:21.483784"
+    },
+    {
+      "english": "Are there any vegan options?",
+      "spanish": "¿Hay opciones veganas?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-23T05:34:21.483788"
+    },
+    {
+      "english": "Could I get a straw, please?",
+      "spanish": "¿Me das una pajita, por favor?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-23T05:34:21.483795"
+    },
+    {
+      "english": "What's the daily bread?",
+      "spanish": "¿Cuál es el pan del día?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-23T05:34:21.483799"
+    },
+    {
+      "english": "Can I get a refill?",
+      "spanish": "¿Me puedes dar un relleno?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-23T05:34:21.483803"
+    },
+    {
+      "english": "Is this very strong coffee?",
+      "spanish": "¿Es este café muy fuerte?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-23T05:34:21.483807"
+    },
+    {
+      "english": "What's good with tea?",
+      "spanish": "¿Qué va bien con el té?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-23T05:34:21.483812"
+    },
+    {
+      "english": "Can I have some water, please?",
+      "spanish": "¿Me das un poco de agua, por favor?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-23T05:34:21.483816"
+    },
+    {
+      "english": "Is this seat taken?",
+      "spanish": "¿Está ocupado este asiento?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-23T05:34:21.483820"
+    },
+    {
+      "english": "Could you warm this up?",
+      "spanish": "¿Podrías calentarlo?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-23T05:34:21.483824"
+    },
+    {
+      "english": "It hits the spot, doesn't it?",
+      "spanish": "Da justo en el clavo, ¿verdad?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-23T05:34:21.483829"
+    },
+    {
+      "english": "A real treat, I must say.",
+      "spanish": "Un gusto adquirido, debo decir.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-23T05:34:21.483833"
+    },
+    {
+      "english": "That's the bee's knees!",
+      "spanish": "¡Eso es lo más de lo más!",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-23T05:34:21.483838"
+    },
+    {
+      "english": "It's a lifesaver, really.",
+      "spanish": "Es un salvavidas, de verdad.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-23T05:34:21.483842"
+    },
+    {
+      "english": "Worth every penny.",
+      "spanish": "Vale cada centavo.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-23T05:34:21.483846"
+    },
+    {
+      "english": "This is a game-changer.",
+      "spanish": "Esto cambia las reglas del juego.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-23T05:34:21.483851"
+    },
+    {
+      "english": "Exactly what I needed.",
+      "spanish": "Justo lo que necesitaba.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-23T05:34:21.483859"
+    },
+    {
+      "english": "This is music to my ears.",
+      "spanish": "Esto es música para mis oídos.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-23T05:34:21.483863"
+    },
+    {
+      "english": "A little slice of heaven.",
+      "spanish": "Un pedacito de cielo.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-23T05:34:21.483867"
+    },
+    {
+      "english": "Made my day, for sure.",
+      "spanish": "Me alegró el día, sin duda.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-23T05:34:21.483871"
+    },
+    {
+      "english": "That's a tough cookie.",
+      "spanish": "Ese es un hueso duro de roer.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-23T05:34:21.483875"
+    },
+    {
+      "english": "It's the icing on the cake.",
+      "spanish": "Es la guinda del pastel.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-23T05:34:21.483882"
+    },
+    {
+      "english": "You can't go wrong with this.",
+      "spanish": "No te puedes equivocar con esto.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-23T05:34:21.483887"
+    },
+    {
+      "english": "This is top-notch, really.",
+      "spanish": "Esto es de primera, de verdad.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-23T05:34:21.483893"
+    },
+    {
+      "english": "A little pick-me-up.",
+      "spanish": "Un pequeño estímulo.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-23T05:34:21.483898"
+    },
+    {
+      "english": "It's a steal, honestly.",
+      "spanish": "Es un chollo, sinceramente.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-23T05:34:21.483902"
+    },
+    {
+      "english": "This is a must-try.",
+      "spanish": "Esto es algo que hay que probar.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-23T05:34:21.483906"
+    },
+    {
+      "english": "It's worth the hype.",
+      "spanish": "Vale la pena el alboroto.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-23T05:34:21.483911"
+    },
+    {
+      "english": "That's a classic.",
+      "spanish": "Eso es un clásico.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-23T05:34:21.483915"
+    },
+    {
+      "english": "It's a real crowd-pleaser.",
+      "spanish": "Es algo que gusta a todo el mundo.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-23T05:34:21.483919"
+    },
+    {
+      "english": "This is food for the soul.",
+      "spanish": "Esto es comida para el alma.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-23T05:34:21.483923"
+    },
+    {
+      "english": "It's a blessing in disguise.",
+      "spanish": "Es una bendición disfrazada.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-23T05:34:21.483928"
+    },
+    {
+      "english": "That really hits the spot.",
+      "spanish": "Eso realmente da en el blanco.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-23T05:34:21.483931"
+    },
+    {
+      "english": "A moment of pure joy.",
+      "spanish": "Un momento de pura alegría.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-23T05:34:21.483935"
+    },
+    {
+      "english": "This is pure bliss.",
+      "spanish": "Esto es pura felicidad.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-23T05:34:21.483939"
+    },
+    {
+      "english": "It's a small wonder.",
+      "spanish": "Es una pequeña maravilla.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-23T05:34:21.483943"
+    },
+    {
+      "english": "This is heaven in a cup.",
+      "spanish": "Esto es el cielo en una taza.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-23T05:34:21.483948"
+    },
+    {
+      "english": "You can't beat this.",
+      "spanish": "No se puede superar esto.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-23T05:34:21.483952"
+    },
+    {
+      "english": "This is the bomb, man.",
+      "spanish": "Esto es la bomba, tío.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-23T05:34:21.483956"
+    },
+    {
+      "english": "This quiet moment, is everything.",
+      "spanish": "Este momento tranquilo, lo es todo.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-23T05:34:21.483961"
+    },
+    {
+      "english": "I need this calm, right now.",
+      "spanish": "Necesito esta calma, ahora mismo.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-23T05:34:21.483965"
+    },
+    {
+      "english": "Sometimes, you just need good coffee.",
+      "spanish": "A veces, solo necesitas buen café.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-23T05:34:21.483969"
+    },
+    {
+      "english": "This reminds me, of home.",
+      "spanish": "Esto me recuerda, a casa.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-23T05:34:21.483973"
+    },
+    {
+      "english": "My thoughts, feel clearer here.",
+      "spanish": "Mis pensamientos, se sienten más claros aquí.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-23T05:34:21.483978"
+    },
+    {
+      "english": "Patience, is a virtue, especially waiting for this.",
+      "spanish": "La paciencia, es una virtud, sobre todo esperando esto.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-23T05:34:21.483983"
+    },
+    {
+      "english": "This place, has good vibes.",
+      "spanish": "Este lugar, tiene buenas vibras.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-23T05:34:21.483987"
+    },
+    {
+      "english": "I'm just enjoying, the simple things.",
+      "spanish": "Solo disfruto, las cosas sencillas.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-23T05:34:21.483992"
+    },
+    {
+      "english": "This warm drink, feels like a hug.",
+      "spanish": "Esta bebida caliente, se siente como un abrazo.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-23T05:34:21.483996"
+    },
+    {
+      "english": "Lost in thought, with my pastry.",
+      "spanish": "Perdido en mis pensamientos, con mi pastelito.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-23T05:34:21.484004"
+    },
+    {
+      "english": "It's okay, to just be here.",
+      "spanish": "Está bien, solo estar aquí.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-23T05:34:21.484012"
+    },
+    {
+      "english": "Finding peace, in every sip.",
+      "spanish": "Encontrando paz, en cada sorbo.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-23T05:34:21.484016"
+    },
+    {
+      "english": "My little escape, from the world.",
+      "spanish": "Mi pequeño escape, del mundo.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-23T05:34:21.484021"
+    },
+    {
+      "english": "This sweet aroma, lifts my spirits.",
+      "spanish": "Este dulce aroma, me anima.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-23T05:34:21.484025"
+    },
+    {
+      "english": "Reflecting, on the day ahead.",
+      "spanish": "Reflexionando, sobre el día que viene.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-23T05:34:21.484029"
+    },
+    {
+      "english": "This is my sanctuary, for now.",
+      "spanish": "Este es mi santuario, por ahora.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-23T05:34:21.484034"
+    },
+    {
+      "english": "A moment to breathe, and regroup.",
+      "spanish": "Un momento para respirar, y reordenar.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-23T05:34:21.484038"
+    },
+    {
+      "english": "Feeling grateful, for simple pleasures.",
+      "spanish": "Sintiéndome agradecido, por los placeres simples.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-23T05:34:21.484043"
+    },
+    {
+      "english": "This coffee shop, feels like a community.",
+      "spanish": "Esta cafetería, se siente como una comunidad.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-23T05:34:21.484048"
+    },
+    {
+      "english": "Sometimes, silence is golden.",
+      "spanish": "A veces, el silencio es oro.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-23T05:34:21.484052"
+    },
+    {
+      "english": "I needed this pause, sincerely.",
+      "spanish": "Necesitaba esta pausa, sinceramente.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-23T05:34:21.484056"
+    },
+    {
+      "english": "Letting my worries, melt away.",
+      "spanish": "Dejando que mis preocupaciones, se desvanezcan.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-23T05:34:21.484060"
+    },
+    {
+      "english": "This comforting warmth, is perfect.",
+      "spanish": "Esta calidez reconfortante, es perfecta.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-23T05:34:21.484065"
+    },
+    {
+      "english": "Finding inspiration, in the details.",
+      "spanish": "Encontrando inspiración, en los detalles.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-23T05:34:21.484069"
+    },
+    {
+      "english": "This is my happy place, today.",
+      "spanish": "Este es mi lugar feliz, hoy.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-23T05:34:21.484073"
+    },
+    {
+      "english": "Enjoying this treat, with gratitude.",
+      "spanish": "Disfrutando este manjar, con gratitud.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-23T05:34:21.484081"
+    },
+    {
+      "english": "My soul needed this.",
+      "spanish": "Mi alma necesitaba esto.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-23T05:34:21.484085"
+    },
+    {
+      "english": "This moment, is a gift.",
+      "spanish": "Este momento, es un regalo.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-23T05:34:21.484090"
+    },
+    {
+      "english": "Just soaking in, the atmosphere.",
+      "spanish": "Solo absorbiendo, la atmósfera.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-23T05:34:21.484094"
+    },
+    {
+      "english": "Feeling content, right here, right now.",
+      "spanish": "Sintiéndome contento, aquí mismo, ahora mismo.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-23T05:34:21.484099"
+    },
+    {
+      "english": "Can I pay, with my phone?",
+      "spanish": "¿Puedo pagar, con el móvil?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-23T05:34:21.484103"
     }
   ],
-  "last_updated": "2026-10-22T05:35:53.684636"
+  "last_updated": "2026-10-23T05:34:21.484107"
 }
