@@ -6119,7 +6119,727 @@
       "spanish": "¿Puedo pagar, con el móvil?",
       "category": "Coffee Shop & Bakery",
       "generated_at": "2026-10-23T05:34:21.484103"
+    },
+    {
+      "english": "Fantastic effort, keep going!",
+      "spanish": "¡Esfuerzo fantástico, sigue adelante!",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:13:01.442212"
+    },
+    {
+      "english": "You're nailing it, truly.",
+      "spanish": "Lo estás clavando, de verdad.",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:13:01.442228"
+    },
+    {
+      "english": "That's a solid start, excellent.",
+      "spanish": "Ese es un buen comienzo, excelente.",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:13:01.442232"
+    },
+    {
+      "english": "Impressive grasp, my friend.",
+      "spanish": "Comprensión impresionante, amigo mío.",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:13:01.442235"
+    },
+    {
+      "english": "You're catching on, fast!",
+      "spanish": "¡Estás pillando el truco, rápido!",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:13:01.442238"
+    },
+    {
+      "english": "This is huge progress, wow.",
+      "spanish": "Este es un progreso enorme, wow.",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:13:01.442241"
+    },
+    {
+      "english": "Your Spanish is blooming, nicely.",
+      "spanish": "Tu español está floreciendo, muy bien.",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:13:01.442244"
+    },
+    {
+      "english": "You communicate well, clearly.",
+      "spanish": "Te comunicas bien, con claridad.",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:13:01.442249"
+    },
+    {
+      "english": "Excellent comprehension, fantastic.",
+      "spanish": "Excelente comprensión, fantástico.",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:13:01.442253"
+    },
+    {
+      "english": "The details, you're getting them.",
+      "spanish": "Los detalles, los estás captando.",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:13:01.442256"
+    },
+    {
+      "english": "You're unlocking new words, great.",
+      "spanish": "Estás desbloqueando palabras nuevas, genial.",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:13:01.442259"
+    },
+    {
+      "english": "Your intuition, is spot on.",
+      "spanish": "Tu intuición, está acertada.",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:13:01.442262"
+    },
+    {
+      "english": "That nuance, you got it.",
+      "spanish": "Ese matiz, lo entendiste.",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:13:01.442265"
+    },
+    {
+      "english": "You're building confidence, impressively.",
+      "spanish": "Estás construyendo confianza, impresionantemente.",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:13:01.442267"
+    },
+    {
+      "english": "Your understanding, deepens daily.",
+      "spanish": "Tu entendimiento, se profundiza a diario.",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:13:01.442270"
+    },
+    {
+      "english": "You're connecting ideas, beautifully.",
+      "spanish": "Estás conectando ideas, maravillosamente.",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:13:01.442273"
+    },
+    {
+      "english": "That fluency, is showing.",
+      "spanish": "Esa fluidez, se nota.",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:13:01.442275"
+    },
+    {
+      "english": "You're mastering this, truly.",
+      "spanish": "Estás dominando esto, de verdad.",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:13:01.442278"
+    },
+    {
+      "english": "Your effort, pays off.",
+      "spanish": "Tu esfuerzo, da frutos.",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:13:01.442281"
+    },
+    {
+      "english": "You're thinking in Spanish, yes!",
+      "spanish": "¡Estás pensando en español, sí!",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:13:01.442283"
+    },
+    {
+      "english": "Great application, excellent.",
+      "spanish": "Gran aplicación, excelente.",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:13:01.442286"
+    },
+    {
+      "english": "You're expressing yourself, better.",
+      "spanish": "Te estás expresando, mejor.",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:13:01.442288"
+    },
+    {
+      "english": "Solid grasp, keep it up.",
+      "spanish": "Buen dominio, sigue así.",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:13:01.442293"
+    },
+    {
+      "english": "You're adapting well, quickly.",
+      "spanish": "Te estás adaptando bien, rápidamente.",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:13:01.442295"
+    },
+    {
+      "english": "This makes sense, perfectly.",
+      "spanish": "Esto tiene sentido, perfectamente.",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:13:01.442298"
+    },
+    {
+      "english": "You're making connections, brilliant.",
+      "spanish": "Estás haciendo conexiones, brillante.",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:13:01.442301"
+    },
+    {
+      "english": "Your recall, is excellent.",
+      "spanish": "Tu memoria, es excelente.",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:13:01.442303"
+    },
+    {
+      "english": "You're on the right track, yes.",
+      "spanish": "Vas por buen camino, sí.",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:13:01.442306"
+    },
+    {
+      "english": "You're understanding the context, great.",
+      "spanish": "Estás entendiendo el contexto, genial.",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:13:01.442308"
+    },
+    {
+      "english": "You're speaking with confidence, nicely.",
+      "spanish": "Hablas con confianza, muy bien.",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:13:01.442311"
+    },
+    {
+      "english": "How can I improve, my speaking?",
+      "spanish": "¿Cómo puedo mejorar, mi español?",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:13:01.442315"
+    },
+    {
+      "english": "Any advice, for fluency?",
+      "spanish": "¿Algún consejo, para la fluidez?",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:13:01.442318"
+    },
+    {
+      "english": "Did you understand, that part?",
+      "spanish": "¿Entendiste, esa parte?",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:13:01.442321"
+    },
+    {
+      "english": "Can you repeat, please?",
+      "spanish": "¿Puedes repetir, por favor?",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:13:01.442324"
+    },
+    {
+      "english": "What's the best way, to learn?",
+      "spanish": "¿Cuál es la mejor manera, de aprender?",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:13:01.442327"
+    },
+    {
+      "english": "Should I focus, on grammar?",
+      "spanish": "¿Debería enfocarme, en la gramática?",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:13:01.442329"
+    },
+    {
+      "english": "What do you recommend, for practice?",
+      "spanish": "¿Qué recomiendas, para practicar?",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:13:01.442332"
+    },
+    {
+      "english": "How do you say, 'success'?",
+      "spanish": "¿Cómo se dice, 'éxito'?",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:13:01.442335"
+    },
+    {
+      "english": "Is this correct, grammatically?",
+      "spanish": "¿Está bien, gramaticalmente?",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:13:01.442338"
+    },
+    {
+      "english": "Can we discuss, this topic?",
+      "spanish": "¿Podemos hablar, de este tema?",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:13:01.442340"
+    },
+    {
+      "english": "Tell me more, about your goals.",
+      "spanish": "Cuéntame más, sobre tus metas.",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:13:01.442343"
+    },
+    {
+      "english": "Are you enjoying, the process?",
+      "spanish": "¿Disfrutas, del proceso?",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:13:01.442345"
+    },
+    {
+      "english": "What motivates you, daily?",
+      "spanish": "¿Qué te motiva, a diario?",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:13:01.442348"
+    },
+    {
+      "english": "How do you overcome, challenges?",
+      "spanish": "¿Cómo superas, los retos?",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:13:01.442350"
+    },
+    {
+      "english": "Can you explain, that concept?",
+      "spanish": "¿Puedes explicar, ese concepto?",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:13:01.442355"
+    },
+    {
+      "english": "What are your thoughts, on failure?",
+      "spanish": "¿Qué piensas, del fracaso?",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:13:01.442358"
+    },
+    {
+      "english": "Do you agree, with this?",
+      "spanish": "¿Estás de acuerdo, con esto?",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:13:01.442361"
+    },
+    {
+      "english": "How do we collaborate, effectively?",
+      "spanish": "¿Cómo colaboramos, eficientemente?",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:13:01.442363"
+    },
+    {
+      "english": "What's the next step, forward?",
+      "spanish": "¿Cuál es el siguiente paso, a seguir?",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:13:01.442366"
+    },
+    {
+      "english": "Can you give me, an example?",
+      "spanish": "¿Me das un ejemplo, por favor?",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:13:01.442369"
+    },
+    {
+      "english": "What are your dreams, big ones?",
+      "spanish": "¿Cuáles son tus sueños, los grandes?",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:13:01.442371"
+    },
+    {
+      "english": "Any tips, for learning faster?",
+      "spanish": "¿Algún truco, para aprender más rápido?",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:13:01.442374"
+    },
+    {
+      "english": "Can we practice, together?",
+      "spanish": "¿Podemos practicar, juntos?",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:13:01.442376"
+    },
+    {
+      "english": "What is the goal, here?",
+      "spanish": "¿Cuál es el objetivo, aquí?",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:13:01.442379"
+    },
+    {
+      "english": "Great progress, my friend.",
+      "spanish": "Gran progreso, amigo/a.",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:13:01.442383"
+    },
+    {
+      "english": "Embrace the challenge, learn.",
+      "spanish": "Acepta el reto, aprende.",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:13:01.442386"
+    },
+    {
+      "english": "Your dedication, shines through.",
+      "spanish": "Tu dedicación, brilla.",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:13:01.442389"
+    },
+    {
+      "english": "Never give up, keep trying.",
+      "spanish": "Nunca te rindas, sigue intentando.",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:13:01.442393"
+    },
+    {
+      "english": "You are growing, remarkably.",
+      "spanish": "Estás creciendo, notablemente.",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:13:01.442396"
+    },
+    {
+      "english": "Your mindset, is winning.",
+      "spanish": "Tu mentalidad, va ganando.",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:13:01.442398"
+    },
+    {
+      "english": "Celebrate small wins, often.",
+      "spanish": "Celebra las pequeñas victorias, seguido.",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:13:01.442401"
+    },
+    {
+      "english": "The path is clear, proceed.",
+      "spanish": "El camino está claro, prosigue.",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:13:01.442403"
+    },
+    {
+      "english": "Learn from mistakes, grow.",
+      "spanish": "Aprende de los errores, crece.",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:13:01.442406"
+    },
+    {
+      "english": "You can achieve, anything.",
+      "spanish": "Puedes lograr, cualquier cosa.",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:13:01.442408"
+    },
+    {
+      "english": "Stay focused, achieve goals.",
+      "spanish": "Mantente enfocado/a, alcanza metas.",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:13:01.442411"
+    },
+    {
+      "english": "Confidence, is your superpower.",
+      "spanish": "La confianza, es tu superpoder.",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:13:01.442414"
+    },
+    {
+      "english": "You are inspiring, others.",
+      "spanish": "Estás inspirando, a otros.",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:13:01.442416"
+    },
+    {
+      "english": "Believe in yourself, always.",
+      "spanish": "Confía en ti, siempre.",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:13:01.442419"
+    },
+    {
+      "english": "The future, is bright.",
+      "spanish": "El futuro, es brillante.",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:13:01.442422"
+    },
+    {
+      "english": "You're doing great, keep going.",
+      "spanish": "Lo estás haciendo genial, sigue.",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:13:01.442425"
+    },
+    {
+      "english": "Your persistence, pays off.",
+      "spanish": "Tu persistencia, da frutos.",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:13:01.442427"
+    },
+    {
+      "english": "Dream big, start small.",
+      "spanish": "Sueña en grande, empieza poco a poco.",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:13:01.442430"
+    },
+    {
+      "english": "You are on fire, ¡genial!",
+      "spanish": "Estás que ardes, ¡genial!",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:13:01.442433"
+    },
+    {
+      "english": "Mastery takes time, be patient.",
+      "spanish": "La maestría toma tiempo, sé paciente.",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:13:01.442436"
+    },
+    {
+      "english": "Your progress, is visible.",
+      "spanish": "Tu progreso, es visible.",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:13:01.442439"
+    },
+    {
+      "english": "You are achieving, your goals.",
+      "spanish": "Estás logrando, tus metas.",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:13:01.442441"
+    },
+    {
+      "english": "Go for it, with gusto!",
+      "spanish": "¡Dale, con ganas!",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:13:01.442443"
+    },
+    {
+      "english": "The sky's the limit, fly high.",
+      "spanish": "El cielo es el límite, vuela alto.",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:13:01.442446"
+    },
+    {
+      "english": "Put your heart into it, always.",
+      "spanish": "Ponle corazón, siempre.",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:13:01.442449"
+    },
+    {
+      "english": "It's time to shine, really.",
+      "spanish": "Es tu momento de brillar, de verdad.",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:13:01.442452"
+    },
+    {
+      "english": "Don't miss this chance, grab it.",
+      "spanish": "No pierdas esta oportunidad, agárrala.",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:13:01.442454"
+    },
+    {
+      "english": "Give it your all, your best.",
+      "spanish": "Dalo todo, lo mejor.",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:13:01.442458"
+    },
+    {
+      "english": "Success is knocking, open up.",
+      "spanish": "El éxito llama, abre.",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:13:01.442462"
+    },
+    {
+      "english": "Make it count, this moment.",
+      "spanish": "Haz que cuente, este momento.",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:13:01.442465"
+    },
+    {
+      "english": "Let your effort speak, loudly.",
+      "spanish": "Que tu esfuerzo hable, fuerte.",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:13:01.442468"
+    },
+    {
+      "english": "Aim high, reach for stars.",
+      "spanish": "Apunta alto, toca las estrellas.",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:13:01.442470"
+    },
+    {
+      "english": "The reward is near, keep pushing.",
+      "spanish": "La recompensa está cerca, sigue empujando.",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:13:01.442475"
+    },
+    {
+      "english": "Your potential is huge, unleash it.",
+      "spanish": "Tu potencial es enorme, libéralo.",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:13:01.442477"
+    },
+    {
+      "english": "Take the plunge, be bold.",
+      "spanish": "Lánzate, sé audaz.",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:13:01.442480"
+    },
+    {
+      "english": "Fortune favors brave ones, dare.",
+      "spanish": "La fortuna favorece a los valientes, atrévete.",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:13:01.442482"
+    },
+    {
+      "english": "Work smart, achieve more.",
+      "spanish": "Trabaja inteligentemente, logra más.",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:13:01.442485"
+    },
+    {
+      "english": "Plant seeds, see growth.",
+      "spanish": "Siembra semillas, ve el crecimiento.",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:13:01.442488"
+    },
+    {
+      "english": "The effort is worth it, truly.",
+      "spanish": "El esfuerzo vale la pena, de verdad.",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:13:01.442490"
+    },
+    {
+      "english": "Shine your light, brightly.",
+      "spanish": "Brilla tu luz, intensamente.",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:13:01.442493"
+    },
+    {
+      "english": "Take action, make progress.",
+      "spanish": "Actúa, progresa.",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:13:01.442496"
+    },
+    {
+      "english": "You're building something great, continue.",
+      "spanish": "Estás construyendo algo grande, sigue.",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:13:01.442498"
+    },
+    {
+      "english": "Opportunity knocks, answer it.",
+      "spanish": "La oportunidad llama, responde.",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:13:01.442501"
+    },
+    {
+      "english": "Be ready, for greatness.",
+      "spanish": "Prepárate, para la grandeza.",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:13:01.442504"
+    },
+    {
+      "english": "Make your mark, indelible.",
+      "spanish": "Deja tu huella, imborrable.",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:13:01.442507"
+    },
+    {
+      "english": "The future is yours, create it.",
+      "spanish": "El futuro es tuyo, créalo.",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:13:01.442509"
+    },
+    {
+      "english": "Your hard work pays off, now.",
+      "spanish": "Tu esfuerzo da frutos, ahora.",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:13:01.442512"
+    },
+    {
+      "english": "Go all out, don't hold back.",
+      "spanish": "Ve con todo, no te detengas.",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:13:01.442515"
+    },
+    {
+      "english": "Ask for help, it's okay.",
+      "spanish": "Pide ayuda, no pasa nada.",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:13:01.442517"
+    },
+    {
+      "english": "Learn from them, the experts.",
+      "spanish": "Aprende de ellos, los expertos.",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:13:01.442520"
+    },
+    {
+      "english": "Be flexible, adapt quickly.",
+      "spanish": "Sé flexible, adáptate rápido.",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:13:01.442522"
+    },
+    {
+      "english": "Delegate tasks, save energy.",
+      "spanish": "Delega tareas, ahorra energía.",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:13:01.442525"
+    },
+    {
+      "english": "What if we try this way?",
+      "spanish": "¿Y si probamos así?",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:13:01.442528"
+    },
+    {
+      "english": "Let's solve this, together.",
+      "spanish": "Resolvamos esto, juntos.",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:13:01.442532"
+    },
+    {
+      "english": "Don't overthink, just do it.",
+      "spanish": "No pienses de más, hazlo.",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:13:01.442535"
+    },
+    {
+      "english": "Take notes, remember details.",
+      "spanish": "Toma notas, recuerda detalles.",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:13:01.442540"
+    },
+    {
+      "english": "Ask clarifying questions, always.",
+      "spanish": "Pregunta para aclarar, siempre.",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:13:01.442543"
+    },
+    {
+      "english": "Listen more, speak less.",
+      "spanish": "Escucha más, habla menos.",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:13:01.442546"
+    },
+    {
+      "english": "Build bridges, not walls.",
+      "spanish": "Construye puentes, no muros.",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:13:01.442548"
+    },
+    {
+      "english": "Seek feedback, it's valuable.",
+      "spanish": "Busca retroalimentación, es valiosa.",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:13:01.442551"
+    },
+    {
+      "english": "Manage your time wisely.",
+      "spanish": "Gestiona tu tiempo, sabiamente.",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:13:01.442554"
+    },
+    {
+      "english": "Practice makes perfect, truly.",
+      "spanish": "La práctica hace al maestro, de verdad.",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:13:01.442557"
+    },
+    {
+      "english": "Stay calm, under pressure.",
+      "spanish": "Mantente tranquilo, bajo presión.",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:13:01.442559"
+    },
+    {
+      "english": "Find solutions, not excuses.",
+      "spanish": "Busca soluciones, no excusas.",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:13:01.442562"
+    },
+    {
+      "english": "Organize your space, for clarity.",
+      "spanish": "Ordena tu espacio, para claridad.",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:13:01.442566"
+    },
+    {
+      "english": "Be open to new ideas.",
+      "spanish": "Sé abierto, a nuevas ideas.",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:13:01.442569"
     }
   ],
-  "last_updated": "2026-10-23T05:34:21.484107"
+  "last_updated": "2026-10-24T05:13:01.442570"
 }
