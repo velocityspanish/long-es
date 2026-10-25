@@ -6839,7 +6839,727 @@
       "spanish": "Sé abierto, a nuevas ideas.",
       "category": "Success",
       "generated_at": "2026-10-24T05:13:01.442569"
+    },
+    {
+      "english": "How much does this cost, please?",
+      "spanish": "¿Cuánto cuesta esto, por favor?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-25T05:29:57.821345"
+    },
+    {
+      "english": "It's too expensive, really.",
+      "spanish": "Es muy caro, de verdad.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-25T05:29:57.821360"
+    },
+    {
+      "english": "Do you have anything cheaper?",
+      "spanish": "¿Tienes algo más barato?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-25T05:29:57.821363"
+    },
+    {
+      "english": "I'm just looking, thanks.",
+      "spanish": "Solo estoy mirando, gracias.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-25T05:29:57.821365"
+    },
+    {
+      "english": "Where is the checkout counter?",
+      "spanish": "¿Dónde está la caja?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-25T05:29:57.821368"
+    },
+    {
+      "english": "Do you accept cash?",
+      "spanish": "¿Aceptas efectivo?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-25T05:29:57.821370"
+    },
+    {
+      "english": "This is exactly what I need.",
+      "spanish": "Esto es justo lo que necesito.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-25T05:29:57.821372"
+    },
+    {
+      "english": "I'll take this one, please.",
+      "spanish": "Me llevo este, por favor.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-25T05:29:57.821376"
+    },
+    {
+      "english": "Is there a discount?",
+      "spanish": "¿Hay algún descuento?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-25T05:29:57.821379"
+    },
+    {
+      "english": "That's a good price.",
+      "spanish": "Ese es un buen precio.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-25T05:29:57.821381"
+    },
+    {
+      "english": "I need a shopping bag.",
+      "spanish": "Necesito una bolsa.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-25T05:29:57.821383"
+    },
+    {
+      "english": "Can I try this on?",
+      "spanish": "¿Puedo probarme esto?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-25T05:29:57.821385"
+    },
+    {
+      "english": "Where are the fitting rooms?",
+      "spanish": "¿Dónde están los probadores?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-25T05:29:57.821388"
+    },
+    {
+      "english": "I'm looking for a gift.",
+      "spanish": "Busco un regalo.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-25T05:29:57.821390"
+    },
+    {
+      "english": "How much for all of this?",
+      "spanish": "¿Cuánto por todo esto?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-25T05:29:57.821392"
+    },
+    {
+      "english": "Can you gift wrap it?",
+      "spanish": "¿Puedes envolverlo para regalo?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-25T05:29:57.821393"
+    },
+    {
+      "english": "Do you have the receipt?",
+      "spanish": "¿Tienes el recibo?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-25T05:29:57.821397"
+    },
+    {
+      "english": "I want to return this.",
+      "spanish": "Quiero devolver esto.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-25T05:29:57.821399"
+    },
+    {
+      "english": "It's on sale, right?",
+      "spanish": "Está en oferta, ¿verdad?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-25T05:29:57.821401"
+    },
+    {
+      "english": "What's the total amount?",
+      "spanish": "¿Cuál es el total?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-25T05:29:57.821403"
+    },
+    {
+      "english": "Do you take foreign currency?",
+      "spanish": "¿Aceptas moneda extranjera?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-25T05:29:57.821405"
+    },
+    {
+      "english": "This is a great deal.",
+      "spanish": "Esta es una gran oferta.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-25T05:29:57.821407"
+    },
+    {
+      "english": "I need change, please.",
+      "spanish": "Necesito suelto, por favor.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-25T05:29:57.821409"
+    },
+    {
+      "english": "Can I have a bag, please?",
+      "spanish": "¿Me das una bolsa, por favor?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-25T05:29:57.821411"
+    },
+    {
+      "english": "This color is lovely.",
+      "spanish": "Este color es precioso.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-25T05:29:57.821413"
+    },
+    {
+      "english": "Where can I find bread?",
+      "spanish": "¿Dónde encuentro el pan?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-25T05:29:57.821414"
+    },
+    {
+      "english": "I'm looking for vegetables.",
+      "spanish": "Busco verduras.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-25T05:29:57.821416"
+    },
+    {
+      "english": "Do you have this in stock?",
+      "spanish": "¿Tenéis esto en stock?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-25T05:29:57.821418"
+    },
+    {
+      "english": "I'll decide later, thanks.",
+      "spanish": "Decido después, gracias.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-25T05:29:57.821420"
+    },
+    {
+      "english": "Could you help me, please?",
+      "spanish": "¿Me podría ayudar, por favor?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-25T05:29:57.821423"
+    },
+    {
+      "english": "What do you recommend here?",
+      "spanish": "¿Qué me recomienda aquí?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-25T05:29:57.821425"
+    },
+    {
+      "english": "Can I see another option?",
+      "spanish": "¿Puedo ver otra opción?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-25T05:29:57.821427"
+    },
+    {
+      "english": "Is this the latest model?",
+      "spanish": "¿Es este el último modelo?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-25T05:29:57.821431"
+    },
+    {
+      "english": "What's the quality like?",
+      "spanish": "¿Qué tal es la calidad?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-25T05:29:57.821434"
+    },
+    {
+      "english": "Can you explain this feature?",
+      "spanish": "¿Me explica esta función?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-25T05:29:57.821436"
+    },
+    {
+      "english": "Is there a warranty with this?",
+      "spanish": "¿Tiene garantía esto?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-25T05:29:57.821438"
+    },
+    {
+      "english": "Do you know when it's back?",
+      "spanish": "¿Sabe cuándo vuelve?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-25T05:29:57.821440"
+    },
+    {
+      "english": "What's the difference between these?",
+      "spanish": "¿Cuál es la diferencia entre estos?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-25T05:29:57.821443"
+    },
+    {
+      "english": "Could you hold this for me?",
+      "spanish": "¿Me lo guarda, por favor?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-25T05:29:57.821445"
+    },
+    {
+      "english": "I'm looking for something similar.",
+      "spanish": "Busco algo parecido.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-25T05:29:57.821447"
+    },
+    {
+      "english": "Is this available in blue?",
+      "spanish": "¿Está disponible en azul?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-25T05:29:57.821449"
+    },
+    {
+      "english": "What size do you think fits?",
+      "spanish": "¿Qué talla cree que me queda?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-25T05:29:57.821451"
+    },
+    {
+      "english": "Can I pay in installments?",
+      "spanish": "¿Puedo pagar a plazos?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-25T05:29:57.821453"
+    },
+    {
+      "english": "How long does delivery take?",
+      "spanish": "¿Cuánto tarda la entrega?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-25T05:29:57.821456"
+    },
+    {
+      "english": "Do you have a loyalty card?",
+      "spanish": "¿Tienen tarjeta de fidelidad?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-25T05:29:57.821458"
+    },
+    {
+      "english": "Is this item returnable?",
+      "spanish": "¿Se puede devolver este artículo?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-25T05:29:57.821460"
+    },
+    {
+      "english": "Can I get a price match?",
+      "spanish": "¿Me igualan el precio?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-25T05:29:57.821462"
+    },
+    {
+      "english": "What are your opening hours?",
+      "spanish": "¿Cuál es su horario?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-25T05:29:57.821464"
+    },
+    {
+      "english": "Do you offer gift cards?",
+      "spanish": "¿Ofrecen tarjetas de regalo?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-25T05:29:57.821466"
+    },
+    {
+      "english": "Can you check the stock, please?",
+      "spanish": "¿Puede revisar el stock, por favor?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-25T05:29:57.821468"
+    },
+    {
+      "english": "Is this handmade, by any chance?",
+      "spanish": "¿Es hecho a mano, por casualidad?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-25T05:29:57.821470"
+    },
+    {
+      "english": "Can I have the box as well?",
+      "spanish": "¿Me puedo llevar la caja también?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-25T05:29:57.821472"
+    },
+    {
+      "english": "What's the best seller here?",
+      "spanish": "¿Cuál es el más vendido aquí?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-25T05:29:57.821474"
+    },
+    {
+      "english": "Do you have this in smaller size?",
+      "spanish": "¿Tiene esto en talla más pequeña?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-25T05:29:57.821476"
+    },
+    {
+      "english": "I need something for a special occasion.",
+      "spanish": "Necesito algo para una ocasión especial.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-25T05:29:57.821478"
+    },
+    {
+      "english": "Can you show me the price again?",
+      "spanish": "¿Me puede enseñar el precio otra vez?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-25T05:29:57.821480"
+    },
+    {
+      "english": "This is very practical, I like it.",
+      "spanish": "Esto es muy práctico, me gusta.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-25T05:29:57.821482"
+    },
+    {
+      "english": "Are there any similar items?",
+      "spanish": "¿Hay artículos parecidos?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-25T05:29:57.821484"
+    },
+    {
+      "english": "I'm interested in this product.",
+      "spanish": "Me interesa este producto.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-25T05:29:57.821486"
+    },
+    {
+      "english": "Invest wisely, buy smartly.",
+      "spanish": "Invierte con cabeza, compra con astucia.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-25T05:29:57.821489"
+    },
+    {
+      "english": "Your budget is your guide.",
+      "spanish": "Tu presupuesto es tu guía.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-25T05:29:57.821491"
+    },
+    {
+      "english": "Every purchase, a small victory.",
+      "spanish": "Cada compra, una pequeña victoria.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-25T05:29:57.821493"
+    },
+    {
+      "english": "Don't rush, choose with care.",
+      "spanish": "No te apures, elige con calma.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-25T05:29:57.821497"
+    },
+    {
+      "english": "You're making a smart choice.",
+      "spanish": "Estás haciendo una buena elección.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-25T05:29:57.821499"
+    },
+    {
+      "english": "Patience pays off, always.",
+      "spanish": "La paciencia rinde frutos, siempre.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-25T05:29:57.821503"
+    },
+    {
+      "english": "Trust your instincts, they're good.",
+      "spanish": "Confía en tu instinto, es bueno.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-25T05:29:57.821506"
+    },
+    {
+      "english": "Feel good about your spending.",
+      "spanish": "Siéntete bien con lo que gastas.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-25T05:29:57.821508"
+    },
+    {
+      "english": "This is a great investment.",
+      "spanish": "Esto es una gran inversión.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-25T05:29:57.821510"
+    },
+    {
+      "english": "You deserve this treat.",
+      "spanish": "Te mereces este capricho.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-25T05:29:57.821512"
+    },
+    {
+      "english": "Think long term, not just now.",
+      "spanish": "Piensa a largo plazo, no solo ahora.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-25T05:29:57.821514"
+    },
+    {
+      "english": "Smart shopping makes you happy.",
+      "spanish": "Comprar inteligentemente te hace feliz.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-25T05:29:57.821517"
+    },
+    {
+      "english": "Value for money, that's key.",
+      "spanish": "Valor por tu dinero, esa es la clave.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-25T05:29:57.821521"
+    },
+    {
+      "english": "You've got a good eye for deals.",
+      "spanish": "Tienes buen ojo para las ofertas.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-25T05:29:57.821523"
+    },
+    {
+      "english": "A little treat, now and then.",
+      "spanish": "Un pequeño gusto, de vez en cuando.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-25T05:29:57.821526"
+    },
+    {
+      "english": "You're being very sensible.",
+      "spanish": "Estás siendo muy sensato/a.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-25T05:29:57.821528"
+    },
+    {
+      "english": "Quality over quantity, remember.",
+      "spanish": "Calidad sobre cantidad, recuerda.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-25T05:29:57.821530"
+    },
+    {
+      "english": "Enjoy your new item!",
+      "spanish": "¡Disfruta tu nuevo artículo!",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-25T05:29:57.821532"
+    },
+    {
+      "english": "This was a wise purchase.",
+      "spanish": "Esta fue una compra inteligente.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-25T05:29:57.821534"
+    },
+    {
+      "english": "You have excellent taste.",
+      "spanish": "Tienes un gusto excelente.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-25T05:29:57.821536"
+    },
+    {
+      "english": "Take your time, no pressure.",
+      "spanish": "Tómate tu tiempo, sin prisa.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-25T05:29:57.821538"
+    },
+    {
+      "english": "What a fantastic find!",
+      "spanish": "¡Qué hallazgo tan fantástico!",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-25T05:29:57.821540"
+    },
+    {
+      "english": "You are a smart shopper.",
+      "spanish": "Eres un comprador/a astuto/a.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-25T05:29:57.821542"
+    },
+    {
+      "english": "Focus on value, not just price.",
+      "spanish": "Céntrate en el valor, no solo el precio.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-25T05:29:57.821544"
+    },
+    {
+      "english": "This will serve you well.",
+      "spanish": "Esto te servirá muy bien.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-25T05:29:57.821546"
+    },
+    {
+      "english": "Believe in your shopping choices.",
+      "spanish": "Cree en tus decisiones de compra.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-25T05:29:57.821548"
+    },
+    {
+      "english": "Smart spending, happy life.",
+      "spanish": "Gastar con cabeza, vida feliz.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-25T05:29:57.821550"
+    },
+    {
+      "english": "You made a brilliant decision.",
+      "spanish": "Tomaste una decisión brillante.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-25T05:29:57.821552"
+    },
+    {
+      "english": "Enjoy the process, learn and grow.",
+      "spanish": "Disfruta el proceso, aprende y crece.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-25T05:29:57.821554"
+    },
+    {
+      "english": "Honestly, it's more than I planned.",
+      "spanish": "Sinceramente, es más de lo que planeé.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-25T05:29:57.821567"
+    },
+    {
+      "english": "I need to reflect before buying.",
+      "spanish": "Necesito reflexionar antes de comprar.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-25T05:29:57.821569"
+    },
+    {
+      "english": "Does the price feel right to you?",
+      "spanish": "¿El precio te parece justo?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-25T05:29:57.821571"
+    },
+    {
+      "english": "My heart says yes, my wallet says no.",
+      "spanish": "Mi corazón dice que sí, mi billetera dice no.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-25T05:29:57.821574"
+    },
+    {
+      "english": "Let me think about this purchase.",
+      "spanish": "Déjame pensar en esta compra.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-25T05:29:57.821576"
+    },
+    {
+      "english": "It's a tough decision, honestly.",
+      "spanish": "Es una decisión difícil, la verdad.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-25T05:29:57.821578"
+    },
+    {
+      "english": "I'm feeling a bit overwhelmed by options.",
+      "spanish": "Me siento un poco abrumado/a por las opciones.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-25T05:29:57.821580"
+    },
+    {
+      "english": "Is this really worth the cost?",
+      "spanish": "¿Realmente vale la pena el costo?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-25T05:29:57.821582"
+    },
+    {
+      "english": "I’ll sleep on it, if that’s okay.",
+      "spanish": "Lo pensaré, si no hay problema.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-25T05:29:57.821588"
+    },
+    {
+      "english": "This price makes me hesitate.",
+      "spanish": "Este precio me hace dudar.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-25T05:29:57.821590"
+    },
+    {
+      "english": "My gut feeling is good about this.",
+      "spanish": "Mi instinto me dice que está bien.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-25T05:29:57.821592"
+    },
+    {
+      "english": "It's a luxury, but I deserve it.",
+      "spanish": "Es un lujo, pero me lo merezco.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-25T05:29:57.821594"
+    },
+    {
+      "english": "I'm trying to be financially responsible.",
+      "spanish": "Intento ser financieramente responsable.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-25T05:29:57.821598"
+    },
+    {
+      "english": "This is a significant expense for me.",
+      "spanish": "Este es un gasto importante para mí.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-25T05:29:57.821602"
+    },
+    {
+      "english": "Does your heart truly love it?",
+      "spanish": "¿Tu corazón realmente lo ama?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-25T05:29:57.821604"
+    },
+    {
+      "english": "Let's see if the value is there.",
+      "spanish": "Veamos si el valor está ahí.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-25T05:29:57.821607"
+    },
+    {
+      "english": "I need to feel good about this price.",
+      "spanish": "Necesito sentirme bien con este precio.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-25T05:29:57.821609"
+    },
+    {
+      "english": "This purchase requires some thought.",
+      "spanish": "Esta compra requiere algo de reflexión.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-25T05:29:57.821612"
+    },
+    {
+      "english": "Is this a reasonable amount to pay?",
+      "spanish": "¿Es una cantidad razonable para pagar?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-25T05:29:57.821614"
+    },
+    {
+      "english": "I'm weighing my options carefully.",
+      "spanish": "Estoy sopesando mis opciones cuidadosamente.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-25T05:29:57.821617"
+    },
+    {
+      "english": "My intuition says it's the one.",
+      "spanish": "Mi intuición dice que es el indicado.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-25T05:29:57.821619"
+    },
+    {
+      "english": "It feels like a splurge, but a good one.",
+      "spanish": "Se siente como un capricho, pero bueno.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-25T05:29:57.821621"
+    },
+    {
+      "english": "I'm not in a hurry to decide.",
+      "spanish": "No tengo prisa por decidir.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-25T05:29:57.821623"
+    },
+    {
+      "english": "This makes my heart sing, you know?",
+      "spanish": "Esto hace que mi corazón cante, ¿sabes?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-25T05:29:57.821625"
+    },
+    {
+      "english": "I’m trying to be mindful of my budget.",
+      "spanish": "Intento ser consciente de mi presupuesto.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-25T05:29:57.821628"
+    },
+    {
+      "english": "Let's see if this aligns with my goals.",
+      "spanish": "Veamos si esto se alinea con mis metas.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-25T05:29:57.821630"
+    },
+    {
+      "english": "This price causes some reflection.",
+      "spanish": "Este precio causa cierta reflexión.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-25T05:29:57.821632"
+    },
+    {
+      "english": "I have to be honest about my feelings.",
+      "spanish": "Tengo que ser honesto/a con mis sentimientos.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-25T05:29:57.821634"
+    },
+    {
+      "english": "Can you haggle on the price?",
+      "spanish": "¿Se puede regatear el precio?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-25T05:29:57.821636"
+    },
+    {
+      "english": "This is a bit expensive, no?",
+      "spanish": "Es un poco caro, ¿no?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-25T05:29:57.821638"
+    },
+    {
+      "english": "Where is the nearest ATM?",
+      "spanish": "¿Dónde está el cajero más cercano?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-25T05:29:57.821640"
+    },
+    {
+      "english": "Can I pay by card?",
+      "spanish": "¿Puedo pagar con tarjeta?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-25T05:29:57.821642"
     }
   ],
-  "last_updated": "2026-10-24T05:13:01.442570"
+  "last_updated": "2026-10-25T05:29:57.821644"
 }
