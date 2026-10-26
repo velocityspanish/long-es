@@ -7559,7 +7559,727 @@
       "spanish": "¿Puedo pagar con tarjeta?",
       "category": "Shopping & Prices",
       "generated_at": "2026-10-25T05:29:57.821642"
+    },
+    {
+      "english": "Nice to meet you.",
+      "spanish": "Mucho gusto.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-26T05:34:24.972657"
+    },
+    {
+      "english": "Excuse me, please.",
+      "spanish": "Perdón, por favor.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-26T05:34:24.972671"
+    },
+    {
+      "english": "I need information.",
+      "spanish": "Necesito información.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-26T05:34:24.972674"
+    },
+    {
+      "english": "Where is the bathroom?",
+      "spanish": "¿Dónde está el baño?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-26T05:34:24.972677"
+    },
+    {
+      "english": "I don't understand.",
+      "spanish": "No entiendo.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-26T05:34:24.972679"
+    },
+    {
+      "english": "Could you repeat that?",
+      "spanish": "¿Podrías repetirlo?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-26T05:34:24.972682"
+    },
+    {
+      "english": "I'm looking for...",
+      "spanish": "Busco...",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-26T05:34:24.972685"
+    },
+    {
+      "english": "Do you speak English?",
+      "spanish": "¿Hablas inglés?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-26T05:34:24.972692"
+    },
+    {
+      "english": "Just a moment, please.",
+      "spanish": "Un momento, por favor.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-26T05:34:24.972696"
+    },
+    {
+      "english": "Is this the correct way?",
+      "spanish": "¿Es este el camino correcto?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-26T05:34:24.972699"
+    },
+    {
+      "english": "I have a reservation.",
+      "spanish": "Tengo una reserva.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-26T05:34:24.972701"
+    },
+    {
+      "english": "Where can I find a taxi?",
+      "spanish": "¿Dónde encuentro un taxi?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-26T05:34:24.972704"
+    },
+    {
+      "english": "What time is it?",
+      "spanish": "¿Qué hora es?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-26T05:34:24.972706"
+    },
+    {
+      "english": "You're welcome.",
+      "spanish": "De nada.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-26T05:34:24.972709"
+    },
+    {
+      "english": "I need to check in.",
+      "spanish": "Necesito hacer el check-in.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-26T05:34:24.972711"
+    },
+    {
+      "english": "Where is my gate?",
+      "spanish": "¿Dónde está mi puerta?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-26T05:34:24.972713"
+    },
+    {
+      "english": "My flight is delayed.",
+      "spanish": "Mi vuelo está retrasado.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-26T05:34:24.972715"
+    },
+    {
+      "english": "Is it a direct flight?",
+      "spanish": "¿Es un vuelo directo?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-26T05:34:24.972718"
+    },
+    {
+      "english": "I need to buy a ticket.",
+      "spanish": "Necesito comprar un boleto.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-26T05:34:24.972720"
+    },
+    {
+      "english": "Where is baggage claim?",
+      "spanish": "¿Dónde está la recogida de equipaje?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-26T05:34:24.972723"
+    },
+    {
+      "english": "I have lost my luggage.",
+      "spanish": "He perdido mi equipaje.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-26T05:34:24.972725"
+    },
+    {
+      "english": "Can I have the menu?",
+      "spanish": "¿Me da el menú, por favor?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-26T05:34:24.972727"
+    },
+    {
+      "english": "It's delicious!",
+      "spanish": "¡Está riquísimo!",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-26T05:34:24.972730"
+    },
+    {
+      "english": "I'm a bit tired.",
+      "spanish": "Estoy un poco cansado.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-26T05:34:24.972732"
+    },
+    {
+      "english": "Let's go!",
+      "spanish": "¡Vamos!",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-26T05:34:24.972734"
+    },
+    {
+      "english": "Can you help me, please?",
+      "spanish": "¿Me puedes ayudar, por favor?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-26T05:34:24.972737"
+    },
+    {
+      "english": "Do you know this place?",
+      "spanish": "¿Conoces este lugar?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-26T05:34:24.972740"
+    },
+    {
+      "english": "Where should I go next?",
+      "spanish": "¿A dónde debo ir ahora?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-26T05:34:24.972742"
+    },
+    {
+      "english": "What's your recommendation?",
+      "spanish": "¿Cuál es tu recomendación?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-26T05:34:24.972745"
+    },
+    {
+      "english": "May I join you?",
+      "spanish": "¿Puedo sentarme contigo?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-26T05:34:24.972747"
+    },
+    {
+      "english": "What brings you here?",
+      "spanish": "¿Qué te trae por aquí?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-26T05:34:24.972750"
+    },
+    {
+      "english": "Are you traveling alone?",
+      "spanish": "¿Viajas solo/a?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-26T05:34:24.972752"
+    },
+    {
+      "english": "Have you been here before?",
+      "spanish": "¿Has estado aquí antes?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-26T05:34:24.972754"
+    },
+    {
+      "english": "How long will you stay?",
+      "spanish": "¿Cuánto tiempo te quedarás?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-26T05:34:24.972757"
+    },
+    {
+      "english": "Can I ask you something?",
+      "spanish": "¿Te puedo preguntar algo?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-26T05:34:24.972761"
+    },
+    {
+      "english": "What time does it start?",
+      "spanish": "¿A qué hora empieza?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-26T05:34:24.972764"
+    },
+    {
+      "english": "Is there a good cafe nearby?",
+      "spanish": "¿Hay un buen café cerca?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-26T05:34:24.972769"
+    },
+    {
+      "english": "Could you show me on the map?",
+      "spanish": "¿Me lo podrías mostrar en el mapa?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-26T05:34:24.972771"
+    },
+    {
+      "english": "What's the best way to get there?",
+      "spanish": "¿Cuál es la mejor ruta?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-26T05:34:24.972774"
+    },
+    {
+      "english": "Do you need any help?",
+      "spanish": "¿Necesitas ayuda?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-26T05:34:24.972776"
+    },
+    {
+      "english": "Where can I get a coffee?",
+      "spanish": "¿Dónde puedo tomar un café?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-26T05:34:24.972779"
+    },
+    {
+      "english": "Is this the right terminal?",
+      "spanish": "¿Es esta la terminal correcta?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-26T05:34:24.972781"
+    },
+    {
+      "english": "Can I take a photo here?",
+      "spanish": "¿Puedo tomar una foto aquí?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-26T05:34:24.972783"
+    },
+    {
+      "english": "What's this called in Spanish?",
+      "spanish": "¿Cómo se llama esto en español?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-26T05:34:24.972786"
+    },
+    {
+      "english": "Is it far from here?",
+      "spanish": "¿Está lejos de aquí?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-26T05:34:24.972788"
+    },
+    {
+      "english": "Do you have a moment?",
+      "spanish": "¿Tienes un momento?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-26T05:34:24.972791"
+    },
+    {
+      "english": "Can you recommend a restaurant?",
+      "spanish": "¿Me recomiendas un restaurante?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-26T05:34:24.972793"
+    },
+    {
+      "english": "How do I get to the city?",
+      "spanish": "¿Cómo llego a la ciudad?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-26T05:34:24.972795"
+    },
+    {
+      "english": "Can I see your ID, please?",
+      "spanish": "¿Me enseñas tu identificación?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-26T05:34:24.972798"
+    },
+    {
+      "english": "What time is check-out?",
+      "spanish": "¿A qué hora es el check-out?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-26T05:34:24.972800"
+    },
+    {
+      "english": "Are you enjoying your trip?",
+      "spanish": "¿Disfrutas tu viaje?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-26T05:34:24.972803"
+    },
+    {
+      "english": "Can I have your name?",
+      "spanish": "¿Me das tu nombre?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-26T05:34:24.972805"
+    },
+    {
+      "english": "Believe in your adventure, always.",
+      "spanish": "Cree en tu aventura, siempre.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-26T05:34:24.972809"
+    },
+    {
+      "english": "You've got this, embrace the journey.",
+      "spanish": "Tú puedes, abraza el viaje.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-26T05:34:24.972813"
+    },
+    {
+      "english": "Every step is progress, keep moving.",
+      "spanish": "Cada paso es progreso, sigue adelante.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-26T05:34:24.972815"
+    },
+    {
+      "english": "This is a chance to grow.",
+      "spanish": "Esta es una oportunidad para crecer.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-26T05:34:24.972818"
+    },
+    {
+      "english": "You're braver than you think.",
+      "spanish": "Eres más valiente de lo que crees.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-26T05:34:24.972821"
+    },
+    {
+      "english": "This experience will enrich you.",
+      "spanish": "Esta experiencia te enriquecerá.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-26T05:34:24.972823"
+    },
+    {
+      "english": "Stay open to new possibilities.",
+      "spanish": "Mantente abierto a nuevas posibilidades.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-26T05:34:24.972826"
+    },
+    {
+      "english": "What a wonderful mindset you have!",
+      "spanish": "¡Qué mentalidad tan maravillosa tienes!",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-26T05:34:24.972828"
+    },
+    {
+      "english": "Your positive attitude is inspiring.",
+      "spanish": "Tu actitud positiva es inspiradora.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-26T05:34:24.972831"
+    },
+    {
+      "english": "You're handling this so well.",
+      "spanish": "Lo estás manejando muy bien.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-26T05:34:24.972833"
+    },
+    {
+      "english": "That's a fantastic goal you set.",
+      "spanish": "Ese es un objetivo fantástico que te has puesto.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-26T05:34:24.972836"
+    },
+    {
+      "english": "This journey is just beginning.",
+      "spanish": "Este viaje apenas comienza.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-26T05:34:24.972840"
+    },
+    {
+      "english": "Have faith in the process.",
+      "spanish": "Ten fe en el proceso.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-26T05:34:24.972843"
+    },
+    {
+      "english": "Embrace the unknown with courage.",
+      "spanish": "Abraza lo desconocido con valentía.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-26T05:34:24.972845"
+    },
+    {
+      "english": "This challenge will make you stronger.",
+      "spanish": "Este desafío te hará más fuerte.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-26T05:34:24.972849"
+    },
+    {
+      "english": "You're a natural at this.",
+      "spanish": "Se te da de forma natural.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-26T05:34:24.972852"
+    },
+    {
+      "english": "What a fantastic attitude to have!",
+      "spanish": "¡Qué actitud tan fantástica tienes!",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-26T05:34:24.972854"
+    },
+    {
+      "english": "You're making great decisions.",
+      "spanish": "Estás tomando excelentes decisiones.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-26T05:34:24.972857"
+    },
+    {
+      "english": "This is a learning opportunity.",
+      "spanish": "Esto es una oportunidad de aprendizaje.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-26T05:34:24.972859"
+    },
+    {
+      "english": "You're more resilient than you know.",
+      "spanish": "Eres más resiliente de lo que sabes.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-26T05:34:24.972862"
+    },
+    {
+      "english": "You've achieved so much already.",
+      "spanish": "Ya has logrado tanto.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-26T05:34:24.972865"
+    },
+    {
+      "english": "This journey is meant for you.",
+      "spanish": "Este viaje es para ti.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-26T05:34:24.972867"
+    },
+    {
+      "english": "You're navigating this like a pro.",
+      "spanish": "Te estás desenvolviendo como un profesional.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-26T05:34:24.972869"
+    },
+    {
+      "english": "What an admirable perspective you have.",
+      "spanish": "¡Qué perspectiva tan admirable tienes!",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-26T05:34:24.972872"
+    },
+    {
+      "english": "You are a wonderful traveler.",
+      "spanish": "Eres un viajero maravilloso.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-26T05:34:24.972874"
+    },
+    {
+      "english": "What's the scoop, friend?",
+      "spanish": "¿Qué se cuece, colega?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-26T05:34:24.972877"
+    },
+    {
+      "english": "This place is buzzing, isn't it?",
+      "spanish": "Hay mucho jaleo aquí, ¿verdad?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-26T05:34:24.972880"
+    },
+    {
+      "english": "Just chilling, taking it easy.",
+      "spanish": "Aquí, tirando, sin hacer mucho.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-26T05:34:24.972882"
+    },
+    {
+      "english": "Let's get the ball rolling.",
+      "spanish": "Vamos a ponernos las pilas.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-26T05:34:24.972885"
+    },
+    {
+      "english": "It's all systems go now.",
+      "spanish": "Ya está todo en marcha.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-26T05:34:24.972888"
+    },
+    {
+      "english": "Don't sweat the small stuff.",
+      "spanish": "No te agobies por las tonterías.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-26T05:34:24.972890"
+    },
+    {
+      "english": "We're on the same page.",
+      "spanish": "Estamos en la misma onda.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-26T05:34:24.972893"
+    },
+    {
+      "english": "It's a piece of cake.",
+      "spanish": "Es pan comido.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-26T05:34:24.972895"
+    },
+    {
+      "english": "Let's make the most of it.",
+      "spanish": "Vamos a sacarle partido.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-26T05:34:24.972898"
+    },
+    {
+      "english": "Keep your eyes peeled.",
+      "spanish": "Mantén los ojos bien abiertos.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-26T05:34:24.972900"
+    },
+    {
+      "english": "A penny for your thoughts?",
+      "spanish": "¿En qué piensas?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-26T05:34:24.972902"
+    },
+    {
+      "english": "Let's roll with the punches.",
+      "spanish": "Vamos a adaptarnos sobre la marcha.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-26T05:34:24.972905"
+    },
+    {
+      "english": "It's not rocket science.",
+      "spanish": "No tiene mucha ciencia.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-26T05:34:24.972908"
+    },
+    {
+      "english": "Just go with the flow.",
+      "spanish": "Déjate llevar por la corriente.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-26T05:34:24.972910"
+    },
+    {
+      "english": "We're in the same boat.",
+      "spanish": "Estamos en el mismo barco.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-26T05:34:24.972912"
+    },
+    {
+      "english": "It's a done deal.",
+      "spanish": "Está hecho.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-26T05:34:24.972917"
+    },
+    {
+      "english": "What’s the big idea?",
+      "spanish": "¿Cuál es el plan?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-26T05:34:24.972920"
+    },
+    {
+      "english": "Let’s hit the road.",
+      "spanish": "Pongamos rumbo.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-26T05:34:24.972923"
+    },
+    {
+      "english": "This is getting complicated.",
+      "spanish": "Esto se está complicando.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-26T05:34:24.972926"
+    },
+    {
+      "english": "It’s a long shot.",
+      "spanish": "Es una posibilidad remota.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-26T05:34:24.972928"
+    },
+    {
+      "english": "Are you up for it?",
+      "spanish": "¿Te apuntas?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-26T05:34:24.972931"
+    },
+    {
+      "english": "It’s a matter of time.",
+      "spanish": "Es cuestión de tiempo.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-26T05:34:24.972936"
+    },
+    {
+      "english": "Let’s get down to business.",
+      "spanish": "Vamos al grano.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-26T05:34:24.972939"
+    },
+    {
+      "english": "This is nuts!",
+      "spanish": "¡Esto es una locura!",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-26T05:34:24.972941"
+    },
+    {
+      "english": "Don’t lose your cool.",
+      "spanish": "No pierdas la calma.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-26T05:34:24.972944"
+    },
+    {
+      "english": "It’s a new chapter.",
+      "spanish": "Es un nuevo capítulo.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-26T05:34:24.972947"
+    },
+    {
+      "english": "Let’s not beat around the bush.",
+      "spanish": "Vamos directos al grano.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-26T05:34:24.972950"
+    },
+    {
+      "english": "Everything’s under control.",
+      "spanish": "Todo está bajo control.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-26T05:34:24.972953"
+    },
+    {
+      "english": "This is how we do it.",
+      "spanish": "Así es como lo hacemos.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-26T05:34:24.972955"
+    },
+    {
+      "english": "Where is the nearest restroom?",
+      "spanish": "¿Dónde está el baño más cercano?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-26T05:34:24.972958"
+    },
+    {
+      "english": "My luggage is missing, please help.",
+      "spanish": "Falta mi equipaje, por favor ayuden.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-26T05:34:24.972960"
+    },
+    {
+      "english": "Can I get a window seat?",
+      "spanish": "¿Me puede dar un asiento de ventana?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-26T05:34:24.972963"
+    },
+    {
+      "english": "What gate does the flight depart from?",
+      "spanish": "¿De qué puerta sale el vuelo?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-26T05:34:24.972967"
+    },
+    {
+      "english": "I need to reconfirm my reservation.",
+      "spanish": "Necesito reconfirmar mi reserva.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-26T05:34:24.972970"
+    },
+    {
+      "english": "Could you please call a taxi?",
+      "spanish": "¿Podría llamar un taxi, por favor?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-26T05:34:24.972972"
+    },
+    {
+      "english": "Is there a shuttle to the hotel?",
+      "spanish": "¿Hay un autobús al hotel?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-26T05:34:24.972975"
+    },
+    {
+      "english": "I'm looking for the currency exchange.",
+      "spanish": "Busco el cambio de divisa.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-26T05:34:24.972977"
+    },
+    {
+      "english": "What's the Wi-Fi password here?",
+      "spanish": "¿Cuál es la contraseña del Wi-Fi?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-26T05:34:24.972982"
+    },
+    {
+      "english": "Where can I buy a local SIM card?",
+      "spanish": "¿Dónde puedo comprar una SIM local?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-26T05:34:24.972985"
+    },
+    {
+      "english": "I need to charge my phone, please.",
+      "spanish": "Necesito cargar mi teléfono, por favor.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-26T05:34:24.972987"
+    },
+    {
+      "english": "This is my first time visiting.",
+      "spanish": "Es mi primera vez visitando.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-26T05:34:24.972989"
+    },
+    {
+      "english": "What time does this museum close?",
+      "spanish": "¿A qué hora cierra este museo?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-26T05:34:24.972992"
+    },
+    {
+      "english": "I'd like to order a coffee.",
+      "spanish": "Quisiera pedir un café.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-26T05:34:24.972994"
     }
   ],
-  "last_updated": "2026-10-25T05:29:57.821644"
+  "last_updated": "2026-10-26T05:34:24.972996"
 }
