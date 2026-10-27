@@ -8279,7 +8279,727 @@
       "spanish": "Quisiera pedir un café.",
       "category": "Travel & Airport",
       "generated_at": "2026-10-26T05:34:24.972994"
+    },
+    {
+      "english": "Hello there, beautiful.",
+      "spanish": "Hola, guapa.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-27T05:48:57.211731"
+    },
+    {
+      "english": "What a surprise!",
+      "spanish": "¡Qué sorpresa!",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-27T05:48:57.211744"
+    },
+    {
+      "english": "You look amazing.",
+      "spanish": "Te ves increíble.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-27T05:48:57.211747"
+    },
+    {
+      "english": "Can I buy you a drink?",
+      "spanish": "¿Te invito algo?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-27T05:48:57.211750"
+    },
+    {
+      "english": "I'm really enjoying this.",
+      "spanish": "Me encanta esto.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-27T05:48:57.211752"
+    },
+    {
+      "english": "You have beautiful eyes.",
+      "spanish": "Tienes ojos bonitos.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-27T05:48:57.211755"
+    },
+    {
+      "english": "What are you drinking?",
+      "spanish": "¿Qué tomas?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-27T05:48:57.211757"
+    },
+    {
+      "english": "This is fun.",
+      "spanish": "Esto es divertido.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-27T05:48:57.211763"
+    },
+    {
+      "english": "I'm single, by the way.",
+      "spanish": "Soy soltero/a, por cierto.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-27T05:48:57.211766"
+    },
+    {
+      "english": "Do you come here often?",
+      "spanish": "¿Vienes aquí a menudo?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-27T05:48:57.211769"
+    },
+    {
+      "english": "You're very interesting.",
+      "spanish": "Eres muy interesante.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-27T05:48:57.211772"
+    },
+    {
+      "english": "Let's talk more.",
+      "spanish": "Hablemos más.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-27T05:48:57.211774"
+    },
+    {
+      "english": "I like your style.",
+      "spanish": "Me gusta tu estilo.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-27T05:48:57.211779"
+    },
+    {
+      "english": "What's your name?",
+      "spanish": "¿Cómo te llamas?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-27T05:48:57.211781"
+    },
+    {
+      "english": "It's a pleasure meeting you.",
+      "spanish": "Encantado/a de conocerte.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-27T05:48:57.211784"
+    },
+    {
+      "english": "You seem nice.",
+      "spanish": "Pareces simpático/a.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-27T05:48:57.211786"
+    },
+    {
+      "english": "I'm looking for someone.",
+      "spanish": "Busco a alguien.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-27T05:48:57.211789"
+    },
+    {
+      "english": "This is awkward.",
+      "spanish": "Esto es incómodo.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-27T05:48:57.211791"
+    },
+    {
+      "english": "You made me laugh.",
+      "spanish": "Me hiciste reír.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-27T05:48:57.211793"
+    },
+    {
+      "english": "What do you do?",
+      "spanish": "¿A qué te dedicas?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-27T05:48:57.211796"
+    },
+    {
+      "english": "I'm feeling good.",
+      "spanish": "Me siento bien.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-27T05:48:57.211798"
+    },
+    {
+      "english": "Can I get your number?",
+      "spanish": "¿Me das tu número?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-27T05:48:57.211800"
+    },
+    {
+      "english": "You're so charming.",
+      "spanish": "Eres muy encantador/a.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-27T05:48:57.211803"
+    },
+    {
+      "english": "What a coincidence!",
+      "spanish": "¡Qué coincidencia!",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-27T05:48:57.211805"
+    },
+    {
+      "english": "I'm intrigued.",
+      "spanish": "Me da curiosidad.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-27T05:48:57.211807"
+    },
+    {
+      "english": "You have a nice smile.",
+      "spanish": "Tienes una sonrisa linda.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-27T05:48:57.211810"
+    },
+    {
+      "english": "This is exciting.",
+      "spanish": "Esto es emocionante.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-27T05:48:57.211812"
+    },
+    {
+      "english": "May I walk you home?",
+      "spanish": "¿Te acompaño a casa?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-27T05:48:57.211816"
+    },
+    {
+      "english": "What are you thinking about?",
+      "spanish": "¿En qué piensas?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-27T05:48:57.211821"
+    },
+    {
+      "english": "Tell me more, please.",
+      "spanish": "Cuéntame más, por favor.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-27T05:48:57.211824"
+    },
+    {
+      "english": "What's your favorite hobby?",
+      "spanish": "¿Cuál es tu pasatiempo favorito?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-27T05:48:57.211826"
+    },
+    {
+      "english": "Are you waiting for someone?",
+      "spanish": "¿Esperas a alguien?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-27T05:48:57.211829"
+    },
+    {
+      "english": "What do you like to do?",
+      "spanish": "¿Qué te gusta hacer?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-27T05:48:57.211831"
+    },
+    {
+      "english": "Do you believe in love at first sight?",
+      "spanish": "¿Crees en el amor a primera vista?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-27T05:48:57.211834"
+    },
+    {
+      "english": "How was your day so far?",
+      "spanish": "¿Cómo va tu día hasta ahora?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-27T05:48:57.211836"
+    },
+    {
+      "english": "Do you want to dance?",
+      "spanish": "¿Quieres bailar?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-27T05:48:57.211839"
+    },
+    {
+      "english": "Should we go somewhere else?",
+      "spanish": "¿Deberíamos ir a otro lugar?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-27T05:48:57.211841"
+    },
+    {
+      "english": "What are your plans for the weekend?",
+      "spanish": "¿Cuáles son tus planes para el fin de semana?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-27T05:48:57.211844"
+    },
+    {
+      "english": "You seem very thoughtful.",
+      "spanish": "Pareces muy pensativo/a.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-27T05:48:57.211846"
+    },
+    {
+      "english": "What's your story?",
+      "spanish": "¿Cuál es tu historia?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-27T05:48:57.211849"
+    },
+    {
+      "english": "Is this your first time here?",
+      "spanish": "¿Es tu primera vez aquí?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-27T05:48:57.211851"
+    },
+    {
+      "english": "Do you like this music?",
+      "spanish": "¿Te gusta esta música?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-27T05:48:57.211854"
+    },
+    {
+      "english": "Could we talk later?",
+      "spanish": "¿Podríamos hablar más tarde?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-27T05:48:57.211856"
+    },
+    {
+      "english": "Are you having fun tonight?",
+      "spanish": "¿Te estás divirtiendo esta noche?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-27T05:48:57.211860"
+    },
+    {
+      "english": "What's your ideal date?",
+      "spanish": "¿Cuál es tu cita ideal?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-27T05:48:57.211897"
+    },
+    {
+      "english": "Do you believe in destiny?",
+      "spanish": "¿Crees en el destino?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-27T05:48:57.211900"
+    },
+    {
+      "english": "What are you looking for?",
+      "spanish": "¿Qué buscas?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-27T05:48:57.211902"
+    },
+    {
+      "english": "Can I ask a personal question?",
+      "spanish": "¿Puedo hacer una pregunta personal?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-27T05:48:57.211905"
+    },
+    {
+      "english": "Tell me something interesting about you.",
+      "spanish": "Dime algo interesante sobre ti.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-27T05:48:57.211907"
+    },
+    {
+      "english": "What do you think of this place?",
+      "spanish": "¿Qué opinas de este lugar?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-27T05:48:57.211910"
+    },
+    {
+      "english": "Believe in your magic, always.",
+      "spanish": "Cree en tu magia, siempre.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-27T05:48:57.211912"
+    },
+    {
+      "english": "You attract what you are.",
+      "spanish": "Atraes lo que eres.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-27T05:48:57.211915"
+    },
+    {
+      "english": "Positive vibes attract good people.",
+      "spanish": "Las vibras positivas atraen gente buena.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-27T05:48:57.211917"
+    },
+    {
+      "english": "Open your heart, big things happen.",
+      "spanish": "Abre tu corazón, pasan cosas grandes.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-27T05:48:57.211920"
+    },
+    {
+      "english": "You are worthy of amazing love.",
+      "spanish": "Mereces un amor increíble.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-27T05:48:57.211923"
+    },
+    {
+      "english": "Don't be afraid, just be you.",
+      "spanish": "No tengas miedo, solo sé tú.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-27T05:48:57.211928"
+    },
+    {
+      "english": "Let good things flow to you.",
+      "spanish": "Deja que lo bueno fluya hacia ti.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-27T05:48:57.211930"
+    },
+    {
+      "english": "You've got this, totally.",
+      "spanish": "Tú puedes con esto, totalmente.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-27T05:48:57.211933"
+    },
+    {
+      "english": "Embrace the adventure, love awaits.",
+      "spanish": "Abraza la aventura, el amor espera.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-27T05:48:57.211935"
+    },
+    {
+      "english": "Shine bright, darling.",
+      "spanish": "Brilla mucho, cariño.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-27T05:48:57.211938"
+    },
+    {
+      "english": "Trust the process, it's unfolding.",
+      "spanish": "Confía en el proceso, se está desplegando.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-27T05:48:57.211941"
+    },
+    {
+      "english": "You are enough, right now.",
+      "spanish": "Eres suficiente, justo ahora.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-27T05:48:57.211943"
+    },
+    {
+      "english": "What a great connection!",
+      "spanish": "¡Qué buena conexión!",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-27T05:48:57.211946"
+    },
+    {
+      "english": "Your smile lights up the room.",
+      "spanish": "Tu sonrisa ilumina la sala.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-27T05:48:57.211948"
+    },
+    {
+      "english": "You have such a kind soul.",
+      "spanish": "Tienes un alma muy amable.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-27T05:48:57.211951"
+    },
+    {
+      "english": "It's wonderful seeing you happy.",
+      "spanish": "Es maravilloso verte feliz.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-27T05:48:57.211954"
+    },
+    {
+      "english": "You make this easy.",
+      "spanish": "Lo haces fácil.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-27T05:48:57.211956"
+    },
+    {
+      "english": "I'm enjoying our chat.",
+      "spanish": "Disfruto nuestra charla.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-27T05:48:57.211958"
+    },
+    {
+      "english": "You're very easy to talk to.",
+      "spanish": "Eres muy fácil de hablar.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-27T05:48:57.211961"
+    },
+    {
+      "english": "You have a great vibe.",
+      "spanish": "Tienes una vibra genial.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-27T05:48:57.211963"
+    },
+    {
+      "english": "Keep that amazing attitude.",
+      "spanish": "Mantén esa actitud genial.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-27T05:48:57.211966"
+    },
+    {
+      "english": "You're a breath of fresh air.",
+      "spanish": "Eres un soplo de aire fresco.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-27T05:48:57.211968"
+    },
+    {
+      "english": "It's good to be open.",
+      "spanish": "Es bueno ser abierto.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-27T05:48:57.211971"
+    },
+    {
+      "english": "This feels right, doesn't it?",
+      "spanish": "Esto se siente bien, ¿verdad?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-27T05:48:57.211973"
+    },
+    {
+      "english": "You're a wonderful person.",
+      "spanish": "Eres una persona maravillosa.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-27T05:48:57.211976"
+    },
+    {
+      "english": "Let's see where this goes.",
+      "spanish": "Veamos a dónde va esto.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-27T05:48:57.211980"
+    },
+    {
+      "english": "Don't doubt yourself, ever.",
+      "spanish": "Nunca dudes de ti.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-27T05:48:57.211983"
+    },
+    {
+      "english": "He's a real catch, isn't he?",
+      "spanish": "Es un partidazo, ¿verdad?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-27T05:48:57.211986"
+    },
+    {
+      "english": "We hit it off, right away.",
+      "spanish": "Conectamos al instante.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-27T05:48:57.211989"
+    },
+    {
+      "english": "She's got that certain something.",
+      "spanish": "Ella tiene algo especial.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-27T05:48:57.211992"
+    },
+    {
+      "english": "He's not my type, at all.",
+      "spanish": "No es mi tipo, para nada.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-27T05:48:57.211994"
+    },
+    {
+      "english": "They're head over heels, for sure.",
+      "spanish": "Están locos el uno por el otro.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-27T05:48:57.211997"
+    },
+    {
+      "english": "Let's see if there's chemistry.",
+      "spanish": "A ver si hay química.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-27T05:48:57.212002"
+    },
+    {
+      "english": "He's a bit of a player.",
+      "spanish": "Es un poco de mucho.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-27T05:48:57.212005"
+    },
+    {
+      "english": "She's playing hard to get.",
+      "spanish": "Se hace de rogar.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-27T05:48:57.212007"
+    },
+    {
+      "english": "Are you guys serious?",
+      "spanish": "¿Lo vuestro va en serio?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-27T05:48:57.212009"
+    },
+    {
+      "english": "He's got a good heart.",
+      "spanish": "Tiene buen corazón.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-27T05:48:57.212012"
+    },
+    {
+      "english": "I think we have a spark.",
+      "spanish": "Creo que hay chispa.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-27T05:48:57.212014"
+    },
+    {
+      "english": "Don't rush things, okay?",
+      "spanish": "No te precipites, ¿vale?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-27T05:48:57.212019"
+    },
+    {
+      "english": "He's a charmer, that one.",
+      "spanish": "Tiene mucho encanto, él.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-27T05:48:57.212022"
+    },
+    {
+      "english": "Are you two inseparable?",
+      "spanish": "¿Sois inseparables?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-27T05:48:57.212024"
+    },
+    {
+      "english": "Let's take it slow.",
+      "spanish": "Vamos poco a poco.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-27T05:48:57.212026"
+    },
+    {
+      "english": "He swept her off her feet.",
+      "spanish": "La conquistó al instante.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-27T05:48:57.212029"
+    },
+    {
+      "english": "This feels like fate.",
+      "spanish": "Esto parece cosa del destino.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-27T05:48:57.212031"
+    },
+    {
+      "english": "I’m smitten, I admit.",
+      "spanish": "Estoy prendado, lo admito.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-27T05:48:57.212035"
+    },
+    {
+      "english": "They're a perfect match.",
+      "spanish": "Hacen muy buena pareja.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-27T05:48:57.212038"
+    },
+    {
+      "english": "He's really sweet on her.",
+      "spanish": "Está coladito por ella.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-27T05:48:57.212041"
+    },
+    {
+      "english": "Let's give it a shot.",
+      "spanish": "Vamos a intentarlo.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-27T05:48:57.212043"
+    },
+    {
+      "english": "She’s the apple of his eye.",
+      "spanish": "Es la niña de sus ojos.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-27T05:48:57.212046"
+    },
+    {
+      "english": "I'm getting serious vibes.",
+      "spanish": "Percibo intenciones serias.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-27T05:48:57.212048"
+    },
+    {
+      "english": "He’s totally smitten.",
+      "spanish": "Él está loco por ella.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-27T05:48:57.212051"
+    },
+    {
+      "english": "We really hit it off.",
+      "spanish": "Nos llevamos genial.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-27T05:48:57.212054"
+    },
+    {
+      "english": "This could be something.",
+      "spanish": "Esto puede ser algo.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-27T05:48:57.212056"
+    },
+    {
+      "english": "Are you seeing anyone?",
+      "spanish": "¿Estás con alguien?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-27T05:48:57.212058"
+    },
+    {
+      "english": "He's quite the catch.",
+      "spanish": "Es un buen partido.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-27T05:48:57.212061"
+    },
+    {
+      "english": "Don't lead them on.",
+      "spanish": "No les des falsas esperanzas.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-27T05:48:57.212063"
+    },
+    {
+      "english": "We have a good connection.",
+      "spanish": "Tenemos buena conexión.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-27T05:48:57.212068"
+    },
+    {
+      "english": "Be honest, with your feelings.",
+      "spanish": "Sé honesto, con tus sentimientos.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-27T05:48:57.212072"
+    },
+    {
+      "english": "Communication is super key, you know.",
+      "spanish": "La comunicación es clave, ¿sabes?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-27T05:48:57.212075"
+    },
+    {
+      "english": "Ask him, about his hobbies.",
+      "spanish": "Pregúntale, sobre sus aficiones.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-27T05:48:57.212077"
+    },
+    {
+      "english": "Don't overthink, the small stuff.",
+      "spanish": "No pienses demasiado, en lo pequeño.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-27T05:48:57.212080"
+    },
+    {
+      "english": "Show appreciation, for small gestures.",
+      "spanish": "Muestra aprecio, por gestos pequeños.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-27T05:48:57.212083"
+    },
+    {
+      "english": "Listen more, than you speak.",
+      "spanish": "Escucha más, de lo que hablas.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-27T05:48:57.212085"
+    },
+    {
+      "english": "Respect boundaries, always.",
+      "spanish": "Respeta los límites, siempre.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-27T05:48:57.212088"
+    },
+    {
+      "english": "Find common ground, to connect.",
+      "spanish": "Busquen terreno común, para conectar.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-27T05:48:57.212090"
+    },
+    {
+      "english": "Compliment, genuinely.",
+      "spanish": "Da un cumplido, de verdad.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-27T05:48:57.212093"
+    },
+    {
+      "english": "Be yourself, truly.",
+      "spanish": "Sé tú mismo, de verdad.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-27T05:48:57.212095"
+    },
+    {
+      "english": "Share your passions, with them.",
+      "spanish": "Comparte tus pasiones, con ellos.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-27T05:48:57.212098"
+    },
+    {
+      "english": "Don't play games, be direct.",
+      "spanish": "No juegues, sé directo.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-27T05:48:57.212101"
+    },
+    {
+      "english": "Suggest a date, confidently.",
+      "spanish": "Sugiere una cita, con confianza.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-27T05:48:57.212103"
     }
   ],
-  "last_updated": "2026-10-26T05:34:24.972996"
+  "last_updated": "2026-10-27T05:48:57.212105"
 }
