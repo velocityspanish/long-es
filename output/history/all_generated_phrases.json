@@ -8999,7 +8999,727 @@
       "spanish": "Sugiere una cita, con confianza.",
       "category": "Dating & Romance",
       "generated_at": "2026-10-27T05:48:57.212103"
+    },
+    {
+      "english": "I'll have the chicken, please.",
+      "spanish": "Tomaré el pollo, por favor.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:29:03.735931"
+    },
+    {
+      "english": "No, not too spicy, thanks.",
+      "spanish": "No, no pica mucho, gracias.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:29:03.735949"
+    },
+    {
+      "english": "I'm a vegetarian, actually.",
+      "spanish": "Soy vegetariano/a, en realidad.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:29:03.735952"
+    },
+    {
+      "english": "What are the daily specials?",
+      "spanish": "¿Cuáles son los especiales del día?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:29:03.735955"
+    },
+    {
+      "english": "This is delicious, really.",
+      "spanish": "Está riquísimo, de verdad.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:29:03.735958"
+    },
+    {
+      "english": "Could I get some water, please?",
+      "spanish": "¿Me trae un poco de agua, por favor?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:29:03.735961"
+    },
+    {
+      "english": "Just water, thanks.",
+      "spanish": "Solo agua, gracias.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:29:03.735963"
+    },
+    {
+      "english": "We need a moment, please.",
+      "spanish": "Necesitamos un momento, por favor.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:29:03.735969"
+    },
+    {
+      "english": "It's a bit too salty.",
+      "spanish": "Está un poco salado.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:29:03.735972"
+    },
+    {
+      "english": "Can we get the check, please?",
+      "spanish": "¿Nos trae la cuenta, por favor?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:29:03.735975"
+    },
+    {
+      "english": "Do you have Wi-Fi here?",
+      "spanish": "¿Tenéis Wi-Fi aquí?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:29:03.735977"
+    },
+    {
+      "english": "The food is taking a while.",
+      "spanish": "La comida está tardando.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:29:03.735980"
+    },
+    {
+      "english": "Everything was great, thank you.",
+      "spanish": "Todo estuvo genial, gracias.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:29:03.735983"
+    },
+    {
+      "english": "Excuse me, waiter!",
+      "spanish": "¡Oiga, camarero!",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:29:03.735985"
+    },
+    {
+      "english": "Is there a vegan option?",
+      "spanish": "¿Hay alguna opción vegana?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:29:03.735987"
+    },
+    {
+      "english": "I'd like something light.",
+      "spanish": "Quisiera algo ligero.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:29:03.735989"
+    },
+    {
+      "english": "What's this dish made of?",
+      "spanish": "¿De qué está hecho este plato?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:29:03.735992"
+    },
+    {
+      "english": "It's too cold in here.",
+      "spanish": "Hace demasiado frío aquí.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:29:03.735994"
+    },
+    {
+      "english": "Can I have some bread?",
+      "spanish": "¿Me da un poco de pan?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:29:03.735997"
+    },
+    {
+      "english": "What's the soup of the day?",
+      "spanish": "¿Cuál es la sopa del día?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:29:03.735999"
+    },
+    {
+      "english": "I'm not in a hurry.",
+      "spanish": "No tengo prisa.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:29:03.736001"
+    },
+    {
+      "english": "This is perfect, thank you.",
+      "spanish": "Esto es perfecto, gracias.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:29:03.736004"
+    },
+    {
+      "english": "I'll have the same thing.",
+      "spanish": "Tomaré lo mismo.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:29:03.736006"
+    },
+    {
+      "english": "Do you have any desserts?",
+      "spanish": "¿Tenéis postres?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:29:03.736008"
+    },
+    {
+      "english": "That was wonderful, really.",
+      "spanish": "Estuvo maravilloso, de verdad.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:29:03.736012"
+    },
+    {
+      "english": "What do you recommend, boss?",
+      "spanish": "¿Qué me recomiendas, jefe?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:29:03.736015"
+    },
+    {
+      "english": "Is this dish very filling?",
+      "spanish": "¿Este plato, llena mucho?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:29:03.736018"
+    },
+    {
+      "english": "What's popular on the menu?",
+      "spanish": "¿Qué es lo más pedido?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:29:03.736020"
+    },
+    {
+      "english": "Can you make it mild, please?",
+      "spanish": "¿Me lo puede hacer suave?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:29:03.736024"
+    },
+    {
+      "english": "Is there anything local?",
+      "spanish": "¿Hay algo de la zona?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:29:03.736027"
+    },
+    {
+      "english": "How is this prepared, exactly?",
+      "spanish": "¿Cómo se prepara, exactamente?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:29:03.736029"
+    },
+    {
+      "english": "Could we share this appetizer?",
+      "spanish": "¿Podemos compartir esta entrada?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:29:03.736031"
+    },
+    {
+      "english": "I'm allergic to nuts, watch out.",
+      "spanish": "Soy alérgico a los frutos secos.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:29:03.736034"
+    },
+    {
+      "english": "Is this a house specialty?",
+      "spanish": "¿Es alguna especialidad de la casa?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:29:03.736036"
+    },
+    {
+      "english": "Is it spicy, just a little?",
+      "spanish": "¿Pica, solo un poquito?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:29:03.736039"
+    },
+    {
+      "english": "How would you describe this dish?",
+      "spanish": "¿Cómo describiría este plato?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:29:03.736041"
+    },
+    {
+      "english": "Are there any gluten-free options?",
+      "spanish": "¿Tienen opciones sin gluten?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:29:03.736044"
+    },
+    {
+      "english": "Can we try a bit of that?",
+      "spanish": "¿Podemos probar un poco de eso?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:29:03.736046"
+    },
+    {
+      "english": "What wine goes with this?",
+      "spanish": "¿Qué vino va con esto?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:29:03.736049"
+    },
+    {
+      "english": "Is this sauce homemade?",
+      "spanish": "¿Esta salsa es casera?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:29:03.736052"
+    },
+    {
+      "english": "Can I order to take away?",
+      "spanish": "¿Puedo pedir para llevar?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:29:03.736054"
+    },
+    {
+      "english": "What kind of meat is this?",
+      "spanish": "¿Qué tipo de carne es?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:29:03.736056"
+    },
+    {
+      "english": "Could you warm it up slightly?",
+      "spanish": "¿Podría calentarlo un poco?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:29:03.736058"
+    },
+    {
+      "english": "Is this a large portion?",
+      "spanish": "¿Es una ración grande?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:29:03.736061"
+    },
+    {
+      "english": "What's the dressing like?",
+      "spanish": "¿Cómo es el aliño?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:29:03.736063"
+    },
+    {
+      "english": "Can I get extra napkins?",
+      "spanish": "¿Me da servilletas extra?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:29:03.736065"
+    },
+    {
+      "english": "Is there a kids' menu?",
+      "spanish": "¿Hay menú para niños?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:29:03.736068"
+    },
+    {
+      "english": "What's your signature dish?",
+      "spanish": "¿Cuál es su plato estrella?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:29:03.736070"
+    },
+    {
+      "english": "Can we have separate checks?",
+      "spanish": "¿Podemos pagar por separado?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:29:03.736072"
+    },
+    {
+      "english": "Is this dish spicy, or mild?",
+      "spanish": "¿Este plato es picante, o suave?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:29:03.736074"
+    },
+    {
+      "english": "What do you suggest for dessert?",
+      "spanish": "¿Qué sugiere de postre?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:29:03.736077"
+    },
+    {
+      "english": "Can I get a doggy bag?",
+      "spanish": "¿Me da una bolsa para sobras?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:29:03.736080"
+    },
+    {
+      "english": "Don't worry, you'll get it.",
+      "spanish": "No te preocupes, tú puedes.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:29:03.736083"
+    },
+    {
+      "english": "Take your time, relax.",
+      "spanish": "Tómate tu tiempo, relájate.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:29:03.736086"
+    },
+    {
+      "english": "Every attempt is progress.",
+      "spanish": "Cada intento es progreso.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:29:03.736088"
+    },
+    {
+      "english": "It's okay to make mistakes.",
+      "spanish": "Está bien equivocarse.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:29:03.736091"
+    },
+    {
+      "english": "Just try your best, that's enough.",
+      "spanish": "Solo da lo mejor, eso basta.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:29:03.736093"
+    },
+    {
+      "english": "Learning takes patience, amigo.",
+      "spanish": "Aprender lleva paciencia, amigo.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:29:03.736096"
+    },
+    {
+      "english": "Embrace the new flavors.",
+      "spanish": "Acepta los nuevos sabores.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:29:03.736098"
+    },
+    {
+      "english": "Adventure awaits your taste buds.",
+      "spanish": "La aventura espera a tu paladar.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:29:03.736100"
+    },
+    {
+      "english": "Be brave with your order.",
+      "spanish": "Sé valiente con tu pedido.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:29:03.736104"
+    },
+    {
+      "english": "Taste it, don't fear it.",
+      "spanish": "Pruébalo, no le temas.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:29:03.736107"
+    },
+    {
+      "english": "Confidence is the best spice.",
+      "spanish": "La confianza es la mejor especia.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:29:03.736110"
+    },
+    {
+      "english": "You're learning fast, bravo!",
+      "spanish": "¡Aprendes rápido, bravo!",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:29:03.736112"
+    },
+    {
+      "english": "Enjoy the whole experience.",
+      "spanish": "Disfruta toda la experiencia.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:29:03.736115"
+    },
+    {
+      "english": "Every bite is a lesson.",
+      "spanish": "Cada bocado es una lección.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:29:03.736117"
+    },
+    {
+      "english": "Don't be shy, ask nicely.",
+      "spanish": "No seas tímido, pide bien.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:29:03.736119"
+    },
+    {
+      "english": "Your effort is impressive.",
+      "spanish": "Tu esfuerzo es impresionante.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:29:03.736122"
+    },
+    {
+      "english": "Celebrate small victories.",
+      "spanish": "Celebra las pequeñas victorias.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:29:03.736124"
+    },
+    {
+      "english": "You're getting the hang of it.",
+      "spanish": "Le vas agarrando el truco.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:29:03.736126"
+    },
+    {
+      "english": "Feel proud of your progress.",
+      "spanish": "Siéntete orgulloso de tu avance.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:29:03.736128"
+    },
+    {
+      "english": "This is a good learning step.",
+      "spanish": "Este es un buen paso de aprendizaje.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:29:03.736130"
+    },
+    {
+      "english": "Be open to new tastes.",
+      "spanish": "Sé abierto a nuevos gustos.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:29:03.736133"
+    },
+    {
+      "english": "You're a star learner!",
+      "spanish": "¡Eres un gran aprendiz!",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:29:03.736135"
+    },
+    {
+      "english": "Don't doubt your ability.",
+      "spanish": "No dudes de tu capacidad.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:29:03.736137"
+    },
+    {
+      "english": "Every word spoken counts.",
+      "spanish": "Cada palabra dicha cuenta.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:29:03.736139"
+    },
+    {
+      "english": "You're doing better each time.",
+      "spanish": "Mejoras cada vez más.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:29:03.736143"
+    },
+    {
+      "english": "Keep that positive attitude.",
+      "spanish": "Mantén esa actitud positiva.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:29:03.736145"
+    },
+    {
+      "english": "Soon, you'll order like a pro.",
+      "spanish": "Pronto pedirás como un profesional.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:29:03.736148"
+    },
+    {
+      "english": "Give me the usual, please.",
+      "spanish": "Tráigame lo de siempre, por favor.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:29:03.736150"
+    },
+    {
+      "english": "I'm feeling adventurous, surprise me.",
+      "spanish": "Me siento aventurero/a, sorpréndame.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:29:03.736153"
+    },
+    {
+      "english": "This dish is calling my name.",
+      "spanish": "Este plato me está llamando.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:29:03.736155"
+    },
+    {
+      "english": "Is this filling, or just a starter?",
+      "spanish": "¿Esto llena, o es solo para empezar?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:29:03.736158"
+    },
+    {
+      "english": "What goes well with this beer?",
+      "spanish": "¿Qué va bien con esta cerveza?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:29:03.736160"
+    },
+    {
+      "english": "I could eat a horse, bring it on!",
+      "spanish": "Me comería un caballo, ¡tráigalo!",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:29:03.736162"
+    },
+    {
+      "english": "What's good here, really good?",
+      "spanish": "¿Qué hay aquí que esté bueno, de verdad?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:29:03.736166"
+    },
+    {
+      "english": "I'm on a budget, what's cheap?",
+      "spanish": "Tengo presupuesto limitado, ¿qué es barato?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:29:03.736169"
+    },
+    {
+      "english": "Make it spicy, no holding back!",
+      "spanish": "¡Que sea picante, sin moderación!",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:29:03.736171"
+    },
+    {
+      "english": "What's the local favorite?",
+      "spanish": "¿Cuál es el favorito de la zona?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:29:03.736174"
+    },
+    {
+      "english": "I'm craving something sweet, what's best?",
+      "spanish": "Se me antoja algo dulce, ¿qué es lo mejor?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:29:03.736177"
+    },
+    {
+      "english": "Anything for a vegetarian?",
+      "spanish": "¿Algo para un/a vegetariano/a?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:29:03.736179"
+    },
+    {
+      "english": "Just a little something, I'm not starving.",
+      "spanish": "Solo algo pequeño, no me muero de hambre.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:29:03.736182"
+    },
+    {
+      "english": "I'll have what they're having.",
+      "spanish": "Tomaré lo mismo que ellos.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:29:03.736186"
+    },
+    {
+      "english": "This looks amazing, I'll take it.",
+      "spanish": "Esto tiene una pinta estupenda, me lo llevo.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:29:03.736189"
+    },
+    {
+      "english": "Are there any local beers?",
+      "spanish": "¿Tienen cervezas de aquí?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:29:03.736192"
+    },
+    {
+      "english": "I'm in the mood for something hearty.",
+      "spanish": "Me apetece algo contundente.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:29:03.736194"
+    },
+    {
+      "english": "What's the deal with this dish?",
+      "spanish": "¿Qué tiene de especial este plato?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:29:03.736197"
+    },
+    {
+      "english": "I'll leave it to your expertise.",
+      "spanish": "Lo dejo a su experiencia.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:29:03.736199"
+    },
+    {
+      "english": "What's the most popular dish?",
+      "spanish": "¿Cuál es el plato más solicitado?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:29:03.736201"
+    },
+    {
+      "english": "Can I get a recommendation, please?",
+      "spanish": "¿Me puede recomendar algo, por favor?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:29:03.736204"
+    },
+    {
+      "english": "I'll risk it, I'll try that.",
+      "spanish": "Me arriesgo, probaré eso.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:29:03.736221"
+    },
+    {
+      "english": "What's cooking, good looking?",
+      "spanish": "¿Qué se cuece, guapo/a?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:29:03.736224"
+    },
+    {
+      "english": "Is this enough for two people?",
+      "spanish": "¿Es suficiente para dos?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:29:03.736226"
+    },
+    {
+      "english": "What's the secret ingredient?",
+      "spanish": "¿Cuál es el ingrediente secreto?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:29:03.736229"
+    },
+    {
+      "english": "I'm starving, feed me!",
+      "spanish": "¡Me muero de hambre, deme de comer!",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:29:03.736231"
+    },
+    {
+      "english": "What's the house special?",
+      "spanish": "¿Cuál es la especialidad de la casa?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:29:03.736235"
+    },
+    {
+      "english": "Surprise me with something local.",
+      "spanish": "Sorpréndame con algo local.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:29:03.736237"
+    },
+    {
+      "english": "What's today's special, please?",
+      "spanish": "¿Cuál es el especial del día, por favor?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:29:03.736240"
+    },
+    {
+      "english": "Can I see the menu, again?",
+      "spanish": "¿Me das la carta, otra vez?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:29:03.736243"
+    },
+    {
+      "english": "Is there a lunch menu?",
+      "spanish": "¿Hay menú de mediodía?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:29:03.736245"
+    },
+    {
+      "english": "We're ready to order now.",
+      "spanish": "Ya estamos listos para pedir.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:29:03.736248"
+    },
+    {
+      "english": "How much is this dish?",
+      "spanish": "¿Cuánto cuesta este plato?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:29:03.736250"
+    },
+    {
+      "english": "What are the side dishes?",
+      "spanish": "¿Cuáles son las guarniciones?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:29:03.736252"
+    },
+    {
+      "english": "I have an allergy, to nuts.",
+      "spanish": "Tengo alergia, a los frutos secos.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:29:03.736255"
+    },
+    {
+      "english": "Can I have it to go?",
+      "spanish": "¿Me lo puedo llevar?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:29:03.736257"
+    },
+    {
+      "english": "Is service included?",
+      "spanish": "¿El servicio está incluido?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:29:03.736259"
+    },
+    {
+      "english": "Do you have vegetarian options?",
+      "spanish": "¿Tienen opciones vegetarianas?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:29:03.736261"
+    },
+    {
+      "english": "Everything was excellent, really.",
+      "spanish": "Todo estuvo excelente, de verdad.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:29:03.736264"
+    },
+    {
+      "english": "I'll have a small coffee.",
+      "spanish": "Tomaré un café pequeño.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:29:03.736266"
+    },
+    {
+      "english": "Is this spicy, at all?",
+      "spanish": "¿Esto pica, un poco?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:29:03.736269"
     }
   ],
-  "last_updated": "2026-10-27T05:48:57.212105"
+  "last_updated": "2026-10-28T06:29:03.736271"
 }
