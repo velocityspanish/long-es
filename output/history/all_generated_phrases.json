@@ -9719,7 +9719,727 @@
       "spanish": "¿Esto pica, un poco?",
       "category": "Ordering Food & Dining",
       "generated_at": "2026-10-28T06:29:03.736269"
+    },
+    {
+      "english": "Give me a second.",
+      "spanish": "Dame un segundo.",
+      "category": "Patience",
+      "generated_at": "2026-10-29T06:39:53.700475"
+    },
+    {
+      "english": "Hold on a little.",
+      "spanish": "Espera un poquito.",
+      "category": "Patience",
+      "generated_at": "2026-10-29T06:39:53.700488"
+    },
+    {
+      "english": "Be patient, friend.",
+      "spanish": "Ten paciencia, amigo.",
+      "category": "Patience",
+      "generated_at": "2026-10-29T06:39:53.700492"
+    },
+    {
+      "english": "It takes time.",
+      "spanish": "Lleva tiempo.",
+      "category": "Patience",
+      "generated_at": "2026-10-29T06:39:53.700495"
+    },
+    {
+      "english": "We need to wait.",
+      "spanish": "Necesitamos esperar.",
+      "category": "Patience",
+      "generated_at": "2026-10-29T06:39:53.700498"
+    },
+    {
+      "english": "Slow down a bit.",
+      "spanish": "Ve más despacio.",
+      "category": "Patience",
+      "generated_at": "2026-10-29T06:39:53.700500"
+    },
+    {
+      "english": "Don't rush it.",
+      "spanish": "No te apures.",
+      "category": "Patience",
+      "generated_at": "2026-10-29T06:39:53.700503"
+    },
+    {
+      "english": "Let it happen naturally.",
+      "spanish": "Deja que suceda natural.",
+      "category": "Patience",
+      "generated_at": "2026-10-29T06:39:53.700508"
+    },
+    {
+      "english": "Rome wasn't built in a day.",
+      "spanish": "Roma no se hizo en un día.",
+      "category": "Patience",
+      "generated_at": "2026-10-29T06:39:53.700512"
+    },
+    {
+      "english": "Everything in its own time.",
+      "spanish": "Todo a su tiempo.",
+      "category": "Patience",
+      "generated_at": "2026-10-29T06:39:53.700517"
+    },
+    {
+      "english": "Just a little longer.",
+      "spanish": "Un poquito más.",
+      "category": "Patience",
+      "generated_at": "2026-10-29T06:39:53.700520"
+    },
+    {
+      "english": "I'm waiting patiently.",
+      "spanish": "Espero con paciencia.",
+      "category": "Patience",
+      "generated_at": "2026-10-29T06:39:53.700522"
+    },
+    {
+      "english": "How much longer?",
+      "spanish": "¿Cuánto falta?",
+      "category": "Patience",
+      "generated_at": "2026-10-29T06:39:53.700524"
+    },
+    {
+      "english": "Are we there yet?",
+      "spanish": "¿Ya llegamos?",
+      "category": "Patience",
+      "generated_at": "2026-10-29T06:39:53.700527"
+    },
+    {
+      "english": "Keep calm.",
+      "spanish": "Mantén la calma.",
+      "category": "Patience",
+      "generated_at": "2026-10-29T06:39:53.700529"
+    },
+    {
+      "english": "This is taking too long.",
+      "spanish": "Esto se está demorando.",
+      "category": "Patience",
+      "generated_at": "2026-10-29T06:39:53.700532"
+    },
+    {
+      "english": "I can't wait any longer.",
+      "spanish": "No aguanto más.",
+      "category": "Patience",
+      "generated_at": "2026-10-29T06:39:53.700534"
+    },
+    {
+      "english": "Let's give it a chance.",
+      "spanish": "Démosle una oportunidad.",
+      "category": "Patience",
+      "generated_at": "2026-10-29T06:39:53.700537"
+    },
+    {
+      "english": "It's worth the wait.",
+      "spanish": "Vale la pena esperar.",
+      "category": "Patience",
+      "generated_at": "2026-10-29T06:39:53.700541"
+    },
+    {
+      "english": "Patience, grasshopper.",
+      "spanish": "Paciencia, joven.",
+      "category": "Patience",
+      "generated_at": "2026-10-29T06:39:53.700544"
+    },
+    {
+      "english": "Just relax.",
+      "spanish": "Solo relájate.",
+      "category": "Patience",
+      "generated_at": "2026-10-29T06:39:53.700546"
+    },
+    {
+      "english": "It's coming soon.",
+      "spanish": "Ya viene.",
+      "category": "Patience",
+      "generated_at": "2026-10-29T06:39:53.700549"
+    },
+    {
+      "english": "Be patient with me.",
+      "spanish": "Tenme paciencia.",
+      "category": "Patience",
+      "generated_at": "2026-10-29T06:39:53.700551"
+    },
+    {
+      "english": "Let's not hurry.",
+      "spanish": "No nos apresuremos.",
+      "category": "Patience",
+      "generated_at": "2026-10-29T06:39:53.700555"
+    },
+    {
+      "english": "I'm trying to be patient.",
+      "spanish": "Intento ser paciente.",
+      "category": "Patience",
+      "generated_at": "2026-10-29T06:39:53.700558"
+    },
+    {
+      "english": "Can you wait just a moment?",
+      "spanish": "¿Puedes esperar un momento?",
+      "category": "Patience",
+      "generated_at": "2026-10-29T06:39:53.700561"
+    },
+    {
+      "english": "Could you please explain slowly?",
+      "spanish": "¿Podrías explicar despacio, por favor?",
+      "category": "Patience",
+      "generated_at": "2026-10-29T06:39:53.700563"
+    },
+    {
+      "english": "What do you suggest we do now?",
+      "spanish": "¿Qué sugieres que hagamos ahora?",
+      "category": "Patience",
+      "generated_at": "2026-10-29T06:39:53.700566"
+    },
+    {
+      "english": "Is there another way to do this?",
+      "spanish": "¿Hay otra forma de hacer esto?",
+      "category": "Patience",
+      "generated_at": "2026-10-29T06:39:53.700569"
+    },
+    {
+      "english": "How long will this process take?",
+      "spanish": "¿Cuánto tiempo durará este proceso?",
+      "category": "Patience",
+      "generated_at": "2026-10-29T06:39:53.700571"
+    },
+    {
+      "english": "Could you give me some advice?",
+      "spanish": "¿Me podrías dar algún consejo?",
+      "category": "Patience",
+      "generated_at": "2026-10-29T06:39:53.700574"
+    },
+    {
+      "english": "Can we discuss this later?",
+      "spanish": "¿Podemos hablar de esto después?",
+      "category": "Patience",
+      "generated_at": "2026-10-29T06:39:53.700576"
+    },
+    {
+      "english": "What should I do while waiting?",
+      "spanish": "¿Qué debo hacer mientras espero?",
+      "category": "Patience",
+      "generated_at": "2026-10-29T06:39:53.700579"
+    },
+    {
+      "english": "Is it almost finished?",
+      "spanish": "¿Ya casi está listo?",
+      "category": "Patience",
+      "generated_at": "2026-10-29T06:39:53.700581"
+    },
+    {
+      "english": "When can I expect an update?",
+      "spanish": "¿Cuándo puedo esperar una actualización?",
+      "category": "Patience",
+      "generated_at": "2026-10-29T06:39:53.700584"
+    },
+    {
+      "english": "What are the next steps?",
+      "spanish": "¿Cuáles son los próximos pasos?",
+      "category": "Patience",
+      "generated_at": "2026-10-29T06:39:53.700586"
+    },
+    {
+      "english": "Do you think it will work?",
+      "spanish": "¿Crees que funcionará?",
+      "category": "Patience",
+      "generated_at": "2026-10-29T06:39:53.700588"
+    },
+    {
+      "english": "How much longer do we need to sit tight?",
+      "spanish": "¿Cuánto más debemos aguantar?",
+      "category": "Patience",
+      "generated_at": "2026-10-29T06:39:53.700591"
+    },
+    {
+      "english": "What is the estimated time?",
+      "spanish": "¿Cuál es el tiempo estimado?",
+      "category": "Patience",
+      "generated_at": "2026-10-29T06:39:53.700593"
+    },
+    {
+      "english": "Can we take a break?",
+      "spanish": "¿Podemos tomar un descanso?",
+      "category": "Patience",
+      "generated_at": "2026-10-29T06:39:53.700596"
+    },
+    {
+      "english": "Could you be a bit more clear?",
+      "spanish": "¿Podrías ser un poco más claro?",
+      "category": "Patience",
+      "generated_at": "2026-10-29T06:39:53.700600"
+    },
+    {
+      "english": "When should we expect a resolution?",
+      "spanish": "¿Cuándo esperamos una solución?",
+      "category": "Patience",
+      "generated_at": "2026-10-29T06:39:53.700603"
+    },
+    {
+      "english": "What's the holdup here?",
+      "spanish": "¿Qué es lo que retrasa esto?",
+      "category": "Patience",
+      "generated_at": "2026-10-29T06:39:53.700605"
+    },
+    {
+      "english": "What's the status of my request?",
+      "spanish": "¿Cuál es el estado de mi solicitud?",
+      "category": "Patience",
+      "generated_at": "2026-10-29T06:39:53.700608"
+    },
+    {
+      "english": "Could you elaborate on that?",
+      "spanish": "¿Podrías explicar eso más a fondo?",
+      "category": "Patience",
+      "generated_at": "2026-10-29T06:39:53.700610"
+    },
+    {
+      "english": "Are we on the right track?",
+      "spanish": "¿Vamos por buen camino?",
+      "category": "Patience",
+      "generated_at": "2026-10-29T06:39:53.700613"
+    },
+    {
+      "english": "Can you confirm the details?",
+      "spanish": "¿Puedes confirmar los detalles?",
+      "category": "Patience",
+      "generated_at": "2026-10-29T06:39:53.700617"
+    },
+    {
+      "english": "What's the hold-up, exactly?",
+      "spanish": "¿Exactamente qué es la demora?",
+      "category": "Patience",
+      "generated_at": "2026-10-29T06:39:53.700620"
+    },
+    {
+      "english": "How much longer until it's done?",
+      "spanish": "¿Cuánto falta para que termine?",
+      "category": "Patience",
+      "generated_at": "2026-10-29T06:39:53.700622"
+    },
+    {
+      "english": "This is a good pace, don't rush.",
+      "spanish": "Este es un buen ritmo, no te apresures.",
+      "category": "Patience",
+      "generated_at": "2026-10-29T06:39:53.700625"
+    },
+    {
+      "english": "Every step forward counts.",
+      "spanish": "Cada paso adelante cuenta.",
+      "category": "Patience",
+      "generated_at": "2026-10-29T06:39:53.700628"
+    },
+    {
+      "english": "Trust the process, believe in it.",
+      "spanish": "Confía en el proceso, créelo.",
+      "category": "Patience",
+      "generated_at": "2026-10-29T06:39:53.700630"
+    },
+    {
+      "english": "Good things come, with time.",
+      "spanish": "Las cosas buenas llegan, con tiempo.",
+      "category": "Patience",
+      "generated_at": "2026-10-29T06:39:53.700633"
+    },
+    {
+      "english": "Your effort is noticeable.",
+      "spanish": "Tu esfuerzo es notorio.",
+      "category": "Patience",
+      "generated_at": "2026-10-29T06:39:53.700635"
+    },
+    {
+      "english": "Slow and steady wins.",
+      "spanish": "Lento y constante gana.",
+      "category": "Patience",
+      "generated_at": "2026-10-29T06:39:53.700638"
+    },
+    {
+      "english": "We'll get there, little by little.",
+      "spanish": "Llegaremos, poco a poco.",
+      "category": "Patience",
+      "generated_at": "2026-10-29T06:39:53.700641"
+    },
+    {
+      "english": "Don't lose hope, keep trying.",
+      "spanish": "No pierdas la esperanza, sigue intentando.",
+      "category": "Patience",
+      "generated_at": "2026-10-29T06:39:53.700644"
+    },
+    {
+      "english": "This requires dedication.",
+      "spanish": "Esto requiere dedicación.",
+      "category": "Patience",
+      "generated_at": "2026-10-29T06:39:53.700646"
+    },
+    {
+      "english": "Focus on the journey, not the end.",
+      "spanish": "Enfócate en el viaje, no al final.",
+      "category": "Patience",
+      "generated_at": "2026-10-29T06:39:53.700649"
+    },
+    {
+      "english": "Breathe, we are making progress.",
+      "spanish": "Respira, estamos avanzando.",
+      "category": "Patience",
+      "generated_at": "2026-10-29T06:39:53.700652"
+    },
+    {
+      "english": "Your calm attitude is helpful.",
+      "spanish": "Tu calma ayuda mucho.",
+      "category": "Patience",
+      "generated_at": "2026-10-29T06:39:53.700654"
+    },
+    {
+      "english": "We must be pragmatic.",
+      "spanish": "Debemos ser prácticos.",
+      "category": "Patience",
+      "generated_at": "2026-10-29T06:39:53.700657"
+    },
+    {
+      "english": "Give it the necessary time.",
+      "spanish": "Dale el tiempo necesario.",
+      "category": "Patience",
+      "generated_at": "2026-10-29T06:39:53.700659"
+    },
+    {
+      "english": "Perseverance is key.",
+      "spanish": "La perseverancia es clave.",
+      "category": "Patience",
+      "generated_at": "2026-10-29T06:39:53.700661"
+    },
+    {
+      "english": "Let's wait for the right moment.",
+      "spanish": "Esperemos el momento justo.",
+      "category": "Patience",
+      "generated_at": "2026-10-29T06:39:53.700664"
+    },
+    {
+      "english": "Let's not force it.",
+      "spanish": "No lo forzemos.",
+      "category": "Patience",
+      "generated_at": "2026-10-29T06:39:53.700667"
+    },
+    {
+      "english": "Take your time, no hurry.",
+      "spanish": "Tómate tu tiempo, sin prisa.",
+      "category": "Patience",
+      "generated_at": "2026-10-29T06:39:53.700669"
+    },
+    {
+      "english": "This will unfold naturally.",
+      "spanish": "Esto se desarrollará naturalmente.",
+      "category": "Patience",
+      "generated_at": "2026-10-29T06:39:53.700671"
+    },
+    {
+      "english": "Your patience is admirable.",
+      "spanish": "Tu paciencia es admirable.",
+      "category": "Patience",
+      "generated_at": "2026-10-29T06:39:53.700674"
+    },
+    {
+      "english": "We're on the right path.",
+      "spanish": "Estamos en el camino correcto.",
+      "category": "Patience",
+      "generated_at": "2026-10-29T06:39:53.700676"
+    },
+    {
+      "english": "Let's observe and adapt.",
+      "spanish": "Observemos y adaptemos.",
+      "category": "Patience",
+      "generated_at": "2026-10-29T06:39:53.700678"
+    },
+    {
+      "english": "Good results take effort.",
+      "spanish": "Los buenos resultados toman esfuerzo.",
+      "category": "Patience",
+      "generated_at": "2026-10-29T06:39:53.700681"
+    },
+    {
+      "english": "We are building something solid.",
+      "spanish": "Estamos construyendo algo sólido.",
+      "category": "Patience",
+      "generated_at": "2026-10-29T06:39:53.700685"
+    },
+    {
+      "english": "Trust your intuition.",
+      "spanish": "Confía en tu intuición.",
+      "category": "Patience",
+      "generated_at": "2026-10-29T06:39:53.700690"
+    },
+    {
+      "english": "This is a learning moment.",
+      "spanish": "Este es un momento de aprendizaje.",
+      "category": "Patience",
+      "generated_at": "2026-10-29T06:39:53.700692"
+    },
+    {
+      "english": "We are progressing steadily.",
+      "spanish": "Avanzamos de manera constante.",
+      "category": "Patience",
+      "generated_at": "2026-10-29T06:39:53.700695"
+    },
+    {
+      "english": "Patience bears sweet fruit.",
+      "spanish": "La paciencia da frutos dulces.",
+      "category": "Patience",
+      "generated_at": "2026-10-29T06:39:53.700697"
+    },
+    {
+      "english": "Let it flow, naturally.",
+      "spanish": "Déjalo fluir, naturalmente.",
+      "category": "Patience",
+      "generated_at": "2026-10-29T06:39:53.700700"
+    },
+    {
+      "english": "Keep calm, and carry on.",
+      "spanish": "Mantén la calma, y sigue.",
+      "category": "Patience",
+      "generated_at": "2026-10-29T06:39:53.700702"
+    },
+    {
+      "english": "It's a marathon, not a sprint.",
+      "spanish": "Es una maratón, no un sprint.",
+      "category": "Patience",
+      "generated_at": "2026-10-29T06:39:53.700742"
+    },
+    {
+      "english": "Let's not rush the river.",
+      "spanish": "No hay que forzar la corriente.",
+      "category": "Patience",
+      "generated_at": "2026-10-29T06:39:53.700746"
+    },
+    {
+      "english": "One step at a time, okay?",
+      "spanish": "Paso a paso, ¿vale?",
+      "category": "Patience",
+      "generated_at": "2026-10-29T06:39:53.700748"
+    },
+    {
+      "english": "We'll get there, eventually.",
+      "spanish": "Llegaremos, con el tiempo.",
+      "category": "Patience",
+      "generated_at": "2026-10-29T06:39:53.700751"
+    },
+    {
+      "english": "Patience is a virtue, my friend.",
+      "spanish": "La paciencia es un don, amigo.",
+      "category": "Patience",
+      "generated_at": "2026-10-29T06:39:53.700754"
+    },
+    {
+      "english": "Don't get your panties in a twist.",
+      "spanish": "No te pongas nervioso, hombre.",
+      "category": "Patience",
+      "generated_at": "2026-10-29T06:39:53.700756"
+    },
+    {
+      "english": "Let things simmer, a bit.",
+      "spanish": "Deja que las cosas reposen.",
+      "category": "Patience",
+      "generated_at": "2026-10-29T06:39:53.700759"
+    },
+    {
+      "english": "This requires a steady hand.",
+      "spanish": "Esto requiere mano firme.",
+      "category": "Patience",
+      "generated_at": "2026-10-29T06:39:53.700762"
+    },
+    {
+      "english": "Slowly but surely, we're winning.",
+      "spanish": "Lento pero seguro, ganamos.",
+      "category": "Patience",
+      "generated_at": "2026-10-29T06:39:53.700767"
+    },
+    {
+      "english": "Let's see how this plays out.",
+      "spanish": "Vamos a ver qué pasa.",
+      "category": "Patience",
+      "generated_at": "2026-10-29T06:39:53.700769"
+    },
+    {
+      "english": "Don't rush the process.",
+      "spanish": "No apresures el proceso.",
+      "category": "Patience",
+      "generated_at": "2026-10-29T06:39:53.700772"
+    },
+    {
+      "english": "We need to be realistic.",
+      "spanish": "Hay que ser realistas.",
+      "category": "Patience",
+      "generated_at": "2026-10-29T06:39:53.700774"
+    },
+    {
+      "english": "Good things take time, you know.",
+      "spanish": "Lo bueno tarda, ¿sabes?",
+      "category": "Patience",
+      "generated_at": "2026-10-29T06:39:53.700777"
+    },
+    {
+      "english": "Hold your horses, for a second.",
+      "spanish": "Para tus caballos, un momento.",
+      "category": "Patience",
+      "generated_at": "2026-10-29T06:39:53.700779"
+    },
+    {
+      "english": "This is a waiting game.",
+      "spanish": "Esto es un juego de esperar.",
+      "category": "Patience",
+      "generated_at": "2026-10-29T06:39:53.700782"
+    },
+    {
+      "english": "We can't force a bloom.",
+      "spanish": "No podemos forzar una flor.",
+      "category": "Patience",
+      "generated_at": "2026-10-29T06:39:53.700784"
+    },
+    {
+      "english": "Let it unfold, in its own way.",
+      "spanish": "Que se desarrolle, a su manera.",
+      "category": "Patience",
+      "generated_at": "2026-10-29T06:39:53.700787"
+    },
+    {
+      "english": "Take a deep breath, relax.",
+      "spanish": "Respira hondo, relájate.",
+      "category": "Patience",
+      "generated_at": "2026-10-29T06:39:53.700789"
+    },
+    {
+      "english": "Don't rush into things.",
+      "spanish": "No te precipites.",
+      "category": "Patience",
+      "generated_at": "2026-10-29T06:39:53.700792"
+    },
+    {
+      "english": "We're in this for the long haul.",
+      "spanish": "Vamos para largo.",
+      "category": "Patience",
+      "generated_at": "2026-10-29T06:39:53.700795"
+    },
+    {
+      "english": "Let's not push it.",
+      "spanish": "No lo fuerces.",
+      "category": "Patience",
+      "generated_at": "2026-10-29T06:39:53.700799"
+    },
+    {
+      "english": "It'll happen when it happens.",
+      "spanish": "Será cuando tenga que ser.",
+      "category": "Patience",
+      "generated_at": "2026-10-29T06:39:53.700801"
+    },
+    {
+      "english": "Give it space, and time.",
+      "spanish": "Dale espacio, y tiempo.",
+      "category": "Patience",
+      "generated_at": "2026-10-29T06:39:53.700804"
+    },
+    {
+      "english": "Your patience is truly appreciated.",
+      "spanish": "Tu paciencia se agradece.",
+      "category": "Patience",
+      "generated_at": "2026-10-29T06:39:53.700806"
+    },
+    {
+      "english": "Breathe deep, then speak.",
+      "spanish": "Respira hondo, luego habla.",
+      "category": "Patience",
+      "generated_at": "2026-10-29T06:39:53.700809"
+    },
+    {
+      "english": "Listen more, talk less for now.",
+      "spanish": "Escucha más, habla menos por ahora.",
+      "category": "Patience",
+      "generated_at": "2026-10-29T06:39:53.700813"
+    },
+    {
+      "english": "Let's give it a little more time.",
+      "spanish": "Démosle un poco más de tiempo.",
+      "category": "Patience",
+      "generated_at": "2026-10-29T06:39:53.700816"
+    },
+    {
+      "english": "What's the hurry? Let's just observe.",
+      "spanish": "¿Cuál es la prisa? Solo observemos.",
+      "category": "Patience",
+      "generated_at": "2026-10-29T06:39:53.700819"
+    },
+    {
+      "english": "We can't control everything, relax.",
+      "spanish": "No podemos controlarlo todo, relájate.",
+      "category": "Patience",
+      "generated_at": "2026-10-29T06:39:53.700822"
+    },
+    {
+      "english": "Is this really urgent? Let's think.",
+      "spanish": "¿Es esto realmente urgente? Pensemos.",
+      "category": "Patience",
+      "generated_at": "2026-10-29T06:39:53.700824"
+    },
+    {
+      "english": "Let the situation settle down first.",
+      "spanish": "Deja que la situación se asiente primero.",
+      "category": "Patience",
+      "generated_at": "2026-10-29T06:39:53.700829"
+    },
+    {
+      "english": "A moment of pause, always helps.",
+      "spanish": "Un momento de pausa, siempre ayuda.",
+      "category": "Patience",
+      "generated_at": "2026-10-29T06:39:53.700831"
+    },
+    {
+      "english": "Have patience, my friend, it's worth it.",
+      "spanish": "Ten paciencia, amigo, vale la pena.",
+      "category": "Patience",
+      "generated_at": "2026-10-29T06:39:53.700834"
+    },
+    {
+      "english": "Let's avoid reacting too quickly.",
+      "spanish": "Evitemos reaccionar demasiado rápido.",
+      "category": "Patience",
+      "generated_at": "2026-10-29T06:39:53.700837"
+    },
+    {
+      "english": "We need to give it some breathing room.",
+      "spanish": "Necesitamos darle un poco de espacio.",
+      "category": "Patience",
+      "generated_at": "2026-10-29T06:39:53.700840"
+    },
+    {
+      "english": "Let's check our assumptions, calmly.",
+      "spanish": "Verifiquemos nuestras suposiciones, con calma.",
+      "category": "Patience",
+      "generated_at": "2026-10-29T06:39:53.700843"
+    },
+    {
+      "english": "This requires a thoughtful approach.",
+      "spanish": "Esto requiere un enfoque reflexivo.",
+      "category": "Patience",
+      "generated_at": "2026-10-29T06:39:53.700845"
+    },
+    {
+      "english": "Sometimes, silence is the best answer.",
+      "spanish": "A veces, el silencio es la mejor respuesta.",
+      "category": "Patience",
+      "generated_at": "2026-10-29T06:39:53.700848"
+    },
+    {
+      "english": "Let's not make hasty decisions, okay?",
+      "spanish": "No tomemos decisiones apresuradas, ¿vale?",
+      "category": "Patience",
+      "generated_at": "2026-10-29T06:39:53.700850"
+    },
+    {
+      "english": "We'll find a solution, with patience.",
+      "spanish": "Encontraremos una solución, con paciencia.",
+      "category": "Patience",
+      "generated_at": "2026-10-29T06:39:53.700853"
+    },
+    {
+      "english": "Can we wait, just a little longer?",
+      "spanish": "¿Podemos esperar, solo un poco más?",
+      "category": "Patience",
+      "generated_at": "2026-10-29T06:39:53.700856"
     }
   ],
-  "last_updated": "2026-10-28T06:29:03.736271"
+  "last_updated": "2026-10-29T06:39:53.700857"
 }
