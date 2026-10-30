@@ -10439,7 +10439,727 @@
       "spanish": "¿Podemos esperar, solo un poco más?",
       "category": "Patience",
       "generated_at": "2026-10-29T06:39:53.700856"
+    },
+    {
+      "english": "What's the purpose, really?",
+      "spanish": "¿Cuál es el propósito, en realidad?",
+      "category": "Purpose",
+      "generated_at": "2026-10-30T06:37:50.313053"
+    },
+    {
+      "english": "I'm doing this for a reason.",
+      "spanish": "Hago esto por una razón.",
+      "category": "Purpose",
+      "generated_at": "2026-10-30T06:37:50.313069"
+    },
+    {
+      "english": "It has a specific goal.",
+      "spanish": "Tiene un objetivo específico.",
+      "category": "Purpose",
+      "generated_at": "2026-10-30T06:37:50.313072"
+    },
+    {
+      "english": "What's this all about?",
+      "spanish": "¿De qué se trata todo esto?",
+      "category": "Purpose",
+      "generated_at": "2026-10-30T06:37:50.313074"
+    },
+    {
+      "english": "My intention is clear.",
+      "spanish": "Mi intención es clara.",
+      "category": "Purpose",
+      "generated_at": "2026-10-30T06:37:50.313077"
+    },
+    {
+      "english": "We need a clear aim.",
+      "spanish": "Necesitamos un fin claro.",
+      "category": "Purpose",
+      "generated_at": "2026-10-30T06:37:50.313079"
+    },
+    {
+      "english": "This serves a purpose.",
+      "spanish": "Esto sirve para algo.",
+      "category": "Purpose",
+      "generated_at": "2026-10-30T06:37:50.313081"
+    },
+    {
+      "english": "For what reason, though?",
+      "spanish": "¿Por qué motivo, sin embargo?",
+      "category": "Purpose",
+      "generated_at": "2026-10-30T06:37:50.313090"
+    },
+    {
+      "english": "I have a mission here.",
+      "spanish": "Tengo una misión aquí.",
+      "category": "Purpose",
+      "generated_at": "2026-10-30T06:37:50.313093"
+    },
+    {
+      "english": "What is the point?",
+      "spanish": "¿Cuál es el punto?",
+      "category": "Purpose",
+      "generated_at": "2026-10-30T06:37:50.313095"
+    },
+    {
+      "english": "Everything happens for a reason.",
+      "spanish": "Todo pasa por algo.",
+      "category": "Purpose",
+      "generated_at": "2026-10-30T06:37:50.313098"
+    },
+    {
+      "english": "Let's get to the purpose.",
+      "spanish": "Vamos al grano.",
+      "category": "Purpose",
+      "generated_at": "2026-10-30T06:37:50.313100"
+    },
+    {
+      "english": "This is why I'm here.",
+      "spanish": "Por eso estoy aquí.",
+      "category": "Purpose",
+      "generated_at": "2026-10-30T06:37:50.313102"
+    },
+    {
+      "english": "Is there a deeper meaning?",
+      "spanish": "¿Hay un significado más profundo?",
+      "category": "Purpose",
+      "generated_at": "2026-10-30T06:37:50.313104"
+    },
+    {
+      "english": "My goal is to help.",
+      "spanish": "Mi meta es ayudar.",
+      "category": "Purpose",
+      "generated_at": "2026-10-30T06:37:50.313106"
+    },
+    {
+      "english": "This has a function.",
+      "spanish": "Esto tiene una función.",
+      "category": "Purpose",
+      "generated_at": "2026-10-30T06:37:50.313108"
+    },
+    {
+      "english": "What's the main objective?",
+      "spanish": "¿Cuál es el objetivo principal?",
+      "category": "Purpose",
+      "generated_at": "2026-10-30T06:37:50.313110"
+    },
+    {
+      "english": "I'm working towards something.",
+      "spanish": "Estoy trabajando hacia algo.",
+      "category": "Purpose",
+      "generated_at": "2026-10-30T06:37:50.313112"
+    },
+    {
+      "english": "What's the intention behind it?",
+      "spanish": "¿Cuál es la intención detrás?",
+      "category": "Purpose",
+      "generated_at": "2026-10-30T06:37:50.313114"
+    },
+    {
+      "english": "This is my purpose in life.",
+      "spanish": "Este es mi propósito en la vida.",
+      "category": "Purpose",
+      "generated_at": "2026-10-30T06:37:50.313116"
+    },
+    {
+      "english": "What's the reason for this?",
+      "spanish": "¿Cuál es la razón de esto?",
+      "category": "Purpose",
+      "generated_at": "2026-10-30T06:37:50.313118"
+    },
+    {
+      "english": "I'm on a quest now.",
+      "spanish": "Estoy en una misión ahora.",
+      "category": "Purpose",
+      "generated_at": "2026-10-30T06:37:50.313119"
+    },
+    {
+      "english": "What's the end game?",
+      "spanish": "¿Cuál es el objetivo final?",
+      "category": "Purpose",
+      "generated_at": "2026-10-30T06:37:50.313121"
+    },
+    {
+      "english": "This makes sense now.",
+      "spanish": "Ahora tiene sentido.",
+      "category": "Purpose",
+      "generated_at": "2026-10-30T06:37:50.313125"
+    },
+    {
+      "english": "I'm doing it for you.",
+      "spanish": "Lo hago por ti.",
+      "category": "Purpose",
+      "generated_at": "2026-10-30T06:37:50.313127"
+    },
+    {
+      "english": "What is the purpose of this?",
+      "spanish": "¿Cuál es el propósito de esto?",
+      "category": "Purpose",
+      "generated_at": "2026-10-30T06:37:50.313129"
+    },
+    {
+      "english": "There must be a reason.",
+      "spanish": "Debe haber una razón.",
+      "category": "Purpose",
+      "generated_at": "2026-10-30T06:37:50.313131"
+    },
+    {
+      "english": "This is what it's for.",
+      "spanish": "Para esto es.",
+      "category": "Purpose",
+      "generated_at": "2026-10-30T06:37:50.313134"
+    },
+    {
+      "english": "We need to find the why.",
+      "spanish": "Necesitamos encontrar el porqué.",
+      "category": "Purpose",
+      "generated_at": "2026-10-30T06:37:50.313136"
+    },
+    {
+      "english": "What's the underlying motive?",
+      "spanish": "¿Cuál es el motivo subyacente?",
+      "category": "Purpose",
+      "generated_at": "2026-10-30T06:37:50.313137"
+    },
+    {
+      "english": "Why this specific action?",
+      "spanish": "¿Por qué esta acción específica?",
+      "category": "Purpose",
+      "generated_at": "2026-10-30T06:37:50.313140"
+    },
+    {
+      "english": "What are we aiming for?",
+      "spanish": "¿A qué apuntamos?",
+      "category": "Purpose",
+      "generated_at": "2026-10-30T06:37:50.313142"
+    },
+    {
+      "english": "Tell me your objective.",
+      "spanish": "Dime tu objetivo.",
+      "category": "Purpose",
+      "generated_at": "2026-10-30T06:37:50.313144"
+    },
+    {
+      "english": "Is there a plan behind this?",
+      "spanish": "¿Hay un plan detrás de esto?",
+      "category": "Purpose",
+      "generated_at": "2026-10-30T06:37:50.313146"
+    },
+    {
+      "english": "What's the driving force?",
+      "spanish": "¿Cuál es la fuerza motriz?",
+      "category": "Purpose",
+      "generated_at": "2026-10-30T06:37:50.313149"
+    },
+    {
+      "english": "Can you explain the goal?",
+      "spanish": "¿Puedes explicar la meta?",
+      "category": "Purpose",
+      "generated_at": "2026-10-30T06:37:50.313151"
+    },
+    {
+      "english": "For what ultimate reason?",
+      "spanish": "¿Por qué razón última?",
+      "category": "Purpose",
+      "generated_at": "2026-10-30T06:37:50.313155"
+    },
+    {
+      "english": "What's the significance here?",
+      "spanish": "¿Qué significa esto aquí?",
+      "category": "Purpose",
+      "generated_at": "2026-10-30T06:37:50.313157"
+    },
+    {
+      "english": "What drives your decision?",
+      "spanish": "¿Qué impulsa tu decisión?",
+      "category": "Purpose",
+      "generated_at": "2026-10-30T06:37:50.313159"
+    },
+    {
+      "english": "What's the intended outcome?",
+      "spanish": "¿Cuál es el resultado deseado?",
+      "category": "Purpose",
+      "generated_at": "2026-10-30T06:37:50.313162"
+    },
+    {
+      "english": "Why go through all this?",
+      "spanish": "¿Por qué pasar por todo esto?",
+      "category": "Purpose",
+      "generated_at": "2026-10-30T06:37:50.313164"
+    },
+    {
+      "english": "Help me understand the motive.",
+      "spanish": "Ayúdame a entender el motivo.",
+      "category": "Purpose",
+      "generated_at": "2026-10-30T06:37:50.313166"
+    },
+    {
+      "english": "What's the core intention?",
+      "spanish": "¿Cuál es la intención principal?",
+      "category": "Purpose",
+      "generated_at": "2026-10-30T06:37:50.313168"
+    },
+    {
+      "english": "What do you hope to achieve?",
+      "spanish": "¿Qué esperas lograr?",
+      "category": "Purpose",
+      "generated_at": "2026-10-30T06:37:50.313170"
+    },
+    {
+      "english": "Is there a bigger picture?",
+      "spanish": "¿Hay una perspectiva más amplia?",
+      "category": "Purpose",
+      "generated_at": "2026-10-30T06:37:50.313172"
+    },
+    {
+      "english": "What problem does this solve?",
+      "spanish": "¿Qué problema resuelve esto?",
+      "category": "Purpose",
+      "generated_at": "2026-10-30T06:37:50.313174"
+    },
+    {
+      "english": "What's the underlying cause?",
+      "spanish": "¿Cuál es la causa subyacente?",
+      "category": "Purpose",
+      "generated_at": "2026-10-30T06:37:50.313176"
+    },
+    {
+      "english": "Can you clarify the objective?",
+      "spanish": "¿Puedes aclarar el objetivo?",
+      "category": "Purpose",
+      "generated_at": "2026-10-30T06:37:50.313179"
+    },
+    {
+      "english": "What's this journey's meaning?",
+      "spanish": "¿Qué significa este viaje?",
+      "category": "Purpose",
+      "generated_at": "2026-10-30T06:37:50.313182"
+    },
+    {
+      "english": "What's the justification?",
+      "spanish": "¿Cuál es la justificación?",
+      "category": "Purpose",
+      "generated_at": "2026-10-30T06:37:50.313185"
+    },
+    {
+      "english": "What's the essential point?",
+      "spanish": "¿Cuál es el punto esencial?",
+      "category": "Purpose",
+      "generated_at": "2026-10-30T06:37:50.313187"
+    },
+    {
+      "english": "Why this particular focus?",
+      "spanish": "¿Por qué este enfoque particular?",
+      "category": "Purpose",
+      "generated_at": "2026-10-30T06:37:50.313189"
+    },
+    {
+      "english": "What are we working towards?",
+      "spanish": "¿Hacia qué trabajamos?",
+      "category": "Purpose",
+      "generated_at": "2026-10-30T06:37:50.313191"
+    },
+    {
+      "english": "Can you state the main goal?",
+      "spanish": "¿Puedes decir la meta principal?",
+      "category": "Purpose",
+      "generated_at": "2026-10-30T06:37:50.313193"
+    },
+    {
+      "english": "What is this supposed to do?",
+      "spanish": "¿Qué se supone que haga esto?",
+      "category": "Purpose",
+      "generated_at": "2026-10-30T06:37:50.313195"
+    },
+    {
+      "english": "What are we trying to achieve?",
+      "spanish": "¿Qué intentamos lograr?",
+      "category": "Purpose",
+      "generated_at": "2026-10-30T06:37:50.313197"
+    },
+    {
+      "english": "Your vision is clear now.",
+      "spanish": "Tu visión está clara ahora.",
+      "category": "Purpose",
+      "generated_at": "2026-10-30T06:37:50.313199"
+    },
+    {
+      "english": "Your effort is commendable.",
+      "spanish": "Tu esfuerzo es digno de elogio.",
+      "category": "Purpose",
+      "generated_at": "2026-10-30T06:37:50.313201"
+    },
+    {
+      "english": "Focus on the positive outcome.",
+      "spanish": "Enfócate en el resultado positivo.",
+      "category": "Purpose",
+      "generated_at": "2026-10-30T06:37:50.313203"
+    },
+    {
+      "english": "Your passion is inspiring.",
+      "spanish": "Tu pasión es inspiradora.",
+      "category": "Purpose",
+      "generated_at": "2026-10-30T06:37:50.313206"
+    },
+    {
+      "english": "Embrace the challenge ahead.",
+      "spanish": "Abraza el reto que viene.",
+      "category": "Purpose",
+      "generated_at": "2026-10-30T06:37:50.313208"
+    },
+    {
+      "english": "Let your goals guide you.",
+      "spanish": "Deja que tus metas te guíen.",
+      "category": "Purpose",
+      "generated_at": "2026-10-30T06:37:50.313210"
+    },
+    {
+      "english": "Your determination is amazing.",
+      "spanish": "Tu determinación es asombrosa.",
+      "category": "Purpose",
+      "generated_at": "2026-10-30T06:37:50.313212"
+    },
+    {
+      "english": "Think big, act bravely.",
+      "spanish": "Piensa en grande, actúa con valentía.",
+      "category": "Purpose",
+      "generated_at": "2026-10-30T06:37:50.313214"
+    },
+    {
+      "english": "You're making real progress.",
+      "spanish": "Estás progresando de verdad.",
+      "category": "Purpose",
+      "generated_at": "2026-10-30T06:37:50.313217"
+    },
+    {
+      "english": "This path is for you.",
+      "spanish": "Este camino es para ti.",
+      "category": "Purpose",
+      "generated_at": "2026-10-30T06:37:50.313219"
+    },
+    {
+      "english": "Never give up on yourself.",
+      "spanish": "Nunca te rindas contigo mismo.",
+      "category": "Purpose",
+      "generated_at": "2026-10-30T06:37:50.313221"
+    },
+    {
+      "english": "Your potential is limitless.",
+      "spanish": "Tu potencial es ilimitado.",
+      "category": "Purpose",
+      "generated_at": "2026-10-30T06:37:50.313223"
+    },
+    {
+      "english": "Stay focused, stay driven.",
+      "spanish": "Mantente enfocado, mantente motivado.",
+      "category": "Purpose",
+      "generated_at": "2026-10-30T06:37:50.313227"
+    },
+    {
+      "english": "This is your calling, answer it.",
+      "spanish": "Este es tu llamado, respóndelo.",
+      "category": "Purpose",
+      "generated_at": "2026-10-30T06:37:50.313229"
+    },
+    {
+      "english": "Your perseverance will pay off.",
+      "spanish": "Tu perseverancia dará frutos.",
+      "category": "Purpose",
+      "generated_at": "2026-10-30T06:37:50.313231"
+    },
+    {
+      "english": "Chase your aspirations boldly.",
+      "spanish": "Persigue tus aspiraciones con audacia.",
+      "category": "Purpose",
+      "generated_at": "2026-10-30T06:37:50.313235"
+    },
+    {
+      "english": "You are making a difference.",
+      "spanish": "Estás marcando la diferencia.",
+      "category": "Purpose",
+      "generated_at": "2026-10-30T06:37:50.313238"
+    },
+    {
+      "english": "This journey builds character.",
+      "spanish": "Este viaje forja el carácter.",
+      "category": "Purpose",
+      "generated_at": "2026-10-30T06:37:50.313242"
+    },
+    {
+      "english": "Your commitment is admirable.",
+      "spanish": "Tu compromiso es admirable.",
+      "category": "Purpose",
+      "generated_at": "2026-10-30T06:37:50.313245"
+    },
+    {
+      "english": "Dare to be extraordinary.",
+      "spanish": "Atrévete a ser extraordinario.",
+      "category": "Purpose",
+      "generated_at": "2026-10-30T06:37:50.313247"
+    },
+    {
+      "english": "You're creating your future.",
+      "spanish": "Estás creando tu futuro.",
+      "category": "Purpose",
+      "generated_at": "2026-10-30T06:37:50.313249"
+    },
+    {
+      "english": "What's the point, really?",
+      "spanish": "¿Cuál es el punto, en realidad?",
+      "category": "Purpose",
+      "generated_at": "2026-10-30T06:37:50.313251"
+    },
+    {
+      "english": "What's it all for?",
+      "spanish": "¿Para qué es todo esto?",
+      "category": "Purpose",
+      "generated_at": "2026-10-30T06:37:50.313253"
+    },
+    {
+      "english": "What's the mission?",
+      "spanish": "¿Cuál es la misión?",
+      "category": "Purpose",
+      "generated_at": "2026-10-30T06:37:50.313255"
+    },
+    {
+      "english": "What purpose does this serve?",
+      "spanish": "¿Qué propósito cumple esto?",
+      "category": "Purpose",
+      "generated_at": "2026-10-30T06:37:50.313257"
+    },
+    {
+      "english": "What's the ultimate goal?",
+      "spanish": "¿Cuál es el fin último?",
+      "category": "Purpose",
+      "generated_at": "2026-10-30T06:37:50.313260"
+    },
+    {
+      "english": "What are you setting out to do?",
+      "spanish": "¿Qué te propones hacer?",
+      "category": "Purpose",
+      "generated_at": "2026-10-30T06:37:50.313262"
+    },
+    {
+      "english": "What's the underlying aim?",
+      "spanish": "¿Cuál es el objetivo subyacente?",
+      "category": "Purpose",
+      "generated_at": "2026-10-30T06:37:50.313264"
+    },
+    {
+      "english": "What's the objective, clearly?",
+      "spanish": "¿Cuál es el objetivo, claro?",
+      "category": "Purpose",
+      "generated_at": "2026-10-30T06:37:50.313266"
+    },
+    {
+      "english": "What is this meant to accomplish?",
+      "spanish": "¿Qué debe lograr esto?",
+      "category": "Purpose",
+      "generated_at": "2026-10-30T06:37:50.313268"
+    },
+    {
+      "english": "What's the main thrust?",
+      "spanish": "¿Cuál es el empuje principal?",
+      "category": "Purpose",
+      "generated_at": "2026-10-30T06:37:50.313271"
+    },
+    {
+      "english": "What's the goal in sight?",
+      "spanish": "¿Qué meta está a la vista?",
+      "category": "Purpose",
+      "generated_at": "2026-10-30T06:37:50.313273"
+    },
+    {
+      "english": "What are you striving for?",
+      "spanish": "¿Por qué te esfuerzas?",
+      "category": "Purpose",
+      "generated_at": "2026-10-30T06:37:50.313275"
+    },
+    {
+      "english": "What's the essence of it?",
+      "spanish": "¿Cuál es la esencia de esto?",
+      "category": "Purpose",
+      "generated_at": "2026-10-30T06:37:50.313277"
+    },
+    {
+      "english": "What's the ultimate aim?",
+      "spanish": "¿Cuál es el fin supremo?",
+      "category": "Purpose",
+      "generated_at": "2026-10-30T06:37:50.313279"
+    },
+    {
+      "english": "What are we driving at?",
+      "spanish": "¿A qué vamos?",
+      "category": "Purpose",
+      "generated_at": "2026-10-30T06:37:50.313281"
+    },
+    {
+      "english": "What's the meaning of this action?",
+      "spanish": "¿Qué significa esta acción?",
+      "category": "Purpose",
+      "generated_at": "2026-10-30T06:37:50.313283"
+    },
+    {
+      "english": "What's the core objective?",
+      "spanish": "¿Cuál es el objetivo central?",
+      "category": "Purpose",
+      "generated_at": "2026-10-30T06:37:50.313285"
+    },
+    {
+      "english": "What's the desired result?",
+      "spanish": "¿Cuál es el resultado deseado?",
+      "category": "Purpose",
+      "generated_at": "2026-10-30T06:37:50.313287"
+    },
+    {
+      "english": "What's the raison d'être?",
+      "spanish": "¿Cuál es la razón de ser?",
+      "category": "Purpose",
+      "generated_at": "2026-10-30T06:37:50.313290"
+    },
+    {
+      "english": "What's the purpose of this whole thing?",
+      "spanish": "¿Cuál es el propósito de todo esto?",
+      "category": "Purpose",
+      "generated_at": "2026-10-30T06:37:50.313292"
+    },
+    {
+      "english": "What's the true intention?",
+      "spanish": "¿Cuál es la verdadera intención?",
+      "category": "Purpose",
+      "generated_at": "2026-10-30T06:37:50.313294"
+    },
+    {
+      "english": "Deep down, what truly matters?",
+      "spanish": "En el fondo, ¿qué importa de verdad?",
+      "category": "Purpose",
+      "generated_at": "2026-10-30T06:37:50.313296"
+    },
+    {
+      "english": "My heart feels a quiet pull.",
+      "spanish": "Mi corazón siente un llamado callado.",
+      "category": "Purpose",
+      "generated_at": "2026-10-30T06:37:50.313298"
+    },
+    {
+      "english": "I'm reflecting on my inner drive.",
+      "spanish": "Estoy reflexionando sobre mi impulso interior.",
+      "category": "Purpose",
+      "generated_at": "2026-10-30T06:37:50.313304"
+    },
+    {
+      "english": "My spirit seeks deeper meaning.",
+      "spanish": "Mi espíritu busca un sentido más profundo.",
+      "category": "Purpose",
+      "generated_at": "2026-10-30T06:37:50.313306"
+    },
+    {
+      "english": "This gives me inner peace.",
+      "spanish": "Esto me da paz interior.",
+      "category": "Purpose",
+      "generated_at": "2026-10-30T06:37:50.313308"
+    },
+    {
+      "english": "I'm listening to my intuition.",
+      "spanish": "Estoy escuchando mi intuición.",
+      "category": "Purpose",
+      "generated_at": "2026-10-30T06:37:50.313310"
+    },
+    {
+      "english": "What brings genuine happiness?",
+      "spanish": "¿Qué trae la felicidad genuina?",
+      "category": "Purpose",
+      "generated_at": "2026-10-30T06:37:50.313312"
+    },
+    {
+      "english": "My values align with this.",
+      "spanish": "Mis valores se alinean con esto.",
+      "category": "Purpose",
+      "generated_at": "2026-10-30T06:37:50.313315"
+    },
+    {
+      "english": "I feel a quiet certainty within.",
+      "spanish": "Siento una certeza tranquila dentro.",
+      "category": "Purpose",
+      "generated_at": "2026-10-30T06:37:50.313317"
+    },
+    {
+      "english": "It feels right, deep inside.",
+      "spanish": "Se siente correcto, muy adentro.",
+      "category": "Purpose",
+      "generated_at": "2026-10-30T06:37:50.313319"
+    },
+    {
+      "english": "I'm finding my true North.",
+      "spanish": "Estoy encontrando mi verdadero Norte.",
+      "category": "Purpose",
+      "generated_at": "2026-10-30T06:37:50.313321"
+    },
+    {
+      "english": "This brings a sense of calm.",
+      "spanish": "Esto trae una sensación de calma.",
+      "category": "Purpose",
+      "generated_at": "2026-10-30T06:37:50.313323"
+    },
+    {
+      "english": "My spirit feels at home here.",
+      "spanish": "Mi espíritu se siente en casa aquí.",
+      "category": "Purpose",
+      "generated_at": "2026-10-30T06:37:50.313325"
+    },
+    {
+      "english": "I'm exploring my deepest desires.",
+      "spanish": "Estoy explorando mis deseos más profundos.",
+      "category": "Purpose",
+      "generated_at": "2026-10-30T06:37:50.313328"
+    },
+    {
+      "english": "What truly fulfills my existence?",
+      "spanish": "¿Qué llena realmente mi existencia?",
+      "category": "Purpose",
+      "generated_at": "2026-10-30T06:37:50.313330"
+    },
+    {
+      "english": "This feels like coming home.",
+      "spanish": "Esto se siente como volver a casa.",
+      "category": "Purpose",
+      "generated_at": "2026-10-30T06:37:50.313332"
+    },
+    {
+      "english": "My inner compass points here.",
+      "spanish": "Mi brújula interior apunta aquí.",
+      "category": "Purpose",
+      "generated_at": "2026-10-30T06:37:50.313334"
+    },
+    {
+      "english": "I trust this gentle nudge.",
+      "spanish": "Confío en este suave empujón.",
+      "category": "Purpose",
+      "generated_at": "2026-10-30T06:37:50.313336"
+    },
+    {
+      "english": "This resonates with my core.",
+      "spanish": "Esto resuena con mi centro.",
+      "category": "Purpose",
+      "generated_at": "2026-10-30T06:37:50.313338"
+    },
+    {
+      "english": "My soul recognizes this path.",
+      "spanish": "Mi alma reconoce este camino.",
+      "category": "Purpose",
+      "generated_at": "2026-10-30T06:37:50.313340"
+    },
+    {
+      "english": "What truly gives life meaning?",
+      "spanish": "¿Qué le da verdadero sentido a la vida?",
+      "category": "Purpose",
+      "generated_at": "2026-10-30T06:37:50.313342"
+    },
+    {
+      "english": "I'm seeking authentic connection.",
+      "spanish": "Busco una conexión auténtica.",
+      "category": "Purpose",
+      "generated_at": "2026-10-30T06:37:50.313344"
     }
   ],
-  "last_updated": "2026-10-29T06:39:53.700857"
+  "last_updated": "2026-10-30T06:37:50.313346"
 }
