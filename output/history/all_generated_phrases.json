@@ -11159,7 +11159,727 @@
       "spanish": "Busco una conexión auténtica.",
       "category": "Purpose",
       "generated_at": "2026-10-30T06:37:50.313344"
+    },
+    {
+      "english": "Keep going, don't stop now.",
+      "spanish": "Sigue adelante, no te detengas ahora.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-31T06:27:09.517109"
+    },
+    {
+      "english": "Little by little, we arrive.",
+      "spanish": "Poco a poco, se llega.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-31T06:27:09.517125"
+    },
+    {
+      "english": "It's worth the effort.",
+      "spanish": "Vale la pena el esfuerzo.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-31T06:27:09.517129"
+    },
+    {
+      "english": "We can overcome this.",
+      "spanish": "Podemos superar esto.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-31T06:27:09.517131"
+    },
+    {
+      "english": "Try again, with more focus.",
+      "spanish": "Inténtalo de nuevo, con más enfoque.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-31T06:27:09.517134"
+    },
+    {
+      "english": "Don't lose hope, friend.",
+      "spanish": "No pierdas la esperanza, amigo.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-31T06:27:09.517137"
+    },
+    {
+      "english": "Keep working, it will happen.",
+      "spanish": "Sigue trabajando, sucederá.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-31T06:27:09.517140"
+    },
+    {
+      "english": "It's a long road, but worth it.",
+      "spanish": "Es un camino largo, pero vale la pena.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-31T06:27:09.517146"
+    },
+    {
+      "english": "We are almost there.",
+      "spanish": "Ya casi llegamos.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-31T06:27:09.517150"
+    },
+    {
+      "english": "Don't get discouraged easily.",
+      "spanish": "No te desanimes fácilmente.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-31T06:27:09.517153"
+    },
+    {
+      "english": "Every effort counts.",
+      "spanish": "Cada esfuerzo cuenta.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-31T06:27:09.517155"
+    },
+    {
+      "english": "Keep your eyes on the prize.",
+      "spanish": "Mantén tus ojos en la meta.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-31T06:27:09.517157"
+    },
+    {
+      "english": "We can do this, together.",
+      "spanish": "Podemos hacerlo, juntos.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-31T06:27:09.517159"
+    },
+    {
+      "english": "Don't quit, just rest.",
+      "spanish": "No abandones, solo descansa.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-31T06:27:09.517162"
+    },
+    {
+      "english": "The struggle makes you stronger.",
+      "spanish": "La lucha te hace más fuerte.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-31T06:27:09.517164"
+    },
+    {
+      "english": "We will get through this.",
+      "spanish": "Saldremos de esta.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-31T06:27:09.517166"
+    },
+    {
+      "english": "Keep believing, keep trying.",
+      "spanish": "Sigue creyendo, sigue intentando.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-31T06:27:09.517169"
+    },
+    {
+      "english": "It's not over until it's over.",
+      "spanish": "No está acabado hasta que se acaba.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-31T06:27:09.517173"
+    },
+    {
+      "english": "Learn from every setback.",
+      "spanish": "Aprende de cada tropiezo.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-31T06:27:09.517176"
+    },
+    {
+      "english": "We have come so far.",
+      "spanish": "Hemos llegado muy lejos.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-31T06:27:09.517179"
+    },
+    {
+      "english": "Keep the faith, keep pushing.",
+      "spanish": "Mantén la fe, sigue presionando.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-31T06:27:09.517181"
+    },
+    {
+      "english": "Success requires patience.",
+      "spanish": "El éxito requiere paciencia.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-31T06:27:09.517183"
+    },
+    {
+      "english": "Don't get discouraged, adapt.",
+      "spanish": "No te desanimes, adáptate.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-31T06:27:09.517185"
+    },
+    {
+      "english": "We are building something great.",
+      "spanish": "Estamos construyendo algo grande.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-31T06:27:09.517187"
+    },
+    {
+      "english": "Tomorrow is another chance.",
+      "spanish": "Mañana es otra oportunidad.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-31T06:27:09.517189"
+    },
+    {
+      "english": "What do you think, should I continue?",
+      "spanish": "¿Qué piensas, sigo adelante?",
+      "category": "Perseverance",
+      "generated_at": "2026-10-31T06:27:09.517192"
+    },
+    {
+      "english": "Is this the right path, for me?",
+      "spanish": "¿Es este el camino correcto, para mí?",
+      "category": "Perseverance",
+      "generated_at": "2026-10-31T06:27:09.517195"
+    },
+    {
+      "english": "What if I fail, what then?",
+      "spanish": "¿Y si fallo, qué pasa entonces?",
+      "category": "Perseverance",
+      "generated_at": "2026-10-31T06:27:09.517197"
+    },
+    {
+      "english": "Can we discuss this idea?",
+      "spanish": "¿Podemos discutir esta idea?",
+      "category": "Perseverance",
+      "generated_at": "2026-10-31T06:27:09.517200"
+    },
+    {
+      "english": "Where can I find more strength?",
+      "spanish": "¿Dónde puedo encontrar más fuerza?",
+      "category": "Perseverance",
+      "generated_at": "2026-10-31T06:27:09.517202"
+    },
+    {
+      "english": "Do you believe in this project?",
+      "spanish": "¿Crees en este proyecto?",
+      "category": "Perseverance",
+      "generated_at": "2026-10-31T06:27:09.517204"
+    },
+    {
+      "english": "What is your strategy, for overcoming?",
+      "spanish": "¿Cuál es tu estrategia, para superar?",
+      "category": "Perseverance",
+      "generated_at": "2026-10-31T06:27:09.517207"
+    },
+    {
+      "english": "How do you handle difficulties, tell me?",
+      "spanish": "¿Cómo manejas las dificultades, dime?",
+      "category": "Perseverance",
+      "generated_at": "2026-10-31T06:27:09.517209"
+    },
+    {
+      "english": "Should I ask for help, maybe?",
+      "spanish": "¿Debería pedir ayuda, quizás?",
+      "category": "Perseverance",
+      "generated_at": "2026-10-31T06:27:09.517212"
+    },
+    {
+      "english": "Are we making progress, slowly?",
+      "spanish": "¿Estamos progresando, lentamente?",
+      "category": "Perseverance",
+      "generated_at": "2026-10-31T06:27:09.517214"
+    },
+    {
+      "english": "What can we learn, from this?",
+      "spanish": "¿Qué podemos aprender, de esto?",
+      "category": "Perseverance",
+      "generated_at": "2026-10-31T06:27:09.517217"
+    },
+    {
+      "english": "How do you keep going, when tired?",
+      "spanish": "¿Cómo sigues adelante, cansado?",
+      "category": "Perseverance",
+      "generated_at": "2026-10-31T06:27:09.517219"
+    },
+    {
+      "english": "Is it okay to pause, sometimes?",
+      "spanish": "¿Está bien pausar, a veces?",
+      "category": "Perseverance",
+      "generated_at": "2026-10-31T06:27:09.517221"
+    },
+    {
+      "english": "What inspires you, the most?",
+      "spanish": "¿Qué te inspira, a ti?",
+      "category": "Perseverance",
+      "generated_at": "2026-10-31T06:27:09.517224"
+    },
+    {
+      "english": "Can we try a different approach?",
+      "spanish": "¿Podemos intentar otro enfoque?",
+      "category": "Perseverance",
+      "generated_at": "2026-10-31T06:27:09.517226"
+    },
+    {
+      "english": "What's your plan, for tomorrow?",
+      "spanish": "¿Cuál es tu plan, para mañana?",
+      "category": "Perseverance",
+      "generated_at": "2026-10-31T06:27:09.517228"
+    },
+    {
+      "english": "Do you need encouragement, right now?",
+      "spanish": "¿Necesitas ánimos, ahora mismo?",
+      "category": "Perseverance",
+      "generated_at": "2026-10-31T06:27:09.517231"
+    },
+    {
+      "english": "How do you see, the future?",
+      "spanish": "¿Cómo ves, el futuro?",
+      "category": "Perseverance",
+      "generated_at": "2026-10-31T06:27:09.517233"
+    },
+    {
+      "english": "Should I reconsider, my decision?",
+      "spanish": "¿Debería reconsiderar, mi decisión?",
+      "category": "Perseverance",
+      "generated_at": "2026-10-31T06:27:09.517235"
+    },
+    {
+      "english": "What are your expectations, honestly?",
+      "spanish": "¿Cuáles son tus expectativas, sinceramente?",
+      "category": "Perseverance",
+      "generated_at": "2026-10-31T06:27:09.517237"
+    },
+    {
+      "english": "Can we work together, on this?",
+      "spanish": "¿Podemos trabajar juntos, en esto?",
+      "category": "Perseverance",
+      "generated_at": "2026-10-31T06:27:09.517240"
+    },
+    {
+      "english": "Are you feeling optimistic, still?",
+      "spanish": "¿Te sientes optimista, todavía?",
+      "category": "Perseverance",
+      "generated_at": "2026-10-31T06:27:09.517242"
+    },
+    {
+      "english": "What is holding you back, friend?",
+      "spanish": "¿Qué te detiene, amigo?",
+      "category": "Perseverance",
+      "generated_at": "2026-10-31T06:27:09.517245"
+    },
+    {
+      "english": "Can we find a solution, together?",
+      "spanish": "¿Podemos encontrar una solución, juntos?",
+      "category": "Perseverance",
+      "generated_at": "2026-10-31T06:27:09.517248"
+    },
+    {
+      "english": "How do you deal, with setbacks?",
+      "spanish": "¿Cómo lidias, con los contratiempos?",
+      "category": "Perseverance",
+      "generated_at": "2026-10-31T06:27:09.517251"
+    },
+    {
+      "english": "What is your biggest challenge, now?",
+      "spanish": "¿Cuál es tu mayor desafío, ahora?",
+      "category": "Perseverance",
+      "generated_at": "2026-10-31T06:27:09.517253"
+    },
+    {
+      "english": "Believe in your progress.",
+      "spanish": "Confía en tu progreso.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-31T06:27:09.517255"
+    },
+    {
+      "english": "Every step counts, truly.",
+      "spanish": "Cada paso cuenta, de verdad.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-31T06:27:09.517258"
+    },
+    {
+      "english": "You've got this inner strength.",
+      "spanish": "Tienes esa fuerza interior.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-31T06:27:09.517260"
+    },
+    {
+      "english": "Stay focused on your goals.",
+      "spanish": "Mantente enfocado en tus metas.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-31T06:27:09.517262"
+    },
+    {
+      "english": "Your effort is inspiring.",
+      "spanish": "Tu esfuerzo es inspirador.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-31T06:27:09.517264"
+    },
+    {
+      "english": "Don't give up, just breathe.",
+      "spanish": "No te rindas, solo respira.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-31T06:27:09.517267"
+    },
+    {
+      "english": "Keep pushing, little by little.",
+      "spanish": "Sigue empujando, poco a poco.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-31T06:27:09.517270"
+    },
+    {
+      "english": "This challenge will pass.",
+      "spanish": "Este desafío pasará.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-31T06:27:09.517272"
+    },
+    {
+      "english": "Your determination shines.",
+      "spanish": "Tu determinación brilla.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-31T06:27:09.517274"
+    },
+    {
+      "english": "Embrace the journey, always.",
+      "spanish": "Abraza el viaje, siempre.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-31T06:27:09.517277"
+    },
+    {
+      "english": "You're almost there, hang on.",
+      "spanish": "Ya casi llegas, aguanta.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-31T06:27:09.517340"
+    },
+    {
+      "english": "Stay positive, my friend.",
+      "spanish": "Mantente positivo, amigo.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-31T06:27:09.517344"
+    },
+    {
+      "english": "We believe in your potential.",
+      "spanish": "Creemos en tu potencial.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-31T06:27:09.517346"
+    },
+    {
+      "english": "This is a test of will.",
+      "spanish": "Esto es una prueba de voluntad.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-31T06:27:09.517348"
+    },
+    {
+      "english": "You can overcome anything.",
+      "spanish": "Puedes superar cualquier cosa.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-31T06:27:09.517350"
+    },
+    {
+      "english": "One day at a time.",
+      "spanish": "Un día a la vez.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-31T06:27:09.517353"
+    },
+    {
+      "english": "Never underestimate yourself.",
+      "spanish": "Nunca te subestimes.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-31T06:27:09.517355"
+    },
+    {
+      "english": "Your perseverance pays off.",
+      "spanish": "Tu perseverancia da frutos.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-31T06:27:09.517357"
+    },
+    {
+      "english": "Focus on what you can control.",
+      "spanish": "Concéntrate en lo que puedes controlar.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-31T06:27:09.517359"
+    },
+    {
+      "english": "This moment will pass too.",
+      "spanish": "Este momento también pasará.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-31T06:27:09.517361"
+    },
+    {
+      "english": "You are building momentum.",
+      "spanish": "Estás creando impulso.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-31T06:27:09.517363"
+    },
+    {
+      "english": "Stay motivated, stay strong.",
+      "spanish": "Mantente motivado, mantente fuerte.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-31T06:27:09.517365"
+    },
+    {
+      "english": "Your hard work will pay.",
+      "spanish": "Tu trabajo duro pagará.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-31T06:27:09.517368"
+    },
+    {
+      "english": "Just one more push.",
+      "spanish": "Solo un empujón más.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-31T06:27:09.517374"
+    },
+    {
+      "english": "It's tough, but we must endure.",
+      "spanish": "Es duro, pero debemos aguantar.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-31T06:27:09.517378"
+    },
+    {
+      "english": "Don't let the storm stop you.",
+      "spanish": "No dejes que la tormenta te detenga.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-31T06:27:09.517380"
+    },
+    {
+      "english": "Patience is a great virtue.",
+      "spanish": "La paciencia es una gran virtud.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-31T06:27:09.517383"
+    },
+    {
+      "english": "Keep rowing, even against the current.",
+      "spanish": "Sigue remando, aunque vaya contra corriente.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-31T06:27:09.517385"
+    },
+    {
+      "english": "Slow and steady wins the race.",
+      "spanish": "Poco a poco se llega lejos.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-31T06:27:09.517387"
+    },
+    {
+      "english": "The river carves the stone, not by force, but by persistence.",
+      "spanish": "El río hace el camino en la roca, no por fuerza, sino por constancia.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-31T06:27:09.517391"
+    },
+    {
+      "english": "Let's not throw in the towel.",
+      "spanish": "No tiremos la toalla.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-31T06:27:09.517394"
+    },
+    {
+      "english": "When you fall, get up again.",
+      "spanish": "Cuando te caigas, levántate otra vez.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-31T06:27:09.517396"
+    },
+    {
+      "english": "Inch by inch, life is a cinch.",
+      "spanish": "Poco a poco se anda el camino.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-31T06:27:09.517399"
+    },
+    {
+      "english": "Keep the faith, it will get better.",
+      "spanish": "Ten fe, que todo mejora.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-31T06:27:09.517401"
+    },
+    {
+      "english": "Don't get discouraged, keep going.",
+      "spanish": "No te desanimes, sigue adelante.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-31T06:27:09.517404"
+    },
+    {
+      "english": "Even the longest journey starts with a single step.",
+      "spanish": "Hasta el camino más largo empieza con un paso.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-31T06:27:09.517406"
+    },
+    {
+      "english": "This too shall pass.",
+      "spanish": "Esto también pasará.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-31T06:27:09.517408"
+    },
+    {
+      "english": "Persistence conquers all.",
+      "spanish": "La constancia todo lo vence.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-31T06:27:09.517410"
+    },
+    {
+      "english": "Don't give up the ship.",
+      "spanish": "No abandones el barco.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-31T06:27:09.517413"
+    },
+    {
+      "english": "It's about the journey, not just the destination.",
+      "spanish": "Se trata del camino, no solo del destino.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-31T06:27:09.517416"
+    },
+    {
+      "english": "When the going gets tough, the tough get going.",
+      "spanish": "Cuando el camino se pone difícil, los fuertes continúan.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-31T06:27:09.517418"
+    },
+    {
+      "english": "Never say never.",
+      "spanish": "Nunca digas nunca.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-31T06:27:09.517420"
+    },
+    {
+      "english": "Hang in there, we're almost there.",
+      "spanish": "Aguanta un poco, ya casi llegamos.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-31T06:27:09.517423"
+    },
+    {
+      "english": "We'll cross that bridge when we come to it.",
+      "spanish": "Ya resolveremos ese problema cuando llegue.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-31T06:27:09.517425"
+    },
+    {
+      "english": "Every effort counts towards success.",
+      "spanish": "Cada esfuerzo cuenta para el éxito.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-31T06:27:09.517428"
+    },
+    {
+      "english": "Don't lose heart, keep trying.",
+      "spanish": "No pierdas el ánimo, sigue intentando.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-31T06:27:09.517430"
+    },
+    {
+      "english": "We're in this together.",
+      "spanish": "Estamos juntos en esto.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-31T06:27:09.517432"
+    },
+    {
+      "english": "Keep your chin up, mate.",
+      "spanish": "Mantén la cabeza alta, compañero.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-31T06:27:09.517434"
+    },
+    {
+      "english": "This is harder than I thought.",
+      "spanish": "Esto es más difícil de lo que creía.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-31T06:27:09.517437"
+    },
+    {
+      "english": "I feel drained, but I'll continue.",
+      "spanish": "Me siento agotado, pero seguiré.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-31T06:27:09.517439"
+    },
+    {
+      "english": "It's okay to feel overwhelmed sometimes.",
+      "spanish": "Está bien sentirse abrumado a veces.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-31T06:27:09.517442"
+    },
+    {
+      "english": "My patience is being tested.",
+      "spanish": "Mi paciencia está siendo probada.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-31T06:27:09.517444"
+    },
+    {
+      "english": "Sometimes, you just need to breathe.",
+      "spanish": "A veces, solo necesitas respirar.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-31T06:27:09.517446"
+    },
+    {
+      "english": "I'm learning a lot, even from mistakes.",
+      "spanish": "Estoy aprendiendo mucho, incluso de errores.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-31T06:27:09.517450"
+    },
+    {
+      "english": "This journey requires deep inner strength.",
+      "spanish": "Este viaje requiere fuerza interior profunda.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-31T06:27:09.517453"
+    },
+    {
+      "english": "My feelings are valid, but I won't quit.",
+      "spanish": "Mis sentimientos son válidos, pero no me rindo.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-31T06:27:09.517457"
+    },
+    {
+      "english": "Accepting the struggle is part of it.",
+      "spanish": "Aceptar la lucha es parte de ello.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-31T06:27:09.517459"
+    },
+    {
+      "english": "I need to be kind to myself.",
+      "spanish": "Necesito ser amable conmigo mismo.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-31T06:27:09.517461"
+    },
+    {
+      "english": "Honesty with myself helps me push.",
+      "spanish": "La honestidad conmigo me ayuda a avanzar.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-31T06:27:09.517463"
+    },
+    {
+      "english": "This is more about mindset than talent.",
+      "spanish": "Esto es más de mentalidad que de talento.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-31T06:27:09.517465"
+    },
+    {
+      "english": "I'm reflecting on how far I've come.",
+      "spanish": "Estoy reflexionando sobre cuánto he avanzado.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-31T06:27:09.517468"
+    },
+    {
+      "english": "True growth happens outside comfort zones.",
+      "spanish": "El verdadero crecimiento ocurre fuera de la zona de confort.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-31T06:27:09.517471"
+    },
+    {
+      "english": "My heart feels heavy, but my spirit is willing.",
+      "spanish": "Mi corazón se siente pesado, pero mi espíritu quiere.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-31T06:27:09.517474"
+    },
+    {
+      "english": "What if I fail? What if I succeed?",
+      "spanish": "¿Y si fallo? ¿Y si tengo éxito?",
+      "category": "Perseverance",
+      "generated_at": "2026-10-31T06:27:09.517476"
+    },
+    {
+      "english": "I must trust the process.",
+      "spanish": "Debo confiar en el proceso.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-31T06:27:09.517478"
+    },
+    {
+      "english": "This feeling is temporary.",
+      "spanish": "Esta sensación es temporal.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-31T06:27:09.517480"
+    },
+    {
+      "english": "I'm finding my rhythm slowly.",
+      "spanish": "Estoy encontrando mi ritmo lentamente.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-31T06:27:09.517483"
+    },
+    {
+      "english": "My resilience is growing stronger.",
+      "spanish": "Mi resiliencia se está fortaleciendo.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-31T06:27:09.517485"
+    },
+    {
+      "english": "I allow myself to be imperfect.",
+      "spanish": "Me permito ser imperfecto.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-31T06:27:09.517487"
     }
   ],
-  "last_updated": "2026-10-30T06:37:50.313346"
+  "last_updated": "2026-10-31T06:27:09.517489"
 }
