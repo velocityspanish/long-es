@@ -11879,7 +11879,727 @@
       "spanish": "Me permito ser imperfecto.",
       "category": "Perseverance",
       "generated_at": "2026-10-31T06:27:09.517487"
+    },
+    {
+      "english": "Wake up, sleepyhead, the day has begun!",
+      "spanish": "¡Despierta, dormilón, el día ya empezó!",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-01T07:00:23.288742"
+    },
+    {
+      "english": "Good morning, is everything alright?",
+      "spanish": "Buenos días, ¿todo bien por ahí?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-01T07:00:23.288756"
+    },
+    {
+      "english": "Let's get moving, time to start.",
+      "spanish": "Vamos a movernos, hora de empezar.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-01T07:00:23.288759"
+    },
+    {
+      "english": "First, I drink some coffee.",
+      "spanish": "Primero, me tomo un café.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-01T07:00:23.288763"
+    },
+    {
+      "english": "What's for breakfast today?",
+      "spanish": "¿Qué hay de desayuno hoy?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-01T07:00:23.288766"
+    },
+    {
+      "english": "I need to get ready, fast!",
+      "spanish": "Necesito prepararme, ¡rápido!",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-01T07:00:23.288769"
+    },
+    {
+      "english": "Don't forget your keys, dear.",
+      "spanish": "No olvides tus llaves, cariño.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-01T07:00:23.288772"
+    },
+    {
+      "english": "I'm heading out now.",
+      "spanish": "Ya me voy saliendo.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-01T07:00:23.288777"
+    },
+    {
+      "english": "See you later, have a good one!",
+      "spanish": "¡Hasta luego, que te vaya bien!",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-01T07:00:23.288781"
+    },
+    {
+      "english": "The traffic is crazy, again.",
+      "spanish": "El tráfico está fatal, otra vez.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-01T07:00:23.288784"
+    },
+    {
+      "english": "Arriving at work, finally.",
+      "spanish": "Llegando al trabajo, por fin.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-01T07:00:23.288787"
+    },
+    {
+      "english": "Let's tackle the tasks, come on.",
+      "spanish": "Vamos a darle a las tareas, ánimo.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-01T07:00:23.288790"
+    },
+    {
+      "english": "Taking a short break now.",
+      "spanish": "Tomando un pequeño descanso.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-01T07:00:23.288795"
+    },
+    {
+      "english": "Lunchtime! What are we eating?",
+      "spanish": "¡Hora de comer! ¿Qué comemos?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-01T07:00:23.288797"
+    },
+    {
+      "english": "Back to it, let's finish strong.",
+      "spanish": "De vuelta al tajo, acabemos con fuerza.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-01T07:00:23.288802"
+    },
+    {
+      "english": "Almost done for the day.",
+      "spanish": "Ya casi terminamos por hoy.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-01T07:00:23.288805"
+    },
+    {
+      "english": "Heading home, I'm tired.",
+      "spanish": "Voy de camino a casa, estoy cansado.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-01T07:00:23.288807"
+    },
+    {
+      "english": "What's for dinner tonight?",
+      "spanish": "¿Qué cenamos esta noche?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-01T07:00:23.288811"
+    },
+    {
+      "english": "Time to relax, finally.",
+      "spanish": "Es hora de relajarse, por fin.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-01T07:00:23.288813"
+    },
+    {
+      "english": "Let's watch something good.",
+      "spanish": "Vamos a ver algo bueno.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-01T07:00:23.288815"
+    },
+    {
+      "english": "Reading a bit before bed.",
+      "spanish": "Leyendo un poco antes de dormir.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-01T07:00:23.288818"
+    },
+    {
+      "english": "Time to wind down now.",
+      "spanish": "Es hora de desconectar.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-01T07:00:23.288820"
+    },
+    {
+      "english": "Getting ready for sleep.",
+      "spanish": "Preparándome para dormir.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-01T07:00:23.288823"
+    },
+    {
+      "english": "Goodnight, sleep well, my love.",
+      "spanish": "Buenas noches, que duermas bien, mi amor.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-01T07:00:23.288825"
+    },
+    {
+      "english": "Sweet dreams, see you tomorrow.",
+      "spanish": "Dulces sueños, hasta mañana.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-01T07:00:23.288828"
+    },
+    {
+      "english": "I'm already thinking about tomorrow.",
+      "spanish": "Ya estoy pensando en mañana.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-01T07:00:23.288831"
+    },
+    {
+      "english": "What a long day, phew!",
+      "spanish": "¡Qué día más largo, uff!",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-01T07:00:23.288835"
+    },
+    {
+      "english": "Let's just chill for a bit.",
+      "spanish": "Vamos a relajarnos un rato.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-01T07:00:23.288838"
+    },
+    {
+      "english": "Anything exciting planned?",
+      "spanish": "¿Tienes algo emocionante planeado?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-01T07:00:23.288840"
+    },
+    {
+      "english": "Just the usual, you know.",
+      "spanish": "Lo de siempre, ya sabes.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-01T07:00:23.288843"
+    },
+    {
+      "english": "What time do you usually wake up?",
+      "spanish": "¿A qué hora te levantas normalmente?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-01T07:00:23.288845"
+    },
+    {
+      "english": "Do you prefer mornings or evenings?",
+      "spanish": "¿Prefieres las mañanas o las tardes?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-01T07:00:23.288848"
+    },
+    {
+      "english": "How do you start your day?",
+      "spanish": "¿Cómo empiezas tu día?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-01T07:00:23.288851"
+    },
+    {
+      "english": "Do you exercise in the morning?",
+      "spanish": "¿Haces ejercicio por la mañana?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-01T07:00:23.288853"
+    },
+    {
+      "english": "What's your favorite breakfast?",
+      "spanish": "¿Cuál es tu desayuno favorito?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-01T07:00:23.288856"
+    },
+    {
+      "english": "Do you take the bus or drive?",
+      "spanish": "¿Tomas el autobús o conduces?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-01T07:00:23.288858"
+    },
+    {
+      "english": "How long is your commute?",
+      "spanish": "¿Cuánto dura tu viaje al trabajo?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-01T07:00:23.288861"
+    },
+    {
+      "english": "What do you do first at work?",
+      "spanish": "¿Qué haces primero en el trabajo?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-01T07:00:23.288864"
+    },
+    {
+      "english": "Do you have meetings today?",
+      "spanish": "¿Tienes reuniones hoy?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-01T07:00:23.288866"
+    },
+    {
+      "english": "When do you usually take a break?",
+      "spanish": "¿Cuándo sueles tomar un descanso?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-01T07:00:23.288869"
+    },
+    {
+      "english": "What do you eat for lunch?",
+      "spanish": "¿Qué comes para el almuerzo?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-01T07:00:23.288872"
+    },
+    {
+      "english": "Do you eat at your desk?",
+      "spanish": "¿Comes en tu escritorio?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-01T07:00:23.288874"
+    },
+    {
+      "english": "How do you stay focused?",
+      "spanish": "¿Cómo te mantienes concentrado/a?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-01T07:00:23.288876"
+    },
+    {
+      "english": "When do you finish work?",
+      "spanish": "¿A qué hora terminas de trabajar?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-01T07:00:23.288881"
+    },
+    {
+      "english": "What do you do after work?",
+      "spanish": "¿Qué haces después del trabajo?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-01T07:00:23.288883"
+    },
+    {
+      "english": "Do you go to the gym?",
+      "spanish": "¿Vas al gimnasio?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-01T07:00:23.288886"
+    },
+    {
+      "english": "Do you cook or order in?",
+      "spanish": "¿Cocinas o pides comida a domicilio?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-01T07:00:23.288888"
+    },
+    {
+      "english": "What do you do to relax?",
+      "spanish": "¿Qué haces para relajarte?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-01T07:00:23.288891"
+    },
+    {
+      "english": "Do you read before sleeping?",
+      "spanish": "¿Lees antes de dormir?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-01T07:00:23.288893"
+    },
+    {
+      "english": "What time do you go to bed?",
+      "spanish": "¿A qué hora te acuestas?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-01T07:00:23.288896"
+    },
+    {
+      "english": "Do you watch TV in bed?",
+      "spanish": "¿Ves la televisión en la cama?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-01T07:00:23.288898"
+    },
+    {
+      "english": "Anything interesting happen?",
+      "spanish": "¿Pasó algo interesante?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-01T07:00:23.288901"
+    },
+    {
+      "english": "Tell me about your routine.",
+      "spanish": "Cuéntame sobre tu rutina.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-01T07:00:23.288905"
+    },
+    {
+      "english": "Is that normal for you?",
+      "spanish": "¿Eso es normal para ti?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-01T07:00:23.288908"
+    },
+    {
+      "english": "What would you do differently?",
+      "spanish": "¿Qué harías de forma diferente?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-01T07:00:23.288910"
+    },
+    {
+      "english": "Any tips for me?",
+      "spanish": "¿Algún consejo para mí?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-01T07:00:23.288912"
+    },
+    {
+      "english": "Focus on your goals, step by step.",
+      "spanish": "Enfócate en tus metas, paso a paso.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-01T07:00:23.288915"
+    },
+    {
+      "english": "Every small effort counts, believe it.",
+      "spanish": "Cada pequeño esfuerzo cuenta, créelo.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-01T07:00:23.288918"
+    },
+    {
+      "english": "Embrace the challenges, learn from them.",
+      "spanish": "Acepta los desafíos, aprende de ellos.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-01T07:00:23.288921"
+    },
+    {
+      "english": "Consistency is key to success.",
+      "spanish": "La constancia es clave para el éxito.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-01T07:00:23.288924"
+    },
+    {
+      "english": "Good job today, rest well tonight.",
+      "spanish": "Buen trabajo hoy, descansa bien esta noche.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-01T07:00:23.288927"
+    },
+    {
+      "english": "Visualize your success, it helps.",
+      "spanish": "Visualiza tu éxito, ayuda mucho.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-01T07:00:23.288930"
+    },
+    {
+      "english": "Keep pushing forward, don't give up.",
+      "spanish": "Sigue avanzando, no te rindas.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-01T07:00:23.288932"
+    },
+    {
+      "english": "Believe in your potential, always.",
+      "spanish": "Cree en tu potencial, siempre.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-01T07:00:23.288935"
+    },
+    {
+      "english": "Today is a new opportunity.",
+      "spanish": "Hoy es una nueva oportunidad.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-01T07:00:23.288938"
+    },
+    {
+      "english": "Focus on progress, not perfection.",
+      "spanish": "Enfócate en el progreso, no la perfección.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-01T07:00:23.288940"
+    },
+    {
+      "english": "You're doing so well, congrats!",
+      "spanish": "¡Lo estás haciendo muy bien, felicidades!",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-01T07:00:23.288943"
+    },
+    {
+      "english": "Stay positive, good things will come.",
+      "spanish": "Mantén la positividad, llegarán cosas buenas.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-01T07:00:23.288946"
+    },
+    {
+      "english": "Each day brings new possibilities.",
+      "spanish": "Cada día trae nuevas posibilidades.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-01T07:00:23.288949"
+    },
+    {
+      "english": "Keep that amazing mindset going.",
+      "spanish": "Sigue con esa mentalidad increíble.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-01T07:00:23.288951"
+    },
+    {
+      "english": "You're making steady progress.",
+      "spanish": "Estás logrando un progreso constante.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-01T07:00:23.288954"
+    },
+    {
+      "english": "Give yourself credit for trying.",
+      "spanish": "Date crédito por intentarlo.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-01T07:00:23.288956"
+    },
+    {
+      "english": "You're building a strong habit.",
+      "spanish": "Estás construyendo un hábito fuerte.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-01T07:00:23.288959"
+    },
+    {
+      "english": "Believe you can, and you will.",
+      "spanish": "Cree que puedes, y lo harás.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-01T07:00:23.288962"
+    },
+    {
+      "english": "You're doing a fantastic job!",
+      "spanish": "¡Estás haciendo un trabajo fantástico!",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-01T07:00:23.288964"
+    },
+    {
+      "english": "Let's hit the ground running, boss!",
+      "spanish": "¡Vamos a darle caña, jefe!",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-01T07:00:23.288969"
+    },
+    {
+      "english": "Coffee first, then conquering the world.",
+      "spanish": "Primero el café, luego a conquistar el mundo.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-01T07:00:23.288972"
+    },
+    {
+      "english": "I'm already running on fumes.",
+      "spanish": "Ya voy tirando de la cadena.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-01T07:00:23.288974"
+    },
+    {
+      "english": "Let's get this bread, no cap.",
+      "spanish": "A ganarse el pan, sin mentir.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-01T07:00:23.288983"
+    },
+    {
+      "english": "Time to put on my game face.",
+      "spanish": "Hora de ponerme las pilas.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-01T07:00:23.288985"
+    },
+    {
+      "english": "My brain is still buffering.",
+      "spanish": "Mi cerebro aún está en pausa.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-01T07:00:23.288988"
+    },
+    {
+      "english": "Just gotta power through this.",
+      "spanish": "Solo hay que tirar para adelante.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-01T07:00:23.288991"
+    },
+    {
+      "english": "Surviving on caffeine and sheer will.",
+      "spanish": "Sobreviviendo a base de cafeína y voluntad.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-01T07:00:23.288993"
+    },
+    {
+      "english": "My morning mojo is kicking in.",
+      "spanish": "Mi energía matutina está despegando.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-01T07:00:23.288996"
+    },
+    {
+      "english": "Let's make some magic happen.",
+      "spanish": "Vamos a hacer que suceda la magia.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-01T07:00:23.288999"
+    },
+    {
+      "english": "I need to shake off the cobwebs.",
+      "spanish": "Necesito quitarme las telarañas.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-01T07:00:23.289004"
+    },
+    {
+      "english": "My to-do list is a mile long.",
+      "spanish": "Mi lista de tareas es interminable.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-01T07:00:23.289006"
+    },
+    {
+      "english": "Just another day, another dollar.",
+      "spanish": "Otro día, otro billete.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-01T07:00:23.289009"
+    },
+    {
+      "english": "Feeling the grind already.",
+      "spanish": "Ya se siente el curro.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-01T07:00:23.289012"
+    },
+    {
+      "english": "Let's tackle this beast.",
+      "spanish": "Vamos a abordar este marrón.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-01T07:00:23.289014"
+    },
+    {
+      "english": "My brain is officially on.",
+      "spanish": "Mi cerebro ya está al cien.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-01T07:00:23.289017"
+    },
+    {
+      "english": "Gotta hustle, no time to waste.",
+      "spanish": "Hay que darle, no hay tiempo que perder.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-01T07:00:23.289019"
+    },
+    {
+      "english": "Chasing dreams and deadlines.",
+      "spanish": "Persiguiendo sueños y plazos.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-01T07:00:23.289022"
+    },
+    {
+      "english": "My alarm clock is my enemy.",
+      "spanish": "El despertador es mi némesis.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-01T07:00:23.289024"
+    },
+    {
+      "english": "Let's get this party started.",
+      "spanish": "¡Que empiece la función!",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-01T07:00:23.289027"
+    },
+    {
+      "english": "Fueling up for the marathon.",
+      "spanish": "Cargando las pilas para la maratón.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-01T07:00:23.289029"
+    },
+    {
+      "english": "Time to pay the bills.",
+      "spanish": "Hora de ganarse el pan.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-01T07:00:23.289032"
+    },
+    {
+      "english": "My mind is already racing.",
+      "spanish": "Mi cabeza ya va a mil.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-01T07:00:23.289034"
+    },
+    {
+      "english": "Let's make it a good one.",
+      "spanish": "Vamos a hacer que sea un buen día.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-01T07:00:23.289037"
+    },
+    {
+      "english": "Already counting down to freedom.",
+      "spanish": "Ya estoy contando las horas para desconectar.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-01T07:00:23.289039"
+    },
+    {
+      "english": "Let's roll up our sleeves.",
+      "spanish": "Vamos a remangarnos.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-01T07:00:23.289042"
+    },
+    {
+      "english": "My brain needs a reboot.",
+      "spanish": "Mi cerebro necesita reiniciarse.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-01T07:00:23.289044"
+    },
+    {
+      "english": "Just gotta get through the morning.",
+      "spanish": "Solo hay que pasar la mañana.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-01T07:00:23.289047"
+    },
+    {
+      "english": "Let's seize the day, amigos.",
+      "spanish": "¡A por el día, amigos!",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-01T07:00:23.289049"
+    },
+    {
+      "english": "My energy levels are peaking.",
+      "spanish": "Mis niveles de energía están a tope.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-01T07:00:23.289052"
+    },
+    {
+      "english": "I'll plan my day, after breakfast.",
+      "spanish": "Planearé mi día, después de desayunar.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-01T07:00:23.289055"
+    },
+    {
+      "english": "Let's set realistic goals, first.",
+      "spanish": "Pongamos metas realistas, primero.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-01T07:00:23.289057"
+    },
+    {
+      "english": "Can you help me organize this?",
+      "spanish": "¿Me ayudas a organizar esto?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-01T07:00:23.289062"
+    },
+    {
+      "english": "I need a quick break, honestly.",
+      "spanish": "Necesito un descanso rápido, la verdad.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-01T07:00:23.289065"
+    },
+    {
+      "english": "What's the priority, right now?",
+      "spanish": "¿Cuál es la prioridad, ahora mismo?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-01T07:00:23.289068"
+    },
+    {
+      "english": "Don't forget to hydrate, folks.",
+      "spanish": "No olviden hidratarse, gente.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-01T07:00:23.289071"
+    },
+    {
+      "english": "Let's tackle the hardest task, first.",
+      "spanish": "Abordemos la tarea más difícil, primero.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-01T07:00:23.289073"
+    },
+    {
+      "english": "Is there time for a short walk?",
+      "spanish": "¿Hay tiempo para una caminata corta?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-01T07:00:23.289078"
+    },
+    {
+      "english": "I'm making notes, for later.",
+      "spanish": "Estoy tomando notas, para después.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-01T07:00:23.289080"
+    },
+    {
+      "english": "This requires my full attention, you know.",
+      "spanish": "Esto requiere mi atención completa, ¿sabes?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-01T07:00:23.289083"
+    },
+    {
+      "english": "Let's review our progress, slowly.",
+      "spanish": "Revisemos nuestro progreso, despacio.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-01T07:00:23.289086"
+    },
+    {
+      "english": "Could you lend a hand, please?",
+      "spanish": "¿Podrías echar una mano, por favor?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-01T07:00:23.289089"
+    },
+    {
+      "english": "I'll delegate this, if possible.",
+      "spanish": "Delegaré esto, si es posible.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-01T07:00:23.289091"
+    },
+    {
+      "english": "What's the plan, for tonight?",
+      "spanish": "¿Cuál es el plan, para esta noche?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-01T07:00:23.289094"
+    },
+    {
+      "english": "Let's clean up, before we leave.",
+      "spanish": "Limpiemos, antes de irnos.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-01T07:00:23.289097"
     }
   ],
-  "last_updated": "2026-10-31T06:27:09.517489"
+  "last_updated": "2026-11-01T07:00:23.289098"
 }
