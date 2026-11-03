@@ -13319,7 +13319,727 @@
       "spanish": "Busca equilibrio, en tu día.",
       "category": "Mindfulness",
       "generated_at": "2026-11-02T06:59:23.874823"
+    },
+    {
+      "english": "Listen, be kind, that matters a lot.",
+      "spanish": "Escucha, sé amable, eso importa mucho.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-03T07:23:26.789442"
+    },
+    {
+      "english": "Breathe first, then decide, okay?",
+      "spanish": "Respira primero, y luego decide, ¿vale?",
+      "category": "Wisdom",
+      "generated_at": "2026-11-03T07:23:26.789458"
+    },
+    {
+      "english": "Think twice, before you react fast.",
+      "spanish": "Piensa dos veces, antes de reaccionar rápido.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-03T07:23:26.789463"
+    },
+    {
+      "english": "It’s not a problem, it’s a lesson.",
+      "spanish": "No es un problema, es una lección.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-03T07:23:26.789467"
+    },
+    {
+      "english": "Say sorry quickly, fix it right away.",
+      "spanish": "Di perdón rápido, y arregla al momento.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-03T07:23:26.789470"
+    },
+    {
+      "english": "When in doubt, ask, don’t guess.",
+      "spanish": "Cuando tengas dudas, pregunta, no adivines.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-03T07:23:26.789475"
+    },
+    {
+      "english": "Keep it simple, don’t overthink.",
+      "spanish": "Hazlo simple, no le des vueltas.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-03T07:23:26.789481"
+    },
+    {
+      "english": "Good vibes, small steps, you’ll get there.",
+      "spanish": "Buenas vibras, pasos pequeños, llegarás.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-03T07:23:26.789488"
+    },
+    {
+      "english": "If it’s worth it, do it now.",
+      "spanish": "Si vale la pena, hazlo ahora.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-03T07:23:26.789492"
+    },
+    {
+      "english": "Relax, you’re doing better than before.",
+      "spanish": "Tranquilo, lo estás haciendo mejor que antes.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-03T07:23:26.789498"
+    },
+    {
+      "english": "Slow down, listen well, then respond.",
+      "spanish": "Baja la velocidad, escucha bien, luego responde.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-03T07:23:26.789502"
+    },
+    {
+      "english": "No worries, we’ll figure it out.",
+      "spanish": "No te preocupes, lo resolvemos.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-03T07:23:26.789505"
+    },
+    {
+      "english": "Be honest, you’ll feel lighter.",
+      "spanish": "Sé sincero, te vas a sentir más ligero.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-03T07:23:26.789508"
+    },
+    {
+      "english": "Check your tone, speak with respect.",
+      "spanish": "Cuida tu tono, habla con respeto.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-03T07:23:26.789511"
+    },
+    {
+      "english": "Try again, mistakes are part of learning.",
+      "spanish": "Inténtalo otra vez, los errores enseñan.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-03T07:23:26.789514"
+    },
+    {
+      "english": "Start with hello, then follow naturally.",
+      "spanish": "Empieza con un saludo, y sigue natural.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-03T07:23:26.789517"
+    },
+    {
+      "english": "Trust your gut, but use your brain.",
+      "spanish": "Confía en tu instinto, pero usa tu cabeza.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-03T07:23:26.789520"
+    },
+    {
+      "english": "Respect time, show up, no excuses.",
+      "spanish": "Respeta el tiempo, llega, sin excusas.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-03T07:23:26.789522"
+    },
+    {
+      "english": "I hear you, tell me more.",
+      "spanish": "Te entiendo, cuéntame más.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-03T07:23:26.789525"
+    },
+    {
+      "english": "That makes sense, okay, let’s go.",
+      "spanish": "Tiene sentido, vale, vamos.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-03T07:23:26.789529"
+    },
+    {
+      "english": "Wait, let me check, one second.",
+      "spanish": "Espera, déjame revisar, un momento.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-03T07:23:26.789532"
+    },
+    {
+      "english": "Before you say it, think about impact.",
+      "spanish": "Antes de decirlo, piensa en el impacto.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-03T07:23:26.789534"
+    },
+    {
+      "english": "Celebrate small wins, they add up.",
+      "spanish": "Celebra las pequeñas victorias, suman.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-03T07:23:26.789537"
+    },
+    {
+      "english": "It’s okay, today is still a start.",
+      "spanish": "No pasa nada, hoy es un nuevo comienzo.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-03T07:23:26.789541"
+    },
+    {
+      "english": "Ask first, then share your opinion.",
+      "spanish": "Pregunta primero, y luego comparte tu opinión.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-03T07:23:26.789544"
+    },
+    {
+      "english": "Make space, people need room to breathe.",
+      "spanish": "Dale espacio a la gente, necesita aire.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-03T07:23:26.789546"
+    },
+    {
+      "english": "Go easy, you don’t need to rush.",
+      "spanish": "Ve despacio, no tienes que correr.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-03T07:23:26.789549"
+    },
+    {
+      "english": "Catch the good, ignore the noise.",
+      "spanish": "Quédate con lo bueno, ignora el ruido.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-03T07:23:26.789552"
+    },
+    {
+      "english": "Let it go, hold your peace.",
+      "spanish": "Suelta eso, guarda la calma.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-03T07:23:26.789555"
+    },
+    {
+      "english": "I’m in, let’s do it together.",
+      "spanish": "Cuento contigo, vamos juntos.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-03T07:23:26.789558"
+    },
+    {
+      "english": "Not my business, but I care.",
+      "spanish": "No es asunto mío, pero me importa.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-03T07:23:26.789561"
+    },
+    {
+      "english": "Can you recommend a good local guide, please?",
+      "spanish": "¿Puedes recomendarme un buen guía local, por favor?",
+      "category": "Wisdom",
+      "generated_at": "2026-11-03T07:23:26.789564"
+    },
+    {
+      "english": "What should I try first, here in town?",
+      "spanish": "¿Qué me recomiendas probar primero, aquí en la ciudad?",
+      "category": "Wisdom",
+      "generated_at": "2026-11-03T07:23:26.789567"
+    },
+    {
+      "english": "Where’s the best place to ask questions?",
+      "spanish": "¿Dónde es el mejor lugar para hacer preguntas?",
+      "category": "Wisdom",
+      "generated_at": "2026-11-03T07:23:26.789571"
+    },
+    {
+      "english": "How do locals handle this, day to day?",
+      "spanish": "¿Cómo lo manejan los locales, día a día?",
+      "category": "Wisdom",
+      "generated_at": "2026-11-03T07:23:26.789574"
+    },
+    {
+      "english": "Is it safer to walk, or take a taxi?",
+      "spanish": "¿Es más seguro caminar, o tomar un taxi?",
+      "category": "Wisdom",
+      "generated_at": "2026-11-03T07:23:26.789577"
+    },
+    {
+      "english": "Do you know any tips for saving time?",
+      "spanish": "¿Tienes algún tip para ahorrar tiempo?",
+      "category": "Wisdom",
+      "generated_at": "2026-11-03T07:23:26.789579"
+    },
+    {
+      "english": "Could you tell me the schedule, please?",
+      "spanish": "¿Me puedes decir el horario, por favor?",
+      "category": "Wisdom",
+      "generated_at": "2026-11-03T07:23:26.789582"
+    },
+    {
+      "english": "Should I book online, or buy on site?",
+      "spanish": "¿Conviene reservar en línea, o comprar allí?",
+      "category": "Wisdom",
+      "generated_at": "2026-11-03T07:23:26.789584"
+    },
+    {
+      "english": "What do you suggest for a first visit?",
+      "spanish": "¿Qué recomiendas para una primera visita?",
+      "category": "Wisdom",
+      "generated_at": "2026-11-03T07:23:26.789587"
+    },
+    {
+      "english": "May I ask, what’s your main goal here?",
+      "spanish": "¿Puedo preguntarte, cuál es tu objetivo principal aquí?",
+      "category": "Wisdom",
+      "generated_at": "2026-11-03T07:23:26.789590"
+    },
+    {
+      "english": "How can I handle setbacks, without stress?",
+      "spanish": "¿Cómo puedo lidiar con los tropiezos, sin estrés?",
+      "category": "Wisdom",
+      "generated_at": "2026-11-03T07:23:26.789595"
+    },
+    {
+      "english": "Who do you ask for advice in real life?",
+      "spanish": "¿A quién le pides consejo en la vida real?",
+      "category": "Wisdom",
+      "generated_at": "2026-11-03T07:23:26.789597"
+    },
+    {
+      "english": "When is the best time to go?",
+      "spanish": "¿A qué hora conviene ir?",
+      "category": "Wisdom",
+      "generated_at": "2026-11-03T07:23:26.789602"
+    },
+    {
+      "english": "Can I get directions, step by step?",
+      "spanish": "¿Me das indicaciones, paso a paso?",
+      "category": "Wisdom",
+      "generated_at": "2026-11-03T07:23:26.789604"
+    },
+    {
+      "english": "What’s one smart habit you’d recommend?",
+      "spanish": "¿Cuál es un hábito inteligente que recomiendes?",
+      "category": "Wisdom",
+      "generated_at": "2026-11-03T07:23:26.789608"
+    },
+    {
+      "english": "Do you think I should switch plans?",
+      "spanish": "¿Crees que deba cambiar de planes?",
+      "category": "Wisdom",
+      "generated_at": "2026-11-03T07:23:26.789610"
+    },
+    {
+      "english": "What’s the local rule I should know?",
+      "spanish": "¿Cuál es la regla local que debería saber?",
+      "category": "Wisdom",
+      "generated_at": "2026-11-03T07:23:26.789614"
+    },
+    {
+      "english": "How did you learn that, so quickly?",
+      "spanish": "¿Cómo aprendiste eso tan rápido?",
+      "category": "Wisdom",
+      "generated_at": "2026-11-03T07:23:26.789616"
+    },
+    {
+      "english": "Is there a quieter option nearby?",
+      "spanish": "¿Hay alguna opción más tranquila cerca?",
+      "category": "Wisdom",
+      "generated_at": "2026-11-03T07:23:26.789619"
+    },
+    {
+      "english": "What would you do, if you were me?",
+      "spanish": "¿Qué harías tú, si fueras yo?",
+      "category": "Wisdom",
+      "generated_at": "2026-11-03T07:23:26.789622"
+    },
+    {
+      "english": "Can I ask one more thing, quickly?",
+      "spanish": "¿Te puedo preguntar otra cosa, rápido?",
+      "category": "Wisdom",
+      "generated_at": "2026-11-03T07:23:26.789624"
+    },
+    {
+      "english": "What should I avoid, especially as a visitor?",
+      "spanish": "¿Qué debo evitar, sobre todo como visitante?",
+      "category": "Wisdom",
+      "generated_at": "2026-11-03T07:23:26.789627"
+    },
+    {
+      "english": "How do I stay consistent, even on busy days?",
+      "spanish": "¿Cómo me mantengo constante, aunque esté ocupado?",
+      "category": "Wisdom",
+      "generated_at": "2026-11-03T07:23:26.789630"
+    },
+    {
+      "english": "Who’s the best person to talk to first?",
+      "spanish": "¿Con quién conviene hablar primero?",
+      "category": "Wisdom",
+      "generated_at": "2026-11-03T07:23:26.789636"
+    },
+    {
+      "english": "What’s the simplest way to start today?",
+      "spanish": "¿Cuál es la forma más simple de empezar hoy?",
+      "category": "Wisdom",
+      "generated_at": "2026-11-03T07:23:26.789639"
+    },
+    {
+      "english": "Do you have a shortcut, not a secret?",
+      "spanish": "¿Tienes un atajo, no un secreto?",
+      "category": "Wisdom",
+      "generated_at": "2026-11-03T07:23:26.789642"
+    },
+    {
+      "english": "Can you help me prioritize my next step?",
+      "spanish": "¿Me puedes ayudar a priorizar el siguiente paso?",
+      "category": "Wisdom",
+      "generated_at": "2026-11-03T07:23:26.789644"
+    },
+    {
+      "english": "What’s your honest take, should I worry?",
+      "spanish": "¿Cuál es tu opinión sincera, debo preocuparme?",
+      "category": "Wisdom",
+      "generated_at": "2026-11-03T07:23:26.789648"
+    },
+    {
+      "english": "If I get stuck, what do you recommend?",
+      "spanish": "Si me atoro, ¿qué recomiendas?",
+      "category": "Wisdom",
+      "generated_at": "2026-11-03T07:23:26.789651"
+    },
+    {
+      "english": "Dime la verdad, aprende más rápido.",
+      "spanish": "Dime la verdad, aprendes más rápido.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-03T07:23:26.789654"
+    },
+    {
+      "english": "Más vale prevenir, que lamentar.",
+      "spanish": "Más vale prevenir, que lamentar.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-03T07:23:26.789658"
+    },
+    {
+      "english": "Con calma, todo se acomoda.",
+      "spanish": "Con calma, todo se acomoda.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-03T07:23:26.789661"
+    },
+    {
+      "english": "A quien madruga, Dios le ayuda.",
+      "spanish": "A quien madruga, Dios le ayuda.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-03T07:23:26.789664"
+    },
+    {
+      "english": "No hay mal que por bien no venga.",
+      "spanish": "No hay mal que por bien no venga.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-03T07:23:26.789667"
+    },
+    {
+      "english": "El que busca, encuentra, a veces pronto.",
+      "spanish": "El que busca, encuentra, a veces pronto.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-03T07:23:26.789670"
+    },
+    {
+      "english": "Quien calla, otorga, piensa antes de hablar.",
+      "spanish": "Quien calla, otorga, piensa antes de hablar.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-03T07:23:26.789673"
+    },
+    {
+      "english": "Ojos que no ven, corazón que no sufre.",
+      "spanish": "Ojos que no ven, corazón que no sufre.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-03T07:23:26.789679"
+    },
+    {
+      "english": "Vale más una verdad a tiempo.",
+      "spanish": "Vale más una verdad a tiempo.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-03T07:23:26.789682"
+    },
+    {
+      "english": "Hazlo simple, y sigue adelante.",
+      "spanish": "Hazlo simple, y sigue adelante.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-03T07:23:26.789685"
+    },
+    {
+      "english": "Paso a paso, se llega lejos.",
+      "spanish": "Paso a paso, se llega lejos.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-03T07:23:26.789688"
+    },
+    {
+      "english": "El hábito te guía, sin darte cuenta.",
+      "spanish": "El hábito te guía, sin darte cuenta.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-03T07:23:26.789691"
+    },
+    {
+      "english": "No te emociones, observa primero.",
+      "spanish": "No te emociones, observa primero.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-03T07:23:26.789694"
+    },
+    {
+      "english": "A caballo regalado, no le mires el diente.",
+      "spanish": "A caballo regalado, no le mires el diente.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-03T07:23:26.789699"
+    },
+    {
+      "english": "La práctica hace al maestro.",
+      "spanish": "La práctica hace al maestro.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-03T07:23:26.789702"
+    },
+    {
+      "english": "Más vale tarde que nunca.",
+      "spanish": "Más vale tarde que nunca.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-03T07:23:26.789705"
+    },
+    {
+      "english": "Cuando una puerta cierra, otra abre.",
+      "spanish": "Cuando una puerta cierra, otra abre.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-03T07:23:26.789708"
+    },
+    {
+      "english": "No te quedes en el intento.",
+      "spanish": "No te quedes en el intento.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-03T07:23:26.789711"
+    },
+    {
+      "english": "Al mal tiempo, buena cara.",
+      "spanish": "Al mal tiempo, buena cara.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-03T07:23:26.789714"
+    },
+    {
+      "english": "El que persevera, alcanza.",
+      "spanish": "El que peh-rreh-VEH-rah, AL-kan-sah.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-03T07:23:26.789716"
+    },
+    {
+      "english": "Con hechos, convence más que con palabras.",
+      "spanish": "Con hechos, convence más que con palabras.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-03T07:23:26.789720"
+    },
+    {
+      "english": "No cuentes los días, haz que cuenten.",
+      "spanish": "No cuentes los días, haz que cuenten.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-03T07:23:26.789726"
+    },
+    {
+      "english": "El mundo cambia, tú también.",
+      "spanish": "El mundo cambia, tú también.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-03T07:23:26.789729"
+    },
+    {
+      "english": "Dime con quién andas, y te diré.",
+      "spanish": "Dime con quién andas, y te diré.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-03T07:23:26.789733"
+    },
+    {
+      "english": "No hay vuelta atrás, aprende y avanza.",
+      "spanish": "No hay vuelta atrás, aprende y avanza.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-03T07:23:26.789736"
+    },
+    {
+      "english": "A medida, sin prisa, con intención.",
+      "spanish": "A medida, sin prisa, con intención.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-03T07:23:26.789739"
+    },
+    {
+      "english": "La suerte favorece al preparado.",
+      "spanish": "La suerte favorece al preparado.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-03T07:23:26.789742"
+    },
+    {
+      "english": "Quien no arriesga, no gana.",
+      "spanish": "Quien no arriesga, no gana.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-03T07:23:26.789745"
+    },
+    {
+      "english": "Sin ruido, pero con constancia.",
+      "spanish": "Sin ruido, pero con constancia.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-03T07:23:26.789748"
+    },
+    {
+      "english": "I feel nervous, but I’m still trying",
+      "spanish": "Me siento nervioso, pero igual sigo intentando",
+      "category": "Wisdom",
+      "generated_at": "2026-11-03T07:23:26.789751"
+    },
+    {
+      "english": "Some days, honesty is the bravest choice",
+      "spanish": "Hay días en que la honestidad es la opción valiente",
+      "category": "Wisdom",
+      "generated_at": "2026-11-03T07:23:26.789754"
+    },
+    {
+      "english": "Pause first, then tell your real feelings",
+      "spanish": "Para primero, y luego di lo que sientes de verdad",
+      "category": "Wisdom",
+      "generated_at": "2026-11-03T07:23:26.789757"
+    },
+    {
+      "english": "Patience pays off, even when it’s slow",
+      "spanish": "La paciencia rinde, aunque vaya despacio",
+      "category": "Wisdom",
+      "generated_at": "2026-11-03T07:23:26.789761"
+    },
+    {
+      "english": "I don’t need perfect, I need honest progress",
+      "spanish": "No necesito perfección, necesito avance sincero",
+      "category": "Wisdom",
+      "generated_at": "2026-11-03T07:23:26.789765"
+    },
+    {
+      "english": "When I’m hurt, I listen before I react",
+      "spanish": "Cuando estoy herido, escucho antes de reaccionar",
+      "category": "Wisdom",
+      "generated_at": "2026-11-03T07:23:26.789768"
+    },
+    {
+      "english": "My best lesson came from saying no",
+      "spanish": "Mi mejor lección vino de aprender a decir no",
+      "category": "Wisdom",
+      "generated_at": "2026-11-03T07:23:26.789771"
+    },
+    {
+      "english": "I trust time, it clears the emotional noise",
+      "spanish": "Confío en el tiempo, limpia el ruido emocional",
+      "category": "Wisdom",
+      "generated_at": "2026-11-03T07:23:26.789774"
+    },
+    {
+      "english": "It’s okay to feel stuck, then breathe",
+      "spanish": "Está bien sentirse atascado, luego respira",
+      "category": "Wisdom",
+      "generated_at": "2026-11-03T07:23:26.789777"
+    },
+    {
+      "english": "I don’t chase answers, I chase clarity",
+      "spanish": "No persigo respuestas, busco claridad",
+      "category": "Wisdom",
+      "generated_at": "2026-11-03T07:23:26.789780"
+    },
+    {
+      "english": "Small truth, repeated daily, changes everything",
+      "spanish": "Una verdad pequeña, repetida cada día, cambia todo",
+      "category": "Wisdom",
+      "generated_at": "2026-11-03T07:23:26.789783"
+    },
+    {
+      "english": "I admit I’m scared, and I act anyway",
+      "spanish": "Acepto que tengo miedo, y aun así actúo",
+      "category": "Wisdom",
+      "generated_at": "2026-11-03T07:23:26.789787"
+    },
+    {
+      "english": "Sometimes I overthink, so I choose action",
+      "spanish": "A veces pienso de más, así que elijo acción",
+      "category": "Wisdom",
+      "generated_at": "2026-11-03T07:23:26.789790"
+    },
+    {
+      "english": "I learn faster when I stop pretending",
+      "spanish": "Aprendo más rápido cuando dejo de fingir",
+      "category": "Wisdom",
+      "generated_at": "2026-11-03T07:23:26.789792"
+    },
+    {
+      "english": "Grief taught me how to be gentle",
+      "spanish": "El duelo me enseñó a ser más suave",
+      "category": "Wisdom",
+      "generated_at": "2026-11-03T07:23:26.789795"
+    },
+    {
+      "english": "I don’t need to win, I need to grow",
+      "spanish": "No necesito ganar, necesito crecer",
+      "category": "Wisdom",
+      "generated_at": "2026-11-03T07:23:26.789798"
+    },
+    {
+      "english": "Before judging, I ask what I’m missing",
+      "spanish": "Antes de juzgar, pregunto qué me falta",
+      "category": "Wisdom",
+      "generated_at": "2026-11-03T07:23:26.789803"
+    },
+    {
+      "english": "My boundaries protect my peace, not my pride",
+      "spanish": "Mis límites protegen mi paz, no mi orgullo",
+      "category": "Wisdom",
+      "generated_at": "2026-11-03T07:23:26.789806"
+    },
+    {
+      "english": "I can’t control people, only my response",
+      "spanish": "No puedo controlar a los demás, solo mi respuesta",
+      "category": "Wisdom",
+      "generated_at": "2026-11-03T07:23:26.789810"
+    },
+    {
+      "english": "Be honest, and the right path appears",
+      "spanish": "Sé sincero, y el camino correcto se abre",
+      "category": "Wisdom",
+      "generated_at": "2026-11-03T07:23:26.789813"
+    },
+    {
+      "english": "I forgive late, but I forgive for real",
+      "spanish": "Perdono tarde, pero perdono de verdad",
+      "category": "Wisdom",
+      "generated_at": "2026-11-03T07:23:26.789816"
+    },
+    {
+      "english": "I tell myself the truth, even if it stings",
+      "spanish": "Me digo la verdad, aunque pique",
+      "category": "Wisdom",
+      "generated_at": "2026-11-03T07:23:26.789818"
+    },
+    {
+      "english": "Don’t rush feelings, let them settle",
+      "spanish": "No corras con las emociones, déjalas asentarse",
+      "category": "Wisdom",
+      "generated_at": "2026-11-03T07:23:26.789822"
+    },
+    {
+      "english": "I choose calm, because it’s faster long-term",
+      "spanish": "Elijo calma, porque a la larga funciona",
+      "category": "Wisdom",
+      "generated_at": "2026-11-03T07:23:26.789825"
+    },
+    {
+      "english": "My heart speaks first, then my logic checks",
+      "spanish": "El corazón habla primero, luego mi lógica revisa",
+      "category": "Wisdom",
+      "generated_at": "2026-11-03T07:23:26.789828"
+    },
+    {
+      "english": "I keep it real, even with small wins",
+      "spanish": "Mantengo la realidad, incluso con pequeñas victorias",
+      "category": "Wisdom",
+      "generated_at": "2026-11-03T07:23:26.789831"
+    },
+    {
+      "english": "I don’t argue my feelings, I understand them",
+      "spanish": "No discuto mis sentimientos, los entiendo",
+      "category": "Wisdom",
+      "generated_at": "2026-11-03T07:23:26.789834"
+    },
+    {
+      "english": "When I feel lost, I go back to basics",
+      "spanish": "Cuando me siento perdido, vuelvo a lo básico",
+      "category": "Wisdom",
+      "generated_at": "2026-11-03T07:23:26.789838"
+    },
+    {
+      "english": "I’m allowed to change my mind",
+      "spanish": "Tengo permiso para cambiar de idea",
+      "category": "Wisdom",
+      "generated_at": "2026-11-03T07:23:26.789841"
+    },
+    {
+      "english": "I keep moving, because waiting hurts less",
+      "spanish": "Sigo avanzando, porque esperar duele menos",
+      "category": "Wisdom",
+      "generated_at": "2026-11-03T07:23:26.789844"
+    },
+    {
+      "english": "When in doubt, ask one question.",
+      "spanish": "Si tienes dudas, pregunta una cosa.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-03T07:23:26.789847"
     }
   ],
-  "last_updated": "2026-11-02T06:59:23.874824"
+  "last_updated": "2026-11-03T07:23:26.789849"
 }
