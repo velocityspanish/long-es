@@ -14039,7 +14039,727 @@
       "spanish": "Si tienes dudas, pregunta una cosa.",
       "category": "Wisdom",
       "generated_at": "2026-11-03T07:23:26.789847"
+    },
+    {
+      "english": "I’m totally fine, just tired today",
+      "spanish": "Estoy genial, solo estoy cansado hoy",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-04T07:05:52.661525"
+    },
+    {
+      "english": "Honestly, I’m a little nervous right now",
+      "spanish": "Sinceramente, estoy un poco nervioso ahora",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-04T07:05:52.661540"
+    },
+    {
+      "english": "Are you okay, tell me the truth",
+      "spanish": "¿Estás bien?, dime la verdad",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-04T07:05:52.661542"
+    },
+    {
+      "english": "I feel good, like, really good",
+      "spanish": "Me siento bien, o sea, muy bien",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-04T07:05:52.661544"
+    },
+    {
+      "english": "Hold on, I’m overthinking again",
+      "spanish": "Espera, estoy sobrepensando otra vez",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-04T07:05:52.661547"
+    },
+    {
+      "english": "That makes me smile, for real",
+      "spanish": "Eso me saca una sonrisa, en serio",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-04T07:05:52.661548"
+    },
+    {
+      "english": "Don’t worry, it’ll be okay, I promise",
+      "spanish": "No te preocupes, todo va a estar bien",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-04T07:05:52.661551"
+    },
+    {
+      "english": "I’m excited, I can’t wait",
+      "spanish": "Estoy emocionado, no puedo esperar",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-04T07:05:52.661555"
+    },
+    {
+      "english": "I’m not mad, I’m just surprised",
+      "spanish": "No estoy enojado, estoy solo sorprendido",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-04T07:05:52.661558"
+    },
+    {
+      "english": "I’m feeling down, today is heavy",
+      "spanish": "Estoy triste, hoy pesa",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-04T07:05:52.661559"
+    },
+    {
+      "english": "Wait, I’m getting impatient",
+      "spanish": "Espera, me estoy impacientando",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-04T07:05:52.661561"
+    },
+    {
+      "english": "You’ve got my attention, seriously",
+      "spanish": "Me tienes atento, en serio",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-04T07:05:52.661563"
+    },
+    {
+      "english": "I’m relieved, thank God, honestly",
+      "spanish": "Estoy aliviado, gracias a Dios",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-04T07:05:52.661569"
+    },
+    {
+      "english": "I’m annoyed, but I’ll stay calm",
+      "spanish": "Me molesta, pero me mantengo tranquilo",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-04T07:05:52.661571"
+    },
+    {
+      "english": "That’s not cool, I’m really hurt",
+      "spanish": "Eso no está bien, me duele",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-04T07:05:52.661573"
+    },
+    {
+      "english": "I’m proud of you, for real",
+      "spanish": "Estoy orgulloso de ti, en serio",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-04T07:05:52.661576"
+    },
+    {
+      "english": "I’m nervous, don’t judge me",
+      "spanish": "Estoy nervioso, no me juzgues",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-04T07:05:52.661578"
+    },
+    {
+      "english": "I’m curious, what’s the real story",
+      "spanish": "Tengo curiosidad, ¿cuál es la verdad?",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-04T07:05:52.661580"
+    },
+    {
+      "english": "I’m jealous, it’s not your fault",
+      "spanish": "Tengo celos, no es tu culpa",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-04T07:05:52.661581"
+    },
+    {
+      "english": "I’m confident, I’ve got this",
+      "spanish": "Estoy seguro, yo puedo con esto",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-04T07:05:52.661583"
+    },
+    {
+      "english": "I’m shy at first, then I open up",
+      "spanish": "Soy tímido al principio, luego me suelto",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-04T07:05:52.661585"
+    },
+    {
+      "english": "That hit me hard, wow",
+      "spanish": "Eso me pegó fuerte, wow",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-04T07:05:52.661586"
+    },
+    {
+      "english": "I’m okay, I just need a minute",
+      "spanish": "Estoy bien, solo necesito un minuto",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-04T07:05:52.661588"
+    },
+    {
+      "english": "I feel safe with you, seriously",
+      "spanish": "Me siento seguro contigo, en serio",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-04T07:05:52.661590"
+    },
+    {
+      "english": "I’m impressed, you really did it",
+      "spanish": "Estoy impresionado, de verdad lo hiciste",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-04T07:05:52.661591"
+    },
+    {
+      "english": "I’m annoyed, stop doing that, please",
+      "spanish": "Estoy molesto, deja de hacer eso, por favor",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-04T07:05:52.661593"
+    },
+    {
+      "english": "I’m angry, but I’ll calm down soon",
+      "spanish": "Estoy enojado, pero se me pasa pronto",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-04T07:05:52.661595"
+    },
+    {
+      "english": "I’m ready, let’s go, right now",
+      "spanish": "Estoy listo, vamos, ahora mismo",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-04T07:05:52.661597"
+    },
+    {
+      "english": "I’m blown away, that’s amazing",
+      "spanish": "Estoy alucinado, eso es increíble",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-04T07:05:52.661599"
+    },
+    {
+      "english": "Why do you sound worried, today?",
+      "spanish": "¿Por qué suenas preocupado, hoy?",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-04T07:05:52.661600"
+    },
+    {
+      "english": "What helps you calm down, fast?",
+      "spanish": "¿Qué te ayuda a calmarte, rápido?",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-04T07:05:52.661602"
+    },
+    {
+      "english": "Do you feel stressed, or just busy?",
+      "spanish": "¿Te sientes estresado, o solo estás ocupado?",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-04T07:05:52.661604"
+    },
+    {
+      "english": "Be honest, what’s making you uneasy?",
+      "spanish": "Sé honesto, ¿qué te pone incómodo?",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-04T07:05:52.661607"
+    },
+    {
+      "english": "Do you want advice, or just listening?",
+      "spanish": "¿Quieres consejos, o solo que te escuchen?",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-04T07:05:52.661608"
+    },
+    {
+      "english": "I’m sensing tension, are we okay?",
+      "spanish": "Siento tensión, ¿estamos bien?",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-04T07:05:52.661611"
+    },
+    {
+      "english": "What’s bothering you, really?",
+      "spanish": "¿Qué te molesta, de verdad?",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-04T07:05:52.661613"
+    },
+    {
+      "english": "Where do you feel that in your body?",
+      "spanish": "¿Dónde lo sientes en tu cuerpo?",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-04T07:05:52.661615"
+    },
+    {
+      "english": "Have you been feeling off lately?",
+      "spanish": "¿Te has sentido raro, últimamente?",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-04T07:05:52.661616"
+    },
+    {
+      "english": "Can we talk, I need clarity?",
+      "spanish": "¿Podemos hablar, necesito claridad?",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-04T07:05:52.661618"
+    },
+    {
+      "english": "Is it nerves, or are you upset?",
+      "spanish": "¿Son nervios, o estás enojado/a?",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-04T07:05:52.661619"
+    },
+    {
+      "english": "Tell me, what’s made you emotional?",
+      "spanish": "Dime, ¿qué te puso emocional?",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-04T07:05:52.661621"
+    },
+    {
+      "english": "Do you feel lighter, after talking?",
+      "spanish": "¿Te sientes más ligero/a, después?",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-04T07:05:52.661623"
+    },
+    {
+      "english": "How do you handle being overwhelmed?",
+      "spanish": "¿Cómo manejas sentirte abrumado/a?",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-04T07:05:52.661626"
+    },
+    {
+      "english": "Want to vent, or solve the problem?",
+      "spanish": "¿Quieres desahogarte, o buscamos solución?",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-04T07:05:52.661628"
+    },
+    {
+      "english": "What did I miss, that hurts?",
+      "spanish": "¿Qué no vi, y te está doliendo?",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-04T07:05:52.661629"
+    },
+    {
+      "english": "How did that make you feel inside?",
+      "spanish": "¿Cómo te hizo sentir, por dentro?",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-04T07:05:52.661631"
+    },
+    {
+      "english": "Are you feeling hopeful, or doubtful?",
+      "spanish": "¿Estás con esperanza, o con dudas?",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-04T07:05:52.661634"
+    },
+    {
+      "english": "What’s the real reason, behind your silence?",
+      "spanish": "¿Cuál es la razón real, detrás de tu silencio?",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-04T07:05:52.661636"
+    },
+    {
+      "english": "Can I ask something, respectfully?",
+      "spanish": "¿Puedo preguntarte algo, con respeto?",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-04T07:05:52.661637"
+    },
+    {
+      "english": "Do you feel jealous, or protective?",
+      "spanish": "¿Te da celos, o te pones en modo protector/a?",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-04T07:05:52.661639"
+    },
+    {
+      "english": "What’s making you overthink, right now?",
+      "spanish": "¿Qué te hace sobrepensar, ahora?",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-04T07:05:52.661641"
+    },
+    {
+      "english": "How can I support you, today?",
+      "spanish": "¿Cómo puedo apoyarte, hoy?",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-04T07:05:52.661642"
+    },
+    {
+      "english": "Do you want space, or a hug?",
+      "spanish": "¿Quieres espacio, o un abrazo?",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-04T07:05:52.661644"
+    },
+    {
+      "english": "What’s your plan, when you get anxious?",
+      "spanish": "¿Cuál es tu plan, cuando te pones ansioso/a?",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-04T07:05:52.661646"
+    },
+    {
+      "english": "I’m noticing you’re tense, what’s up?",
+      "spanish": "Te noto tenso/a, ¿qué pasa?",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-04T07:05:52.661648"
+    },
+    {
+      "english": "Should we pause, you look overwhelmed?",
+      "spanish": "¿Paramos un momento, te ves abrumado/a?",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-04T07:05:52.661649"
+    },
+    {
+      "english": "Are you okay with feedback, right now?",
+      "spanish": "¿Te va bien la crítica, ahorita?",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-04T07:05:52.661651"
+    },
+    {
+      "english": "What do you want me to say?",
+      "spanish": "¿Qué quieres que te diga?",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-04T07:05:52.661652"
+    },
+    {
+      "english": "Turn that worry into focus, one step.",
+      "spanish": "Convierte esa preocupación en enfoque, paso a paso.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-04T07:05:52.661654"
+    },
+    {
+      "english": "Tell yourself, calm is a choice today.",
+      "spanish": "Dite a ti mismo, la calma es una elección hoy.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-04T07:05:52.661656"
+    },
+    {
+      "english": "Small wins count, don’t ignore them.",
+      "spanish": "Las pequeñas victorias cuentan, no las ignores.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-04T07:05:52.661658"
+    },
+    {
+      "english": "Say it kindly, your mind will listen.",
+      "spanish": "Di eso con cariño, tu mente escucha.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-04T07:05:52.661660"
+    },
+    {
+      "english": "Give yourself credit, that progress is real.",
+      "spanish": "Date crédito, ese progreso es real.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-04T07:05:52.661661"
+    },
+    {
+      "english": "Not everything is a disaster, breathe.",
+      "spanish": "No todo es un desastre, respira.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-04T07:05:52.661663"
+    },
+    {
+      "english": "I love your effort, it shows.",
+      "spanish": "Me encanta tu esfuerzo, se nota.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-04T07:05:52.661665"
+    },
+    {
+      "english": "Keep your head up, you’ll get there.",
+      "spanish": "Mantén la frente en alto, llegarás.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-04T07:05:52.661667"
+    },
+    {
+      "english": "When doubt talks, answer with action.",
+      "spanish": "Cuando hable la duda, contesta con acciones.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-04T07:05:52.661670"
+    },
+    {
+      "english": "You’re allowed to feel, no pressure.",
+      "spanish": "Puedes sentir, sin presión.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-04T07:05:52.661672"
+    },
+    {
+      "english": "That spark is your strength, use it.",
+      "spanish": "Ese impulso es tu fuerza, úsalo.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-04T07:05:52.661673"
+    },
+    {
+      "english": "Patience, you’re building something good.",
+      "spanish": "Paciencia, estás construyendo algo bueno.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-04T07:05:52.661676"
+    },
+    {
+      "english": "Your progress matters, even if slow.",
+      "spanish": "Tu progreso importa, aunque sea lento.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-04T07:05:52.661677"
+    },
+    {
+      "english": "Be proud of trying, that’s bravery.",
+      "spanish": "Orgullécete de intentarlo, eso es valentía.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-04T07:05:52.661679"
+    },
+    {
+      "english": "Let it pass, feelings change fast.",
+      "spanish": "Que pase, las emociones cambian rápido.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-04T07:05:52.661681"
+    },
+    {
+      "english": "I’m rooting for you, keep going.",
+      "spanish": "Estoy contigo, sigue adelante.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-04T07:05:52.661682"
+    },
+    {
+      "english": "You’re not behind, you’re on your path.",
+      "spanish": "No estás atrasado, vas a tu ritmo.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-04T07:05:52.661686"
+    },
+    {
+      "english": "Speak kindly to yourself, it works.",
+      "spanish": "Háblate con amabilidad, funciona.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-04T07:05:52.661688"
+    },
+    {
+      "english": "Keep it simple, one goal today.",
+      "spanish": "Hazlo simple, un objetivo hoy.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-04T07:05:52.661689"
+    },
+    {
+      "english": "You handled it, that’s confidence growing.",
+      "spanish": "Lo manejaste, así nace tu seguridad.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-04T07:05:52.661691"
+    },
+    {
+      "english": "Gratitude shifts your mood, try it.",
+      "spanish": "La gratitud cambia tu ánimo, pruébalo.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-04T07:05:52.661693"
+    },
+    {
+      "english": "Even hard days teach you something.",
+      "spanish": "Hasta los días difíciles enseñan algo.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-04T07:05:52.661694"
+    },
+    {
+      "english": "Say yes to rest, you’ll bounce back.",
+      "spanish": "Di que sí al descanso, vuelves con fuerza.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-04T07:05:52.661696"
+    },
+    {
+      "english": "Let your breath lead, relax your shoulders.",
+      "spanish": "Deja que la respiración guíe, suelta los hombros.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-04T07:05:52.661698"
+    },
+    {
+      "english": "You’re building resilience, day by day.",
+      "spanish": "Estás creando resiliencia, día tras día.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-04T07:05:52.661700"
+    },
+    {
+      "english": "When you slip, reset, no shame.",
+      "spanish": "Si te equivocas, reinicia, sin culpa.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-04T07:05:52.661701"
+    },
+    {
+      "english": "Celebrate the effort, not just the result.",
+      "spanish": "Celebra el esfuerzo, no solo el resultado.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-04T07:05:52.661703"
+    },
+    {
+      "english": "Your feelings are data, not a verdict.",
+      "spanish": "Tus emociones son datos, no sentencia.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-04T07:05:52.661705"
+    },
+    {
+      "english": "I’m reflecting quietly, trying to understand me.",
+      "spanish": "Estoy reflexionando en silencio, tratando de entenderme.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-04T07:05:52.661707"
+    },
+    {
+      "english": "Honestly, I’m tired of pretending I’m fine.",
+      "spanish": "Honestamente, estoy cansado de fingir que estoy bien.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-04T07:05:52.661710"
+    },
+    {
+      "english": "I’m scared, but I’m choosing to be brave.",
+      "spanish": "Tengo miedo, pero elijo ser valiente.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-04T07:05:52.661711"
+    },
+    {
+      "english": "I don’t want drama, I want clarity.",
+      "spanish": "No quiero drama, quiero claridad.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-04T07:05:52.661713"
+    },
+    {
+      "english": "I feel calmer when I slow down.",
+      "spanish": "Me siento más tranquilo, cuando bajo el ritmo.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-04T07:05:52.661717"
+    },
+    {
+      "english": "I’m learning to name my emotions clearly.",
+      "spanish": "Estoy aprendiendo a poner nombre a mis emociones.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-04T07:05:52.661719"
+    },
+    {
+      "english": "Sometimes I miss you, even when I move on.",
+      "spanish": "A veces te extraño, aunque siga adelante.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-04T07:05:52.661720"
+    },
+    {
+      "english": "I’m grateful, and I don’t rush it.",
+      "spanish": "Estoy agradecido, y no me apuro.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-04T07:05:52.661722"
+    },
+    {
+      "english": "I’m not overreacting, I’m reacting to truth.",
+      "spanish": "No estoy exagerando, estoy respondiendo a la verdad.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-04T07:05:52.661724"
+    },
+    {
+      "english": "Please, be patient with my changing mood.",
+      "spanish": "Por favor, ten paciencia con mi ánimo cambiante.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-04T07:05:52.661727"
+    },
+    {
+      "english": "I need a moment, my feelings are catching up.",
+      "spanish": "Necesito un momento, mis emociones van detrás.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-04T07:05:52.661729"
+    },
+    {
+      "english": "I feel hopeful, because I keep showing up.",
+      "spanish": "Me siento con esperanza, porque sigo intentando.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-04T07:05:52.661732"
+    },
+    {
+      "english": "I’m protecting my peace, even quietly.",
+      "spanish": "Estoy cuidando mi paz, incluso en silencio.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-04T07:05:52.661734"
+    },
+    {
+      "english": "I don’t hate myself, I’m just hurt.",
+      "spanish": "No me odio, solo estoy herido.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-04T07:05:52.661736"
+    },
+    {
+      "english": "I’m letting it go, not forgetting it.",
+      "spanish": "Lo suelto, pero no lo olvido.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-04T07:05:52.661738"
+    },
+    {
+      "english": "Right now, I’m overwhelmed, but I’ll breathe.",
+      "spanish": "Ahora mismo, estoy abrumado, pero respiro.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-04T07:05:52.661740"
+    },
+    {
+      "english": "I feel proud, even if it took time.",
+      "spanish": "Estoy orgulloso, aunque haya tomado tiempo.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-04T07:05:52.661742"
+    },
+    {
+      "english": "I want honest words, no sugarcoating.",
+      "spanish": "Quiero palabras honestas, sin endulzar.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-04T07:05:52.661744"
+    },
+    {
+      "english": "When I’m calm, I think more clearly.",
+      "spanish": "Cuando estoy tranquilo, pienso más claro.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-04T07:05:52.661745"
+    },
+    {
+      "english": "I’m learning patience, one tough day at a time.",
+      "spanish": "Estoy aprendiendo paciencia, día difícil tras día.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-04T07:05:52.661748"
+    },
+    {
+      "english": "I feel stuck, but I’m not giving up.",
+      "spanish": "Me siento estancado, pero no me rindo.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-04T07:05:52.661750"
+    },
+    {
+      "english": "I’m processing it slowly, with no rush.",
+      "spanish": "Lo estoy procesando despacio, sin apuro.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-04T07:05:52.661752"
+    },
+    {
+      "english": "I’m okay being quiet, I’m sorting thoughts.",
+      "spanish": "Está bien que esté callado, estoy ordenando ideas.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-04T07:05:52.661754"
+    },
+    {
+      "english": "I’m grateful for the small comforts today.",
+      "spanish": "Agradezco los pequeños consuelos de hoy.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-04T07:05:52.661756"
+    },
+    {
+      "english": "I feel safe when boundaries are respected.",
+      "spanish": "Me siento seguro cuando se respetan límites.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-04T07:05:52.661757"
+    },
+    {
+      "english": "I’m tired of guessing, I need truth.",
+      "spanish": "Estoy cansado de adivinar, necesito verdad.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-04T07:05:52.661759"
+    },
+    {
+      "english": "I’m choosing kindness, even when I’m hurt.",
+      "spanish": "Elijo la amabilidad, aunque me duela.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-04T07:05:52.661761"
+    },
+    {
+      "english": "Sometimes I overthink, then I return to myself.",
+      "spanish": "A veces me gana la mente, y vuelvo a mí.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-04T07:05:52.661763"
+    },
+    {
+      "english": "My heart is tender, please handle it gently.",
+      "spanish": "Mi corazón está sensible, por favor, con cuidado.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-04T07:05:52.661765"
+    },
+    {
+      "english": "I’m not asking for fixing, just listening.",
+      "spanish": "No pido que me arreglen, solo escuchar.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-04T07:05:52.661766"
+    },
+    {
+      "english": "Before speaking, pause, then choose the kind words.",
+      "spanish": "Antes de hablar, pausa, y elige palabras amables.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-04T07:05:52.661768"
+    },
+    {
+      "english": "I’m nervous, so I’ll start with small steps.",
+      "spanish": "Estoy nervioso, así que empiezo con pasos pequeños.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-04T07:05:52.661770"
+    },
+    {
+      "english": "If you feel tense, drink water, then stretch.",
+      "spanish": "Si te sientes tenso, toma agua, y estira.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-04T07:05:52.661772"
+    },
+    {
+      "english": "I’m angry, but I’ll talk after I cool down.",
+      "spanish": "Estoy enojado, pero hablaré cuando se me pase.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-04T07:05:52.661774"
     }
   ],
-  "last_updated": "2026-11-03T07:23:26.789849"
+  "last_updated": "2026-11-04T07:05:52.661775"
 }
