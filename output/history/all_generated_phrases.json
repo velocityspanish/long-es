@@ -14759,7 +14759,727 @@
       "spanish": "Estoy enojado, pero hablaré cuando se me pase.",
       "category": "Feelings & Emotions",
       "generated_at": "2026-11-04T07:05:52.661774"
+    },
+    {
+      "english": "I’m warmed up, let’s go",
+      "spanish": "Ya estoy calentado, vamos",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-05T07:32:43.019031"
+    },
+    {
+      "english": "How was your workout today?",
+      "spanish": "¿Cómo te fue en el entrenamiento hoy?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-05T07:32:43.019044"
+    },
+    {
+      "english": "No pain, no gain, right?",
+      "spanish": "Sin dolor, no hay ganancia, ¿verdad?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-05T07:32:43.019047"
+    },
+    {
+      "english": "I need water, right now",
+      "spanish": "Necesito agua, ahora mismo",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-05T07:32:43.019049"
+    },
+    {
+      "english": "Quick stretch, then start",
+      "spanish": "Estira rápido, y luego empezamos",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-05T07:32:43.019052"
+    },
+    {
+      "english": "Mind the form, not just speed",
+      "spanish": "Cuida la técnica, no solo la velocidad",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-05T07:32:43.019054"
+    },
+    {
+      "english": "Pause, I think I need rest",
+      "spanish": "Espera, creo que necesito descansar",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-05T07:32:43.019056"
+    },
+    {
+      "english": "I can’t breathe, slow down",
+      "spanish": "No puedo respirar, baja el ritmo",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-05T07:32:43.019061"
+    },
+    {
+      "english": "Nice job, you pushed hard",
+      "spanish": "Buen trabajo, te esforzaste mucho",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-05T07:32:43.019064"
+    },
+    {
+      "english": "Are you sore today, again?",
+      "spanish": "¿Te duele todo hoy, otra vez?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-05T07:32:43.019066"
+    },
+    {
+      "english": "That’s my limit, I’m done",
+      "spanish": "Ese es mi límite, ya termino",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-05T07:32:43.019069"
+    },
+    {
+      "english": "Let’s cool down slowly",
+      "spanish": "Vamos a bajar el ritmo, despacio",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-05T07:32:43.019071"
+    },
+    {
+      "english": "Take it easy, you’ll be fine",
+      "spanish": "Tranquilo, todo va a salir bien",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-05T07:32:43.019076"
+    },
+    {
+      "english": "Again, one more rep, come on",
+      "spanish": "Otra vez, una más, vamos",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-05T07:32:43.019078"
+    },
+    {
+      "english": "I forgot my workout shoes",
+      "spanish": "Se me olvidaron mis zapatillas",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-05T07:32:43.019080"
+    },
+    {
+      "english": "Did you warm up properly?",
+      "spanish": "¿Te calentaste bien antes?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-05T07:32:43.019082"
+    },
+    {
+      "english": "I’m out of breath, seriously",
+      "spanish": "Estoy sin aire, en serio",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-05T07:32:43.019085"
+    },
+    {
+      "english": "Hydrate, don’t wait",
+      "spanish": "Hidrátate, no esperes",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-05T07:32:43.019087"
+    },
+    {
+      "english": "Your form looks great today",
+      "spanish": "Hoy tu técnica se ve genial",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-05T07:32:43.019089"
+    },
+    {
+      "english": "I’m starting with cardio",
+      "spanish": "Empiezo con cardio",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-05T07:32:43.019093"
+    },
+    {
+      "english": "I’ll do strength training tomorrow",
+      "spanish": "Mañana hago pesas",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-05T07:32:43.019096"
+    },
+    {
+      "english": "Watch out, that’s dangerous",
+      "spanish": "Ojo, eso es peligroso",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-05T07:32:43.019098"
+    },
+    {
+      "english": "I hit a wall, need water",
+      "spanish": "Me pegué al muro, necesito agua",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-05T07:32:43.019100"
+    },
+    {
+      "english": "I’m feeling motivated today",
+      "spanish": "Hoy tengo ganas de entrenar",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-05T07:32:43.019102"
+    },
+    {
+      "english": "How many sets are we doing?",
+      "spanish": "¿Cuántas series hacemos?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-05T07:32:43.019104"
+    },
+    {
+      "english": "Rest a minute, then go",
+      "spanish": "Descansa un minuto, luego sigues",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-05T07:32:43.019108"
+    },
+    {
+      "english": "I’m going for personal best",
+      "spanish": "Voy por mi mejor marca personal",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-05T07:32:43.019110"
+    },
+    {
+      "english": "That was a solid workout",
+      "spanish": "Ese entreno estuvo muy bien",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-05T07:32:43.019112"
+    },
+    {
+      "english": "Don’t stop, keep pushing",
+      "spanish": "No pares, sigue empujando",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-05T07:32:43.019114"
+    },
+    {
+      "english": "Let’s meet after training",
+      "spanish": "Nos vemos después del entrenamiento",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-05T07:32:43.019116"
+    },
+    {
+      "english": "What class do you recommend, beginners included?",
+      "spanish": "¿Qué clase recomiendas, para principiantes?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-05T07:32:43.019119"
+    },
+    {
+      "english": "How long should I rest between sets?",
+      "spanish": "¿Cuánto tiempo descanso entre series?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-05T07:32:43.019121"
+    },
+    {
+      "english": "Do you stretch after training, or before?",
+      "spanish": "¿Tú estiras después del entrenamiento, o antes?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-05T07:32:43.019124"
+    },
+    {
+      "english": "Can I borrow your band for today?",
+      "spanish": "¿Puedo usar tu banda hoy?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-05T07:32:43.019126"
+    },
+    {
+      "english": "Should I use lighter weights today?",
+      "spanish": "¿Conviene que use pesos más ligeros hoy?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-05T07:32:43.019128"
+    },
+    {
+      "english": "What’s your go-to warmup for running?",
+      "spanish": "¿Cuál es tu calentamiento favorito para correr?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-05T07:32:43.019131"
+    },
+    {
+      "english": "Is this exercise okay for my back?",
+      "spanish": "¿Este ejercicio es bueno para mi espalda?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-05T07:32:43.019133"
+    },
+    {
+      "english": "How do you breathe during squats?",
+      "spanish": "¿Cómo respiras mientras haces sentadillas?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-05T07:32:43.019135"
+    },
+    {
+      "english": "Can you spot me for one set?",
+      "spanish": "¿Puedes ayudarme con una serie, por favor?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-05T07:32:43.019137"
+    },
+    {
+      "english": "What should I eat before cardio?",
+      "spanish": "¿Qué debo comer antes del cardio?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-05T07:32:43.019139"
+    },
+    {
+      "english": "Do you prefer machines or free weights?",
+      "spanish": "¿Prefieres máquinas o pesas libres?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-05T07:32:43.019141"
+    },
+    {
+      "english": "Is my pace too fast for beginners?",
+      "spanish": "¿Mi ritmo es demasiado rápido para empezar?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-05T07:32:43.019143"
+    },
+    {
+      "english": "What’s a smart goal for this month?",
+      "spanish": "¿Cuál es una meta realista para este mes?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-05T07:32:43.019146"
+    },
+    {
+      "english": "Can we adjust the routine, please?",
+      "spanish": "¿Podemos ajustar la rutina, por favor?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-05T07:32:43.019148"
+    },
+    {
+      "english": "How often should I train to see results?",
+      "spanish": "¿Con qué frecuencia entrenas para ver resultados?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-05T07:32:43.019150"
+    },
+    {
+      "english": "What do I do if I feel pain?",
+      "spanish": "¿Qué hago si siento dolor?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-05T07:32:43.019154"
+    },
+    {
+      "english": "Can you recommend a good protein option?",
+      "spanish": "¿Me recomiendas una buena opción de proteína?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-05T07:32:43.019157"
+    },
+    {
+      "english": "Should I train today, or take a day off?",
+      "spanish": "¿Entreno hoy, o mejor descanso un día?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-05T07:32:43.019159"
+    },
+    {
+      "english": "How’s your form, do you feel stable?",
+      "spanish": "¿Cómo va tu postura, te sientes firme?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-05T07:32:43.019162"
+    },
+    {
+      "english": "What’s the safest way to start lifting?",
+      "spanish": "¿Cuál es la forma más segura para empezar a levantar?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-05T07:32:43.019164"
+    },
+    {
+      "english": "Do you have tips for improving endurance?",
+      "spanish": "¿Tienes consejos para mejorar la resistencia?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-05T07:32:43.019166"
+    },
+    {
+      "english": "Can we change the workout based on time?",
+      "spanish": "¿Podemos cambiar el entrenamiento según el tiempo?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-05T07:32:43.019170"
+    },
+    {
+      "english": "How should I track my progress?",
+      "spanish": "¿Cómo mides tu progreso?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-05T07:32:43.019172"
+    },
+    {
+      "english": "What’s your warmup routine before basketball?",
+      "spanish": "¿Qué rutina haces antes de jugar básquetbol?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-05T07:32:43.019174"
+    },
+    {
+      "english": "Can you show me that technique again?",
+      "spanish": "¿Me enseñas esa técnica otra vez?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-05T07:32:43.019177"
+    },
+    {
+      "english": "Should I keep moving between exercises?",
+      "spanish": "¿Debo seguir moviéndome entre ejercicios?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-05T07:32:43.019179"
+    },
+    {
+      "english": "What’s your recovery plan after a hard day?",
+      "spanish": "¿Qué haces para recuperarte después de un día duro?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-05T07:32:43.019181"
+    },
+    {
+      "english": "How do I avoid injuries when I run?",
+      "spanish": "¿Cómo evito lesiones al correr?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-05T07:32:43.019183"
+    },
+    {
+      "english": "Can you tell me your favorite mobility move?",
+      "spanish": "¿Cuál es tu movimiento de movilidad favorito?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-05T07:32:43.019185"
+    },
+    {
+      "english": "What should I focus on, power or control?",
+      "spanish": "¿En qué me enfoco, fuerza o control?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-05T07:32:43.019187"
+    },
+    {
+      "english": "No pain, no gain, vamos en serio.",
+      "spanish": "Sin dolor no hay ganancia, vamos en serio.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-05T07:32:43.019190"
+    },
+    {
+      "english": "Hoy toca sudar, sin excusas.",
+      "spanish": "Hoy toca sudar, sin excusas.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-05T07:32:43.019192"
+    },
+    {
+      "english": "Aguanta, que ya viene el ritmo.",
+      "spanish": "Aguanta, que ya viene el ritmo.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-05T07:32:43.019194"
+    },
+    {
+      "english": "Sin miedo, corre a tu paso.",
+      "spanish": "Sin miedo, corre a tu paso.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-05T07:32:43.019197"
+    },
+    {
+      "english": "Respira, y que fluya el movimiento.",
+      "spanish": "Respira, y que fluya el movimiento.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-05T07:32:43.019199"
+    },
+    {
+      "english": "Mejor poco y constante, que nada.",
+      "spanish": "Mejor poco y constante, que nada.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-05T07:32:43.019201"
+    },
+    {
+      "english": "Si te caes, te levantas y sigues.",
+      "spanish": "Si te caes, te levantas y sigues.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-05T07:32:43.019204"
+    },
+    {
+      "english": "Dar el todo, luego ya veremos.",
+      "spanish": "Dar el todo, luego ya veremos.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-05T07:32:43.019206"
+    },
+    {
+      "english": "Hoy vas a romperla, lo sientes.",
+      "spanish": "Hoy la vas a romper, lo sientes.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-05T07:32:43.019208"
+    },
+    {
+      "english": "Entrenas con ganas, se nota al final.",
+      "spanish": "Entrenas con ganas, se nota al final.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-05T07:32:43.019211"
+    },
+    {
+      "english": "Vamos paso a paso, sin prisa.",
+      "spanish": "Vamos paso a paso, sin prisa.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-05T07:32:43.019213"
+    },
+    {
+      "english": "Del dicho al hecho, prueba hoy.",
+      "spanish": "Del dicho al hecho, pruébalo hoy.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-05T07:32:43.019215"
+    },
+    {
+      "english": "Cuando aprieta, tú no aflojes.",
+      "spanish": "Cuando aprieta, tú no aflojes.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-05T07:32:43.019218"
+    },
+    {
+      "english": "Es a la fija, hazlo con calma.",
+      "spanish": "Es a la fija, hazlo con calma.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-05T07:32:43.019220"
+    },
+    {
+      "english": "Sin calentamiento, mejor no te metas.",
+      "spanish": "Sin calentamiento, mejor no te metas.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-05T07:32:43.019223"
+    },
+    {
+      "english": "Esa técnica, te va quedando de lujo.",
+      "spanish": "Esa técnica, te va quedando de lujo.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-05T07:32:43.019226"
+    },
+    {
+      "english": "Hazlo bien, y el cuerpo responde.",
+      "spanish": "Hazlo bien, y el cuerpo responde.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-05T07:32:43.019229"
+    },
+    {
+      "english": "No te duermas, toca moverte ya.",
+      "spanish": "No te duermas, toca moverte ya.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-05T07:32:43.019232"
+    },
+    {
+      "english": "Quien persevera, llega lejos en forma.",
+      "spanish": "Quien persevera, llega lejos en forma.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-05T07:32:43.019234"
+    },
+    {
+      "english": "Agarra confianza, y todo va mejorando.",
+      "spanish": "Agarrá confianza, y todo va mejorando.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-05T07:32:43.019238"
+    },
+    {
+      "english": "Hoy se gana sudando, no pensando.",
+      "spanish": "Hoy se gana sudando, no pensando.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-05T07:32:43.019240"
+    },
+    {
+      "english": "Eres constante, por eso avanzas.",
+      "spanish": "Eres constante, por eso avanzas.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-05T07:32:43.019242"
+    },
+    {
+      "english": "No hay atajos, pero sí trabajo.",
+      "spanish": "No hay atajos, pero sí trabajo.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-05T07:32:43.019245"
+    },
+    {
+      "english": "Que se note, hoy sales bien fuerte.",
+      "spanish": "Que se note, hoy sales bien fuerte.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-05T07:32:43.019248"
+    },
+    {
+      "english": "Vas con todo, sin perder la calma.",
+      "spanish": "Vas con todo, sin perder la calma.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-05T07:32:43.019250"
+    },
+    {
+      "english": "Cuando toca, cumples, y ya.",
+      "spanish": "Cuando toca, cumples, y ya.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-05T07:32:43.019253"
+    },
+    {
+      "english": "Entrena ligero, pero con intención.",
+      "spanish": "Entrena ligero, pero con intención.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-05T07:32:43.019255"
+    },
+    {
+      "english": "Te estás ganando el descanso, bien hecho.",
+      "spanish": "Te estás ganando el descanso, bien hecho.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-05T07:32:43.019266"
+    },
+    {
+      "english": "Hoy, a darlo todo, sin parar.",
+      "spanish": "Hoy, a darlo todo, sin parar.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-05T07:32:43.019268"
+    },
+    {
+      "english": "Listo, ya está, respira y sonríe.",
+      "spanish": "Listo, ya está, respira y sonríe.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-05T07:32:43.019271"
+    },
+    {
+      "english": "Check in with your body, no rush.",
+      "spanish": "Haz una pausa y escucha a tu cuerpo, sin prisa.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-05T07:32:43.019274"
+    },
+    {
+      "english": "I’m proud of showing up, even tired.",
+      "spanish": "Me enorgullece presentarme, aunque esté cansado.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-05T07:32:43.019276"
+    },
+    {
+      "english": "Be honest, you’re allowed to start small.",
+      "spanish": "Sé honesto, puedes empezar poquito a poco.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-05T07:32:43.019279"
+    },
+    {
+      "english": "Today I learn, not just push.",
+      "spanish": "Hoy aprendo, no solo empujo.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-05T07:32:43.019281"
+    },
+    {
+      "english": "Slow down, feelings need time too.",
+      "spanish": "Baja el ritmo, tus emociones también necesitan tiempo.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-05T07:32:43.019283"
+    },
+    {
+      "english": "When I feel doubt, I breathe and continue.",
+      "spanish": "Cuando dudo, respiro y sigo.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-05T07:32:43.019285"
+    },
+    {
+      "english": "Trust the process, one rep at a time.",
+      "spanish": "Confía en el proceso, una repetición por vez.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-05T07:32:43.019289"
+    },
+    {
+      "english": "I don’t chase perfection, I chase consistency.",
+      "spanish": "No persigo la perfección, persigo constancia.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-05T07:32:43.019292"
+    },
+    {
+      "english": "It’s okay to rest, progress is real.",
+      "spanish": "Está bien descansar, el progreso cuenta.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-05T07:32:43.019295"
+    },
+    {
+      "english": "Let your form lead, not your ego.",
+      "spanish": "Que tu técnica mande, no tu ego.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-05T07:32:43.019297"
+    },
+    {
+      "english": "I’m listening, fatigue tells me something.",
+      "spanish": "Estoy escuchando, la fatiga me habla.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-05T07:32:43.019300"
+    },
+    {
+      "english": "Some days are heavy, be kind to yourself.",
+      "spanish": "Hay días pesados, sé amable contigo.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-05T07:32:43.019304"
+    },
+    {
+      "english": "Keep your mindset steady, even when it burns.",
+      "spanish": "Mantén la mente firme, aunque arda el entrenamiento.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-05T07:32:43.019306"
+    },
+    {
+      "english": "I start again, no shame, just effort.",
+      "spanish": "Empiezo otra vez, sin vergüenza, con esfuerzo.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-05T07:32:43.019308"
+    },
+    {
+      "english": "Make room for patience, results follow.",
+      "spanish": "Haz espacio para la paciencia, los resultados llegan.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-05T07:32:43.019311"
+    },
+    {
+      "english": "I’m learning my limits, slowly and honestly.",
+      "spanish": "Estoy aprendiendo mis límites, despacio y con verdad.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-05T07:32:43.019313"
+    },
+    {
+      "english": "When you fall behind, reset your plan.",
+      "spanish": "Si te atrasas, reajusta tu plan.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-05T07:32:43.019315"
+    },
+    {
+      "english": "Recovery is training too, don’t ignore it.",
+      "spanish": "La recuperación también es entrenamiento, no lo ignores.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-05T07:32:43.019318"
+    },
+    {
+      "english": "Stay present, feel the movement, let go.",
+      "spanish": "Quédate en el momento, siente el movimiento, suelta.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-05T07:32:43.019320"
+    },
+    {
+      "english": "Celebrate small wins, they build real strength.",
+      "spanish": "Celebra las victorias pequeñas, construyen fuerza real.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-05T07:32:43.019322"
+    },
+    {
+      "english": "If it hurts, respect the signal and adjust.",
+      "spanish": "Si duele, respeta la señal y ajusta.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-05T07:32:43.019324"
+    },
+    {
+      "english": "Be steady, motivation comes after action.",
+      "spanish": "Sé constante, la motivación llega después.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-05T07:32:43.019326"
+    },
+    {
+      "english": "I don’t compare, I compete with yesterday.",
+      "spanish": "No me comparo, compito contra ayer.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-05T07:32:43.019329"
+    },
+    {
+      "english": "Keep your goals clear, then move quietly.",
+      "spanish": "Ten metas claras, y muévete en silencio.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-05T07:32:43.019331"
+    },
+    {
+      "english": "Sometimes the best workout is mental.",
+      "spanish": "A veces el mejor entrenamiento es mental.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-05T07:32:43.019333"
+    },
+    {
+      "english": "I’m proud of effort, even if results wait.",
+      "spanish": "Me siento orgulloso del esfuerzo, aunque esperen resultados.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-05T07:32:43.019338"
+    },
+    {
+      "english": "Let your breathing calm you, then train.",
+      "spanish": "Deja que tu respiración te calme, y entrena.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-05T07:32:43.019340"
+    },
+    {
+      "english": "It’s okay to be nervous, focus anyway.",
+      "spanish": "Está bien ponerse nervioso, igual concéntrate.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-05T07:32:43.019342"
+    },
+    {
+      "english": "Warm up first, save your knees later.",
+      "spanish": "Calienta primero, cuida tus rodillas después.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-05T07:32:43.019344"
+    },
+    {
+      "english": "Hydrate now, don’t wait for thirst.",
+      "spanish": "Toma agua ya, no esperes a tener sed.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-05T07:32:43.019347"
     }
   ],
-  "last_updated": "2026-11-04T07:05:52.661775"
+  "last_updated": "2026-11-05T07:32:43.019349"
 }
