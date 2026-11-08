@@ -16919,7 +16919,727 @@
       "spanish": "En la caja, mantén la calma, habla despacio",
       "category": "Inspiration",
       "generated_at": "2026-11-07T06:43:39.680933"
+    },
+    {
+      "english": "Is it raining again, right now?",
+      "spanish": "¿Está lloviendo otra vez, ahora mismo?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-08T06:50:03.353689"
+    },
+    {
+      "english": "Wow, the weather feels so different today.",
+      "spanish": "Guau, el clima se siente tan distinto hoy.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-08T06:50:03.353702"
+    },
+    {
+      "english": "It’s a bit chilly, are you cold?",
+      "spanish": "Hace un poco de frío, ¿tú tienes frío?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-08T06:50:03.353707"
+    },
+    {
+      "english": "Honestly, the sky looks amazing today.",
+      "spanish": "En serio, el cielo se ve increíble hoy.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-08T06:50:03.353710"
+    },
+    {
+      "english": "This wind is wild, isn’t it?",
+      "spanish": "Este viento está loco, ¿no?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-08T06:50:03.353715"
+    },
+    {
+      "english": "I think it’s about to storm.",
+      "spanish": "Creo que va a llover pronto.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-08T06:50:03.353719"
+    },
+    {
+      "english": "Sun’s out, finally, right?",
+      "spanish": "Salió el sol, por fin, ¿verdad?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-08T06:50:03.353722"
+    },
+    {
+      "english": "It’s pretty hot today, don’t you think?",
+      "spanish": "Hace bastante calor hoy, ¿no crees?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-08T06:50:03.353728"
+    },
+    {
+      "english": "Let’s see, is it humid here?",
+      "spanish": "A ver, ¿aquí es húmedo?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-08T06:50:03.353732"
+    },
+    {
+      "english": "Clouds again… I’m craving sunshine.",
+      "spanish": "Nubes otra vez… necesito sol.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-08T06:50:03.353736"
+    },
+    {
+      "english": "Do you feel that breeze, right now?",
+      "spanish": "¿Sientes esa brisa, ahora?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-08T06:50:03.353739"
+    },
+    {
+      "english": "Morning’s nice, I’m not complaining.",
+      "spanish": "La mañana está linda, no me quejo.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-08T06:50:03.353742"
+    },
+    {
+      "english": "Looks like rain later, probably.",
+      "spanish": "Parece que lloverá más tarde.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-08T06:50:03.353745"
+    },
+    {
+      "english": "I love this weather, it suits you.",
+      "spanish": "Me encanta este clima, te queda perfecto.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-08T06:50:03.353747"
+    },
+    {
+      "english": "Did the temperature drop suddenly?",
+      "spanish": "¿Bajó la temperatura de golpe?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-08T06:50:03.353750"
+    },
+    {
+      "english": "It’s sunny but the air feels cool.",
+      "spanish": "Hace sol, pero el aire se siente fresco.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-08T06:50:03.353753"
+    },
+    {
+      "english": "We should grab a jacket, just in case.",
+      "spanish": "Deberíamos llevar una chaqueta, por si acaso.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-08T06:50:03.353755"
+    },
+    {
+      "english": "Is it getting darker, or am I?",
+      "spanish": "¿Está oscureciendo, o soy yo?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-08T06:50:03.353758"
+    },
+    {
+      "english": "I can’t tell if it’ll snow.",
+      "spanish": "No sé si va a nevar.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-08T06:50:03.353761"
+    },
+    {
+      "english": "That fog is intense, can you see?",
+      "spanish": "Esa niebla está fuerte, ¿ves bien?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-08T06:50:03.353764"
+    },
+    {
+      "english": "This weather is giving me good vibes.",
+      "spanish": "Este clima me da buenas vibras.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-08T06:50:03.353766"
+    },
+    {
+      "english": "It’s raining lightly, not a big deal.",
+      "spanish": "Está lloviendo suave, no pasa nada.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-08T06:50:03.353769"
+    },
+    {
+      "english": "What’s the forecast like today?",
+      "spanish": "¿Cómo está el pronóstico hoy?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-08T06:50:03.353772"
+    },
+    {
+      "english": "Looks windy outside, let’s be careful.",
+      "spanish": "Parece que hace viento afuera, cuidado.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-08T06:50:03.353775"
+    },
+    {
+      "english": "Do you think it’ll clear up soon?",
+      "spanish": "¿Crees que va a despejarse pronto?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-08T06:50:03.353778"
+    },
+    {
+      "english": "Okay, this heat is kind of intense.",
+      "spanish": "Vale, este calor está fuerte.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-08T06:50:03.353781"
+    },
+    {
+      "english": "I’m heading out, it feels perfect.",
+      "spanish": "Salgo ya, se siente perfecto.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-08T06:50:03.353784"
+    },
+    {
+      "english": "Let me check the weather real quick.",
+      "spanish": "Déjame ver el clima, rápido.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-08T06:50:03.353788"
+    },
+    {
+      "english": "So, how’s your day, and the weather?",
+      "spanish": "Entonces, ¿cómo va tu día, y el clima?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-08T06:50:03.353792"
+    },
+    {
+      "english": "What’s the temperature like today, roughly?",
+      "spanish": "¿Qué temperatura hay hoy, más o menos?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-08T06:50:03.353795"
+    },
+    {
+      "english": "Is it going to rain later today?",
+      "spanish": "¿Va a llover más tarde hoy?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-08T06:50:03.353798"
+    },
+    {
+      "english": "Do you know if it’s windy out?",
+      "spanish": "¿Sabes si está ventoso afuera?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-08T06:50:03.353801"
+    },
+    {
+      "english": "How’s the humidity, is it sticky?",
+      "spanish": "¿Qué tal la humedad, está pegajoso?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-08T06:50:03.353804"
+    },
+    {
+      "english": "Should I bring an umbrella, just in case?",
+      "spanish": "¿Crees que llevo un paraguas, por si acaso?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-08T06:50:03.353807"
+    },
+    {
+      "english": "Is the air getting warmer today, finally?",
+      "spanish": "¿El aire está calentándose hoy, por fin?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-08T06:50:03.353812"
+    },
+    {
+      "english": "What do you think, should we wear layers?",
+      "spanish": "¿Tú qué opinas, usamos capas?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-08T06:50:03.353814"
+    },
+    {
+      "english": "Do you check the forecast, or just guess?",
+      "spanish": "¿Revisas el pronóstico, o vas a ojo?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-08T06:50:03.353817"
+    },
+    {
+      "english": "Should we plan for rain, just in case?",
+      "spanish": "¿Planeamos por si acaso, por si llueve?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-08T06:50:03.353820"
+    },
+    {
+      "english": "What time does the rain usually start?",
+      "spanish": "¿A qué hora suele empezar la lluvia?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-08T06:50:03.353822"
+    },
+    {
+      "english": "Is the sun strong today, or mild?",
+      "spanish": "¿El sol está fuerte hoy, o es suave?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-08T06:50:03.353826"
+    },
+    {
+      "english": "Do you think it’ll clear after lunch?",
+      "spanish": "¿Crees que se va a despejar después de comer?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-08T06:50:03.353829"
+    },
+    {
+      "english": "How’s the wind now, calmer than before?",
+      "spanish": "¿Cómo está el viento ahora, más tranquilo?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-08T06:50:03.353832"
+    },
+    {
+      "english": "Is it foggy where you are?",
+      "spanish": "¿Está haciendo niebla por tu zona?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-08T06:50:03.353835"
+    },
+    {
+      "english": "Does it feel colder indoors or outside?",
+      "spanish": "¿Se siente más frío adentro o afuera?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-08T06:50:03.353837"
+    },
+    {
+      "english": "What’s your go-to drink when it’s hot?",
+      "spanish": "¿Qué tomas cuando hace calor, normalmente?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-08T06:50:03.353840"
+    },
+    {
+      "english": "You’re dressed light, is it warm today?",
+      "spanish": "Vas con ropa ligera, ¿hace calor hoy?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-08T06:50:03.353843"
+    },
+    {
+      "english": "Do you mind if we check the radar?",
+      "spanish": "¿Te importa si miramos el radar?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-08T06:50:03.353846"
+    },
+    {
+      "english": "Any chance of snow this week?",
+      "spanish": "¿Hay alguna posibilidad de nieve esta semana?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-08T06:50:03.353848"
+    },
+    {
+      "english": "Is it raining right now where you live?",
+      "spanish": "¿Está lloviendo ahora por donde vives?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-08T06:50:03.353851"
+    },
+    {
+      "english": "What’s the best time to go out?",
+      "spanish": "¿Cuál es la mejor hora para salir?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-08T06:50:03.353853"
+    },
+    {
+      "english": "Do you feel the rain in the air?",
+      "spanish": "¿Sientes que va a llover pronto?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-08T06:50:03.353856"
+    },
+    {
+      "english": "Should I wear sneakers, or boots?",
+      "spanish": "¿Mejor zapatillas, o botas?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-08T06:50:03.353858"
+    },
+    {
+      "english": "Is the sky pretty clear right now?",
+      "spanish": "¿El cielo está despejado ahora mismo?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-08T06:50:03.353861"
+    },
+    {
+      "english": "How’s the weather for your neighborhood?",
+      "spanish": "¿Qué tal el clima por tu barrio?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-08T06:50:03.353864"
+    },
+    {
+      "english": "Do you think we’ll get sun later?",
+      "spanish": "¿Crees que saldrá el sol más tarde?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-08T06:50:03.353866"
+    },
+    {
+      "english": "Any storms expected, according to you?",
+      "spanish": "¿Ves tormentas para hoy, según tú?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-08T06:50:03.353869"
+    },
+    {
+      "english": "I’m not sure, what’s your take?",
+      "spanish": "No estoy seguro, ¿qué opinas tú?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-08T06:50:03.353872"
+    },
+    {
+      "english": "If it rains, do we cancel plans?",
+      "spanish": "Si llueve, ¿cancelamos los planes?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-08T06:50:03.353875"
+    },
+    {
+      "english": "Breathe, this weather can’t beat us.",
+      "spanish": "Respira, este clima no puede con nosotros.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-08T06:50:03.353878"
+    },
+    {
+      "english": "Keep your plans, just pack one extra layer.",
+      "spanish": "Mantén tus planes, solo trae una capa extra.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-08T06:50:03.353881"
+    },
+    {
+      "english": "It’s okay, cloudy days still move fast.",
+      "spanish": "No pasa nada, los días nublados pasan rápido.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-08T06:50:03.353884"
+    },
+    {
+      "english": "Nice jacket choice, you’ll stay comfortable today.",
+      "spanish": "Buena elección de chaqueta, hoy estarás cómodo.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-08T06:50:03.353888"
+    },
+    {
+      "english": "You’re handling it well, even with this heat.",
+      "spanish": "Lo estás llevando bien, aunque haga tanto calor.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-08T06:50:03.353891"
+    },
+    {
+      "english": "When it rains, we adapt, that’s it.",
+      "spanish": "Si llueve, nos adaptamos, ya está.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-08T06:50:03.353895"
+    },
+    {
+      "english": "Let’s enjoy the moment, whatever the sky does.",
+      "spanish": "Disfrutemos el momento, haga lo que haga el cielo.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-08T06:50:03.353898"
+    },
+    {
+      "english": "Good mood helps, even when the wind is wild.",
+      "spanish": "El buen ánimo ayuda, aunque el viento esté fuerte.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-08T06:50:03.353901"
+    },
+    {
+      "english": "You’ve got this, keep moving at your pace.",
+      "spanish": "Tú puedes, sigue avanzando a tu ritmo.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-08T06:50:03.353906"
+    },
+    {
+      "english": "Sun’s out, take it as a win.",
+      "spanish": "Sale el sol, tómalo como una victoria.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-08T06:50:03.353913"
+    },
+    {
+      "english": "This breeze feels refreshing, not annoying.",
+      "spanish": "Esta brisa se siente refrescante, no molesta.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-08T06:50:03.353916"
+    },
+    {
+      "english": "Stay positive, the cold will pass quickly.",
+      "spanish": "Mantén la mente positiva, el frío pasará rápido.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-08T06:50:03.353918"
+    },
+    {
+      "english": "Smart thinking, you brought a scarf.",
+      "spanish": "Buenísimo, trajiste una bufanda.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-08T06:50:03.353921"
+    },
+    {
+      "english": "If it’s windy, we just hold our plans tighter.",
+      "spanish": "Si hay viento, solo sostenemos mejor nuestros planes.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-08T06:50:03.353924"
+    },
+    {
+      "english": "No stress, rain means we’re not alone.",
+      "spanish": "Sin estrés, la lluvia nos acompaña.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-08T06:50:03.353927"
+    },
+    {
+      "english": "You’re doing great, keep that warm smile.",
+      "spanish": "Lo estás haciendo genial, mantén esa sonrisa cálida.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-08T06:50:03.353930"
+    },
+    {
+      "english": "It’ll be fine, just watch your step today.",
+      "spanish": "Va a estar bien, solo cuida tus pasos.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-08T06:50:03.353933"
+    },
+    {
+      "english": "Let’s make it a cozy day, indoors or out.",
+      "spanish": "Hagamos que sea un día acogedor, dentro o fuera.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-08T06:50:03.353937"
+    },
+    {
+      "english": "Nice call, the shade is a lifesaver.",
+      "spanish": "Buena decisión, la sombra salva.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-08T06:50:03.353939"
+    },
+    {
+      "english": "Even overcast skies can’t steal our energy.",
+      "spanish": "Aunque esté nublado, no nos quita la energía.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-08T06:50:03.353943"
+    },
+    {
+      "english": "You’ve planned well, that umbrella will help.",
+      "spanish": "Bien planeado, ese paraguas te va a ayudar.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-08T06:50:03.353946"
+    },
+    {
+      "english": "Keep going, the weather changes for everyone.",
+      "spanish": "Sigue, el clima cambia para todos.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-08T06:50:03.353948"
+    },
+    {
+      "english": "Let’s reframe it, this is just a season.",
+      "spanish": "Cambiemos la forma de verlo, es solo una estación.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-08T06:50:03.353951"
+    },
+    {
+      "english": "Great attitude, you’ll feel better soon.",
+      "spanish": "Qué buena actitud, pronto te vas a sentir mejor.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-08T06:50:03.353954"
+    },
+    {
+      "english": "If the sun pops out, we celebrate quietly.",
+      "spanish": "Si sale el sol, celebramos sin hacer escándalo.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-08T06:50:03.353957"
+    },
+    {
+      "english": "You’re not overthinking, just noticing details.",
+      "spanish": "No estás exagerando, solo estás notando detalles.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-08T06:50:03.353960"
+    },
+    {
+      "english": "Chill in the air, that’s your cue to slow down.",
+      "spanish": "Se siente el fresco, esa es tu señal.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-08T06:50:03.353963"
+    },
+    {
+      "english": "Today’s vibe is teamwork, let’s stay ready.",
+      "spanish": "La vibra de hoy es equipo, mantengámonos listos.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-08T06:50:03.353967"
+    },
+    {
+      "english": "Whatever happens, you’ll handle it like a pro.",
+      "spanish": "Pase lo que pase, lo manejarás como un pro.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-08T06:50:03.353972"
+    },
+    {
+      "english": "Let’s keep it simple, step out and enjoy.",
+      "spanish": "Simplifiquemos, salimos y disfrutamos.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-08T06:50:03.353975"
+    },
+    {
+      "english": "I feel calmer, the clouds look kind today.",
+      "spanish": "Me siento más tranquilo, las nubes se ven amables hoy.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-08T06:50:03.353978"
+    },
+    {
+      "english": "Honestly, this wind makes me overthink less.",
+      "spanish": "Honestamente, este viento me hace pensar menos.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-08T06:50:03.353980"
+    },
+    {
+      "english": "The forecast scares me a little, but I’m coping.",
+      "spanish": "El pronóstico me asusta un poco, pero lo llevo.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-08T06:50:03.353984"
+    },
+    {
+      "english": "When it’s gray, I slow down and breathe.",
+      "spanish": "Cuando está gris, yo me freno y respiro.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-08T06:50:03.353987"
+    },
+    {
+      "english": "I don’t rush, the rain taught me patience.",
+      "spanish": "No me apuro, la lluvia me enseñó paciencia.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-08T06:50:03.353990"
+    },
+    {
+      "english": "This weather reminds me to keep things simple.",
+      "spanish": "Este clima me recuerda mantenerlo simple.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-08T06:50:03.353993"
+    },
+    {
+      "english": "I like quiet days, even if they’re cold.",
+      "spanish": "Me gustan los días tranquilos, aunque haga frío.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-08T06:50:03.353996"
+    },
+    {
+      "english": "Right now, I’m just grateful for steady skies.",
+      "spanish": "Ahora mismo, solo agradezco un cielo estable.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-08T06:50:03.353999"
+    },
+    {
+      "english": "I’m trying, even with this chilly air.",
+      "spanish": "Estoy intentando, aunque este aire esté frío.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-08T06:50:03.354002"
+    },
+    {
+      "english": "It’s a reminder, we can’t control everything.",
+      "spanish": "Es un recordatorio, no controlamos todo.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-08T06:50:03.354006"
+    },
+    {
+      "english": "I feel hopeful, the morning light changes everything.",
+      "spanish": "Me siento con esperanza, la luz de la mañana cambia todo.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-08T06:50:03.354010"
+    },
+    {
+      "english": "The sun feels like permission to relax.",
+      "spanish": "El sol se siente como permiso para descansar.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-08T06:50:03.354013"
+    },
+    {
+      "english": "I’m not chasing perfect weather today.",
+      "spanish": "No busco un clima perfecto hoy.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-08T06:50:03.354016"
+    },
+    {
+      "english": "This mist makes me think of slow mornings.",
+      "spanish": "Esta bruma me hace pensar en mañanas lentas.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-08T06:50:03.354018"
+    },
+    {
+      "english": "I notice small things, like how the air feels.",
+      "spanish": "Me fijo en detalles, como cómo se siente el aire.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-08T06:50:03.354026"
+    },
+    {
+      "english": "If it rains again, I’ll take it easy.",
+      "spanish": "Si vuelve a llover, me lo tomo con calma.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-08T06:50:03.354030"
+    },
+    {
+      "english": "Honestly, I miss sunshine, but I adapt.",
+      "spanish": "La verdad, extraño el sol, pero me adapto.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-08T06:50:03.354032"
+    },
+    {
+      "english": "This heat is intense, but I stay steady.",
+      "spanish": "Este calor es fuerte, pero me mantengo firme.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-08T06:50:03.354035"
+    },
+    {
+      "english": "I’m learning to wait, not fight the weather.",
+      "spanish": "Estoy aprendiendo a esperar, no a pelear con el clima.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-08T06:50:03.354038"
+    },
+    {
+      "english": "The drizzle feels gentle, like a soft reset.",
+      "spanish": "La llovizna se siente suave, como un reinicio tranquilo.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-08T06:50:03.354041"
+    },
+    {
+      "english": "I’m trying to be patient with sudden changes.",
+      "spanish": "Estoy intentando tener paciencia con cambios rápidos.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-08T06:50:03.354044"
+    },
+    {
+      "english": "The wind makes me feel alive, in a way.",
+      "spanish": "El viento me hace sentir vivo, de alguna forma.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-08T06:50:03.354046"
+    },
+    {
+      "english": "I keep my plans flexible, that lowers stress.",
+      "spanish": "Mantengo mis planes flexibles, eso baja el estrés.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-08T06:50:03.354049"
+    },
+    {
+      "english": "Right now, I just want comfort and quiet.",
+      "spanish": "Ahora solo quiero comodidad y calma.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-08T06:50:03.354052"
+    },
+    {
+      "english": "Even with gray skies, I choose joy first.",
+      "spanish": "Con cielo gris, elijo la alegría primero.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-08T06:50:03.354054"
+    },
+    {
+      "english": "This weather asks me to slow my thoughts.",
+      "spanish": "Este clima me pide frenar mis pensamientos.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-08T06:50:03.354057"
+    },
+    {
+      "english": "I’m grateful for small breaks in the clouds.",
+      "spanish": "Agradezco los pequeños momentos entre nubes.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-08T06:50:03.354060"
+    },
+    {
+      "english": "I’m learning to trust the day, bit by bit.",
+      "spanish": "Estoy aprendiendo a confiar en el día, poco a poco.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-08T06:50:03.354063"
+    },
+    {
+      "english": "It’s okay if plans shift, we’ll figure it.",
+      "spanish": "Está bien si cambian los planes, lo resolvemos.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-08T06:50:03.354066"
+    },
+    {
+      "english": "I’ll go out, but I’ll respect the cold.",
+      "spanish": "Saldré, pero respetaré el frío.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-08T06:50:03.354069"
+    },
+    {
+      "english": "Quick question, is it raining in your area?",
+      "spanish": "Pregunta rápida, ¿está lloviendo en tu zona?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-08T06:50:03.354074"
+    },
+    {
+      "english": "I’ll check the radar, then I’ll decide.",
+      "spanish": "Voy a mirar el radar, y luego decido.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-08T06:50:03.354077"
     }
   ],
-  "last_updated": "2026-11-07T06:43:39.680935"
+  "last_updated": "2026-11-08T06:50:03.354079"
 }
