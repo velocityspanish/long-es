@@ -18359,7 +18359,727 @@
       "spanish": "Voy a sacar tiempo, incluso con días ocupados.",
       "category": "Love",
       "generated_at": "2026-11-09T07:25:28.749256"
+    },
+    {
+      "english": "Hi, I have a reservation, please",
+      "spanish": "Hola, tengo una reserva, por favor",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T07:56:24.287394"
+    },
+    {
+      "english": "Is early check-in possible, by chance?",
+      "spanish": "¿Se puede hacer el check-in temprano, por casualidad?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T07:56:24.287412"
+    },
+    {
+      "english": "My room key isn’t working, excuse me",
+      "spanish": "La llave de mi habitación no funciona, perdón",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T07:56:24.287417"
+    },
+    {
+      "english": "Where is the elevator, please?",
+      "spanish": "¿Dónde está el ascensor, por favor?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T07:56:24.287420"
+    },
+    {
+      "english": "How do I reach the breakfast room?",
+      "spanish": "¿Cómo llego al comedor del desayuno?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T07:56:24.287423"
+    },
+    {
+      "english": "What’s the password, please?",
+      "spanish": "¿Cuál es la contraseña, por favor?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T07:56:24.287428"
+    },
+    {
+      "english": "Can I leave my luggage here?",
+      "spanish": "¿Puedo dejar mi equipaje aquí?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T07:56:24.287431"
+    },
+    {
+      "english": "I need an extra towel, please",
+      "spanish": "Necesito una toalla extra, por favor",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T07:56:24.287438"
+    },
+    {
+      "english": "The air conditioner is too loud",
+      "spanish": "El aire acondicionado hace mucho ruido",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T07:56:24.287441"
+    },
+    {
+      "english": "Sorry, I forgot my room number",
+      "spanish": "Perdón, olvidé el número de la habitación",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T07:56:24.287444"
+    },
+    {
+      "english": "Is there a late checkout option?",
+      "spanish": "¿Hay opción de salida tarde?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T07:56:24.287447"
+    },
+    {
+      "english": "No problem, I’ll wait here",
+      "spanish": "No pasa nada, esperaré aquí",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T07:56:24.287450"
+    },
+    {
+      "english": "What time does breakfast start?",
+      "spanish": "¿A qué hora empieza el desayuno?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T07:56:24.287453"
+    },
+    {
+      "english": "Thanks, I’m all set now",
+      "spanish": "Gracias, ya estoy listo",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T07:56:24.287456"
+    },
+    {
+      "english": "Where’s the vending machine?",
+      "spanish": "¿Dónde está la máquina expendedora?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T07:56:24.287459"
+    },
+    {
+      "english": "I’d like to request room service",
+      "spanish": "Quisiera pedir servicio a la habitación",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T07:56:24.287462"
+    },
+    {
+      "english": "Is there parking available, nearby?",
+      "spanish": "¿Hay estacionamiento cerca?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T07:56:24.287464"
+    },
+    {
+      "english": "My key won’t open the door",
+      "spanish": "La llave no abre la puerta",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T07:56:24.287467"
+    },
+    {
+      "english": "Can I get extra coffee, please?",
+      "spanish": "¿Me puede dar más café, por favor?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T07:56:24.287470"
+    },
+    {
+      "english": "We’re ready, just bring the bill",
+      "spanish": "Estamos listos, traiga la cuenta",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T07:56:24.287473"
+    },
+    {
+      "english": "I think there’s a mistake, right?",
+      "spanish": "Creo que hay un error, ¿verdad?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T07:56:24.287476"
+    },
+    {
+      "english": "Please, keep it quiet tonight",
+      "spanish": "Por favor, mantengan silencio hoy",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T07:56:24.287478"
+    },
+    {
+      "english": "The Wi‑Fi keeps dropping, sorry",
+      "spanish": "El Wi‑Fi se corta mucho, perdón",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T07:56:24.287481"
+    },
+    {
+      "english": "Is this room smoke-free, please?",
+      "spanish": "¿Esta habitación es libre de humo?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T07:56:24.287502"
+    },
+    {
+      "english": "Great, can we get towels now?",
+      "spanish": "Genial, ¿me trae toallas ahora?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T07:56:24.287506"
+    },
+    {
+      "english": "What’s included in the price?",
+      "spanish": "¿Qué incluye el precio?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T07:56:24.287510"
+    },
+    {
+      "english": "One more night, is it possible?",
+      "spanish": "Una noche más, ¿es posible?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T07:56:24.287514"
+    },
+    {
+      "english": "Could you recommend a nearby late-night spot?",
+      "spanish": "¿Me recomiendas un lugar cerca para salir tarde?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T07:56:24.287519"
+    },
+    {
+      "english": "Do you have a quiet room option?",
+      "spanish": "¿Tienen alguna habitación más tranquila?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T07:56:24.287526"
+    },
+    {
+      "english": "What’s the check-in process, step by step?",
+      "spanish": "¿Cómo es el proceso de check-in, paso a paso?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T07:56:24.287530"
+    },
+    {
+      "english": "Is breakfast included in my rate?",
+      "spanish": "¿El desayuno está incluido en mi tarifa?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T07:56:24.287532"
+    },
+    {
+      "english": "Can I pay with card, no cash?",
+      "spanish": "¿Puedo pagar con tarjeta, sin efectivo?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T07:56:24.287535"
+    },
+    {
+      "english": "Do you offer airport shuttle service?",
+      "spanish": "¿Ofrecen servicio de traslado al aeropuerto?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T07:56:24.287537"
+    },
+    {
+      "english": "Which floor is best for families?",
+      "spanish": "¿Qué piso recomiendan para familias?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T07:56:24.287540"
+    },
+    {
+      "english": "Is there a doctor nearby, just in case?",
+      "spanish": "¿Hay un médico cerca, por si acaso?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T07:56:24.287542"
+    },
+    {
+      "english": "Where can I buy snacks at night?",
+      "spanish": "¿Dónde puedo comprar snacks por la noche?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T07:56:24.287545"
+    },
+    {
+      "english": "Can you tell me the Wi‑Fi name?",
+      "spanish": "¿Me dices cómo se llama la red Wi‑Fi?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T07:56:24.287548"
+    },
+    {
+      "english": "What’s the quiet hour policy here?",
+      "spanish": "¿Cuál es la política de horas de silencio?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T07:56:24.287551"
+    },
+    {
+      "english": "Do I need an ID for the elevator?",
+      "spanish": "¿Necesito identificación para el ascensor?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T07:56:24.287553"
+    },
+    {
+      "english": "Is there a place to work comfortably?",
+      "spanish": "¿Hay un rincón para trabajar con comodidad?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T07:56:24.287555"
+    },
+    {
+      "english": "Can I get a late wake-up call?",
+      "spanish": "¿Puedo pedir una llamada de despertador tarde?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T07:56:24.287558"
+    },
+    {
+      "english": "What time do they clean rooms?",
+      "spanish": "¿A qué hora limpian las habitaciones?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T07:56:24.287561"
+    },
+    {
+      "english": "Do you allow pets in rooms?",
+      "spanish": "¿Se permiten mascotas en las habitaciones?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T07:56:24.287563"
+    },
+    {
+      "english": "Where is the reception desk, exactly?",
+      "spanish": "¿La recepción está por aquí, verdad?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T07:56:24.287566"
+    },
+    {
+      "english": "Could I borrow an iron, please?",
+      "spanish": "¿Podría pedir prestado una plancha?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T07:56:24.287568"
+    },
+    {
+      "english": "Do you have a fridge in the room?",
+      "spanish": "¿La habitación tiene nevera?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T07:56:24.287571"
+    },
+    {
+      "english": "Is there a deposit for keys or cards?",
+      "spanish": "¿Hay depósito por las llaves o tarjetas?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T07:56:24.287573"
+    },
+    {
+      "english": "What’s the best route to the beach?",
+      "spanish": "¿Cuál es la mejor ruta para la playa?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T07:56:24.287576"
+    },
+    {
+      "english": "Can I store my bike safely here?",
+      "spanish": "¿Puedo guardar mi bicicleta aquí, con seguridad?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T07:56:24.287579"
+    },
+    {
+      "english": "How do I request a wake-up call?",
+      "spanish": "¿Cómo solicito una llamada de despertador?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T07:56:24.287583"
+    },
+    {
+      "english": "Can I switch rooms if needed?",
+      "spanish": "¿Puedo cambiar de habitación si hace falta?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T07:56:24.287585"
+    },
+    {
+      "english": "Is there a charge for extra guests?",
+      "spanish": "¿Hay cargo por huéspedes adicionales?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T07:56:24.287587"
+    },
+    {
+      "english": "Do you have a map of the area?",
+      "spanish": "¿Tienen un mapa de la zona?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T07:56:24.287590"
+    },
+    {
+      "english": "What’s your policy on smoking indoors?",
+      "spanish": "¿Cuál es su norma sobre fumar dentro?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T07:56:24.287593"
+    },
+    {
+      "english": "Can I get help with my luggage?",
+      "spanish": "¿Me pueden ayudar con el equipaje?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T07:56:24.287595"
+    },
+    {
+      "english": "Is there a shuttle to downtown?",
+      "spanish": "¿Hay transporte hasta el centro?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T07:56:24.287597"
+    },
+    {
+      "english": "Could I get an estimate for parking?",
+      "spanish": "¿Me da una estimación del precio del parking?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T07:56:24.287600"
+    },
+    {
+      "english": "You’ve got this, settle in, relax.",
+      "spanish": "Tú puedes, instalaos, relajaos.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T07:56:24.287604"
+    },
+    {
+      "english": "Small steps today, big comfort tomorrow.",
+      "spanish": "Pasos pequeños hoy, comodidad grande mañana.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T07:56:24.287608"
+    },
+    {
+      "english": "Breathe, you chose a great place to stay.",
+      "spanish": "Respira, elegiste un gran lugar para quedarte.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T07:56:24.287611"
+    },
+    {
+      "english": "Just ask calmly, they’ll help you.",
+      "spanish": "Pregunta con calma, te van a ayudar.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T07:56:24.287614"
+    },
+    {
+      "english": "You’re doing great, enjoy your room.",
+      "spanish": "Lo estás haciendo genial, disfruta tu habitación.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T07:56:24.287617"
+    },
+    {
+      "english": "It’s okay, tomorrow will feel easier.",
+      "spanish": "No pasa nada, mañana se va a sentir mejor.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T07:56:24.287622"
+    },
+    {
+      "english": "Take your time, everything will be fine.",
+      "spanish": "Tómate tu tiempo, todo va a salir bien.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T07:56:24.287625"
+    },
+    {
+      "english": "Relax now, you earned this break.",
+      "spanish": "Relájate ahora, te lo ganaste.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T07:56:24.287628"
+    },
+    {
+      "english": "Check in smoothly, ask what you need.",
+      "spanish": "Haz el check-in tranquilo, pide lo que necesites.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T07:56:24.287630"
+    },
+    {
+      "english": "Stay positive, the staff is on it.",
+      "spanish": "Mantén una actitud positiva, el personal te apoya.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T07:56:24.287633"
+    },
+    {
+      "english": "You’re learning fast, that’s awesome.",
+      "spanish": "Aprendes rápido, eso es genial.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T07:56:24.287636"
+    },
+    {
+      "english": "No worries, you’ll find your way.",
+      "spanish": "Sin problema, vas a encontrar tu camino.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T07:56:24.287639"
+    },
+    {
+      "english": "This place feels safe, trust it.",
+      "spanish": "Este lugar se siente seguro, confía.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T07:56:24.287642"
+    },
+    {
+      "english": "You ask, they answer, easy.",
+      "spanish": "Preguntas, responden, todo fácil.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T07:56:24.287645"
+    },
+    {
+      "english": "Your vacation starts now, enjoy fully.",
+      "spanish": "Tus vacaciones empiezan ahora, disfruta de verdad.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T07:56:24.287647"
+    },
+    {
+      "english": "Great job, keep it simple, right?",
+      "spanish": "Buen trabajo, mantenlo simple, ¿vale?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T07:56:24.287650"
+    },
+    {
+      "english": "If you’re unsure, ask kindly.",
+      "spanish": "Si no estás seguro, pregunta con amabilidad.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T07:56:24.287653"
+    },
+    {
+      "english": "Trust the process, your room’s ready.",
+      "spanish": "Confía en el proceso, tu habitación ya está lista.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T07:56:24.287657"
+    },
+    {
+      "english": "Smile, you’ll sound more confident.",
+      "spanish": "Sonríe, te vas a escuchar más seguro.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T07:56:24.287660"
+    },
+    {
+      "english": "You belong here, take a deep breath.",
+      "spanish": "Tú estás donde debes estar, respira hondo.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T07:56:24.287663"
+    },
+    {
+      "english": "It’ll work out, stay calm and polite.",
+      "spanish": "Saldrá bien, mantente calmado y educado.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T07:56:24.287666"
+    },
+    {
+      "english": "You’re making progress, keep going.",
+      "spanish": "Vas mejorando, sigue así.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T07:56:24.287669"
+    },
+    {
+      "english": "Perfect, you found the right place.",
+      "spanish": "Perfecto, encontraste el lugar correcto.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T07:56:24.287671"
+    },
+    {
+      "english": "Say it clearly, they’ll understand you.",
+      "spanish": "Di las cosas claro, te van a entender.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T07:56:24.287674"
+    },
+    {
+      "english": "You’re improving, even small tries count.",
+      "spanish": "Mejoras, cada intento cuenta.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T07:56:24.287679"
+    },
+    {
+      "english": "Give praise, you’ll get better service.",
+      "spanish": "Di algo bonito, tendrás mejor atención.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T07:56:24.287682"
+    },
+    {
+      "english": "Stay confident, your Spanish will grow.",
+      "spanish": "Mantén la confianza, tu español va a crecer.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T07:56:24.287685"
+    },
+    {
+      "english": "Today’s vibe, comfortable and stress-free.",
+      "spanish": "Hoy es relax, cero estrés, cero drama.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T07:56:24.287688"
+    },
+    {
+      "english": "You’re safe here, enjoy the moment.",
+      "spanish": "Aquí estás a salvo, disfruta el momento.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T07:56:24.287691"
+    },
+    {
+      "english": "Nice choice, rest well and recharge.",
+      "spanish": "Qué buena elección, descansa y recarga.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T07:56:24.287694"
+    },
+    {
+      "english": "I feel calmer, this room feels like home.",
+      "spanish": "Me siento más tranquilo, esta habitación parece hogar.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T07:56:24.287696"
+    },
+    {
+      "english": "Thanks for being patient with my questions.",
+      "spanish": "Gracias por ser paciente con mis preguntas.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T07:56:24.287700"
+    },
+    {
+      "english": "I’m trying to relax, the quiet helps a lot.",
+      "spanish": "Estoy intentando relajarme, el silencio ayuda mucho.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T07:56:24.287704"
+    },
+    {
+      "english": "I’m a bit nervous, could you reassure me?",
+      "spanish": "Estoy un poco nervioso, ¿me puedes tranquilizar?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T07:56:24.287707"
+    },
+    {
+      "english": "I appreciate the gentle reminders, they help me.",
+      "spanish": "Aprecio las indicaciones suaves, me ayudan.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T07:56:24.287710"
+    },
+    {
+      "english": "After a long day, I just want comfort.",
+      "spanish": "Después de un día largo, solo quiero comodidad.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T07:56:24.287713"
+    },
+    {
+      "english": "Honestly, I need a quiet corner tonight.",
+      "spanish": "Honestamente, necesito un rincón tranquilo esta noche.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T07:56:24.287715"
+    },
+    {
+      "english": "I’m grateful, even small details make me smile.",
+      "spanish": "Estoy agradecido, hasta los detalles pequeños me alegran.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T07:56:24.287719"
+    },
+    {
+      "english": "Please, take your time, I’m in no rush.",
+      "spanish": "Por favor, tómese su tiempo, no tengo prisa.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T07:56:24.287722"
+    },
+    {
+      "english": "I want to be honest, I’m still figuring things out.",
+      "spanish": "Quiero ser sincero, todavía estoy ubicándome.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T07:56:24.287726"
+    },
+    {
+      "english": "It helps me to know what to expect.",
+      "spanish": "Me ayuda saber qué esperar.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T07:56:24.287728"
+    },
+    {
+      "english": "I’m not here for drama, just a restful stay.",
+      "spanish": "No vine por drama, vine por descansar.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T07:56:24.287731"
+    },
+    {
+      "english": "I feel safe when everything is clear.",
+      "spanish": "Me siento seguro cuando todo está claro.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T07:56:24.287734"
+    },
+    {
+      "english": "If something’s confusing, I’d rather ask first.",
+      "spanish": "Si algo confunde, prefiero preguntar primero.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T07:56:24.287739"
+    },
+    {
+      "english": "I’m learning, please repeat slowly if needed.",
+      "spanish": "Estoy aprendiendo, repita despacio si hace falta.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T07:56:24.287742"
+    },
+    {
+      "english": "I’ll be honest, I’m homesick already.",
+      "spanish": "Seré sincero, ya extraño mi casa.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T07:56:24.287745"
+    },
+    {
+      "english": "This morning, I needed space, and it worked.",
+      "spanish": "Esta mañana, necesitaba espacio, y funcionó.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T07:56:24.287748"
+    },
+    {
+      "english": "I’m trying to stay positive, even on travel days.",
+      "spanish": "Intento mantenerme positivo, incluso en días de viaje.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T07:56:24.287752"
+    },
+    {
+      "english": "Your place feels welcoming, that means a lot.",
+      "spanish": "Tu sitio se siente acogedor, significa mucho.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T07:56:24.287754"
+    },
+    {
+      "english": "I just want everything to run smoothly.",
+      "spanish": "Solo quiero que todo salga bien.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T07:56:24.287757"
+    },
+    {
+      "english": "I’m grateful for the calm vibe here.",
+      "spanish": "Agradezco el ambiente tranquilo aquí.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T07:56:24.287760"
+    },
+    {
+      "english": "Can we talk about my preferences, kindly?",
+      "spanish": "Podemos hablar de mis preferencias, con cariño?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T07:56:24.287763"
+    },
+    {
+      "english": "I don’t need much, just a comfortable setup.",
+      "spanish": "No necesito mucho, solo algo cómodo.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T07:56:24.287766"
+    },
+    {
+      "english": "Please, help me make this stay easier.",
+      "spanish": "Por favor, ayúdeme a que esta estancia sea más fácil.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T07:56:24.287768"
+    },
+    {
+      "english": "I’m relieved, everything feels handled already.",
+      "spanish": "Me quedo tranquilo, ya siento todo bajo control.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T07:56:24.287771"
+    },
+    {
+      "english": "I want to respect the rules, truly.",
+      "spanish": "Quiero respetar las normas, de verdad.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T07:56:24.287774"
+    },
+    {
+      "english": "Tonight, I’m keeping it simple, just rest.",
+      "spanish": "Esta noche lo mantengo simple, solo descanso.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T07:56:24.287779"
+    },
+    {
+      "english": "I’m nervous about my Spanish, but I’ll try.",
+      "spanish": "Me da miedo mi español, pero voy a intentarlo.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T07:56:24.287782"
+    },
+    {
+      "english": "Thank you, your support makes a difference.",
+      "spanish": "Gracias, su apoyo hace una gran diferencia.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T07:56:24.287784"
+    },
+    {
+      "english": "I’m ready to breathe, this place feels right.",
+      "spanish": "Estoy listo para respirar, este lugar se siente bien.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T07:56:24.287787"
+    },
+    {
+      "english": "Do you have, a late check-in option?",
+      "spanish": "¿Tienen opción de, check-in tardío?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T07:56:24.287791"
+    },
+    {
+      "english": "Could I, switch to a quieter room?",
+      "spanish": "¿Podría, cambiar a una habitación más tranquila?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T07:56:24.287793"
+    },
+    {
+      "english": "Is breakfast included, or is it extra?",
+      "spanish": "¿El desayuno está incluido, o es un extra?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T07:56:24.287796"
     }
   ],
-  "last_updated": "2026-11-09T07:25:28.749257"
+  "last_updated": "2026-11-10T07:56:24.287798"
 }
