@@ -19079,7 +19079,727 @@
       "spanish": "¿El desayuno está incluido, o es un extra?",
       "category": "Hotel & Accommodation",
       "generated_at": "2026-11-10T07:56:24.287796"
+    },
+    {
+      "english": "Okay, you’ve got this, breathe and start.",
+      "spanish": "Vale, tú puedes, respira y empieza.",
+      "category": "Motivation",
+      "generated_at": "2026-11-11T07:22:37.432797"
+    },
+    {
+      "english": "Small steps today, big results later, keep going.",
+      "spanish": "Pasitos hoy, grandes resultados después, sigue.",
+      "category": "Motivation",
+      "generated_at": "2026-11-11T07:22:37.432813"
+    },
+    {
+      "english": "Don’t wait for motivation, make it happen.",
+      "spanish": "No esperes la motivación, haz que pase.",
+      "category": "Motivation",
+      "generated_at": "2026-11-11T07:22:37.432818"
+    },
+    {
+      "english": "Yes, I’m trying, one day at a time.",
+      "spanish": "Sí, estoy intentando, día a día.",
+      "category": "Motivation",
+      "generated_at": "2026-11-11T07:22:37.432822"
+    },
+    {
+      "english": "Reset your mind, focus now, no drama.",
+      "spanish": "Reinicia la mente, concéntrate ahora, sin drama.",
+      "category": "Motivation",
+      "generated_at": "2026-11-11T07:22:37.432825"
+    },
+    {
+      "english": "It’s fine, we learn, tomorrow gets better.",
+      "spanish": "Está bien, aprendemos, mañana va mejor.",
+      "category": "Motivation",
+      "generated_at": "2026-11-11T07:22:37.432829"
+    },
+    {
+      "english": "Tell yourself, I can, and move.",
+      "spanish": "Dite a ti mismo, puedo, y muévete.",
+      "category": "Motivation",
+      "generated_at": "2026-11-11T07:22:37.432832"
+    },
+    {
+      "english": "Courage on, let’s do the next thing.",
+      "spanish": "Con valor, vamos por lo siguiente.",
+      "category": "Motivation",
+      "generated_at": "2026-11-11T07:22:37.432837"
+    },
+    {
+      "english": "Wipe the doubt, focus on the work.",
+      "spanish": "Borra la duda, concéntrate en lo que haces.",
+      "category": "Motivation",
+      "generated_at": "2026-11-11T07:22:37.432841"
+    },
+    {
+      "english": "Really? Great, then try again, you got this.",
+      "spanish": "¿De verdad? Genial, inténtalo otra vez.",
+      "category": "Motivation",
+      "generated_at": "2026-11-11T07:22:37.432845"
+    },
+    {
+      "english": "Not perfect, just progress, keep showing up.",
+      "spanish": "No perfecto, solo progreso, sigue apareciendo.",
+      "category": "Motivation",
+      "generated_at": "2026-11-11T07:22:37.432848"
+    },
+    {
+      "english": "Okay, let’s go now, no excuses.",
+      "spanish": "Listo, vamos ya, cero excusas.",
+      "category": "Motivation",
+      "generated_at": "2026-11-11T07:22:37.432852"
+    },
+    {
+      "english": "Wake up, drink water, then start.",
+      "spanish": "Despierta, toma agua, y arranca.",
+      "category": "Motivation",
+      "generated_at": "2026-11-11T07:22:37.432855"
+    },
+    {
+      "english": "If it’s hard, good, that’s growth.",
+      "spanish": "Si es difícil, bien, es crecimiento.",
+      "category": "Motivation",
+      "generated_at": "2026-11-11T07:22:37.432858"
+    },
+    {
+      "english": "Don’t freeze, breathe, take one step.",
+      "spanish": "No te quedes, respira, da un paso.",
+      "category": "Motivation",
+      "generated_at": "2026-11-11T07:22:37.432862"
+    },
+    {
+      "english": "Today counts, move your body, feel better.",
+      "spanish": "Hoy cuenta, mueve el cuerpo, siéntete mejor.",
+      "category": "Motivation",
+      "generated_at": "2026-11-11T07:22:37.432865"
+    },
+    {
+      "english": "Nice, good job, keep that energy.",
+      "spanish": "Qué bien, buen trabajo, mantén esa energía.",
+      "category": "Motivation",
+      "generated_at": "2026-11-11T07:22:37.432868"
+    },
+    {
+      "english": "Seriously, you’re learning, don’t quit.",
+      "spanish": "En serio, estás aprendiendo, no te rindas.",
+      "category": "Motivation",
+      "generated_at": "2026-11-11T07:22:37.432874"
+    },
+    {
+      "english": "Losers? Nah, we adjust, and continue.",
+      "spanish": "¿Perder? No, ajustamos y seguimos.",
+      "category": "Motivation",
+      "generated_at": "2026-11-11T07:22:37.432877"
+    },
+    {
+      "english": "Stay calm, you can handle it, step by step.",
+      "spanish": "Tranquilo, tú puedes con eso, paso a paso.",
+      "category": "Motivation",
+      "generated_at": "2026-11-11T07:22:37.432882"
+    },
+    {
+      "english": "That’s it, start small, trust the process.",
+      "spanish": "Listo, empieza con poco, confía en el proceso.",
+      "category": "Motivation",
+      "generated_at": "2026-11-11T07:22:37.432885"
+    },
+    {
+      "english": "Come on, focus, you’re almost there.",
+      "spanish": "Vamos, concéntrate, ya casi llegas.",
+      "category": "Motivation",
+      "generated_at": "2026-11-11T07:22:37.432889"
+    },
+    {
+      "english": "You’ve tried before, so you can again.",
+      "spanish": "Ya lo intentaste, así que puedes otra vez.",
+      "category": "Motivation",
+      "generated_at": "2026-11-11T07:22:37.432892"
+    },
+    {
+      "english": "Keep it simple, one plan, one action.",
+      "spanish": "Mantenlo simple, un plan, una acción.",
+      "category": "Motivation",
+      "generated_at": "2026-11-11T07:22:37.432895"
+    },
+    {
+      "english": "No more “later”, do it now, start now.",
+      "spanish": "Nada de “más tarde”, hazlo ahora, empieza ya.",
+      "category": "Motivation",
+      "generated_at": "2026-11-11T07:22:37.432898"
+    },
+    {
+      "english": "Good vibes, little effort, big change.",
+      "spanish": "Buenas vibras, poco esfuerzo, gran cambio.",
+      "category": "Motivation",
+      "generated_at": "2026-11-11T07:22:37.432901"
+    },
+    {
+      "english": "Let’s fix it, try again, improve fast.",
+      "spanish": "Arreglémoslo, inténtalo de nuevo, mejora rápido.",
+      "category": "Motivation",
+      "generated_at": "2026-11-11T07:22:37.432904"
+    },
+    {
+      "english": "If you mess up, it’s okay, learn and go.",
+      "spanish": "Si la cagas, no pasa nada, aprende y sigue.",
+      "category": "Motivation",
+      "generated_at": "2026-11-11T07:22:37.432907"
+    },
+    {
+      "english": "Say it out loud, I believe, then act.",
+      "spanish": "Dilo en voz alta, yo creo, y actúa.",
+      "category": "Motivation",
+      "generated_at": "2026-11-11T07:22:37.432910"
+    },
+    {
+      "english": "What’s your first question today, in Spanish?",
+      "spanish": "¿Cuál es tu primera pregunta hoy, en español?",
+      "category": "Motivation",
+      "generated_at": "2026-11-11T07:22:37.432914"
+    },
+    {
+      "english": "Can you help me, how do I start?",
+      "spanish": "¿Me ayudas, cómo empiezo?",
+      "category": "Motivation",
+      "generated_at": "2026-11-11T07:22:37.432917"
+    },
+    {
+      "english": "Where do you practice most, after work?",
+      "spanish": "¿Dónde practicas más, después del trabajo?",
+      "category": "Motivation",
+      "generated_at": "2026-11-11T07:22:37.432920"
+    },
+    {
+      "english": "What should I ask, when I get stuck?",
+      "spanish": "¿Qué te conviene preguntar, si te atoras?",
+      "category": "Motivation",
+      "generated_at": "2026-11-11T07:22:37.432923"
+    },
+    {
+      "english": "Should I speak now, or study first?",
+      "spanish": "¿Hablo ahora, o estudio primero?",
+      "category": "Motivation",
+      "generated_at": "2026-11-11T07:22:37.432926"
+    },
+    {
+      "english": "Do you have advice, for staying consistent?",
+      "spanish": "¿Tienes algún consejo para ser constante?",
+      "category": "Motivation",
+      "generated_at": "2026-11-11T07:22:37.432928"
+    },
+    {
+      "english": "What’s your goal for this week, honestly?",
+      "spanish": "¿Cuál es tu meta esta semana, en serio?",
+      "category": "Motivation",
+      "generated_at": "2026-11-11T07:22:37.432932"
+    },
+    {
+      "english": "Is it better, to ask questions daily?",
+      "spanish": "¿Conviene más preguntar cada día?",
+      "category": "Motivation",
+      "generated_at": "2026-11-11T07:22:37.432934"
+    },
+    {
+      "english": "Can you repeat that, slower this time?",
+      "spanish": "¿Puedes repetirlo, más despacio?",
+      "category": "Motivation",
+      "generated_at": "2026-11-11T07:22:37.432937"
+    },
+    {
+      "english": "What do you do when you feel unmotivated?",
+      "spanish": "¿Qué haces cuando te falta motivación?",
+      "category": "Motivation",
+      "generated_at": "2026-11-11T07:22:37.432939"
+    },
+    {
+      "english": "How can I improve, without overthinking?",
+      "spanish": "¿Cómo mejoro, sin pensar tanto?",
+      "category": "Motivation",
+      "generated_at": "2026-11-11T07:22:37.432942"
+    },
+    {
+      "english": "Should I practice with videos, or chats?",
+      "spanish": "¿Practico con videos, o con charlas?",
+      "category": "Motivation",
+      "generated_at": "2026-11-11T07:22:37.432945"
+    },
+    {
+      "english": "What’s the best trick, for faster speaking?",
+      "spanish": "¿Cuál es el mejor truco para hablar rápido?",
+      "category": "Motivation",
+      "generated_at": "2026-11-11T07:22:37.432949"
+    },
+    {
+      "english": "Can I get feedback, after my practice?",
+      "spanish": "¿Me das feedback, después de practicar?",
+      "category": "Motivation",
+      "generated_at": "2026-11-11T07:22:37.432951"
+    },
+    {
+      "english": "Which question should I ask first, today?",
+      "spanish": "¿Qué pregunta hago primero, hoy?",
+      "category": "Motivation",
+      "generated_at": "2026-11-11T07:22:37.432954"
+    },
+    {
+      "english": "Do you study in mornings, or nights?",
+      "spanish": "¿Estudias en la mañana, o en la noche?",
+      "category": "Motivation",
+      "generated_at": "2026-11-11T07:22:37.432958"
+    },
+    {
+      "english": "How long do you practice, before quitting?",
+      "spanish": "¿Cuánto practicas antes de rendirte?",
+      "category": "Motivation",
+      "generated_at": "2026-11-11T07:22:37.432961"
+    },
+    {
+      "english": "What’s one tiny win, you can ask yourself?",
+      "spanish": "¿Qué pequeño logro te puedes preguntar?",
+      "category": "Motivation",
+      "generated_at": "2026-11-11T07:22:37.432964"
+    },
+    {
+      "english": "Can we do a quick dialogue, right now?",
+      "spanish": "¿Hacemos un mini diálogo, ahora mismo?",
+      "category": "Motivation",
+      "generated_at": "2026-11-11T07:22:37.432967"
+    },
+    {
+      "english": "What if I miss a day, then what?",
+      "spanish": "¿Y si pierdo un día, qué hago?",
+      "category": "Motivation",
+      "generated_at": "2026-11-11T07:22:37.432970"
+    },
+    {
+      "english": "Ask me, what’s your biggest Spanish worry?",
+      "spanish": "Dime, ¿cuál es tu mayor preocupación en español?",
+      "category": "Motivation",
+      "generated_at": "2026-11-11T07:22:37.432973"
+    },
+    {
+      "english": "Can I try again, with a simpler sentence?",
+      "spanish": "¿Puedo intentarlo otra vez, con una frase más simple?",
+      "category": "Motivation",
+      "generated_at": "2026-11-11T07:22:37.432976"
+    },
+    {
+      "english": "Should I set a timer, or just go?",
+      "spanish": "¿Pongo un temporizador, o sigo directo?",
+      "category": "Motivation",
+      "generated_at": "2026-11-11T07:22:37.432980"
+    },
+    {
+      "english": "How do you stay brave when you make mistakes?",
+      "spanish": "¿Cómo te mantienes valiente cuando fallas?",
+      "category": "Motivation",
+      "generated_at": "2026-11-11T07:22:37.432983"
+    },
+    {
+      "english": "What’s your next question, before the lesson ends?",
+      "spanish": "¿Cuál es tu próxima pregunta, antes de terminar?",
+      "category": "Motivation",
+      "generated_at": "2026-11-11T07:22:37.432987"
+    },
+    {
+      "english": "Can you ask me, so I answer out loud?",
+      "spanish": "¿Me preguntas, para que yo responda en voz alta?",
+      "category": "Motivation",
+      "generated_at": "2026-11-11T07:22:37.432990"
+    },
+    {
+      "english": "Do you want tips, for memorizing verbs faster?",
+      "spanish": "¿Quieres tips para memorizar verbos más rápido?",
+      "category": "Motivation",
+      "generated_at": "2026-11-11T07:22:37.432992"
+    },
+    {
+      "english": "What’s your plan, if motivation drops today?",
+      "spanish": "¿Qué haces si baja tu motivación hoy?",
+      "category": "Motivation",
+      "generated_at": "2026-11-11T07:22:37.432996"
+    },
+    {
+      "english": "Can we talk, and fix one thing at once?",
+      "spanish": "¿Podemos hablar, y corregir una sola cosa?",
+      "category": "Motivation",
+      "generated_at": "2026-11-11T07:22:37.433000"
+    },
+    {
+      "english": "Small progress counts, celebrate it right now",
+      "spanish": "El progreso pequeño cuenta, celébralo ya",
+      "category": "Motivation",
+      "generated_at": "2026-11-11T07:22:37.433003"
+    },
+    {
+      "english": "Confidence grows, when you show up daily",
+      "spanish": "La confianza crece, cuando vienes cada día",
+      "category": "Motivation",
+      "generated_at": "2026-11-11T07:22:37.433006"
+    },
+    {
+      "english": "Your effort matters, even when it feels messy",
+      "spanish": "Tu esfuerzo importa, aunque se sienta desordenado",
+      "category": "Motivation",
+      "generated_at": "2026-11-11T07:22:37.433009"
+    },
+    {
+      "english": "Be proud of your work, not your perfect score",
+      "spanish": "Orgulloso de tu trabajo, no de la nota perfecta",
+      "category": "Motivation",
+      "generated_at": "2026-11-11T07:22:37.433011"
+    },
+    {
+      "english": "Say it anyway, you’ll get sharper fast",
+      "spanish": "Di lo igual, vas a mejorar rápido",
+      "category": "Motivation",
+      "generated_at": "2026-11-11T07:22:37.433014"
+    },
+    {
+      "english": "Reset your mind, today is a fresh start",
+      "spanish": "Reinicia tu mente, hoy es un nuevo inicio",
+      "category": "Motivation",
+      "generated_at": "2026-11-11T07:22:37.433017"
+    },
+    {
+      "english": "Practice beats panic, one sentence at a time",
+      "spanish": "Practicar gana al pánico, una frase a la vez",
+      "category": "Motivation",
+      "generated_at": "2026-11-11T07:22:37.433020"
+    },
+    {
+      "english": "Don’t wait for motivation, start with curiosity",
+      "spanish": "No esperes motivación, empieza con curiosidad",
+      "category": "Motivation",
+      "generated_at": "2026-11-11T07:22:37.433023"
+    },
+    {
+      "english": "Every mistake teaches, so thank it",
+      "spanish": "Cada error enseña, así que agradécelo",
+      "category": "Motivation",
+      "generated_at": "2026-11-11T07:22:37.433026"
+    },
+    {
+      "english": "You’re building real fluency, daily repetition pays",
+      "spanish": "Estás construyendo fluidez real, la repetición ayuda",
+      "category": "Motivation",
+      "generated_at": "2026-11-11T07:22:37.433030"
+    },
+    {
+      "english": "Be consistent, your future self will thank you",
+      "spanish": "Sé constante, tu yo del futuro te agradecerá",
+      "category": "Motivation",
+      "generated_at": "2026-11-11T07:22:37.433033"
+    },
+    {
+      "english": "Keep it moving, even imperfect is progress",
+      "spanish": "Sigue avanzando, lo imperfecto también es progreso",
+      "category": "Motivation",
+      "generated_at": "2026-11-11T07:22:37.433037"
+    },
+    {
+      "english": "Speak with heart, grammar comes with time",
+      "spanish": "Habla con el corazón, la gramática viene con el tiempo",
+      "category": "Motivation",
+      "generated_at": "2026-11-11T07:22:37.433041"
+    },
+    {
+      "english": "Trust your training, your brain learns fast",
+      "spanish": "Confía en tu entrenamiento, tu cerebro aprende rápido",
+      "category": "Motivation",
+      "generated_at": "2026-11-11T07:22:37.433043"
+    },
+    {
+      "english": "Celebrate effort, results follow your rhythm",
+      "spanish": "Celebra el esfuerzo, los resultados siguen tu ritmo",
+      "category": "Motivation",
+      "generated_at": "2026-11-11T07:22:37.433046"
+    },
+    {
+      "english": "Turn nerves into energy, then start speaking",
+      "spanish": "Convierte los nervios en energía, y luego habla",
+      "category": "Motivation",
+      "generated_at": "2026-11-11T07:22:37.433049"
+    },
+    {
+      "english": "You’re learning, not failing, keep the mindset",
+      "spanish": "Estás aprendiendo, no fallando, mantén la mentalidad",
+      "category": "Motivation",
+      "generated_at": "2026-11-11T07:22:37.433052"
+    },
+    {
+      "english": "Make it fun, your Spanish will stick",
+      "spanish": "Hazlo divertido, tu español se quedará",
+      "category": "Motivation",
+      "generated_at": "2026-11-11T07:22:37.433055"
+    },
+    {
+      "english": "Your pace is yours, just don’t quit",
+      "spanish": "Tu ritmo es tuyo, solo no te rindas",
+      "category": "Motivation",
+      "generated_at": "2026-11-11T07:22:37.433058"
+    },
+    {
+      "english": "Ask for help, brave learners do",
+      "spanish": "Pide ayuda, los valientes aprenden mejor",
+      "category": "Motivation",
+      "generated_at": "2026-11-11T07:22:37.433061"
+    },
+    {
+      "english": "Keep your promises, even tiny ones count",
+      "spanish": "Cumple tus promesas, aunque sean pequeñas",
+      "category": "Motivation",
+      "generated_at": "2026-11-11T07:22:37.433063"
+    },
+    {
+      "english": "Momentum is built, not wished for",
+      "spanish": "La motivación se construye, no se espera",
+      "category": "Motivation",
+      "generated_at": "2026-11-11T07:22:37.433066"
+    },
+    {
+      "english": "Say less, understand more, then respond",
+      "spanish": "Di menos, entiende más, y responde",
+      "category": "Motivation",
+      "generated_at": "2026-11-11T07:22:37.433069"
+    },
+    {
+      "english": "You’re stronger than your doubt today",
+      "spanish": "Eres más fuerte que tu duda hoy",
+      "category": "Motivation",
+      "generated_at": "2026-11-11T07:22:37.433072"
+    },
+    {
+      "english": "Give yourself credit, you’re improving in secret",
+      "spanish": "Date crédito, estás mejorando en silencio",
+      "category": "Motivation",
+      "generated_at": "2026-11-11T07:22:37.433077"
+    },
+    {
+      "english": "Keep studying, your confidence will catch up",
+      "spanish": "Sigue estudiando, tu confianza te alcanza",
+      "category": "Motivation",
+      "generated_at": "2026-11-11T07:22:37.433080"
+    },
+    {
+      "english": "You don’t need perfect, you need practice",
+      "spanish": "No necesitas perfección, necesitas práctica",
+      "category": "Motivation",
+      "generated_at": "2026-11-11T07:22:37.433085"
+    },
+    {
+      "english": "Turn goals into habits, one small action daily",
+      "spanish": "Convierte metas en hábitos, una acción pequeña cada día",
+      "category": "Motivation",
+      "generated_at": "2026-11-11T07:22:37.433087"
+    },
+    {
+      "english": "Be honest, you feel nervous sometimes, right?",
+      "spanish": "Se honesto, a veces te pones nervioso, ¿verdad?",
+      "category": "Motivation",
+      "generated_at": "2026-11-11T07:22:37.433090"
+    },
+    {
+      "english": "It’s okay, Spanish will come back to you.",
+      "spanish": "Está bien, el español vuelve cuando menos lo esperas.",
+      "category": "Motivation",
+      "generated_at": "2026-11-11T07:22:37.433094"
+    },
+    {
+      "english": "Slow down, feelings first, then the sentence.",
+      "spanish": "Despacito, primero las emociones, luego la frase.",
+      "category": "Motivation",
+      "generated_at": "2026-11-11T07:22:37.433097"
+    },
+    {
+      "english": "Your progress is quiet, but it’s real.",
+      "spanish": "Tu avance es silencioso, pero es real.",
+      "category": "Motivation",
+      "generated_at": "2026-11-11T07:22:37.433100"
+    },
+    {
+      "english": "Breathe, you’re learning in real time.",
+      "spanish": "Respira, estás aprendiendo en tiempo real.",
+      "category": "Motivation",
+      "generated_at": "2026-11-11T07:22:37.433103"
+    },
+    {
+      "english": "Say how you feel, even simply.",
+      "spanish": "Di cómo te sientes, aunque sea simple.",
+      "category": "Motivation",
+      "generated_at": "2026-11-11T07:22:37.433108"
+    },
+    {
+      "english": "I believe in you, keep going today.",
+      "spanish": "Creo en ti, sigue hoy.",
+      "category": "Motivation",
+      "generated_at": "2026-11-11T07:22:37.433111"
+    },
+    {
+      "english": "Let small doubts pass, then speak again.",
+      "spanish": "Deja que pase la duda, y vuelve a hablar.",
+      "category": "Motivation",
+      "generated_at": "2026-11-11T07:22:37.433113"
+    },
+    {
+      "english": "Be patient, repetition turns confusion into meaning.",
+      "spanish": "Ten paciencia, la repetición vuelve claro lo confuso.",
+      "category": "Motivation",
+      "generated_at": "2026-11-11T07:22:37.433116"
+    },
+    {
+      "english": "When you freeze, whisper the first word.",
+      "spanish": "Cuando te congelas, susurra la primera palabra.",
+      "category": "Motivation",
+      "generated_at": "2026-11-11T07:22:37.433119"
+    },
+    {
+      "english": "Choose honesty, mistakes are part of growth.",
+      "spanish": "Elige la honestidad, los errores son parte del crecimiento.",
+      "category": "Motivation",
+      "generated_at": "2026-11-11T07:22:37.433122"
+    },
+    {
+      "english": "Keep your mood soft, learn without pressure.",
+      "spanish": "Mantén tu ánimo suave, aprende sin presión.",
+      "category": "Motivation",
+      "generated_at": "2026-11-11T07:22:37.433125"
+    },
+    {
+      "english": "Don’t chase perfect, chase understanding, gently.",
+      "spanish": "No persigas la perfección, persigue entender, con calma.",
+      "category": "Motivation",
+      "generated_at": "2026-11-11T07:22:37.433128"
+    },
+    {
+      "english": "Your feelings guide you, use them to study.",
+      "spanish": "Tus sentimientos te guían, úsalo para estudiar.",
+      "category": "Motivation",
+      "generated_at": "2026-11-11T07:22:37.433131"
+    },
+    {
+      "english": "It’s normal to struggle, you’re still brave.",
+      "spanish": "Es normal luchar, igual sigues siendo valiente.",
+      "category": "Motivation",
+      "generated_at": "2026-11-11T07:22:37.433135"
+    },
+    {
+      "english": "Focus on connection, not flawless speech.",
+      "spanish": "Enfócate en conectar, no en hablar perfecto.",
+      "category": "Motivation",
+      "generated_at": "2026-11-11T07:22:37.433137"
+    },
+    {
+      "english": "Celebrate your courage, not just your answers.",
+      "spanish": "Celebra tu valentía, no solo tus respuestas.",
+      "category": "Motivation",
+      "generated_at": "2026-11-11T07:22:37.433142"
+    },
+    {
+      "english": "If you get stuck, start with one simple need.",
+      "spanish": "Si te trabas, empieza con una necesidad sencilla.",
+      "category": "Motivation",
+      "generated_at": "2026-11-11T07:22:37.433145"
+    },
+    {
+      "english": "Trust your ear, it learns from listening.",
+      "spanish": "Confía en tu oído, aprende escuchando.",
+      "category": "Motivation",
+      "generated_at": "2026-11-11T07:22:37.433147"
+    },
+    {
+      "english": "Be kind to yourself, progress is not linear.",
+      "spanish": "Sé amable contigo, el progreso no es lineal.",
+      "category": "Motivation",
+      "generated_at": "2026-11-11T07:22:37.433150"
+    },
+    {
+      "english": "Your mindset matters, speak like you belong.",
+      "spanish": "Tu mentalidad importa, habla como si pertenecieras.",
+      "category": "Motivation",
+      "generated_at": "2026-11-11T07:22:37.433153"
+    },
+    {
+      "english": "Keep it personal, tell a tiny truth today.",
+      "spanish": "Hazlo personal, cuenta una verdad pequeña hoy.",
+      "category": "Motivation",
+      "generated_at": "2026-11-11T07:22:37.433155"
+    },
+    {
+      "english": "You don’t need hype, just steady reps.",
+      "spanish": "No necesitas hype, solo repeticiones constantes.",
+      "category": "Motivation",
+      "generated_at": "2026-11-11T07:22:37.433159"
+    },
+    {
+      "english": "When doubt hits, remind yourself why you started.",
+      "spanish": "Cuando llegue la duda, recuerda por qué empezaste.",
+      "category": "Motivation",
+      "generated_at": "2026-11-11T07:22:37.433161"
+    },
+    {
+      "english": "Practice with patience, your brain will connect.",
+      "spanish": "Practica con paciencia, tu cerebro hará conexiones.",
+      "category": "Motivation",
+      "generated_at": "2026-11-11T07:22:37.433164"
+    },
+    {
+      "english": "Speak your feelings, not your fear.",
+      "spanish": "Habla tus emociones, no tu miedo.",
+      "category": "Motivation",
+      "generated_at": "2026-11-11T07:22:37.433167"
+    },
+    {
+      "english": "If it’s hard, go even slower and continue.",
+      "spanish": "Si es difícil, ve más despacio, y sigue.",
+      "category": "Motivation",
+      "generated_at": "2026-11-11T07:22:37.433170"
+    },
+    {
+      "english": "Your effort today becomes confidence tomorrow.",
+      "spanish": "Tu esfuerzo de hoy se vuelve confianza mañana.",
+      "category": "Motivation",
+      "generated_at": "2026-11-11T07:22:37.433172"
+    },
+    {
+      "english": "Keep writing in your head, one honest line.",
+      "spanish": "Sigue escribiendo en tu mente, una línea honesta.",
+      "category": "Motivation",
+      "generated_at": "2026-11-11T07:22:37.433177"
+    },
+    {
+      "english": "Before class, breathe, then say hello first.",
+      "spanish": "Antes de clase, respira, y di hola primero.",
+      "category": "Motivation",
+      "generated_at": "2026-11-11T07:22:37.433180"
+    },
+    {
+      "english": "When you miss a word, keep moving.",
+      "spanish": "Si se te olvida una palabra, sigue igual.",
+      "category": "Motivation",
+      "generated_at": "2026-11-11T07:22:37.433183"
+    },
+    {
+      "english": "Ask, “How do you say this?” confidently.",
+      "spanish": "Pregunta, “¿Cómo se dice esto?”, con confianza.",
+      "category": "Motivation",
+      "generated_at": "2026-11-11T07:22:37.433186"
+    },
+    {
+      "english": "In small talk, start with simple questions.",
+      "spanish": "En conversación, empieza con preguntas simples.",
+      "category": "Motivation",
+      "generated_at": "2026-11-11T07:22:37.433189"
+    },
+    {
+      "english": "If someone repeats you, say thank you, smile.",
+      "spanish": "Si te repiten, di gracias, sonríe.",
+      "category": "Motivation",
+      "generated_at": "2026-11-11T07:22:37.433192"
     }
   ],
-  "last_updated": "2026-11-10T07:56:24.287798"
+  "last_updated": "2026-11-11T07:22:37.433194"
 }
