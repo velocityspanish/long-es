@@ -19799,7 +19799,399 @@
       "spanish": "Si te repiten, di gracias, sonríe.",
       "category": "Motivation",
       "generated_at": "2026-11-11T07:22:37.433192"
+    },
+    {
+      "english": "I need fresh ideas fast today.",
+      "spanish": "Necesito ideas frescas hoy, rápido.",
+      "transliteration": "NE-ses-I-to i-DE-as FRES-kas HOY, RÁ-pi-do.",
+      "category": "Creativity",
+      "generated_at": "2026-11-12T22:18:07.238921"
+    },
+    {
+      "english": "Creativity is my survival skill.",
+      "spanish": "La creatividad es mi habilidad de supervivencia.",
+      "transliteration": "la krea-ti-vi-DAD es mi a-bil-i-DAD de so-bre-vi-VEN-sia.",
+      "category": "Creativity",
+      "generated_at": "2026-11-12T22:18:07.238921"
+    },
+    {
+      "english": "Let’s brainstorm over coffee, no pressure.",
+      "spanish": "Hagamos una lluvia de ideas con café, sin presión.",
+      "transliteration": "a-ga-mos u-na LLU-via de i-DE-as con KA-fé, sin PRE-sión.",
+      "category": "Creativity",
+      "generated_at": "2026-11-12T22:18:07.238921"
+    },
+    {
+      "english": "I trust my weird ideas more.",
+      "spanish": "Confío más en mis ideas raras.",
+      "transliteration": "con-FÍ-o MÁS en mis i-DE-as RA-ras.",
+      "category": "Creativity",
+      "generated_at": "2026-11-12T22:18:07.238921"
+    },
+    {
+      "english": "I turn mistakes into new options.",
+      "spanish": "Convierto errores en nuevas opciones.",
+      "transliteration": "con-Vi-er-to e-RRO-res en NUE-vas op-CIO-nes.",
+      "category": "Creativity",
+      "generated_at": "2026-11-12T22:18:07.238921"
+    },
+    {
+      "english": "Tonight I’ll make something from scratch.",
+      "spanish": "Esta noche voy a crear algo desde cero.",
+      "transliteration": "es-ta NO-che voy a KRE-ar AL-go DES-de SE-ro.",
+      "category": "Creativity",
+      "generated_at": "2026-11-12T22:18:07.238921"
+    },
+    {
+      "english": "Sketch it first, then refine.",
+      "spanish": "Primero haz un boceto, después mejora el resultado.",
+      "transliteration": "PRI-me-ro az uN bo-KE-to, des-PUÉs me-HO-ra el re-SUL-ta-do.",
+      "category": "Creativity",
+      "generated_at": "2026-11-12T22:18:07.238921"
+    },
+    {
+      "english": "I journal to clear my mind",
+      "spanish": "Hago journaling para despejar la mente",
+      "transliteration": "ago JOUR-nah-ling para des-pe-HAR la MEN-te",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-12T22:18:07.238921"
+    },
+    {
+      "english": "Today I choose one small win",
+      "spanish": "Hoy elijo una sola victoria pequeña",
+      "transliteration": "OY eh-LI-jo OO-nah SO-la vic-to-RI-ah pe-que-ÑA",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-12T22:18:07.238921"
+    },
+    {
+      "english": "I practice calm before I react",
+      "spanish": "Practico la calma antes de reaccionar",
+      "transliteration": "PRAK-ti-ko la KAL-ma an-tes de re-ak-syo-NAR",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-12T22:18:07.238921"
+    },
+    {
+      "english": "I set a 10-minute focus timer",
+      "spanish": "Pongo un temporizador de enfoque de diez minutos",
+      "transliteration": "PON-go oon tem-po-ri-za-DOR de en-FO-ke de DIEZ MI-no-tos",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-12T22:18:07.238921"
+    },
+    {
+      "english": "I say no without feeling guilty",
+      "spanish": "Digo que no, sin sentir culpa",
+      "transliteration": "DI-go ke NO, sin SEN-tir KUL-pa",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-12T22:18:07.238921"
+    },
+    {
+      "english": "I walk daily to reset my mood",
+      "spanish": "Camino a diario para reiniciar mi ánimo",
+      "transliteration": "CAM-i-no a DJA-rio para rei-NI-syar mi A-ni-mo",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-12T22:18:07.238921"
+    },
+    {
+      "english": "I forgive fast, and move on",
+      "spanish": "Perdono rápido, y sigo adelante",
+      "transliteration": "per-DÓ-no RA-pi-do, i SIG-o a-de-LAN-te",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-12T22:18:07.238921"
+    },
+    {
+      "english": "Excuse me, where is the nearest metro?",
+      "spanish": "Perdón, ¿dónde está el metro más cercano?",
+      "transliteration": "Perdón, DON-de es-TÁ el MET-ro MÁS CER-ca-no",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-12T22:18:07.238921"
+    },
+    {
+      "english": "How do I get to the train station?",
+      "spanish": "¿Cómo llego a la estación de tren?",
+      "transliteration": "KÓ-mo lle-go a la ES-ta-ción de tren",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-12T22:18:07.238921"
+    },
+    {
+      "english": "Is there a bus stop nearby?",
+      "spanish": "¿Hay una parada de autobús cerca?",
+      "transliteration": "AY u-na PA-ra-da de au-to-BÚS cer-ca",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-12T22:18:07.238921"
+    },
+    {
+      "english": "What street is this, please?",
+      "spanish": "¿Qué calle es esta, por favor?",
+      "transliteration": "KÉ ca-lle es ES-ta, por FA-VOR",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-12T22:18:07.238921"
+    },
+    {
+      "english": "Can you point me to the pharmacy?",
+      "spanish": "¿Me puede señalar una farmacia, por favor?",
+      "transliteration": "me pue-de se-ÑA-LAR u-na far-MA-cia, por FA-VOR",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-12T22:18:07.238921"
+    },
+    {
+      "english": "I’m looking for the bank, where is it?",
+      "spanish": "Busco el banco, ¿dónde está?",
+      "transliteration": "BUS-co el BAN-co, DON-de es-TÁ",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-12T22:18:07.238921"
+    },
+    {
+      "english": "Left or right to get there?",
+      "spanish": "¿A la izquierda o a la derecha para llegar?",
+      "transliteration": "a la iz-KIER-da o a la DE-re-cha pa-ra lle-GAR",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-12T22:18:07.238921"
+    },
+    {
+      "english": "I need to call my mom",
+      "spanish": "Necesito llamar a mi mamá.",
+      "transliteration": "NE-se-sí-to lla-mar a mi MA-má",
+      "category": "Family & Home",
+      "generated_at": "2026-11-12T22:18:07.238921"
+    },
+    {
+      "english": "We eat together every Sunday",
+      "spanish": "Comemos juntos todos los domingos.",
+      "transliteration": "co-ME-mos HUN-tos TO-dos los DO-min-gos",
+      "category": "Family & Home",
+      "generated_at": "2026-11-12T22:18:07.238921"
+    },
+    {
+      "english": "Can you watch the kids today?",
+      "spanish": "¿Puedes cuidar a los niños hoy?",
+      "transliteration": "pue-des cui-DAR a los NI-ños HOY",
+      "category": "Family & Home",
+      "generated_at": "2026-11-12T22:18:07.238921"
+    },
+    {
+      "english": "The house is too noisy right now",
+      "spanish": "La casa está muy ruidosa ahora mismo.",
+      "transliteration": "la CA-sa es-TÁ muY rui-DO-sa a-O-ra MIS-mo",
+      "category": "Family & Home",
+      "generated_at": "2026-11-12T22:18:07.238921"
+    },
+    {
+      "english": "Let’s do laundry after work",
+      "spanish": "Hacemos la ropa sucia después del trabajo.",
+      "transliteration": "a-CE-mos la RO-pa SI-a-des-PUÉS del tra-BA-ho",
+      "category": "Family & Home",
+      "generated_at": "2026-11-12T22:18:07.238921"
+    },
+    {
+      "english": "My dad fixes everything he can",
+      "spanish": "Mi papá arregla casi todo lo que puede.",
+      "transliteration": "mi pa-PÁ a-Re-gla CA-si TO-do lo que PUE-de",
+      "category": "Family & Home",
+      "generated_at": "2026-11-12T22:18:07.238921"
+    },
+    {
+      "english": "We share chores without fighting",
+      "spanish": "Repartimos las tareas, y no peleamos.",
+      "transliteration": "re-Par-ti-mos las ta-RE-as, y no pe-LE-a-mos",
+      "category": "Family & Home",
+      "generated_at": "2026-11-12T22:18:07.238921"
+    },
+    {
+      "english": "I love starting the day with a rosary",
+      "spanish": "Me encanta empezar el día con un rosario",
+      "transliteration": "Me enCANta emPEzar el DÍa con un ROsaRIO",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-12T22:18:07.238921"
+    },
+    {
+      "english": "We share bread and olive oil after church",
+      "spanish": "Compartimos pan y aceite de oliva después de la misa",
+      "transliteration": "ComparTIMos pan y aCEite de oLIva desPUÉS de la MIsa",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-12T22:18:07.238921"
+    },
+    {
+      "english": "My grandma sets the table with candles",
+      "spanish": "Mi abuela pone la mesa con velas encendidas",
+      "transliteration": "Mi aBUela poNE la meSA con VElas encenDIdas",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-12T22:18:07.238921"
+    },
+    {
+      "english": "At weddings, we dance right away",
+      "spanish": "En las bodas bailamos desde el primer momento",
+      "transliteration": "En las BOdas baiLAMos DESde el PRIMer MOmenTO",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-12T22:18:07.238921"
+    },
+    {
+      "english": "During Día de los Muertos, we visit graves",
+      "spanish": "En el Día de los Muertos visitamos las tumbas",
+      "transliteration": "En el DÍa de los MuerTOS viSItaMOS las TÚmbas",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-12T22:18:07.238921"
+    },
+    {
+      "english": "I bring flowers for the family altar",
+      "spanish": "Llevo flores para el altar de la familia",
+      "transliteration": "LLEvo FLOres paRA el alTAR de la FAmiLia",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-12T22:18:07.238921"
+    },
+    {
+      "english": "We toast with cider, not beer",
+      "spanish": "Brindamos con sidra, no con cerveza",
+      "transliteration": "BRINdaMOS con SIDra, no con seRVEsa",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-12T22:18:07.238921"
+    },
+    {
+      "english": "Thanks for helping me today, really",
+      "spanish": "Gracias por ayudarme hoy, de verdad.",
+      "transliteration": "GRA cias por A yu dar me HOY, de ver DAD.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-12T22:18:07.238921"
+    },
+    {
+      "english": "I appreciate your honesty, it mattered",
+      "spanish": "Te agradezco tu honestidad, de verdad importó.",
+      "transliteration": "te a GRA dez co tu o NES ti dad, de ver DAD im por TO.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-12T22:18:07.238921"
+    },
+    {
+      "english": "You made my day, thank you",
+      "spanish": "Me alegraste el día, gracias.",
+      "transliteration": "me a le GREH ste el DÍA, GRA cias.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-12T22:18:07.238921"
+    },
+    {
+      "english": "I’m grateful for your time today",
+      "spanish": "Estoy agradecido por tu tiempo hoy.",
+      "transliteration": "es TOY a GRA de si do por tu TIEM po HOY.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-12T22:18:07.238921"
+    },
+    {
+      "english": "Thanks for listening without judging",
+      "spanish": "Gracias por escucharme sin juzgarme.",
+      "transliteration": "GRA cias por es cu CHAR me sin huz GAR me.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-12T22:18:07.238921"
+    },
+    {
+      "english": "I’m thankful for your support",
+      "spanish": "Te estoy muy agradecido por tu apoyo.",
+      "transliteration": "te es TOY mu y a GRA de si do por tu A PO yo.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-12T22:18:07.238921"
+    },
+    {
+      "english": "Your kindness keeps showing up",
+      "spanish": "Tu amabilidad se nota muchísimo.",
+      "transliteration": "tu a ma bi LI DAD se NO ta MU chí si mo.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-12T22:18:07.238921"
+    },
+    {
+      "english": "Want to grab coffee this afternoon?",
+      "spanish": "¿Quieres tomar un café esta tarde?",
+      "transliteration": "KIERES tomAR un KAFÉ esTA TARde?",
+      "category": "Making Plans",
+      "generated_at": "2026-11-12T22:18:07.238921"
+    },
+    {
+      "english": "Let’s meet at the station at six.",
+      "spanish": "Quedamos en la estación a las seis.",
+      "transliteration": "KEdaMOS en la EStaCION a las SEIS.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-12T22:18:07.238921"
+    },
+    {
+      "english": "I’m free after work, what’s up?",
+      "spanish": "Estoy libre después del trabajo, ¿qué hacemos?",
+      "transliteration": "EStoy LIbre desPUÉS del TRAbaXO, ke haCEMOS?",
+      "category": "Making Plans",
+      "generated_at": "2026-11-12T22:18:07.238921"
+    },
+    {
+      "english": "Should we book tickets online now?",
+      "spanish": "¿Reservamos las entradas por internet ahora?",
+      "transliteration": "REServaMOS las ENtraDAS por inTERnet aHOra?",
+      "category": "Making Plans",
+      "generated_at": "2026-11-12T22:18:07.238921"
+    },
+    {
+      "english": "I need to check my schedule first.",
+      "spanish": "Tengo que revisar mi agenda primero.",
+      "transliteration": "TENgo ke reVI-sar mi AGEN-da PRIMero.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-12T22:18:07.238921"
+    },
+    {
+      "english": "We can do it tomorrow morning.",
+      "spanish": "Podemos hacerlo mañana por la mañana.",
+      "transliteration": "POdeMOS aCERlo maÑA-na por la maÑA-na.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-12T22:18:07.238921"
+    },
+    {
+      "english": "How about a walk instead of driving?",
+      "spanish": "¿Qué te parece si damos una vuelta a pie?",
+      "transliteration": "KE te PARece si daMOS una WEL-ta a PIE?",
+      "category": "Making Plans",
+      "generated_at": "2026-11-12T22:18:07.238921"
+    },
+    {
+      "english": "Happy birthday, let's eat cake!",
+      "spanish": "¡Feliz cumpleaños, vamos a comer la tarta!",
+      "transliteration": "FE-lis kuhmPLe-AN-os, va-MOS a koe-MER la TAR-ta",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-12T22:18:07.238921"
+    },
+    {
+      "english": "Can you save me a seat?",
+      "spanish": "¿Me guardas un sitio, por favor?",
+      "transliteration": "ME GWar-das un SI-to, por FA-VOR",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-12T22:18:07.238921"
+    },
+    {
+      "english": "Tonight, we’re raising a toast.",
+      "spanish": "Esta noche brindamos por todos.",
+      "transliteration": "es-ta NO-che BRIN-da-mos por TO-dos",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-12T22:18:07.238921"
+    },
+    {
+      "english": "Wear something festive, it’s going to be fun.",
+      "spanish": "Ponte algo festivo, va a ser muy divertido.",
+      "transliteration": "PON-te al-go fes-TI-vo, va a SER mui di-ver-TI-do",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-12T22:18:07.238921"
+    },
+    {
+      "english": "Are you coming to the street party?",
+      "spanish": "¿Vienes a la fiesta en la calle?",
+      "transliteration": "VIE-nes a la FIES-ta en la KA-lle",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-12T22:18:07.238921"
+    },
+    {
+      "english": "I brought snacks and good music.",
+      "spanish": "Traje bocadillos y música buenísima.",
+      "transliteration": "TRA-he BO-ka-di-llos i MU-si-ka bue-nÍ-si-ma",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-12T22:18:07.238921"
+    },
+    {
+      "english": "Let’s do a group photo now.",
+      "spanish": "Hagamos una foto en grupo, porfa.",
+      "transliteration": "a-GA-mos u-na FO-to en GRU-po, por-Fa",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-12T22:18:07.238921"
     }
   ],
-  "last_updated": "2026-11-11T07:22:37.433194"
+  "last_updated": "2026-11-12T22:18:07.238921"
 }
