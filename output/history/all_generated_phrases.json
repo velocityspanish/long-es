@@ -20583,7 +20583,399 @@
       "transliteration": "pa-ra CUAN-tos DI-as alCAN-sa?",
       "category": "Doctor & Pharmacy",
       "generated_at": "2026-11-13T22:03:33.559525"
+    },
+    {
+      "english": "Where is the nearest bus stop?",
+      "spanish": "¿Dónde está la parada de autobús más cercana?",
+      "transliteration": "DON-de es-ta la PA-ra-da de au-to-BÚS más CER-ca-na",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-14T20:47:24.445559"
+    },
+    {
+      "english": "How much is a single ride?",
+      "spanish": "¿Cuánto cuesta un viaje sencillo?",
+      "transliteration": "CUÁN-to CUÉs-ta un VIA-je SEN-ci-llo",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-14T20:47:24.445559"
+    },
+    {
+      "english": "Does this bus go to downtown?",
+      "spanish": "¿Este autobús va al centro?",
+      "transliteration": "ES-te au-to-BÚS va al CEN-tro",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-14T20:47:24.445559"
+    },
+    {
+      "english": "What time is the next train?",
+      "spanish": "¿A qué hora sale el próximo tren?",
+      "transliteration": "a qué O-ra sa-le el PRÓ-xi-mo tren",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-14T20:47:24.445559"
+    },
+    {
+      "english": "Can I pay with my contactless card?",
+      "spanish": "¿Puedo pagar con mi tarjeta sin contacto?",
+      "transliteration": "PUЕ-do pa-gar con mi TAR-je-ta sin CON-tak-to",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-14T20:47:24.445559"
+    },
+    {
+      "english": "Is there a ticket machine here?",
+      "spanish": "¿Hay una máquina para comprar billetes?",
+      "transliteration": "ay u-na MÁ-qui-na pa-ra COM-prar BI-elle-tes",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-14T20:47:24.445559"
+    },
+    {
+      "english": "Do I need to validate my ticket?",
+      "spanish": "¿Tengo que validar el billete?",
+      "transliteration": "TEN-go que val-I-dar el bi-LIE-te",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-14T20:47:24.445559"
+    },
+    {
+      "english": "I unwind by cooking dinner",
+      "spanish": "Me relajo cocinando la cena.",
+      "transliteration": "Me re-LA-jo CO-Ci-NAN-do la SE-na.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-14T20:47:24.445559"
+    },
+    {
+      "english": "I go for long evening walks",
+      "spanish": "Doy paseos largos por la tarde.",
+      "transliteration": "DOY pa-SE-os lar-GOS por la TAR-de.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-14T20:47:24.445559"
+    },
+    {
+      "english": "I practice guitar after work",
+      "spanish": "Practico la guitarra después del trabajo.",
+      "transliteration": "PRAc-ti-co la GUIT-a-rra des-PUÉS del tra-BA-jo.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-14T20:47:24.445559"
+    },
+    {
+      "english": "I swear by crossword puzzles",
+      "spanish": "Me obsesionan los crucigramas.",
+      "transliteration": "Me o-BE-si-o-nan los cru-ci-GRA-mas.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-14T20:47:24.445559"
+    },
+    {
+      "english": "I read one chapter before bed",
+      "spanish": "Leo un capítulo antes de dormir.",
+      "transliteration": "LE-o un ca-PÍ-tu-lo an-tES de dor-MIR.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-14T20:47:24.445559"
+    },
+    {
+      "english": "I stream concerts on weekends",
+      "spanish": "Los fines de semana veo conciertos en streaming.",
+      "transliteration": "Los FI-nes de se-MA-na VE-o con-ciER-tos en STREAM-ing.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-14T20:47:24.445559"
+    },
+    {
+      "english": "I paint to clear my head",
+      "spanish": "Pinto para despejarme la mente.",
+      "transliteration": "PIN-to pa-ra deSPE-jar-me la MEN-te.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-14T20:47:24.445559"
+    },
+    {
+      "english": "I’m growing into my new habits",
+      "spanish": "Me estoy haciendo más fuerte con mis nuevos hábitos.",
+      "transliteration": "Me es-ti-oy ha-CIEN-do más FUER-te con MIS NUE-vos há-BI-tos.",
+      "category": "Growth",
+      "generated_at": "2026-11-14T20:47:24.445559"
+    },
+    {
+      "english": "Small wins add up fast",
+      "spanish": "Las pequeñas victorias se suman rápido.",
+      "transliteration": "Las pe-QUE-ñas vic-TÓ-RI-as se su-MAN rá-PI-do.",
+      "category": "Growth",
+      "generated_at": "2026-11-14T20:47:24.445559"
+    },
+    {
+      "english": "Today I learn one useful thing",
+      "spanish": "Hoy aprendo una cosa útil.",
+      "transliteration": "Hoy a-PREN-do u-na co-SA Ú-til.",
+      "category": "Growth",
+      "generated_at": "2026-11-14T20:47:24.445559"
+    },
+    {
+      "english": "I’m turning feedback into fuel",
+      "spanish": "Convierto las críticas en energía para seguir.",
+      "transliteration": "Con-VIER-to las CRÍ-ti-cas en e-NER-gí-a pa-ra se-GUIR.",
+      "category": "Growth",
+      "generated_at": "2026-11-14T20:47:24.445559"
+    },
+    {
+      "english": "I choose progress over comfort",
+      "spanish": "Elijo el progreso antes que la comodidad.",
+      "transliteration": "E-LI-jo el PRO-Gre-so an-tes QUE la co-MO-di-dad.",
+      "category": "Growth",
+      "generated_at": "2026-11-14T20:47:24.445559"
+    },
+    {
+      "english": "My confidence grows with practice",
+      "spanish": "Mi confianza crece con la práctica.",
+      "transliteration": "Mi con-FIAN-za CRE-ce con la PRÁC-ti-ca.",
+      "category": "Growth",
+      "generated_at": "2026-11-14T20:47:24.445559"
+    },
+    {
+      "english": "I’m letting go of old limits",
+      "spanish": "Estoy soltando mis límites antiguos.",
+      "transliteration": "ES-toy SOL-tan-do mis LÍ-mi-tes an-ti-GU-os.",
+      "category": "Growth",
+      "generated_at": "2026-11-14T20:47:24.445559"
+    },
+    {
+      "english": "I breathe, I soften my mind.",
+      "spanish": "Respiro, y suavizo mi mente.",
+      "transliteration": "reSPI-ro, y sua-VI-so mi MEN-te",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-14T20:47:24.445559"
+    },
+    {
+      "english": "Right now, I choose calm.",
+      "spanish": "Ahora mismo, elijo la calma.",
+      "transliteration": "a-O-ra MIs-mo, e-LI-ho la KA-lma",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-14T20:47:24.445559"
+    },
+    {
+      "english": "My thoughts can wait, I pause.",
+      "spanish": "Mis pensamientos pueden esperar, yo hago una pausa.",
+      "transliteration": "mis pen-sa-MIEN-tos pue-den es-per-ar, yo a-go u-na PAU-sa",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-14T20:47:24.445559"
+    },
+    {
+      "english": "I’m here, even when I’m stressed.",
+      "spanish": "Estoy aquí, incluso cuando estoy estresado.",
+      "transliteration": "es-TÓY a-KÍ, in-KLÚ-so cuan-do es-TÓY es-tre-SA-do",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-14T20:47:24.445559"
+    },
+    {
+      "english": "Quiet moments restore me.",
+      "spanish": "Los momentos de silencio me restauran.",
+      "transliteration": "los MO-men-tos de siLEN-cio me res-tau-RAN",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-14T20:47:24.445559"
+    },
+    {
+      "english": "I let go, one thing at a time.",
+      "spanish": "Suelto, una cosa a la vez.",
+      "transliteration": "SUEl-to, u-na CO-sa a la VEZ",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-14T20:47:24.445559"
+    },
+    {
+      "english": "No rush, I can handle this.",
+      "spanish": "Sin prisa, puedo con esto.",
+      "transliteration": "sin PRI-sa, PUEd-o CON ES-to",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-14T20:47:24.445559"
+    },
+    {
+      "english": "Coffee tastes better, today feels easy",
+      "spanish": "El café sabe mejor, hoy se siente fácil.",
+      "transliteration": "el CAFÉ sabe MEJOR, HOY se SIENTE FÁCIL",
+      "category": "Happiness",
+      "generated_at": "2026-11-14T20:47:24.445559"
+    },
+    {
+      "english": "I’m happy because I showed up",
+      "spanish": "Estoy feliz porque me presenté a tiempo.",
+      "transliteration": "esTOY feLIZ POR que me PRE senTÉ a TIEMpo",
+      "category": "Happiness",
+      "generated_at": "2026-11-14T20:47:24.445559"
+    },
+    {
+      "english": "A clean desk makes me smile",
+      "spanish": "Con el escritorio limpio, me dan ganas de sonreír.",
+      "transliteration": "con el esCRIToRIO LIMPIO, me DAN gaNAS de soRREÍR",
+      "category": "Happiness",
+      "generated_at": "2026-11-14T20:47:24.445559"
+    },
+    {
+      "english": "Good news always changes my mood",
+      "spanish": "Las buenas noticias me suben el ánimo enseguida.",
+      "transliteration": "las bueNAS NO TI cias me suBEN el ÁNImo enSEguI da",
+      "category": "Happiness",
+      "generated_at": "2026-11-14T20:47:24.445559"
+    },
+    {
+      "english": "I’m grateful, even on busy days",
+      "spanish": "Soy agradecido, incluso cuando el día va con prisa.",
+      "transliteration": "soy aGRA deCIdo, inCLU SO cuanDO el DÍA va con PRISA",
+      "category": "Happiness",
+      "generated_at": "2026-11-14T20:47:24.445559"
+    },
+    {
+      "english": "Let’s go for a walk, tonight",
+      "spanish": "Vamos a dar un paseo, esta noche, y ya verás la felicidad.",
+      "transliteration": "vaMOS a dar un paSEO, esTA NOche, y ya veRÁS la feLI ciDAD",
+      "category": "Happiness",
+      "generated_at": "2026-11-14T20:47:24.445559"
+    },
+    {
+      "english": "My friends text, and my heart lifts",
+      "spanish": "Cuando mis amigos me escriben, el corazón me levanta.",
+      "transliteration": "CUAN do mis aMIgos me esCRI ben, el coRA zón me leVANta",
+      "category": "Happiness",
+      "generated_at": "2026-11-14T20:47:24.445559"
+    },
+    {
+      "english": "Can I pay by card here?",
+      "spanish": "¿Puedo pagar con tarjeta aquí?",
+      "transliteration": "PUe-do pa-GAR con TAR-je-ta a-KÍ?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-14T20:47:24.445559"
+    },
+    {
+      "english": "I need cash, where's the ATM?",
+      "spanish": "Necesito efectivo, ¿dónde está el cajero?",
+      "transliteration": "NE-ce-si-to e-FEC-ti-vo, don-de es-TÁ el ca-JE-ro?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-14T20:47:24.445559"
+    },
+    {
+      "english": "My card was declined, what now?",
+      "spanish": "Me rechazaron la tarjeta, ¿qué hago ahora?",
+      "transliteration": "Me re-cha-ZA-ron la TAR-je-ta, KÉ ha-go a-O-ra?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-14T20:47:24.445559"
+    },
+    {
+      "english": "How can I transfer money to you?",
+      "spanish": "¿Cómo te puedo hacer una transferencia?",
+      "transliteration": "KÓ-mo te pue-do a-CER u-na trans-fe-REN-sia?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-14T20:47:24.445559"
+    },
+    {
+      "english": "Is there a fee for international transfer?",
+      "spanish": "¿Hay comisión por transferencias internacionales?",
+      "transliteration": "¿AY comi-SIÓN por trans-fe-ren-CIAS in-ter-na-cIO-na-les?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-14T20:47:24.445559"
+    },
+    {
+      "english": "I want to check my balance now.",
+      "spanish": "Quiero ver el saldo ahora mismo.",
+      "transliteration": "KIE-ro ver el SAI-do a-O-ra MIS-mo.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-14T20:47:24.445559"
+    },
+    {
+      "english": "Can you set up autopay for me?",
+      "spanish": "¿Puedes activar el pago automático por mí?",
+      "transliteration": "¿PUE-des aK-ti-var el pa-go a-U-to-MÁ-ti-co por MÍ?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-14T20:47:24.445559"
+    },
+    {
+      "english": "Thanks for the quick help, seriously.",
+      "spanish": "Gracias por ayudarme tan rápido, en serio.",
+      "transliteration": "GRACIAS por ayuDARme tan ráPIdo, en SErio.",
+      "category": "Kindness",
+      "generated_at": "2026-11-14T20:47:24.445559"
+    },
+    {
+      "english": "I appreciate you checking in.",
+      "spanish": "Te agradezco que te hayas tomado el tiempo para preguntarme.",
+      "transliteration": "TE aGRaDEZco que te haYas toMAdo el TIEMpo paRA preGUNtarme.",
+      "category": "Kindness",
+      "generated_at": "2026-11-14T20:47:24.445559"
+    },
+    {
+      "english": "You go first, I insist.",
+      "spanish": "Tú primero, de verdad, no pasa nada por mí.",
+      "transliteration": "TÚ PRImero, de verDAD, no PA sa na por MÍ.",
+      "category": "Kindness",
+      "generated_at": "2026-11-14T20:47:24.445559"
+    },
+    {
+      "english": "That was thoughtful, thank you.",
+      "spanish": "Eso fue muy considerado, gracias.",
+      "transliteration": "E SO fue MUY conSIdeRAdo, GRACIAS.",
+      "category": "Kindness",
+      "generated_at": "2026-11-14T20:47:24.445559"
+    },
+    {
+      "english": "I’ll hold the door for you.",
+      "spanish": "Te aguanto la puerta, para que entres.",
+      "transliteration": "TE aGuanTO la PUErta, paRA que enTRES.",
+      "category": "Kindness",
+      "generated_at": "2026-11-14T20:47:24.445559"
+    },
+    {
+      "english": "Here, take it. You need it.",
+      "spanish": "Toma, te lo dejo, te va a hacer falta.",
+      "transliteration": "TOma, te lo DEjo, te va a haCER falTA.",
+      "category": "Kindness",
+      "generated_at": "2026-11-14T20:47:24.445559"
+    },
+    {
+      "english": "Your words helped me today.",
+      "spanish": "Tus palabras me ayudaron hoy, de verdad.",
+      "transliteration": "TUS paLAbras me aYuDAron hoy, de verDAD.",
+      "category": "Kindness",
+      "generated_at": "2026-11-14T20:47:24.445559"
+    },
+    {
+      "english": "Hi! Are you new here?",
+      "spanish": "Hola, ¿eres nuevo aquí?",
+      "transliteration": "OH-la, e-res NUE-bo a-KEE?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-14T20:47:24.445559"
+    },
+    {
+      "english": "Nice to meet you, really.",
+      "spanish": "Mucho gusto en conocerte, de verdad.",
+      "transliteration": "MÚ-cho GUS-to en ko-no-SEHR-te, de VER-dad",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-14T20:47:24.445559"
+    },
+    {
+      "english": "What’s your name, by the way?",
+      "spanish": "Por cierto, ¿cómo te llamas?",
+      "transliteration": "por SIER-to, KÓ-mo te YAM-as?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-14T20:47:24.445559"
+    },
+    {
+      "english": "I’m here to say hi.",
+      "spanish": "Solo vine a saludarte.",
+      "transliteration": "SO-lo BYEH-neh a sa-luDAR-te",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-14T20:47:24.445559"
+    },
+    {
+      "english": "Do you speak English, a bit?",
+      "spanish": "¿Hablas inglés, aunque sea un poco?",
+      "transliteration": "a-BLAHS in-GLEHS, aUN-ke sea oon PO-ko?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-14T20:47:24.445559"
+    },
+    {
+      "english": "This is my first time here.",
+      "spanish": "Es mi primera vez aquí.",
+      "transliteration": "es mee pree-MEH-ra SEV a-KEE",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-14T20:47:24.445559"
+    },
+    {
+      "english": "Where are you from originally?",
+      "spanish": "¿De dónde eres, en realidad?",
+      "transliteration": "de DÓN-de e-res, en ra-lee-DAD?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-14T20:47:24.445559"
     }
   ],
-  "last_updated": "2026-11-13T22:03:33.559525"
+  "last_updated": "2026-11-14T20:47:24.445559"
 }
