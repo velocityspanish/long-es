@@ -20975,7 +20975,399 @@
       "transliteration": "de DÓN-de e-res, en ra-lee-DAD?",
       "category": "Meeting People & Greetings",
       "generated_at": "2026-11-14T20:47:24.445559"
+    },
+    {
+      "english": "I’m sorry, please forgive me",
+      "spanish": "Perdón, por favor, perdóname",
+      "transliteration": "perDON por faVOR perDOnaME",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-15T21:07:45.187984"
+    },
+    {
+      "english": "Can we repair what I broke?",
+      "spanish": "¿Podemos arreglar lo que rompí?",
+      "transliteration": "poDEmos aReGlar lo ke romPI",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-15T21:07:45.187984"
+    },
+    {
+      "english": "I understand why you’re upset",
+      "spanish": "Entiendo por qué estás molesto",
+      "transliteration": "enTIE ndo por ke esTAS moLES to",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-15T21:07:45.187984"
+    },
+    {
+      "english": "I didn’t mean to hurt you",
+      "spanish": "No fue mi intención lastimarte",
+      "transliteration": "no fue mi inTENsión lasTImarte",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-15T21:07:45.187984"
+    },
+    {
+      "english": "Let’s move forward with respect",
+      "spanish": "Sigamos adelante con respeto",
+      "transliteration": "siGamos aDElante kon resPEto",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-15T21:07:45.187984"
+    },
+    {
+      "english": "Thanks for giving me another chance",
+      "spanish": "Gracias por darme otra oportunidad",
+      "transliteration": "GRAcias por DARme oTRA oporTUNidad",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-15T21:07:45.187984"
+    },
+    {
+      "english": "I’m taking responsibility, genuinely",
+      "spanish": "Asumo mi responsabilidad, de verdad",
+      "transliteration": "aSUmo mi res ponsaBIlidad de verDAD",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-15T21:07:45.187984"
+    },
+    {
+      "english": "Today, I choose courage over fear.",
+      "spanish": "Hoy elijo el coraje antes que el miedo.",
+      "transliteration": "hoy elijo el CO-ra-je an-tes que el MIE-do",
+      "category": "Positive Life",
+      "generated_at": "2026-11-15T21:07:45.187984"
+    },
+    {
+      "english": "I let small wins count today.",
+      "spanish": "Dejo que las pequeñas victorias cuenten hoy.",
+      "transliteration": "DE-jo que las pe-que-ÑAS vic-to-RI-as CUEN-ten hoy",
+      "category": "Positive Life",
+      "generated_at": "2026-11-15T21:07:45.187984"
+    },
+    {
+      "english": "I can start again, right now.",
+      "spanish": "Puedo empezar de nuevo, ahora mismo.",
+      "transliteration": "PUE-do em-pe-ZAR de NUE-vo, a-ho-ra MIS-mo",
+      "category": "Positive Life",
+      "generated_at": "2026-11-15T21:07:45.187984"
+    },
+    {
+      "english": "I talk to myself with kindness.",
+      "spanish": "Le hablo a mi mente con cariño.",
+      "transliteration": "le a-BLO a mi MEN-te con ca-RI-ÑO",
+      "category": "Positive Life",
+      "generated_at": "2026-11-15T21:07:45.187984"
+    },
+    {
+      "english": "I pause, then pick my next move.",
+      "spanish": "Hago una pausa, y elijo mi siguiente paso.",
+      "transliteration": "a-go u-na PAU-sa, y e-LI-jo mi SI-guien-te PASO",
+      "category": "Positive Life",
+      "generated_at": "2026-11-15T21:07:45.187984"
+    },
+    {
+      "english": "I release what I can’t control.",
+      "spanish": "Suelto lo que no puedo controlar.",
+      "transliteration": "SUEL-to lo que no PUED-o con-tro-LAR",
+      "category": "Positive Life",
+      "generated_at": "2026-11-15T21:07:45.187984"
+    },
+    {
+      "english": "My optimism grows with every try.",
+      "spanish": "Mi optimismo crece con cada intento.",
+      "transliteration": "mi optii-MIS-mo CRE-ce con ca-da IN-ten-to",
+      "category": "Positive Life",
+      "generated_at": "2026-11-15T21:07:45.187984"
+    },
+    {
+      "english": "I agree, that sounds fair",
+      "spanish": "Estoy de acuerdo, suena justo",
+      "transliteration": "ehs-toi de ah-KWEHR-do, soo-EN-ah HOOES-toh",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-15T21:07:45.187984"
+    },
+    {
+      "english": "Yes, I totally buy that",
+      "spanish": "Sí, lo compro totalmente",
+      "transliteration": "si, lo kom-PROH to-tal-MEN-teh",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-15T21:07:45.187984"
+    },
+    {
+      "english": "I’m not convinced yet, honestly",
+      "spanish": "No estoy convencido todavía, la verdad",
+      "transliteration": "noh ehs-TOY kon-VEN-sidoh TOH-dah-via, lah VAHR-dahd",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-15T21:07:45.187984"
+    },
+    {
+      "english": "That works for me, no problem",
+      "spanish": "Eso me funciona, sin problema",
+      "transliteration": "EH-soh meh FUn-sio-nah, sin pro-BLEH-mah",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-15T21:07:45.187984"
+    },
+    {
+      "english": "I don’t think that’s the best idea",
+      "spanish": "No creo que sea la mejor idea",
+      "transliteration": "noh KREH-oh keh seh-ah lah MEH-jor ee-DEE-ah",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-15T21:07:45.187984"
+    },
+    {
+      "english": "Exactly, that’s what I meant too",
+      "spanish": "Exacto, eso es lo que yo quería decir",
+      "transliteration": "ehk-SÁK-toh, EH-soh es lo keh yoh keh-REE-ah de-SEER",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-15T21:07:45.187984"
+    },
+    {
+      "english": "I agree, and here’s why",
+      "spanish": "Estoy de acuerdo, y te digo por qué",
+      "transliteration": "ehs-TÓY de ah-KWEHR-do, ee teh DEE-go por KEH",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-15T21:07:45.187984"
+    },
+    {
+      "english": "I’ll keep showing up, softly",
+      "spanish": "Voy a seguir apareciendo, con calma",
+      "transliteration": "Boi a se-guir a-pa-re-cien-do, con CAL-ma",
+      "category": "Hope",
+      "generated_at": "2026-11-15T21:07:45.187984"
+    },
+    {
+      "english": "Hope lives in my next move",
+      "spanish": "La esperanza vive en mi próximo paso",
+      "transliteration": "La es-pe-RAN-za VI-ve en mi PRO-xi-mo PASO",
+      "category": "Hope",
+      "generated_at": "2026-11-15T21:07:45.187984"
+    },
+    {
+      "english": "Even now, I choose light",
+      "spanish": "Incluso ahora, elijo la luz",
+      "transliteration": "In-clu-SO a-ho-ra, e-LI-jo la LUZ",
+      "category": "Hope",
+      "generated_at": "2026-11-15T21:07:45.187984"
+    },
+    {
+      "english": "I trust my effort to matter",
+      "spanish": "Confío en que mi esfuerzo importa",
+      "transliteration": "Con-FÍ-o en que mi ES-fu-er-zo IM-por-ta",
+      "category": "Hope",
+      "generated_at": "2026-11-15T21:07:45.187984"
+    },
+    {
+      "english": "My hope has a steady rhythm",
+      "spanish": "Mi esperanza tiene un ritmo constante",
+      "transliteration": "Mi es-pe-RAN-za tie-ne un RIT-mo CONS-tan-te",
+      "category": "Hope",
+      "generated_at": "2026-11-15T21:07:45.187984"
+    },
+    {
+      "english": "I’ll believe in small wins",
+      "spanish": "Voy a creer en las pequeñas victorias",
+      "transliteration": "Boi a CRE-er en las PE-que-ñas vic-to-RI-as",
+      "category": "Hope",
+      "generated_at": "2026-11-15T21:07:45.187984"
+    },
+    {
+      "english": "I’m not quitting on this dream",
+      "spanish": "No voy a rendirme con este sueño",
+      "transliteration": "No Boi a ren-DIR-me con es-te SUE-ño",
+      "category": "Hope",
+      "generated_at": "2026-11-15T21:07:45.187984"
+    },
+    {
+      "english": "Let’s celebrate our wins together.",
+      "spanish": "Celebremos juntos nuestras victorias.",
+      "transliteration": "ceLEbreMOS JUnTOS nuesTras vicTOrias.",
+      "category": "Friendship",
+      "generated_at": "2026-11-15T21:07:45.187984"
+    },
+    {
+      "english": "I’ve got your back, no matter what.",
+      "spanish": "Te respaldo, pase lo que pase.",
+      "transliteration": "te resPALdo, paSE lo que paSE.",
+      "category": "Friendship",
+      "generated_at": "2026-11-15T21:07:45.187984"
+    },
+    {
+      "english": "I won’t judge you, ever.",
+      "spanish": "No te juzgaré, nunca.",
+      "transliteration": "no te HUsgaré, NUEnca.",
+      "category": "Friendship",
+      "generated_at": "2026-11-15T21:07:45.187984"
+    },
+    {
+      "english": "Your effort matters to me.",
+      "spanish": "Tu esfuerzo me importa.",
+      "transliteration": "Tu ESfuERzo me IMporTA.",
+      "category": "Friendship",
+      "generated_at": "2026-11-15T21:07:45.187984"
+    },
+    {
+      "english": "When you’re down, I’m here.",
+      "spanish": "Cuando estás mal, estoy aquí.",
+      "transliteration": "CUANdo esTÁS mal, esTOY aQUÍ.",
+      "category": "Friendship",
+      "generated_at": "2026-11-15T21:07:45.187984"
+    },
+    {
+      "english": "We can take things one step at a time.",
+      "spanish": "Podemos ir paso a paso, sin prisa.",
+      "transliteration": "POdeMOS ir PAso a PAso, sin PRISA.",
+      "category": "Friendship",
+      "generated_at": "2026-11-15T21:07:45.187984"
+    },
+    {
+      "english": "I respect your boundaries, truly.",
+      "spanish": "Respeto tus límites, de verdad.",
+      "transliteration": "resPEto tus LÍmiTES, de verDAD.",
+      "category": "Friendship",
+      "generated_at": "2026-11-15T21:07:45.187984"
+    },
+    {
+      "english": "Tell fear, not control.",
+      "spanish": "Di miedo, no mando.",
+      "transliteration": "Di mieDO, no MANdo.",
+      "category": "Courage",
+      "generated_at": "2026-11-15T21:07:45.187984"
+    },
+    {
+      "english": "Take the next brave step.",
+      "spanish": "Da el siguiente paso valiente.",
+      "transliteration": "da el SIguienTE paSO vaLIENte",
+      "category": "Courage",
+      "generated_at": "2026-11-15T21:07:45.187984"
+    },
+    {
+      "english": "Courage starts with one honest breath.",
+      "spanish": "El coraje empieza con una respiración honesta.",
+      "transliteration": "el coRAje EMpieza con uNA respiRAcion HONes ta",
+      "category": "Courage",
+      "generated_at": "2026-11-15T21:07:45.187984"
+    },
+    {
+      "english": "Say no, even if it stings.",
+      "spanish": "Di que no, aunque pique.",
+      "transliteration": "di que NO, aunQUE PIque",
+      "category": "Courage",
+      "generated_at": "2026-11-15T21:07:45.187984"
+    },
+    {
+      "english": "You can handle bad news.",
+      "spanish": "Puedes con una mala noticia.",
+      "transliteration": "pueDES con uNA maLA noTIcia.",
+      "category": "Courage",
+      "generated_at": "2026-11-15T21:07:45.187984"
+    },
+    {
+      "english": "Back yourself, then move.",
+      "spanish": "Confía en ti y muévete.",
+      "transliteration": "conFIA en TI y mueVEte.",
+      "category": "Courage",
+      "generated_at": "2026-11-15T21:07:45.187984"
+    },
+    {
+      "english": "Walk in, even shaky.",
+      "spanish": "Entra, aunque tiembles.",
+      "transliteration": "enTRA, aunQUE Tiembles.",
+      "category": "Courage",
+      "generated_at": "2026-11-15T21:07:45.187984"
+    },
+    {
+      "english": "What do you recommend today?",
+      "spanish": "¿Qué me recomiendas hoy?",
+      "transliteration": "Que me reCOMIENdas HOY?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-15T21:07:45.187984"
+    },
+    {
+      "english": "One espresso, please, no sugar.",
+      "spanish": "Un espresso, por favor, sin azúcar.",
+      "transliteration": "Un esPRESso, por FAvor, sin aZUkar.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-15T21:07:45.187984"
+    },
+    {
+      "english": "Can I get oat milk here?",
+      "spanish": "¿Puedo pedir leche de avena aquí?",
+      "transliteration": "PueDO peDIR leCHE de aVENA aQUI?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-15T21:07:45.187984"
+    },
+    {
+      "english": "This pastry is still warm.",
+      "spanish": "Esta pastelería aún está caliente.",
+      "transliteration": "EsTA pasteLERÍa aun ES TA caLIENte.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-15T21:07:45.187984"
+    },
+    {
+      "english": "I’ll take the cinnamon roll.",
+      "spanish": "Me llevo el rollo de canela, por favor.",
+      "transliteration": "Me lleVO el ROllo de caNEla, por FAvor.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-15T21:07:45.187984"
+    },
+    {
+      "english": "How long will it take?",
+      "spanish": "¿Cuánto tarda en estar listo?",
+      "transliteration": "CuANto tarDA en esTAR LISto?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-15T21:07:45.187984"
+    },
+    {
+      "english": "Your bakery smells incredible.",
+      "spanish": "Tu panadería huele increíble.",
+      "transliteration": "Tu paNEdeRÍa hueLE inCREÍble.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-15T21:07:45.187984"
+    },
+    {
+      "english": "Keep showing up, even now",
+      "spanish": "Sigue apareciendo, incluso ahora.",
+      "transliteration": "SIgue a pa RE CIEN do, in clu SO a HO ra",
+      "category": "Success",
+      "generated_at": "2026-11-15T21:07:45.187984"
+    },
+    {
+      "english": "Stay curious, stay improving",
+      "spanish": "Mantente curioso, sigue mejorando.",
+      "transliteration": "man TÉN te cu RIO SO, si gue me JOR an DO",
+      "category": "Success",
+      "generated_at": "2026-11-15T21:07:45.187984"
+    },
+    {
+      "english": "Trust the process, not just results",
+      "spanish": "Confía en el proceso, no solo en los resultados.",
+      "transliteration": "con FÍa en el PRO ce so, no so lo en los re sul TA dos",
+      "category": "Success",
+      "generated_at": "2026-11-15T21:07:45.187984"
+    },
+    {
+      "english": "Say it clearly, go for it",
+      "spanish": "Dilo claro, y ve por ello.",
+      "transliteration": "DI lo CLÁ ro, y ve por e llo",
+      "category": "Success",
+      "generated_at": "2026-11-15T21:07:45.187984"
+    },
+    {
+      "english": "Protect your focus, block distractions",
+      "spanish": "Protege tu enfoque, aleja las distracciones.",
+      "transliteration": "pro TÉN ge tu en FO que, a LE xa las dis trac CIO nes",
+      "category": "Success",
+      "generated_at": "2026-11-15T21:07:45.187984"
+    },
+    {
+      "english": "Celebrate wins, then move on",
+      "spanish": "Celebra tus logros, y sigue adelante.",
+      "transliteration": "ce LE bra tus LO gros, y si gue a e LÁN te",
+      "category": "Success",
+      "generated_at": "2026-11-15T21:07:45.187984"
+    },
+    {
+      "english": "Ask yourself, what’s the next move?",
+      "spanish": "Pregúntate, cuál es el siguiente paso.",
+      "transliteration": "pre GÚN ta te, CUÁl es el SI guien te PA so",
+      "category": "Success",
+      "generated_at": "2026-11-15T21:07:45.187984"
     }
   ],
-  "last_updated": "2026-11-14T20:47:24.445559"
+  "last_updated": "2026-11-15T21:07:45.187984"
 }
