@@ -231,7 +231,39 @@
     {
       "category": "Success",
       "date": "2026-11-15"
+    },
+    {
+      "category": "Shopping & Prices",
+      "date": "2026-11-17"
+    },
+    {
+      "category": "Travel & Airport",
+      "date": "2026-11-17"
+    },
+    {
+      "category": "Dating & Romance",
+      "date": "2026-11-17"
+    },
+    {
+      "category": "Ordering Food & Dining",
+      "date": "2026-11-17"
+    },
+    {
+      "category": "Patience",
+      "date": "2026-11-17"
+    },
+    {
+      "category": "Purpose",
+      "date": "2026-11-17"
+    },
+    {
+      "category": "Perseverance",
+      "date": "2026-11-17"
+    },
+    {
+      "category": "Daily Routine",
+      "date": "2026-11-17"
     }
   ],
-  "last_updated": "2026-11-15T21:07:45.206366"
+  "last_updated": "2026-11-17T00:18:14.056459"
 }

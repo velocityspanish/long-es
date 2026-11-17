@@ -21367,7 +21367,399 @@
       "transliteration": "pre GÚN ta te, CUÁl es el SI guien te PA so",
       "category": "Success",
       "generated_at": "2026-11-15T21:07:45.187984"
+    },
+    {
+      "english": "What’s the total after tax?",
+      "spanish": "¿Cuál es el total con impuestos?",
+      "transliteration": "KU-al es el TO-tal con im-PUES-tos",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-17T00:18:14.038589"
+    },
+    {
+      "english": "Do you have a student discount?",
+      "spanish": "¿Tienen descuento para estudiantes?",
+      "transliteration": "tie-nen DES-cuen-to pa-ra es-tu-DIAN-tes",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-17T00:18:14.038589"
+    },
+    {
+      "english": "Is there a cheaper version?",
+      "spanish": "¿Hay una opción más barata?",
+      "transliteration": "AI un-a op-CHION mas BAR-a-ta",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-17T00:18:14.038589"
+    },
+    {
+      "english": "Can I see the price in writing?",
+      "spanish": "¿Me puedes mostrar el precio por escrito?",
+      "transliteration": "me pue-des mos-TRAR el PRE-sio por ES- kri-to",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-17T00:18:14.038589"
+    },
+    {
+      "english": "Can I return it if it fails?",
+      "spanish": "¿Puedo devolverlo si no me funciona?",
+      "transliteration": "pue-do de-vol-ver-lo si no me FUN-cio-na",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-17T00:18:14.038589"
+    },
+    {
+      "english": "Is this on sale today?",
+      "spanish": "¿Está en oferta hoy?",
+      "transliteration": "es-TA en o-FER-ta HOY",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-17T00:18:14.038589"
+    },
+    {
+      "english": "Does it come with warranty?",
+      "spanish": "¿Incluye garantía?",
+      "transliteration": "in-kLU-ye GAR-an-ti-a",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-17T00:18:14.038589"
+    },
+    {
+      "english": "Where can I check in?",
+      "spanish": "¿Dónde puedo hacer el check-in?",
+      "transliteration": "DONde pueDO haCER el chek-IN?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-17T00:18:14.038589"
+    },
+    {
+      "english": "My boarding pass isn’t showing up.",
+      "spanish": "No me aparece la tarjeta de embarque.",
+      "transliteration": "no me aPARece la TARje ta de emBARque",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-17T00:18:14.038589"
+    },
+    {
+      "english": "How long is the security line?",
+      "spanish": "¿Cuánto tarda la fila de seguridad?",
+      "transliteration": "KUANto TARda la FIlA de seGUriDAD?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-17T00:18:14.038589"
+    },
+    {
+      "english": "Do I need to print anything?",
+      "spanish": "¿Tengo que imprimir algo?",
+      "transliteration": "TEngo KE imPRIMir ALgo?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-17T00:18:14.038589"
+    },
+    {
+      "english": "I think I missed my gate.",
+      "spanish": "Creo que me perdí la puerta de embarque.",
+      "transliteration": "CREo que me PERDi la PUERta de emBARque",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-17T00:18:14.038589"
+    },
+    {
+      "english": "Is boarding starting now?",
+      "spanish": "¿Empieza el embarque ahora?",
+      "transliteration": "emPEZa el emBARque AhoRA?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-17T00:18:14.038589"
+    },
+    {
+      "english": "Do you have water after security?",
+      "spanish": "¿Venden agua después de seguridad?",
+      "transliteration": "VENden A-gua desPUES de seGUriDAD?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-17T00:18:14.038589"
+    },
+    {
+      "english": "Want to meet for coffee this week?",
+      "spanish": "¿Te apetece tomar un café esta semana?",
+      "transliteration": "te apetece tomar un CA-fe esta SEMa-na",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-17T00:18:14.038589"
+    },
+    {
+      "english": "I love your vibe, what’s your story?",
+      "spanish": "Me encanta tu vibra, ¿cuál es tu historia?",
+      "transliteration": "me enCAN-ta tu VIB-ra, cuAL es tu HIS-to-ri-a",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-17T00:18:14.038589"
+    },
+    {
+      "english": "Let’s plan something fun, no pressure.",
+      "spanish": "Planemos algo divertido, sin presión.",
+      "transliteration": "pla-ne-mos al-go di-VEC-ti-do, sin PRE-sión",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-17T00:18:14.038589"
+    },
+    {
+      "english": "You make it easy to be myself.",
+      "spanish": "Haces que sea fácil ser yo.",
+      "transliteration": "a-ces que sea FA-cil ser YO",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-17T00:18:14.038589"
+    },
+    {
+      "english": "When can I see you again?",
+      "spanish": "¿Cuándo te vuelvo a ver?",
+      "transliteration": "cuAN-do te vuel-vo a VER",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-17T00:18:14.038589"
+    },
+    {
+      "english": "I’d love to take you out properly.",
+      "spanish": "Me encantaría invitarte a una cita como se debe.",
+      "transliteration": "me enCAN-ta-rí-a in-vi-tar-te a u-na CI-ta co-mo se de-be",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-17T00:18:14.038589"
+    },
+    {
+      "english": "Your smile totally wins me over.",
+      "spanish": "Tu sonrisa me conquista al instante.",
+      "transliteration": "tu so-ri-sa me con-quis-ta al INS-tan-te",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-17T00:18:14.038589"
+    },
+    {
+      "english": "Do you have gluten-free options?",
+      "spanish": "Tienen opciones sin gluten, por favor?",
+      "transliteration": "TIenen OpcionEs sin GLUten, por FAvor?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-17T00:18:14.038589"
+    },
+    {
+      "english": "What comes with this dish?",
+      "spanish": "Qué incluye este plato, exactamente?",
+      "transliteration": "Qué inCLUye ES te PLAto, exACTaMENte?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-17T00:18:14.038589"
+    },
+    {
+      "english": "Could I substitute a side?",
+      "spanish": "Puedo cambiar el acompañamiento, por favor?",
+      "transliteration": "PUe do CAMbiar el aCOMpaniamiento, por FAvor?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-17T00:18:14.038589"
+    },
+    {
+      "english": "I’ll split a meal with my friend.",
+      "spanish": "Vamos a compartir el plato, por favor.",
+      "transliteration": "vaMOS a comPARtir el PLAto, por FAvor.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-17T00:18:14.038589"
+    },
+    {
+      "english": "Can I get extra sauce on top?",
+      "spanish": "Me pone salsa extra, por favor.",
+      "transliteration": "me POne SALsa EXtra, por FAvor.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-17T00:18:14.038589"
+    },
+    {
+      "english": "How do you recommend this?",
+      "spanish": "Cómo me recomiendan pedirlo?",
+      "transliteration": "CÓmo me reCOMien dan peDIRlo?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-17T00:18:14.038589"
+    },
+    {
+      "english": "Is there anything light and fresh?",
+      "spanish": "Tienen algo ligero y fresco?",
+      "transliteration": "Tie nen alGO ligeRO y FRESco?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-17T00:18:14.038589"
+    },
+    {
+      "english": "Good things arrive, not on cue.",
+      "spanish": "Las cosas buenas llegan, no a la hora exacta.",
+      "transliteration": "LAS co-sas bUE-nas lle-gan, no a la o-ra EXAC-ta",
+      "category": "Patience",
+      "generated_at": "2026-11-17T00:18:14.038589"
+    },
+    {
+      "english": "Let it ripen at its pace.",
+      "spanish": "Deja que madure a su ritmo.",
+      "transliteration": "de-ja que ma-DU-re a su RIT-mo",
+      "category": "Patience",
+      "generated_at": "2026-11-17T00:18:14.038589"
+    },
+    {
+      "english": "Don’t answer yet, wait a beat.",
+      "spanish": "No respondas todavía, espera un segundo.",
+      "transliteration": "no res-PON-das to-DA-via, ES-pe-ra un se-GUN-do",
+      "category": "Patience",
+      "generated_at": "2026-11-17T00:18:14.038589"
+    },
+    {
+      "english": "We can pause without losing momentum.",
+      "spanish": "Podemos pausar sin perder impulso.",
+      "transliteration": "PO-de-mos pau-SAR sin per-der IM-PUL-so",
+      "category": "Patience",
+      "generated_at": "2026-11-17T00:18:14.038589"
+    },
+    {
+      "english": "Delay the reaction, not the relationship.",
+      "spanish": "Retrasa la reacción, no la relación.",
+      "transliteration": "re-TAR-sa la re-ac-CION, no la re-LA-ción",
+      "category": "Patience",
+      "generated_at": "2026-11-17T00:18:14.038589"
+    },
+    {
+      "english": "Keep showing up, softly and steady.",
+      "spanish": "Sigue apareciendo, con calma y constancia.",
+      "transliteration": "SIG-e a-pa-RE-cien-do, con CAL-ma y cons-TAN-cia",
+      "category": "Patience",
+      "generated_at": "2026-11-17T00:18:14.038589"
+    },
+    {
+      "english": "Chill, and watch the tension drop.",
+      "spanish": "Tranquilo, y mira cómo baja la tensión.",
+      "transliteration": "tran-KI-lo, y MI-ra có-mo BA-ja la TEN-sión",
+      "category": "Patience",
+      "generated_at": "2026-11-17T00:18:14.038589"
+    },
+    {
+      "english": "This is why I’m making the call.",
+      "spanish": "Esta es la razón por la que llamo.",
+      "transliteration": "es-TA es la ra-ZÓN por la que lla-MO",
+      "category": "Purpose",
+      "generated_at": "2026-11-17T00:18:14.038589"
+    },
+    {
+      "english": "I’m doing this to protect my time.",
+      "spanish": "Lo hago para proteger mi tiempo.",
+      "transliteration": "LO a-go pa-ra pro-TE-xer mi TIEM-po",
+      "category": "Purpose",
+      "generated_at": "2026-11-17T00:18:14.038589"
+    },
+    {
+      "english": "I want clarity, not just activity.",
+      "spanish": "Quiero claridad, no solo actividad.",
+      "transliteration": "KIE-ro kla-RI-dad, no SO-lo ak-ti-vi-DAD",
+      "category": "Purpose",
+      "generated_at": "2026-11-17T00:18:14.038589"
+    },
+    {
+      "english": "I need a practical reason today.",
+      "spanish": "Necesito una razón práctica hoy.",
+      "transliteration": "NE-se-si-to u-na ra-ZÓN PRAK-ti-ka HOY",
+      "category": "Purpose",
+      "generated_at": "2026-11-17T00:18:14.038589"
+    },
+    {
+      "english": "I’m choosing this route on purpose.",
+      "spanish": "Elijo este camino a propósito.",
+      "transliteration": "e-LI-ho es-te KA-mi-no a pro-PÓ-si-to",
+      "category": "Purpose",
+      "generated_at": "2026-11-17T00:18:14.038589"
+    },
+    {
+      "english": "Let’s align the plan with values.",
+      "spanish": "Alineemos el plan con mis valores.",
+      "transliteration": "a-LI-ne-MOS el plan con mis va-LO-res",
+      "category": "Purpose",
+      "generated_at": "2026-11-17T00:18:14.038589"
+    },
+    {
+      "english": "I’m trying to make a difference.",
+      "spanish": "Estoy tratando de marcar la diferencia.",
+      "transliteration": "es-TOY tra-tan-do de MAR-kar la di-fe-REN-sia",
+      "category": "Purpose",
+      "generated_at": "2026-11-17T00:18:14.038589"
+    },
+    {
+      "english": "Slow progress is still progress.",
+      "spanish": "El progreso lento también cuenta.",
+      "transliteration": "El PRO-gre-so len-to TAM-bién cuen-ta.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-17T00:18:14.038589"
+    },
+    {
+      "english": "I’ll try again, no excuses.",
+      "spanish": "Lo intento de nuevo, sin excusas.",
+      "transliteration": "Lo inTEN-to de NUE-vo, sin ex-CU-sas.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-17T00:18:14.038589"
+    },
+    {
+      "english": "Even a small step helps.",
+      "spanish": "Un paso pequeño también me acerca.",
+      "transliteration": "Un pa-so PE-que-ño TAM-bién me aER-ca.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-17T00:18:14.038589"
+    },
+    {
+      "english": "I keep my promise to myself.",
+      "spanish": "Cumplo mi promesa conmigo.",
+      "transliteration": "CUM-plo mi pro-ME-sa con-mi-go.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-17T00:18:14.038589"
+    },
+    {
+      "english": "When I stumble, I reset.",
+      "spanish": "Si tropiezo, me replanteo.",
+      "transliteration": "Si TRO-pie-zo, me re-plan-TE-o.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-17T00:18:14.038589"
+    },
+    {
+      "english": "One minute of effort today.",
+      "spanish": "Con un minuto al día, sigo.",
+      "transliteration": "Con un MI-nu-to al DÍ-a, si-GO.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-17T00:18:14.038589"
+    },
+    {
+      "english": "I don’t need motivation, just action.",
+      "spanish": "No necesito ganas, necesito hacer.",
+      "transliteration": "No ne-ce-si-to GA-nas, ne-ce-si-to a-CER.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-17T00:18:14.038589"
+    },
+    {
+      "english": "First coffee, then I face my day",
+      "spanish": "Primero el café, y luego enfrento mi día",
+      "transliteration": "PRImero el KAFÉ, y LUEgo enFRENto mi DÍA",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-17T00:18:14.038589"
+    },
+    {
+      "english": "I start with a quick stretch",
+      "spanish": "Empiezo con un estiramiento rápido",
+      "transliteration": "emPIEZo con un es-ti-ra-MIENto RÁpiDO",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-17T00:18:14.038589"
+    },
+    {
+      "english": "I brush my teeth, and I breathe",
+      "spanish": "Me cepillo los dientes, y respiro hondo",
+      "transliteration": "me se-PIllo los DIEntes, y reSPIro HONdo",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-17T00:18:14.038589"
+    },
+    {
+      "english": "I grab my keys, wallet, phone",
+      "spanish": "Agarro mis llaves, la billetera y el teléfono",
+      "transliteration": "a-GARro mis YAves, la bi-LLEte-ra y el te-LÉfono",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-17T00:18:14.038589"
+    },
+    {
+      "english": "Breakfast is simple, just fuel",
+      "spanish": "El desayuno es simple, solo para cargarme",
+      "transliteration": "el de-SAYUno es SIMple, SOlo pa-ra car-GARme",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-17T00:18:14.038589"
+    },
+    {
+      "english": "I check messages, then I begin",
+      "spanish": "Reviso los mensajes, y luego empiezo",
+      "transliteration": "re-VI so los MENsa-jes, y LUEgo emPIEzo",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-17T00:18:14.038589"
+    },
+    {
+      "english": "I keep water by my desk",
+      "spanish": "Dejo agua cerca de mi escritorio",
+      "transliteration": "DEjo a-GUA CERca de mi es-criTO-rio",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-17T00:18:14.038589"
     }
   ],
-  "last_updated": "2026-11-15T21:07:45.187984"
+  "last_updated": "2026-11-17T00:18:14.038589"
 }
