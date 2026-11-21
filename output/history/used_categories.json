@@ -391,7 +391,39 @@
     {
       "category": "Public Transportation",
       "date": "2026-11-20"
+    },
+    {
+      "category": "Meeting People & Greetings",
+      "date": "2026-11-21"
+    },
+    {
+      "category": "Banking & Money",
+      "date": "2026-11-21"
+    },
+    {
+      "category": "Coffee Shop & Bakery",
+      "date": "2026-11-21"
+    },
+    {
+      "category": "Agreeing & Disagreeing",
+      "date": "2026-11-21"
+    },
+    {
+      "category": "Friendship",
+      "date": "2026-11-21"
+    },
+    {
+      "category": "Courage",
+      "date": "2026-11-21"
+    },
+    {
+      "category": "Forgiveness",
+      "date": "2026-11-21"
+    },
+    {
+      "category": "Hope",
+      "date": "2026-11-21"
     }
   ],
-  "last_updated": "2026-11-20T22:43:32.794951"
+  "last_updated": "2026-11-21T21:42:48.305838"
 }

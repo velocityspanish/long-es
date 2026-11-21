@@ -23327,7 +23327,399 @@
       "transliteration": "kUAN-to TAR-dah HAS-tah el SEN-troh",
       "category": "Public Transportation",
       "generated_at": "2026-11-20T22:43:32.778746"
+    },
+    {
+      "english": "Hey, how do you like it?",
+      "spanish": "Hola, ¿qué tal te está yendo aquí?",
+      "transliteration": "OH-la, ke tal te ES-ta en-GEN-do a-KI",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-21T21:42:48.285616"
+    },
+    {
+      "english": "I’m so glad to meet you.",
+      "spanish": "Qué gusto verte, mucho gusto.",
+      "transliteration": "KE GUS-to VER-te, MU-cho gus-to",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-21T21:42:48.285616"
+    },
+    {
+      "english": "Are you a regular here?",
+      "spanish": "¿Vienes por aquí seguido?",
+      "transliteration": "BYE-nes por a-KI S E-Gui-do",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-21T21:42:48.285616"
+    },
+    {
+      "english": "Can I introduce myself quickly?",
+      "spanish": "¿Te puedo presentar a mí mismo?",
+      "transliteration": "te PUED-o pres-en-TAR a MI mis-mo",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-21T21:42:48.285616"
+    },
+    {
+      "english": "What brings you in today?",
+      "spanish": "¿Qué te trae por aquí hoy?",
+      "transliteration": "ke te TRAY-e por a-KI OY",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-21T21:42:48.285616"
+    },
+    {
+      "english": "Thanks for saying hello, seriously.",
+      "spanish": "Gracias por saludarme, de verdad.",
+      "transliteration": "GRA-syas por sa-LU-DAR-me, de VER-dad",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-21T21:42:48.285616"
+    },
+    {
+      "english": "Do you want to grab coffee?",
+      "spanish": "¿Quieres tomar un café conmigo?",
+      "transliteration": "KIE-res TO-mar un ka-FE kon-MI-go",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-21T21:42:48.285616"
+    },
+    {
+      "english": "Can I pay with Apple Pay?",
+      "spanish": "¿Puedo pagar con Apple Pay?",
+      "transliteration": "Puedo pagar con A-pel PAY?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-21T21:42:48.285616"
+    },
+    {
+      "english": "Do you accept contactless payments?",
+      "spanish": "¿Aceptan pagos sin contacto?",
+      "transliteration": "Acep-tan pa-gos sin CON-tac-to?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-21T21:42:48.285616"
+    },
+    {
+      "english": "How long does a wire take?",
+      "spanish": "¿Cuánto tarda una transferencia bancaria?",
+      "transliteration": "Cuan-to TAR-da una trans-fe-ren-cia ban-ca-ria?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-21T21:42:48.285616"
+    },
+    {
+      "english": "I need to deposit cash, please.",
+      "spanish": "Necesito ingresar efectivo, por favor.",
+      "transliteration": "Ne-ce-si-to in-GRE-sar e-fec-ti-vo, por fa-VOR.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-21T21:42:48.285616"
+    },
+    {
+      "english": "Where can I cash this check?",
+      "spanish": "¿Dónde puedo cobrar este cheque?",
+      "transliteration": "Don-de pue-do co-brar es-te CHE-que?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-21T21:42:48.285616"
+    },
+    {
+      "english": "Is there a minimum balance fee?",
+      "spanish": "¿Hay comisión por saldo mínimo?",
+      "transliteration": "Ai comi-SION por sal-do mi-NI-mo?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-21T21:42:48.285616"
+    },
+    {
+      "english": "I was charged twice, help me.",
+      "spanish": "Me cobraron dos veces, ayúdenme.",
+      "transliteration": "Me co-bra-ron dos VE-ces, a-YÚ-den-me.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-21T21:42:48.285616"
+    },
+    {
+      "english": "I love the smell of fresh bread.",
+      "spanish": "Me encanta el olor del pan recién hecho.",
+      "transliteration": "Me enCANta el Olor del pan re-cién he-CHO.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-21T21:42:48.285616"
+    },
+    {
+      "english": "Can I sit near the window?",
+      "spanish": "¿Puedo sentarme cerca de la ventana?",
+      "transliteration": "Pue-do SENtar-me cer-ca de la VENta-na?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-21T21:42:48.285616"
+    },
+    {
+      "english": "This latte is perfectly balanced.",
+      "spanish": "Este latte está perfectamente equilibrado.",
+      "transliteration": "Es-te LATte es-tá per-fec-ta-men-te e-quili-BRA-do.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-21T21:42:48.285616"
+    },
+    {
+      "english": "Do you have any vegan pastries?",
+      "spanish": "¿Tienen algún pastel vegano?",
+      "transliteration": "Tie-nen al-gún PAStel ve-ga-no?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-21T21:42:48.285616"
+    },
+    {
+      "english": "I’ll try the lemon tart next.",
+      "spanish": "Voy a probar la tarta de limón después.",
+      "transliteration": "Voy a pro-BAR la TARta de li-MÓN des-pués.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-21T21:42:48.285616"
+    },
+    {
+      "english": "Is the pastry gluten-free?",
+      "spanish": "¿Ese pastel es sin gluten?",
+      "transliteration": "E-se PAStel es sin GLUten?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-21T21:42:48.285616"
+    },
+    {
+      "english": "Can I get my coffee to go?",
+      "spanish": "¿Me lo pueden preparar para llevar?",
+      "transliteration": "Me lo pue-den pre-paRAR pa-ra lle-VAR?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-21T21:42:48.285616"
+    },
+    {
+      "english": "You’re right, that’s the key.",
+      "spanish": "Tienes razón, esa es la clave.",
+      "transliteration": "tie-nes ra-ZÓN, e-sa es la CLA-ve",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-21T21:42:48.285616"
+    },
+    {
+      "english": "Yes, I totally agree with that.",
+      "spanish": "Sí, estoy totalmente de acuerdo.",
+      "transliteration": "sí, es-toy to-tal-MEN-te de a-CUER-do",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-21T21:42:48.285616"
+    },
+    {
+      "english": "That matches what I’ve been thinking.",
+      "spanish": "Eso coincide con lo que yo pienso.",
+      "transliteration": "e-so coIN-ci-de con lo que yo PIEN-so",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-21T21:42:48.285616"
+    },
+    {
+      "english": "I see it your way, clearly.",
+      "spanish": "Lo veo como tú, claramente.",
+      "transliteration": "lo VEO co-mo tú, cla-ra-MEN-te",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-21T21:42:48.285616"
+    },
+    {
+      "english": "I don’t agree, but I respect it.",
+      "spanish": "No estoy de acuerdo, pero lo respeto.",
+      "transliteration": "no es-tOY de a-CUER-do, pe-ro lo RES-pe-to",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-21T21:42:48.285616"
+    },
+    {
+      "english": "Honestly, I disagree with your choice.",
+      "spanish": "Honestamente, no estoy de acuerdo con tu elección.",
+      "transliteration": "o-nes-ta-MEN-te, no es-toy de a-CUER-do kon tu e-lec-CIÓN",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-21T21:42:48.285616"
+    },
+    {
+      "english": "That’s not how I feel about it.",
+      "spanish": "No es como me siento yo.",
+      "transliteration": "no es co-mo me SIEN-to yo",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-21T21:42:48.285616"
+    },
+    {
+      "english": "I trust your good intentions",
+      "spanish": "Confío en tus buenas intenciones.",
+      "transliteration": "conFÍO en tus bueNAS inTENsiones",
+      "category": "Friendship",
+      "generated_at": "2026-11-21T21:42:48.285616"
+    },
+    {
+      "english": "You speak my language, honestly",
+      "spanish": "Me entiendes de verdad, sin rodeos.",
+      "transliteration": "me enTIENdes de VERdad, sin ROdeos",
+      "category": "Friendship",
+      "generated_at": "2026-11-21T21:42:48.285616"
+    },
+    {
+      "english": "Let’s be a team tonight",
+      "spanish": "Seamos un equipo esta noche.",
+      "transliteration": "seAmos un EQUIpo esTA NOche",
+      "category": "Friendship",
+      "generated_at": "2026-11-21T21:42:48.285616"
+    },
+    {
+      "english": "I’m grateful you’re in my life",
+      "spanish": "Me alegra tenerte en mi vida.",
+      "transliteration": "me aLEgra teNERte en mi VIda",
+      "category": "Friendship",
+      "generated_at": "2026-11-21T21:42:48.285616"
+    },
+    {
+      "english": "Call me when you feel lost",
+      "spanish": "Llámame cuando te sientas perdido.",
+      "transliteration": "LLÁmaME cuanDO te SIentas perDIdo",
+      "category": "Friendship",
+      "generated_at": "2026-11-21T21:42:48.285616"
+    },
+    {
+      "english": "We can disagree and stay close",
+      "spanish": "Podemos discrepar y seguir siendo amigos.",
+      "transliteration": "POdeMOS disCREpar y seGUIr sienDO aMIgos",
+      "category": "Friendship",
+      "generated_at": "2026-11-21T21:42:48.285616"
+    },
+    {
+      "english": "Your advice is always spot-on",
+      "spanish": "Tu consejo siempre cae en el lugar correcto.",
+      "transliteration": "tu conSEjo siEMpre caE en el LUgar CORrecTO",
+      "category": "Friendship",
+      "generated_at": "2026-11-21T21:42:48.285616"
+    },
+    {
+      "english": "Tell the truth, even if awkward.",
+      "spanish": "Di la verdad, aunque sea incómodo.",
+      "transliteration": "di la VER-dad, aun-QUE sea in-KOM-mo-do",
+      "category": "Courage",
+      "generated_at": "2026-11-21T21:42:48.285616"
+    },
+    {
+      "english": "Ask again, with calm confidence.",
+      "spanish": "Vuelve a preguntar, con calma y confianza.",
+      "transliteration": "VUEL-ve a pre-GUN-tar, con cal-ma y con-FIAN-za",
+      "category": "Courage",
+      "generated_at": "2026-11-21T21:42:48.285616"
+    },
+    {
+      "english": "Start the tough conversation, not avoid it.",
+      "spanish": "Empieza la conversación difícil, no la evites.",
+      "transliteration": "em-PIE-za la con-ver-SA-ción di-FÍ-cil, no la e-VI-tes",
+      "category": "Courage",
+      "generated_at": "2026-11-21T21:42:48.285616"
+    },
+    {
+      "english": "Walk out, even when it’s tempting to stay.",
+      "spanish": "Salte de ahí, aunque te tiente quedarte.",
+      "transliteration": "SAL-te de A-hi, aun-QUE te TÉn-te que-DAR-te",
+      "category": "Courage",
+      "generated_at": "2026-11-21T21:42:48.285616"
+    },
+    {
+      "english": "Choose the hardest honest habit daily.",
+      "spanish": "Elige el hábito honesto más difícil, cada día.",
+      "transliteration": "e-LI-ge el Á-bi-to ON-es-to más di-FÍ-cil, ca-da DÍ-a",
+      "category": "Courage",
+      "generated_at": "2026-11-21T21:42:48.285616"
+    },
+    {
+      "english": "Say it first, then let it land.",
+      "spanish": "Dilo primero, y luego deja que caiga.",
+      "transliteration": "DI-lo PRIM-e-ro, y LUE-go de-ja que cai-GA",
+      "category": "Courage",
+      "generated_at": "2026-11-21T21:42:48.285616"
+    },
+    {
+      "english": "Protect your boundaries, softly but firmly.",
+      "spanish": "Cuida tus límites, suave pero firme.",
+      "transliteration": "cui-da tus LÍ-mi-tes, SUA-ve pe-ro FÍr-me",
+      "category": "Courage",
+      "generated_at": "2026-11-21T21:42:48.285616"
+    },
+    {
+      "english": "You matter to me, so forgive me",
+      "spanish": "Te importo, así que perdóname",
+      "transliteration": "te im POR ta, a sí que per DÓ na me",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-21T21:42:48.285616"
+    },
+    {
+      "english": "I’m sorry, I’ll do better",
+      "spanish": "Perdón, voy a hacerlo mejor",
+      "transliteration": "per DÓN, voy a a CER lo ME jor",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-21T21:42:48.285616"
+    },
+    {
+      "english": "Please know I mean it",
+      "spanish": "Solo quiero que sepas que lo digo en serio",
+      "transliteration": "so LO quie RO que se pas que lo DI go en SE RIO",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-21T21:42:48.285616"
+    },
+    {
+      "english": "Can we talk calmly and heal?",
+      "spanish": "¿Podemos hablar con calma y sanar?",
+      "transliteration": "po de MOS ha BLAR con CAL ma y sa NAR",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-21T21:42:48.285616"
+    },
+    {
+      "english": "I want to make amends",
+      "spanish": "Quiero reparar el daño",
+      "transliteration": "quie RO re pa RAR el DA ño",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-21T21:42:48.285616"
+    },
+    {
+      "english": "Let’s not keep punishing each other",
+      "spanish": "No sigamos castigándonos",
+      "transliteration": "no si GA mos cas TI GAN do nos",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-21T21:42:48.285616"
+    },
+    {
+      "english": "I’m choosing honesty, not excuses",
+      "spanish": "Elijo la honestidad, no las excusas",
+      "transliteration": "e LI jo la o nes TI dad, no las ek SU sas",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-21T21:42:48.285616"
+    },
+    {
+      "english": "I hear hope in small moments.",
+      "spanish": "Escucho la esperanza en momentos pequeños.",
+      "transliteration": "EscuCHO la esPeRANza en moMENtos PEQueños.",
+      "category": "Hope",
+      "generated_at": "2026-11-21T21:42:48.285616"
+    },
+    {
+      "english": "Hope is my quiet daily fuel.",
+      "spanish": "La esperanza es mi combustible diario y tranquilo.",
+      "transliteration": "La esPeRANza es mi comBusTIBle diaRIO y tranKILO.",
+      "category": "Hope",
+      "generated_at": "2026-11-21T21:42:48.285616"
+    },
+    {
+      "english": "I let one good thing land.",
+      "spanish": "Dejo que una buena cosa se quede.",
+      "transliteration": "DeJO que uNA bueNA coSA se KEde.",
+      "category": "Hope",
+      "generated_at": "2026-11-21T21:42:48.285616"
+    },
+    {
+      "english": "My hope grows when I act.",
+      "spanish": "Mi esperanza crece cuando actúo.",
+      "transliteration": "Mi esPeRANza creCE cuanDO acTÚo.",
+      "category": "Hope",
+      "generated_at": "2026-11-21T21:42:48.285616"
+    },
+    {
+      "english": "I’m choosing hope over worry, today.",
+      "spanish": "Elijo la esperanza sobre la preocupación, hoy.",
+      "transliteration": "EliJO la esPeRANza soBre la preoCUPAción, HOY.",
+      "category": "Hope",
+      "generated_at": "2026-11-21T21:42:48.285616"
+    },
+    {
+      "english": "Every breath says, we can.",
+      "spanish": "Cada respiro dice, sí se puede.",
+      "transliteration": "CaDA resPIro diCe, sí se PUeDe.",
+      "category": "Hope",
+      "generated_at": "2026-11-21T21:42:48.285616"
+    },
+    {
+      "english": "Hope keeps knocking, and I open.",
+      "spanish": "La esperanza toca la puerta, y yo abro.",
+      "transliteration": "La esPeRANza TOca la PuerTA, y YO aBRO.",
+      "category": "Hope",
+      "generated_at": "2026-11-21T21:42:48.285616"
     }
   ],
-  "last_updated": "2026-11-20T22:43:32.778746"
+  "last_updated": "2026-11-21T21:42:48.285616"
 }
