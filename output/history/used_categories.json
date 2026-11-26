@@ -519,7 +519,39 @@
     {
       "category": "Celebrations & Parties",
       "date": "2026-11-25"
+    },
+    {
+      "category": "Making Plans",
+      "date": "2026-11-26"
+    },
+    {
+      "category": "Family & Home",
+      "date": "2026-11-26"
+    },
+    {
+      "category": "Phone Calls & Messages",
+      "date": "2026-11-26"
+    },
+    {
+      "category": "Doctor & Pharmacy",
+      "date": "2026-11-26"
+    },
+    {
+      "category": "Strength",
+      "date": "2026-11-26"
+    },
+    {
+      "category": "Creativity",
+      "date": "2026-11-26"
+    },
+    {
+      "category": "Common Native Slang",
+      "date": "2026-11-26"
+    },
+    {
+      "category": "Emergency & Health",
+      "date": "2026-11-26"
     }
   ],
-  "last_updated": "2026-11-25T00:50:29.435682"
+  "last_updated": "2026-11-26T00:27:53.027739"
 }

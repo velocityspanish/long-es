@@ -24895,7 +24895,399 @@
       "transliteration": "es ta NO che sa len mis GA nas de a blar es PA ñol",
       "category": "Celebrations & Parties",
       "generated_at": "2026-11-25T00:50:29.413411"
+    },
+    {
+      "english": "I’m thinking about a weekend getaway",
+      "spanish": "Estoy pensando en una escapada de fin de semana",
+      "transliteration": "estoy PENSANdo en una ES-ca-pa de fin de SE-ma-na",
+      "category": "Making Plans",
+      "generated_at": "2026-11-26T00:27:53.011214"
+    },
+    {
+      "english": "Do you want to try that new place?",
+      "spanish": "¿Quieres probar ese sitio nuevo?",
+      "transliteration": "QUIE-res pro-bar e-se SI-tio NUE-vo",
+      "category": "Making Plans",
+      "generated_at": "2026-11-26T00:27:53.011214"
+    },
+    {
+      "english": "Let’s check availability before we go",
+      "spanish": "Vamos a revisar la disponibilidad antes de ir",
+      "transliteration": "va-mos a re-VI-sar la dis-po-ni-bi-LI-dad an-tes de iR",
+      "category": "Making Plans",
+      "generated_at": "2026-11-26T00:27:53.011214"
+    },
+    {
+      "english": "What’s your plan for tonight, exactly?",
+      "spanish": "¿Qué planes tienes para esta noche, exactamente?",
+      "transliteration": "qué PLA-nes tie-nes pa-ra eS-ta NO-che, e-XAC-ta-men-te",
+      "category": "Making Plans",
+      "generated_at": "2026-11-26T00:27:53.011214"
+    },
+    {
+      "english": "I’d rather keep it spontaneous",
+      "spanish": "Prefiero que sea más espontáneo",
+      "transliteration": "pre-FIE-ro que sea más es-pON-tá-NE-o",
+      "category": "Making Plans",
+      "generated_at": "2026-11-26T00:27:53.011214"
+    },
+    {
+      "english": "Let’s set a reminder for tomorrow",
+      "spanish": "Vamos a ponernos un recordatorio para mañana",
+      "transliteration": "va-mos a po-ner-nos un re-cor-da-to-RIO pa-ra ma-ÑA-na",
+      "category": "Making Plans",
+      "generated_at": "2026-11-26T00:27:53.011214"
+    },
+    {
+      "english": "I can drive, but you navigate",
+      "spanish": "Yo manejo, pero tú me guías",
+      "transliteration": "yo maNE-jo, pe-ro tú me guÍ-as",
+      "category": "Making Plans",
+      "generated_at": "2026-11-26T00:27:53.011214"
+    },
+    {
+      "english": "I set up breakfast for everyone.",
+      "spanish": "Dejé el desayuno listo para todos.",
+      "transliteration": "DEjé el desAYuno lis to pa ra TOdos.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-26T00:27:53.011214"
+    },
+    {
+      "english": "Can we invite grandma this weekend?",
+      "spanish": "¿Podemos invitar a la abuela este fin de semana?",
+      "transliteration": "poDEmos in viTAR a la aBUEla es te fin de seMÁna",
+      "category": "Family & Home",
+      "generated_at": "2026-11-26T00:27:53.011214"
+    },
+    {
+      "english": "We need to buy groceries today.",
+      "spanish": "Hoy tenemos que comprar comida del super.",
+      "transliteration": "OY teNEmos que COMprar koMIda del su per",
+      "category": "Family & Home",
+      "generated_at": "2026-11-26T00:27:53.011214"
+    },
+    {
+      "english": "The kids are finally asleep.",
+      "spanish": "Los niños por fin ya están dormidos.",
+      "transliteration": "los NIÑos por FIN ya es tán dorMIdos",
+      "category": "Family & Home",
+      "generated_at": "2026-11-26T00:27:53.011214"
+    },
+    {
+      "english": "Let s change the sheets now.",
+      "spanish": "Cambiamo s las sábanas ahora mismo.",
+      "transliteration": "CAMbiaMOS las sáBA nas aHOra MISmo",
+      "category": "Family & Home",
+      "generated_at": "2026-11-26T00:27:53.011214"
+    },
+    {
+      "english": "I m bringing a dish to share.",
+      "spanish": "Voy a llevar un plato para compartir.",
+      "transliteration": "voy a lleVAR un PLAto pa ra comPARtir",
+      "category": "Family & Home",
+      "generated_at": "2026-11-26T00:27:53.011214"
+    },
+    {
+      "english": "Can you help me with the move?",
+      "spanish": "¿Me ayudas con la mudanza, por favor?",
+      "transliteration": "me aYUdas con la muDANza, por FAvor",
+      "category": "Family & Home",
+      "generated_at": "2026-11-26T00:27:53.011214"
+    },
+    {
+      "english": "Call me when you’re free, please.",
+      "spanish": "Llámame cuando estés libre, por favor.",
+      "transliteration": "YÁmame cuando estés LÍbre, por favor.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-26T00:27:53.011214"
+    },
+    {
+      "english": "I’m trying to reach you now.",
+      "spanish": "Estoy intentando comunicarme contigo ahora.",
+      "transliteration": "Estoy intentándo comunicarme contigo AHora.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-26T00:27:53.011214"
+    },
+    {
+      "english": "Got your voicemail, thanks.",
+      "spanish": "Recibí tu mensaje de voz, gracias.",
+      "transliteration": "Recibí tu MENsaje de VOZ, GRACIAS.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-26T00:27:53.011214"
+    },
+    {
+      "english": "Text me the address, please.",
+      "spanish": "Envíame un mensaje con la dirección, por favor.",
+      "transliteration": "Envíame un MENsaje con la diRECCIÓN, por favor.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-26T00:27:53.011214"
+    },
+    {
+      "english": "Did you see my email too?",
+      "spanish": "¿También viste mi correo?",
+      "transliteration": "TAMbién viste mi COreo?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-26T00:27:53.011214"
+    },
+    {
+      "english": "I’ll call from a different number.",
+      "spanish": "Te llamaré desde otro número.",
+      "transliteration": "Te laMÁré desde OTro NÚmero.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-26T00:27:53.011214"
+    },
+    {
+      "english": "Sorry, I can’t talk right now.",
+      "spanish": "Lo siento, no puedo hablar ahora mismo.",
+      "transliteration": "Lo SIENto, no pueDO haBLAR AhoRa mismo.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-26T00:27:53.011214"
+    },
+    {
+      "english": "Do you accept my insurance plan?",
+      "spanish": "¿Aceptan mi plan de seguro médico?",
+      "transliteration": "Acep-TAN mi plan de SEGU-ro MÉ-di-co?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-26T00:27:53.011214"
+    },
+    {
+      "english": "I need to see a doctor today.",
+      "spanish": "Necesito ver a un médico hoy.",
+      "transliteration": "NE-ce-si-to VER a un MÉ-di-co HOY.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-26T00:27:53.011214"
+    },
+    {
+      "english": "Can you recommend a pharmacist nearby?",
+      "spanish": "¿Me recomienda una farmacia cercana?",
+      "transliteration": "Me re-co-MIEN-da u-na FAR-ma-cia CER-ca-na?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-26T00:27:53.011214"
+    },
+    {
+      "english": "What’s the price without insurance?",
+      "spanish": "¿Cuánto cuesta sin seguro?",
+      "transliteration": "Kuan-to CUES-ta sin SE-gu-ro?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-26T00:27:53.011214"
+    },
+    {
+      "english": "Is there a generic version available?",
+      "spanish": "¿Tienen una versión genérica?",
+      "transliteration": "Tie-nen u-na BER-sión je-NÉ-ri-ca?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-26T00:27:53.011214"
+    },
+    {
+      "english": "My prescription is expiring soon.",
+      "spanish": "Mi receta vence pronto.",
+      "transliteration": "Mi RE-ce-ta VEN-ce pron-to.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-26T00:27:53.011214"
+    },
+    {
+      "english": "Can you help me find the right dosage?",
+      "spanish": "¿Me ayuda a encontrar la dosis correcta?",
+      "transliteration": "Me a-YU-da a en-CON-trar la DO-sis COR-rec-ta?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-26T00:27:53.011214"
+    },
+    {
+      "english": "I ask, and I don’t give up.",
+      "spanish": "Pido ayuda y no me rindo.",
+      "transliteration": "PI-do A-yu-da y no me rin-DI-no.",
+      "category": "Strength",
+      "generated_at": "2026-11-26T00:27:53.011214"
+    },
+    {
+      "english": "I stay calm, even when pressured.",
+      "spanish": "Me mantengo calmado, incluso bajo presión.",
+      "transliteration": "me man-te-NE-go kal-ma-do, in-KLU-so ba-jo PRE-sión.",
+      "category": "Strength",
+      "generated_at": "2026-11-26T00:27:53.011214"
+    },
+    {
+      "english": "I train my mind for small wins.",
+      "spanish": "Entreno mi mente para victorias pequeñas.",
+      "transliteration": "en-TRE-no mi MEN-te pa-ra vik-to-RI-as PE-que-ñas.",
+      "category": "Strength",
+      "generated_at": "2026-11-26T00:27:53.011214"
+    },
+    {
+      "english": "I protect my energy like my health.",
+      "spanish": "Protejo mi energía como mi salud.",
+      "transliteration": "pro-TE-jo mi e-NER-gi-a ko-mo mi SALUD.",
+      "category": "Strength",
+      "generated_at": "2026-11-26T00:27:53.011214"
+    },
+    {
+      "english": "I can pause and still move forward.",
+      "spanish": "Puedo parar un momento y seguir avanzando.",
+      "transliteration": "PUE-do pa-RAR un MO-men-to y se-guir a-van-ZAN-do.",
+      "category": "Strength",
+      "generated_at": "2026-11-26T00:27:53.011214"
+    },
+    {
+      "english": "I speak up before I explode.",
+      "spanish": "Hablo antes de explotar.",
+      "transliteration": "A-blo an-tes de ex-PLO-tar.",
+      "category": "Strength",
+      "generated_at": "2026-11-26T00:27:53.011214"
+    },
+    {
+      "english": "I take one hard thing off my plate.",
+      "spanish": "Saco una cosa difícil de mi lista.",
+      "transliteration": "sa-ko u-na KO-sa di-FÍ-cil de mi LIS-ta.",
+      "category": "Strength",
+      "generated_at": "2026-11-26T00:27:53.011214"
+    },
+    {
+      "english": "I start messy, then I refine.",
+      "spanish": "Empiezo a lo bruto, y luego lo pulo.",
+      "transliteration": "em-PIEzo a lo BRU-to, y LUE-go lo PU-lo",
+      "category": "Creativity",
+      "generated_at": "2026-11-26T00:27:53.011214"
+    },
+    {
+      "english": "What if this is improv practice?",
+      "spanish": "¿Y si esto fuera práctica de improvisación?",
+      "transliteration": "y SI es-to fue-ra PRAC-ti-ca de im-pro-vi-SA-ción",
+      "category": "Creativity",
+      "generated_at": "2026-11-26T00:27:53.011214"
+    },
+    {
+      "english": "I mash ideas together, deliberately.",
+      "spanish": "Mezclo ideas a propósito, sin miedo.",
+      "transliteration": "MEZ-clo i-de-as a pro-PÓ-si-to, sin MIE-do",
+      "category": "Creativity",
+      "generated_at": "2026-11-26T00:27:53.011214"
+    },
+    {
+      "english": "I give myself ten minutes, no more.",
+      "spanish": "Me doy diez minutos, sin más.",
+      "transliteration": "me doy DIEZ MI-nu-tos, sin MÁS",
+      "category": "Creativity",
+      "generated_at": "2026-11-26T00:27:53.011214"
+    },
+    {
+      "english": "I change one detail, watch it shift.",
+      "spanish": "Cambio un detalle, y todo se mueve.",
+      "transliteration": "CAM-bio un de-TA-llE, y TO-do se MUE-ve",
+      "category": "Creativity",
+      "generated_at": "2026-11-26T00:27:53.011214"
+    },
+    {
+      "english": "I collect odd facts, then connect them.",
+      "spanish": "Recojo datos raros, y luego los conecto.",
+      "transliteration": "re-CO-jo DA-tos ra-ROS, y LUE-go los co-nec-TO",
+      "category": "Creativity",
+      "generated_at": "2026-11-26T00:27:53.011214"
+    },
+    {
+      "english": "I ask a stranger what they notice.",
+      "spanish": "Le pregunto a alguien que no conozco qué ve.",
+      "transliteration": "le preGUN-to a AL-guien que no co-nÓz-co qué VE",
+      "category": "Creativity",
+      "generated_at": "2026-11-26T00:27:53.011214"
+    },
+    {
+      "english": "No te preocupes, todo tranqui",
+      "spanish": "No te preocupes, todo tranqui.",
+      "transliteration": "No te PReocupes, todo tran-qui.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-26T00:27:53.011214"
+    },
+    {
+      "english": "Chécalo, está buenísimo",
+      "spanish": "Chécalo, está buenísimo.",
+      "transliteration": "Che-CA-lo, es-tá bue-NÍ-si-mo.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-26T00:27:53.011214"
+    },
+    {
+      "english": "Esa respuesta estuvo con todo",
+      "spanish": "Esa respuesta vino con todo.",
+      "transliteration": "E-sa res-PUES-ta vi-no con TO-do.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-26T00:27:53.011214"
+    },
+    {
+      "english": "¿Me caes bien, eh?",
+      "spanish": "Me caes bien, ¿eh?",
+      "transliteration": "Me ca-es bien, ¿eh?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-26T00:27:53.011214"
+    },
+    {
+      "english": "Va, me late la idea",
+      "spanish": "Va, me late la idea.",
+      "transliteration": "Va, me la-te la I-de-a.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-26T00:27:53.011214"
+    },
+    {
+      "english": "Qué padre, gracias por eso",
+      "spanish": "Qué padre, gracias por eso.",
+      "transliteration": "Qué PA-dre, gra-CI-as por e-so.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-26T00:27:53.011214"
+    },
+    {
+      "english": "No te me vengas con eso",
+      "spanish": "No te me vengas con eso.",
+      "transliteration": "No te me ven-gas con e-so.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-26T00:27:53.011214"
+    },
+    {
+      "english": "I feel faint, please stay on the phone",
+      "spanish": "Me siento desmayar, por favor quédate en la línea",
+      "transliteration": "Me sIENTO desmayAR, por faVOR KÉdate en la LÍnea",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-26T00:27:53.011214"
+    },
+    {
+      "english": "I think I have heat exhaustion",
+      "spanish": "Creo que tengo agotamiento por calor",
+      "transliteration": "CREO que TENgo aGOTA miento por CA lOR",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-26T00:27:53.011214"
+    },
+    {
+      "english": "My temperature is very high",
+      "spanish": "Tengo la fiebre muy alta",
+      "transliteration": "TenGO la FIE bre MUY aLTA",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-26T00:27:53.011214"
+    },
+    {
+      "english": "I need water, I feel dizzy",
+      "spanish": "Necesito agua, me siento mareado",
+      "transliteration": "NE cesiTO aGUA, me sienTO maReA do",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-26T00:27:53.011214"
+    },
+    {
+      "english": "Call for an ambulance, I’m confused",
+      "spanish": "Llame a una ambulancia, estoy confundido",
+      "transliteration": "LlaME a uNA amBUL anCIA, ES toy conFUN diDO",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-26T00:27:53.011214"
+    },
+    {
+      "english": "I’m having a panic attack right now",
+      "spanish": "Estoy teniendo un ataque de pánico ahora",
+      "transliteration": "ES toy teNIEN do un aTAque de PÁN ico aHORA",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-26T00:27:53.011214"
+    },
+    {
+      "english": "I swallowed a pill by accident",
+      "spanish": "Tragué una pastilla por accidente",
+      "transliteration": "TRAGué uNA pasTI lla por acCIdEN te",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-26T00:27:53.011214"
     }
   ],
-  "last_updated": "2026-11-25T00:50:29.413411"
+  "last_updated": "2026-11-26T00:27:53.011214"
 }
