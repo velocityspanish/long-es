@@ -25287,7 +25287,399 @@
       "transliteration": "TRAGué uNA pasTI lla por acCIdEN te",
       "category": "Emergency & Health",
       "generated_at": "2026-11-26T00:27:53.011214"
+    },
+    {
+      "english": "Joy finds me on my walk.",
+      "spanish": "La alegría me encuentra en mi caminata.",
+      "transliteration": "la a-LE-GRi-a me EN-CUEN-tra en mi ca-MI-na-ta",
+      "category": "Joy",
+      "generated_at": "2026-11-27T00:39:54.776421"
+    },
+    {
+      "english": "I say yes to the day.",
+      "spanish": "Le digo que sí a este día.",
+      "transliteration": "le di-go ke sí a e-ste día",
+      "category": "Joy",
+      "generated_at": "2026-11-27T00:39:54.776421"
+    },
+    {
+      "english": "A compliment lights me up fast.",
+      "spanish": "Un cumplido me enciende enseguida.",
+      "transliteration": "un kum-Pli-do me en-SIEN-de en-SE-gui-da",
+      "category": "Joy",
+      "generated_at": "2026-11-27T00:39:54.776421"
+    },
+    {
+      "english": "I savor fresh air, no rush.",
+      "spanish": "Saboreo aire fresco, sin prisa.",
+      "transliteration": "sa-BRE-o ai-re FRES-co, sin PRI-sa",
+      "category": "Joy",
+      "generated_at": "2026-11-27T00:39:54.776421"
+    },
+    {
+      "english": "Joy is a quick stretch moment.",
+      "spanish": "La alegría es un momento de estirarme.",
+      "transliteration": "la a-LE-GRi-a es un MO-men-to de es-tiRAR-me",
+      "category": "Joy",
+      "generated_at": "2026-11-27T00:39:54.776421"
+    },
+    {
+      "english": "I share good vibes without trying.",
+      "spanish": "Comparto buena energía sin esfuerzo.",
+      "transliteration": "kom-PAR-to bue-na e-neRHi-a sin es-FUER-zo",
+      "category": "Joy",
+      "generated_at": "2026-11-27T00:39:54.776421"
+    },
+    {
+      "english": "My laugh comes easier today.",
+      "spanish": "Hoy me cuesta menos reír.",
+      "transliteration": "oy me KUES-ta MEN-os re-ÍR",
+      "category": "Joy",
+      "generated_at": "2026-11-27T00:39:54.776421"
+    },
+    {
+      "english": "Which stop is closest for downtown?",
+      "spanish": "¿Qué parada queda más cerca para el centro?",
+      "transliteration": "Ke PA-ra-da ke-da más CER-ka pa-ra el CENT-ro",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-27T00:39:54.776421"
+    },
+    {
+      "english": "Does this road go to the airport?",
+      "spanish": "¿Esta calle lleva al aeropuerto?",
+      "transliteration": "ES-ta ka-lle LLE-va al ae-ro-PUER-to",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-27T00:39:54.776421"
+    },
+    {
+      "english": "How far is the bus to the beach?",
+      "spanish": "¿Cuánto falta para llegar a la playa en bus?",
+      "transliteration": "KWAN-to FAL-ta pa-ra lle-GAR a la PLAA-ya en bus",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-27T00:39:54.776421"
+    },
+    {
+      "english": "Is there a pedestrian crossing ahead?",
+      "spanish": "¿Hay paso de peatones por aquí adelante?",
+      "transliteration": "Ai PAS-o de pe-a-TON-es por a-QUI a-delAN-te",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-27T00:39:54.776421"
+    },
+    {
+      "english": "What’s the quickest way to the courthouse?",
+      "spanish": "¿Cuál es la forma más rápida de llegar al juzgado?",
+      "transliteration": "KUAL es la FOR-ma más RA-pi-da de lle-GAR al hJUZ-ga-do",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-27T00:39:54.776421"
+    },
+    {
+      "english": "Can I use the bridge to get there?",
+      "spanish": "¿Puedo cruzar por el puente para llegar?",
+      "transliteration": "PUE-do KRU-sar por el PUEN-te pa-ra lle-GAR",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-27T00:39:54.776421"
+    },
+    {
+      "english": "Where can I find a taxi nearby?",
+      "spanish": "¿Dónde hay una parada de taxis cerca?",
+      "transliteration": "DON-de ai una pa-ra-da de TAK-sis CER-ka",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-27T00:39:54.776421"
+    },
+    {
+      "english": "I believe in myself today, full stop",
+      "spanish": "Creo en mí hoy, punto final.",
+      "transliteration": "KREO en MÍ HOY, PUN-to fi-NAL.",
+      "category": "Confidence",
+      "generated_at": "2026-11-27T00:39:54.776421"
+    },
+    {
+      "english": "I ask for help, no shame",
+      "spanish": "Pido ayuda, sin vergüenza.",
+      "transliteration": "PI-do A-yu-da, sin ber-GÜEN-za.",
+      "category": "Confidence",
+      "generated_at": "2026-11-27T00:39:54.776421"
+    },
+    {
+      "english": "My plan is working, even imperfectly",
+      "spanish": "Mi plan funciona, aunque no sea perfecto.",
+      "transliteration": "MI plan FUN-cio-na, AUN-que no sea PER-fec-to.",
+      "category": "Confidence",
+      "generated_at": "2026-11-27T00:39:54.776421"
+    },
+    {
+      "english": "I choose honesty over smooth talk",
+      "spanish": "Elijo la honestidad antes que el discurso bonito.",
+      "transliteration": "e-LI-ho la o-NES-ti-DAD AN-tes ke el DIS-cur-so BO-ni-to.",
+      "category": "Confidence",
+      "generated_at": "2026-11-27T00:39:54.776421"
+    },
+    {
+      "english": "I can say no and mean it",
+      "spanish": "Puedo decir que no, y de verdad.",
+      "transliteration": "PUE-do de-CIR ke NO, i de BER-dad.",
+      "category": "Confidence",
+      "generated_at": "2026-11-27T00:39:54.776421"
+    },
+    {
+      "english": "I stay grounded, even when it shifts",
+      "spanish": "Me mantengo firme, aunque todo cambie.",
+      "transliteration": "me man-TEN-go FIR-me, AUN-que TO-do cam-BIE.",
+      "category": "Confidence",
+      "generated_at": "2026-11-27T00:39:54.776421"
+    },
+    {
+      "english": "I speak slowly, my words are clear",
+      "spanish": "Hablaré despacio, mis palabras son claras.",
+      "transliteration": "a-BLA-ré des-PÁ-si-o, MIS pa-la-BRAS son KLA-ras.",
+      "category": "Confidence",
+      "generated_at": "2026-11-27T00:39:54.776421"
+    },
+    {
+      "english": "I set one goal, then start.",
+      "spanish": "Elijo una meta y empiezo.",
+      "transliteration": "Elijo una META y EM-pie-zo.",
+      "category": "Growth",
+      "generated_at": "2026-11-27T00:39:54.776421"
+    },
+    {
+      "english": "I make room for learning daily.",
+      "spanish": "Hago espacio para aprender cada día.",
+      "transliteration": "Ha-go ES-pa-cio pa-ra aPREN-der ca-da DÍ-a.",
+      "category": "Growth",
+      "generated_at": "2026-11-27T00:39:54.776421"
+    },
+    {
+      "english": "I review my week without judging.",
+      "spanish": "Reviso mi semana sin juzgarme.",
+      "transliteration": "Re-VI-so mi SE-ma-na sin juz-GAR-me.",
+      "category": "Growth",
+      "generated_at": "2026-11-27T00:39:54.776421"
+    },
+    {
+      "english": "I follow through, even when it’s boring.",
+      "spanish": "Sigo adelante, aunque sea aburrido.",
+      "transliteration": "SI-go a-de-LAN-te, aun-que sea a-BU-Ri-do.",
+      "category": "Growth",
+      "generated_at": "2026-11-27T00:39:54.776421"
+    },
+    {
+      "english": "I focus on effort, not perfection.",
+      "spanish": "Me concentro en el esfuerzo, no en la perfección.",
+      "transliteration": "Me con-CEN-tro en el es-FUER-zo, no en la per-FE-ccíon.",
+      "category": "Growth",
+      "generated_at": "2026-11-27T00:39:54.776421"
+    },
+    {
+      "english": "I practice saying no to distractions.",
+      "spanish": "Practico decir que no a las distracciones.",
+      "transliteration": "Prac-TI-co de-CIR que NO a las dis-trac-CIO-nes.",
+      "category": "Growth",
+      "generated_at": "2026-11-27T00:39:54.776421"
+    },
+    {
+      "english": "I ask better questions, get clearer answers.",
+      "spanish": "Hago mejores preguntas y consigo respuestas claras.",
+      "transliteration": "Ha-go ME-jO-res pre-GUN-tas y con-si-go res-PUES-tas cla-RAS.",
+      "category": "Growth",
+      "generated_at": "2026-11-27T00:39:54.776421"
+    },
+    {
+      "english": "I sip water, then return steady.",
+      "spanish": "Bebo agua, y vuelvo con calma.",
+      "transliteration": "Bebo AGUA, y vuelvo con CAL-ma.",
+      "category": "Balance",
+      "generated_at": "2026-11-27T00:39:54.776421"
+    },
+    {
+      "english": "I set my pace, not the panic.",
+      "spanish": "Fijo mi ritmo, no la prisa.",
+      "transliteration": "FI-jo mi RIT-mo, no la PRI-sa.",
+      "category": "Balance",
+      "generated_at": "2026-11-27T00:39:54.776421"
+    },
+    {
+      "english": "One deep breath, then softer choices.",
+      "spanish": "Una respiración honda, y elijo más suave.",
+      "transliteration": "U-na res-pi-RA-ción HON-da, y E-lijo más SU-a-ve.",
+      "category": "Balance",
+      "generated_at": "2026-11-27T00:39:54.776421"
+    },
+    {
+      "english": "Before meetings, I tune my body.",
+      "spanish": "Antes de una reunión, acomodo mi cuerpo.",
+      "transliteration": "AN-tes de u-na re-u-NIÓN, a-co-mo-do mi CUER-po.",
+      "category": "Balance",
+      "generated_at": "2026-11-27T00:39:54.776421"
+    },
+    {
+      "english": "I say no, and my mind relaxes.",
+      "spanish": "Digo no, y mi mente descansa.",
+      "transliteration": "DI-go NO, y mi MEN-te des-CAN-sa.",
+      "category": "Balance",
+      "generated_at": "2026-11-27T00:39:54.776421"
+    },
+    {
+      "english": "Short walk, then back to focus.",
+      "spanish": "Camino un poco, y luego vuelvo al enfoque.",
+      "transliteration": "CA-mi-no un PO-co, y LUE-go vuelvo al en-FO-que.",
+      "category": "Balance",
+      "generated_at": "2026-11-27T00:39:54.776421"
+    },
+    {
+      "english": "I balance messages with real conversation.",
+      "spanish": "Compenso los mensajes con conversación en persona.",
+      "transliteration": "Com-PEN-so los MEN-sa-jes con con-ver-SA-ción en per-so-na.",
+      "category": "Balance",
+      "generated_at": "2026-11-27T00:39:54.776421"
+    },
+    {
+      "english": "Today, I choose joy on purpose.",
+      "spanish": "Hoy elijo la alegría a propósito.",
+      "transliteration": "HOY elijo la aleGRÍa a proPÓSito",
+      "category": "Happiness",
+      "generated_at": "2026-11-27T00:39:54.776421"
+    },
+    {
+      "english": "I laughed at something small, and it helped.",
+      "spanish": "Me reí de algo pequeño, y me ayudó.",
+      "transliteration": "me reÍ de alGO peQUEÑo, y me aYUDÓ",
+      "category": "Happiness",
+      "generated_at": "2026-11-27T00:39:54.776421"
+    },
+    {
+      "english": "I called my sister, and I felt better.",
+      "spanish": "Llamé a mi hermana, y me sentí mejor.",
+      "transliteration": "llaMÉ a mi herMAna, y me SENtí MEjor",
+      "category": "Happiness",
+      "generated_at": "2026-11-27T00:39:54.776421"
+    },
+    {
+      "english": "I made my bed, and peace arrived.",
+      "spanish": "Hice la cama, y llegó la paz.",
+      "transliteration": "HIce la CAma, y lleGÓ la PAZ",
+      "category": "Happiness",
+      "generated_at": "2026-11-27T00:39:54.776421"
+    },
+    {
+      "english": "A warm shower can reset my mind.",
+      "spanish": "Una ducha caliente puede reiniciar mi mente.",
+      "transliteration": "U na DUEcha caLIENte pueDE reiNIciar mi MENte",
+      "category": "Happiness",
+      "generated_at": "2026-11-27T00:39:54.776421"
+    },
+    {
+      "english": "I ate slowly, and my body sighed.",
+      "spanish": "Comí despacio, y mi cuerpo suspiró.",
+      "transliteration": "COmÍ desPAcio, y mi CUerpo susPIRÓ",
+      "category": "Happiness",
+      "generated_at": "2026-11-27T00:39:54.776421"
+    },
+    {
+      "english": "I let go of one worry today.",
+      "spanish": "Solté una preocupación hoy.",
+      "transliteration": "solTÉ u na preoCUPAciÓN HOY",
+      "category": "Happiness",
+      "generated_at": "2026-11-27T00:39:54.776421"
+    },
+    {
+      "english": "Thanks for being so considerate.",
+      "spanish": "Gracias por ser tan considerado.",
+      "transliteration": "GRAcias por ser tan conSIdeRRAdo.",
+      "category": "Kindness",
+      "generated_at": "2026-11-27T00:39:54.776421"
+    },
+    {
+      "english": "I feel better, seriously, thanks.",
+      "spanish": "Me siento mejor, de verdad, gracias.",
+      "transliteration": "Me sienTO MEjor, de VERdad, GRAYas.",
+      "category": "Kindness",
+      "generated_at": "2026-11-27T00:39:54.776421"
+    },
+    {
+      "english": "You remembered what I needed.",
+      "spanish": "Te acordaste de lo que necesitaba.",
+      "transliteration": "te aCORdaste de lo que neceSItaBA.",
+      "category": "Kindness",
+      "generated_at": "2026-11-27T00:39:54.776421"
+    },
+    {
+      "english": "You held my confidence up today.",
+      "spanish": "Hoy me levantaste la confianza.",
+      "transliteration": "hoy me levanTESTE la conFIanTHa.",
+      "category": "Kindness",
+      "generated_at": "2026-11-27T00:39:54.776421"
+    },
+    {
+      "english": "Thank you for the small kindness.",
+      "spanish": "Gracias por la pequeña amabilidad.",
+      "transliteration": "GRAcias por la peQUEña aMA bi liDAD.",
+      "category": "Kindness",
+      "generated_at": "2026-11-27T00:39:54.776421"
+    },
+    {
+      "english": "I won’t forget your help, ever.",
+      "spanish": "No voy a olvidar tu ayuda, nunca.",
+      "transliteration": "no voy a olviDAR tu AYUda, NU NCA.",
+      "category": "Kindness",
+      "generated_at": "2026-11-27T00:39:54.776421"
+    },
+    {
+      "english": "You made things easier for me.",
+      "spanish": "Hiciste las cosas más fáciles para mí.",
+      "transliteration": "hiCISte las coSAS más FÁci les paRA mí.",
+      "category": "Kindness",
+      "generated_at": "2026-11-27T00:39:54.776421"
+    },
+    {
+      "english": "I play chess after dinner",
+      "spanish": "Juego al ajedrez después de cenar.",
+      "transliteration": "huego al ah-SE-drEs despues de se-NAR",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-27T00:39:54.776421"
+    },
+    {
+      "english": "I try morning stretching before coffee",
+      "spanish": "Hago estiramientos en la mañana, antes del café.",
+      "transliteration": "AH-go es-ti-RA-mien-tos en la ma-NYAN-a, an-tes del KAH-feh",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-27T00:39:54.776421"
+    },
+    {
+      "english": "I go thrift shopping on Saturdays",
+      "spanish": "El sábado voy a buscar ropa de segunda mano.",
+      "transliteration": "el SA-ba-do BOY a BUS-car RO-pa de se-GUN-da ma-NO",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-27T00:39:54.776421"
+    },
+    {
+      "english": "I call a friend and chat",
+      "spanish": "Llamo a un amigo y charlo un rato.",
+      "transliteration": "ya-MO a oon a-MEE-go e CHAR-lo oon RA-to",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-27T00:39:54.776421"
+    },
+    {
+      "english": "I keep a sketchbook for fun",
+      "spanish": "Dibujo en mi cuaderno de bocetos, solo por placer.",
+      "transliteration": "dee-BU-ho en mee KWA-der-no de BO-ke-tos, SO-lo por PLAS-er",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-27T00:39:54.776421"
+    },
+    {
+      "english": "I garden when the weather calms down",
+      "spanish": "Trabajo en el jardín cuando el tiempo se calma.",
+      "transliteration": "TRAH-baho en el har-DEEN, KAN-do el TYEmpo seh KAL-ma",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-27T00:39:54.776421"
+    },
+    {
+      "english": "I cook a new dessert sometimes",
+      "spanish": "A veces preparo un postre nuevo, para endulzar el día.",
+      "transliteration": "ah VEK-es pre-pah-ro oon POS-tre NEW-bo, pah-ra en-DOO-sar el DEE-ah",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-27T00:39:54.776421"
     }
   ],
-  "last_updated": "2026-11-26T00:27:53.011214"
+  "last_updated": "2026-11-27T00:39:54.776421"
 }
