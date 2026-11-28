@@ -25679,7 +25679,399 @@
       "transliteration": "ah VEK-es pre-pah-ro oon POS-tre NEW-bo, pah-ra en-DOO-sar el DEE-ah",
       "category": "Hobbies & Free Time",
       "generated_at": "2026-11-27T00:39:54.776421"
+    },
+    {
+      "english": "How do I buy a day pass?",
+      "spanish": "¿Cómo compro un pase de un día?",
+      "transliteration": "COMO compro un pase de un DIA",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-28T00:06:50.556306"
+    },
+    {
+      "english": "Is there a discount for students?",
+      "spanish": "¿Hay descuento para estudiantes?",
+      "transliteration": "HAY descuento para estudiantes",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-28T00:06:50.556306"
+    },
+    {
+      "english": "Which platform does this train use?",
+      "spanish": "¿De qué andén sale este tren?",
+      "transliteration": "DE que AN-den sale este tren",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-28T00:06:50.556306"
+    },
+    {
+      "english": "Can I bring my bike on board?",
+      "spanish": "¿Puedo llevar mi bicicleta en el autobús?",
+      "transliteration": "PUEDO lle-var mi bi-ci-CLE-ta en el au-to-BUS",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-28T00:06:50.556306"
+    },
+    {
+      "english": "Are there late-night buses tonight?",
+      "spanish": "¿Hay autobuses de noche hoy?",
+      "transliteration": "HAY au-to-BUSES de NO-che hoy",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-28T00:06:50.556306"
+    },
+    {
+      "english": "How do I request an accessible ramp?",
+      "spanish": "¿Cómo pido una rampa para silla de ruedas?",
+      "transliteration": "COMO PI-do una RAM-pa para SI-lla de rue-das",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-28T00:06:50.556306"
+    },
+    {
+      "english": "Is there an app for real-time updates?",
+      "spanish": "¿Hay una app para ver los tiempos en vivo?",
+      "transliteration": "HAY una app para VER los TIem-pos en VI-vo",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-28T00:06:50.556306"
+    },
+    {
+      "english": "I lower the volume inside me",
+      "spanish": "Bajo el volumen de mi mente",
+      "transliteration": "BAJO el voLUMEN de mi MENte",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-28T00:06:50.556306"
+    },
+    {
+      "english": "I let silence do its work",
+      "spanish": "Dejo que el silencio haga su trabajo",
+      "transliteration": "DEJO que el SIlenCIO haga su TRAbaJO",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-28T00:06:50.556306"
+    },
+    {
+      "english": "I stand still, and I reset",
+      "spanish": "Me quedo quieto, y me reinicio",
+      "transliteration": "Me queDO QUIEto, y me reINIcio",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-28T00:06:50.556306"
+    },
+    {
+      "english": "I soften my grip on worries",
+      "spanish": "Suelto el agarre de mis preocupaciones",
+      "transliteration": "SUELto el aGARre de mis preoCUPaciones",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-28T00:06:50.556306"
+    },
+    {
+      "english": "My chest feels a little lighter",
+      "spanish": "Mi pecho se siente un poco más ligero",
+      "transliteration": "Mi PEcho se SIENTE un POco más LIGero",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-28T00:06:50.556306"
+    },
+    {
+      "english": "I choose patience over speed",
+      "spanish": "Elijo paciencia en vez de prisa",
+      "transliteration": "eLIjo PAciencia en vez de PRI sa",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-28T00:06:50.556306"
+    },
+    {
+      "english": "I unclutter my attention right now",
+      "spanish": "Despejo mi atención ahora mismo",
+      "transliteration": "desPEjo mi aTENcion Aho ra MISmo",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-28T00:06:50.556306"
+    },
+    {
+      "english": "Hey, got a moment to chat?",
+      "spanish": "Oye, ¿tienes un momento para charlar?",
+      "transliteration": "Oye, tienes un MOMEN-to para charlar",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-28T00:06:50.556306"
+    },
+    {
+      "english": "Hi, I’m looking to meet locals.",
+      "spanish": "Hola, busco conocer gente local.",
+      "transliteration": "Ho-la, BUS-co co-no-cer GEN-te LO-cal",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-28T00:06:50.556306"
+    },
+    {
+      "english": "Where do you usually come to unwind?",
+      "spanish": "¿Dónde sueles venir para relajarte?",
+      "transliteration": "Don-de SUE-les ve-nir pa-ra re-laXAR-te",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-28T00:06:50.556306"
+    },
+    {
+      "english": "What brings you out tonight?",
+      "spanish": "¿Qué te trae por aquí esta noche?",
+      "transliteration": "Que te TRAE por A-qui es-ta NO-che",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-28T00:06:50.556306"
+    },
+    {
+      "english": "You look familiar, do we know each other?",
+      "spanish": "Te veo familiar, ¿nos conocemos de antes?",
+      "transliteration": "Te veo fa-mi-LIAR, nos co-no-ce-mos de AN-tes",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-28T00:06:50.556306"
+    },
+    {
+      "english": "I’m new to this group, by the way.",
+      "spanish": "Soy nuevo en este grupo, por cierto.",
+      "transliteration": "Soy NUE-vo en es-te GRU-po, por CI-er-to",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-28T00:06:50.556306"
+    },
+    {
+      "english": "That’s a great idea, tell me more.",
+      "spanish": "Esa es una gran idea, cuéntame más.",
+      "transliteration": "E-sa es u-na GRAN i-DE-a, cuen-ta-me MAS",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-28T00:06:50.556306"
+    },
+    {
+      "english": "Can I withdraw without my card?",
+      "spanish": "¿Puedo retirar dinero sin mi tarjeta?",
+      "transliteration": "puEDO reTIrar diNEro SIN mi TARjeTA",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-28T00:06:50.556306"
+    },
+    {
+      "english": "What’s my PIN again, please?",
+      "spanish": "¿Me recuerdas mi PIN, por favor?",
+      "transliteration": "me reCUERdas mi PIN por FAvor",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-28T00:06:50.556306"
+    },
+    {
+      "english": "I want to change my credit limit.",
+      "spanish": "Quiero cambiar mi límite de crédito.",
+      "transliteration": "KIEro CAMbiar mi LImiTE de CRÉdiTO",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-28T00:06:50.556306"
+    },
+    {
+      "english": "Why is my account in the red?",
+      "spanish": "¿Por qué mi cuenta está en números rojos?",
+      "transliteration": "por KE mi CUENta esTÁ en NÚmeROS ROjos",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-28T00:06:50.556306"
+    },
+    {
+      "english": "Are there ATM charges today?",
+      "spanish": "¿Hay comisiones por usar el cajero hoy?",
+      "transliteration": "AY coMISiones por uSAR el caJEro hoy",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-28T00:06:50.556306"
+    },
+    {
+      "english": "Can you send me a receipt?",
+      "spanish": "¿Puedes enviarme un recibo, por favor?",
+      "transliteration": "pueDES enVIarME un reCIbo por FAvor",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-28T00:06:50.556306"
+    },
+    {
+      "english": "I need to dispute this transaction.",
+      "spanish": "Quiero reclamar esta transacción.",
+      "transliteration": "KIEro reCLAmar esTA tranSAcCIÓN",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-28T00:06:50.556306"
+    },
+    {
+      "english": "I feel the same, really",
+      "spanish": "Yo siento lo mismo, de verdad",
+      "transliteration": "yo SIEN-to lo MIS-mo, de VER-dad",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-28T00:06:50.556306"
+    },
+    {
+      "english": "That’s a solid point",
+      "spanish": "Esa es una buena observación",
+      "transliteration": "e-sa es u-na bue-na ob-ser-va-CIÓN",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-28T00:06:50.556306"
+    },
+    {
+      "english": "I agree, and I mean it",
+      "spanish": "De verdad estoy de acuerdo",
+      "transliteration": "de VER-dad es-toy de a-CUER-do",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-28T00:06:50.556306"
+    },
+    {
+      "english": "You’ve convinced me, finally",
+      "spanish": "Me has convencido al fin",
+      "transliteration": "me as CON-ven-si-do al FIN",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-28T00:06:50.556306"
+    },
+    {
+      "english": "Not quite, let’s rethink",
+      "spanish": "No del todo, pensemos otra vez",
+      "transliteration": "no del TO-do, pen-se-MOS O-tra VEZ",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-28T00:06:50.556306"
+    },
+    {
+      "english": "I’m hesitant, honestly",
+      "spanish": "La verdad, me da un poco de duda",
+      "transliteration": "la VER-dad, me da un PO-co de DU-da",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-28T00:06:50.556306"
+    },
+    {
+      "english": "That’s tempting, but no",
+      "spanish": "Suena bien, pero no me convence",
+      "transliteration": "sue-na BIEN, pe-ro no me con-VEN-ce",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-28T00:06:50.556306"
+    },
+    {
+      "english": "My hope starts with action today.",
+      "spanish": "Mi esperanza empieza con una acción hoy.",
+      "transliteration": "Mi ESperanza emPIeza con uNA acCION hoy.",
+      "category": "Hope",
+      "generated_at": "2026-11-28T00:06:50.556306"
+    },
+    {
+      "english": "I hear hope in everyday sounds.",
+      "spanish": "Escucho la esperanza en lo cotidiano.",
+      "transliteration": "EScucho la ESperanza en lo coTIdiano.",
+      "category": "Hope",
+      "generated_at": "2026-11-28T00:06:50.556306"
+    },
+    {
+      "english": "Hope makes room for better outcomes.",
+      "spanish": "La esperanza deja espacio para algo mejor.",
+      "transliteration": "La ESperanza deJA esPAcio paRa alGo MEjor.",
+      "category": "Hope",
+      "generated_at": "2026-11-28T00:06:50.556306"
+    },
+    {
+      "english": "Even if it’s slow, I trust.",
+      "spanish": "Aunque sea lento, confío.",
+      "transliteration": "AuNque sea LENto, conFÍo.",
+      "category": "Hope",
+      "generated_at": "2026-11-28T00:06:50.556306"
+    },
+    {
+      "english": "I choose courage, not catastrophe.",
+      "spanish": "Elijo valentía, no el desastre.",
+      "transliteration": "EliJO vaLENtía, no el desAStre.",
+      "category": "Hope",
+      "generated_at": "2026-11-28T00:06:50.556306"
+    },
+    {
+      "english": "I’m letting hope guide my voice.",
+      "spanish": "Dejo que la esperanza guíe mi voz.",
+      "transliteration": "DeJO que la ESperanza guÍe mi voZ.",
+      "category": "Hope",
+      "generated_at": "2026-11-28T00:06:50.556306"
+    },
+    {
+      "english": "Something good is on its way.",
+      "spanish": "Algo bueno viene en camino.",
+      "transliteration": "ALgo bUeno VIeNe en caMINo.",
+      "category": "Hope",
+      "generated_at": "2026-11-28T00:06:50.556306"
+    },
+    {
+      "english": "Hi, what time do you open?",
+      "spanish": "Hola, ¿a qué hora abren?",
+      "transliteration": "ola, a ke ORA aBREN?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-28T00:06:50.556306"
+    },
+    {
+      "english": "Do you have decaf coffee today?",
+      "spanish": "¿Tienen café descafeinado hoy?",
+      "transliteration": "tieNEN kaFE descaFEiNADO HOY?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-28T00:06:50.556306"
+    },
+    {
+      "english": "Can I get it iced, please?",
+      "spanish": "¿Me lo puedes poner con hielo, por favor?",
+      "transliteration": "me lo pueDES poNER con IElo, por FAvor?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-28T00:06:50.556306"
+    },
+    {
+      "english": "Is there free Wi-Fi here?",
+      "spanish": "¿Hay Wi-Fi gratis aquí?",
+      "transliteration": "ai graTIS aKÍ?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-28T00:06:50.556306"
+    },
+    {
+      "english": "What’s your bestseller this morning?",
+      "spanish": "¿Cuál es su producto más vendido esta mañana?",
+      "transliteration": "kual es su proDUKto mas benDIdo esTA maNiana",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-28T00:06:50.556306"
+    },
+    {
+      "english": "Can I get a small sandwich?",
+      "spanish": "¿Me puedes preparar un sándwich pequeño?",
+      "transliteration": "me pueDES prepaRAR un SANdwich PEqueño?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-28T00:06:50.556306"
+    },
+    {
+      "english": "Do you offer hot chocolate?",
+      "spanish": "¿Tienen chocolate caliente?",
+      "transliteration": "tieNEN choKOlaTe caLIENte?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-28T00:06:50.556306"
+    },
+    {
+      "english": "Courage means trying anyway, even scared.",
+      "spanish": "El coraje es intentarlo aunque tengas miedo.",
+      "transliteration": "El coRAJE es inTENtarlo aunQUE tenGAS mieDO.",
+      "category": "Courage",
+      "generated_at": "2026-11-28T00:06:50.556306"
+    },
+    {
+      "english": "Stand up for yourself, respectfully.",
+      "spanish": "Defiende tus derechos con respeto, sin gritar.",
+      "transliteration": "DeFÍENDE tus deRECHOS con RESPeTO, sin griTAR.",
+      "category": "Courage",
+      "generated_at": "2026-11-28T00:06:50.556306"
+    },
+    {
+      "english": "Face the hard truth, gently.",
+      "spanish": "Mira la verdad difícil, con suavidad.",
+      "transliteration": "MiRA la VERdad difíCIL, con suAviDAD.",
+      "category": "Courage",
+      "generated_at": "2026-11-28T00:06:50.556306"
+    },
+    {
+      "english": "Do it scared, then exhale.",
+      "spanish": "Hazlo con miedo, y luego respira hondo.",
+      "transliteration": "AÇLO con mieDO, y lueGO RESpiRA HONdo.",
+      "category": "Courage",
+      "generated_at": "2026-11-28T00:06:50.556306"
+    },
+    {
+      "english": "Ask for what you need today.",
+      "spanish": "Pide lo que necesitas hoy, sin dar rodeos.",
+      "transliteration": "PIde lo que neCEsitas HOY, sin dar roDEOS.",
+      "category": "Courage",
+      "generated_at": "2026-11-28T00:06:50.556306"
+    },
+    {
+      "english": "Keep going when motivation dips.",
+      "spanish": "Sigue adelante cuando baje la motivación.",
+      "transliteration": "SIGue aDELanTE cuanDO baJE la moTIvaCIÓN.",
+      "category": "Courage",
+      "generated_at": "2026-11-28T00:06:50.556306"
+    },
+    {
+      "english": "Say no to pressure, calmly.",
+      "spanish": "Di no a la presión, con calma.",
+      "transliteration": "DÍ no a la preSIÓN, con CALma.",
+      "category": "Courage",
+      "generated_at": "2026-11-28T00:06:50.556306"
     }
   ],
-  "last_updated": "2026-11-27T00:39:54.776421"
+  "last_updated": "2026-11-28T00:06:50.556306"
 }
